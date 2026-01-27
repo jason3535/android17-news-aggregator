@@ -8,8 +8,10 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from scraper import scrape_all, load_news
 from translator import translate_text
 import atexit
+import os
 
 app = Flask(__name__)
+app.secret_key = os.environ.get('SECRET_KEY', 'dev-secret-key-change-in-production')
 
 # 配置定时任务
 scheduler = BackgroundScheduler()
@@ -63,9 +65,27 @@ def translate():
     return jsonify({'translated': translated})
 
 
-if __name__ == '__main__':
-    # 启动时先爬取一次
+def run_scheduler():
+    """启动定时任务调度器"""
+    if not scheduler.running:
+        scheduler.start()
+        atexit.register(lambda: scheduler.shutdown())
+
+def initialize_data():
+    """初始化数据 - 只在主进程中运行一次"""
     print("正在获取最新 Android 17 新闻...")
     scrape_all()
+
+if __name__ == '__main__':
+    # 本地开发运行
+    initialize_data()
+    run_scheduler()
     print("启动 Web 服务器...")
-    app.run(debug=True, port=5001)
+    port = int(os.environ.get('PORT', 5001))
+    app.run(host='0.0.0.0', port=port, debug=False)
+else:
+    # 生产环境（如 gunicorn）
+    # 只在主 worker 中启动调度器
+    if os.environ.get('WERKZEUG_RUN_MAIN') == 'true' or os.environ.get('IS_MAIN_PROCESS') == 'true':
+        initialize_data()
+        run_scheduler()
