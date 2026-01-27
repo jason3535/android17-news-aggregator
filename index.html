@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANDROID 17 // NEWS FEED</title>
+    <link rel="stylesheet" href="static/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>●</text></svg>">
+</head>
+<body>
+    <div class="container">
+        <!-- 右上角翻译按钮 -->
+        <button class="translate-btn active" id="translateBtn" onclick="toggleLanguage()">
+            <span class="translate-icon">译</span>
+            <span class="translate-label" id="translateLabel">中 → EN</span>
+        </button>
+
+        <header>
+            <h1>Android 17</h1>
+            <p class="subtitle" data-en="News Feed // Product & Design Reference" data-zh="新闻聚合 // 产品设计参考">新闻聚合 // 产品设计参考</p>
+            <div class="header-actions">
+                <span class="last-updated" id="lastUpdated" data-en="Initializing..." data-zh="初始化中...">初始化中...</span>
+                <button class="refresh-btn" id="refreshBtn" onclick="window.location.reload()">
+                    <span class="refresh-icon">↻</span>
+                    <span data-en="Refresh" data-zh="刷新">刷新</span>
+                </button>
+            </div>
+        </header>
+
+        <div class="stats-bar" id="statsBar">
+            <div class="stat-item">
+                <span class="stat-value" id="totalCount">--</span>
+                <span class="stat-label" data-en="Total" data-zh="总计">总计</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="newsCount">--</span>
+                <span class="stat-label" data-en="News" data-zh="新闻">新闻</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="leakerCount">--</span>
+                <span class="stat-label" data-en="Leakers" data-zh="爆料">爆料</span>
+            </div>
+        </div>
+
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all" data-en="All" data-zh="全部">全部</button>
+            <button class="filter-btn" data-filter="news" data-en="News" data-zh="新闻">新闻</button>
+            <button class="filter-btn" data-filter="leaker" data-en="Leakers" data-zh="爆料人">爆料人</button>
+        </div>
+
+        <main class="feed" id="newsFeed">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p data-en="Loading data..." data-zh="加载中...">加载中...</p>
+            </div>
+        </main>
+
+        <footer>
+            <p data-en="Data Sources // Android Authority • 9to5Google • XDA" data-zh="数据来源 // Android Authority • 9to5Google • XDA">数据来源 // Android Authority • 9to5Google • XDA</p>
+            <p data-en="Auto Refresh // 1 Hour Interval" data-zh="自动刷新 // 每小时更新">自动刷新 // 每小时更新</p>
+            <p class="build-info" id="buildInfo"></p>
+        </footer>
+    </div>
+
+    <script>
+        let currentFilter = 'all';
+        let newsData = [];
+        let currentLang = 'zh';  // 默认中文
+        let translationCache = {};  // 缓存翻译结果
+        // 从localStorage加载缓存
+        try {
+            const savedCache = localStorage.getItem('translationCache');
+            if (savedCache) {
+                translationCache = JSON.parse(savedCache);
+            }
+        } catch (e) {
+            console.log('无法加载翻译缓存:', e);
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            updateUILanguage(); // 设置界面为默认语言（中文）
+            loadNews();
+            setupFilters();
+        });
+
+        function setupFilters() {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentFilter = btn.dataset.filter;
+                    renderNews();
+                });
+            });
+        }
+
+        // 切换语言
+        async function toggleLanguage() {
+            const btn = document.getElementById('translateBtn');
+            const label = document.getElementById('translateLabel');
+
+            if (currentLang === 'en') {
+                currentLang = 'zh';
+                label.textContent = '中 → EN';
+                btn.classList.add('active');
+            } else {
+                currentLang = 'en';
+                label.textContent = 'EN → 中';
+                btn.classList.remove('active');
+            }
+
+            // 更新界面静态文字
+            updateUILanguage();
+
+            // 重新渲染新闻（带翻译）
+            await renderNews();
+        }
+
+        // 更新界面语言
+        function updateUILanguage() {
+            document.querySelectorAll('[data-en][data-zh]').forEach(el => {
+                const text = currentLang === 'zh' ? el.dataset.zh : el.dataset.en;
+                el.textContent = text;
+            });
+        }
+
+        // 翻译单条文本（静态版本 - 仅使用预翻译内容）
+        async function translateText(text, targetLang) {
+            const cacheKey = `${text}_${targetLang}`;
+
+            // 检查内存缓存
+            if (translationCache[cacheKey]) {
+                return translationCache[cacheKey];
+            }
+
+            // 静态版本不进行实时翻译，返回原文
+            return text;
+        }
+
+        async function loadNews() {
+            try {
+                // 从本地JSON文件加载数据
+                const response = await fetch('data/news.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to load news: ${response.status}`);
+                }
+                const data = await response.json();
+                newsData = data.items || [];
+
+                // Update stats
+                document.getElementById('totalCount').textContent = data.total_count || 0;
+                document.getElementById('newsCount').textContent = data.news_count || 0;
+                document.getElementById('leakerCount').textContent = data.leaker_count || 0;
+
+                // Update timestamp
+                if (data.last_updated) {
+                    const date = new Date(data.last_updated);
+                    const timeStr = date.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+                    const el = document.getElementById('lastUpdated');
+                    el.dataset.en = `Updated // ${timeStr}`;
+                    el.dataset.zh = `更新于 // ${timeStr}`;
+                    el.textContent = currentLang === 'zh' ? el.dataset.zh : el.dataset.en;
+                }
+
+                // 显示构建信息
+                const buildInfo = document.getElementById('buildInfo');
+                if (buildInfo && data.last_updated) {
+                    buildInfo.textContent = `数据更新时间: ${data.last_updated}`;
+                }
+
+                await renderNews();
+            } catch (error) {
+                console.error('Load failed:', error);
+                document.getElementById('newsFeed').innerHTML =
+                    `<div class="error">${currentLang === 'zh' ? '连接失败 // 请刷新页面重试' : 'Connection failed // Refresh to retry'}</div>`;
+            }
+        }
+
+        async function renderNews() {
+            const feed = document.getElementById('newsFeed');
+            let filteredNews = newsData;
+
+            if (currentFilter !== 'all') {
+                filteredNews = newsData.filter(item => item.type === currentFilter);
+            }
+
+            if (filteredNews.length === 0) {
+                feed.innerHTML = `<div class="empty">${currentLang === 'zh' ? '暂无数据' : 'No data available'}</div>`;
+                return;
+            }
+
+            // 检查是否需要显示翻译中状态（静态版本通常不需要）
+            let needsTranslation = false;
+            if (currentLang === 'zh') {
+                // 检查是否有新闻需要实时翻译（静态版本应该都有预翻译）
+                needsTranslation = filteredNews.some(item =>
+                    item.type === 'news' && (!item.title_translated || !item.summary_translated)
+                );
+                if (needsTranslation) {
+                    feed.innerHTML = '<div class="loading"><div class="spinner"></div><p>翻译中...</p></div>';
+                }
+            }
+
+            // 处理每条新闻
+            const newsHTML = [];
+            for (const item of filteredNews) {
+                const sourceClass = item.source.replace(/\s+/g, '-').toLowerCase();
+                const badgeText = item.type === 'leaker' ? 'LKR' :
+                    item.source === 'Android Authority' ? 'AA' :
+                    item.source === '9to5Google' ? '9TO5' :
+                    item.source === 'XDA Developers' ? 'XDA' : item.source_icon;
+
+                let title = item.title;
+                let summary = item.summary;
+
+                // 如果是中文模式，优先使用预翻译内容
+                if (currentLang === 'zh' && item.type === 'news') {
+                    // 检查是否有预翻译的字段
+                    if (item.title_translated && item.summary_translated) {
+                        title = item.title_translated;
+                        summary = item.summary_translated;
+                    }
+                    // 如果没有预翻译内容，保持原文（静态版本不进行实时翻译）
+                }
+
+                const readMoreText = item.type === 'leaker'
+                    ? (currentLang === 'zh' ? '查看主页' : 'View Profile')
+                    : (currentLang === 'zh' ? '阅读全文' : 'Read More');
+
+                // 缩略图 HTML
+                const thumbnailHTML = item.image
+                    ? `<div class="news-thumbnail">
+                         <img src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.style.display='none'">
+                       </div>`
+                    : '';
+
+                newsHTML.push(`
+                    <article class="news-card ${item.type} ${item.image ? 'has-image' : ''}">
+                        ${thumbnailHTML}
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-badge ${sourceClass}">${badgeText}</span>
+                                <span class="news-date">${item.date}</span>
+                            </div>
+                            <h2 class="news-title">
+                                <a href="${item.url}" target="_blank" rel="noopener">${title}</a>
+                            </h2>
+                            <p class="news-summary">${summary}</p>
+                            <a href="${item.url}" target="_blank" rel="noopener" class="read-more">
+                                ${readMoreText}
+                            </a>
+                        </div>
+                    </article>
+                `);
+            }
+
+            feed.innerHTML = newsHTML.join('');
+        }
+    </script>
+</body>
+</html>

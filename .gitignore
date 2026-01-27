@@ -45,7 +45,7 @@ ehthumbs.db
 Thumbs.db
 
 # Data files
-data/news.json
+# data/news.json  # Now committed for static site
 
 # Environment variables
 .env

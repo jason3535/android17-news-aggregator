@@ -1,0 +1,141 @@
+{
+  "last_updated": "2026-01-27 18:08:39",
+  "total_count": 11,
+  "news_count": 6,
+  "leaker_count": 5,
+  "items": [
+    {
+      "id": "85cf145bcbd0",
+      "title": "This is Android 17’s blur, new screen recorder, & more in leaked screenshots [Gallery]",
+      "summary": "The Android 17 leaks continue today with a preview of the upcoming blur effect for System UI, as well as functional changes and updates.\nmore…",
+      "url": "https://9to5google.com/2026/01/26/android-17-leak/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-01-26 22:10",
+      "type": "news",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-minifig-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这是 Android 17 的模糊效果、新的屏幕录像机以及泄露的屏幕截图中的更多内容 [图库]",
+      "summary_translated": "Android 17 泄漏今天继续进行，预览了即将推出的系统 UI 模糊效果，以及功能更改和更新。\n更多的…"
+    },
+    {
+      "id": "31de94cac597",
+      "title": "Here’s an early look at how app lock and other Android 17 changes are coming together",
+      "summary": "Can't get enough of those translucent volume bars.",
+      "url": "https://www.androidauthority.com/app-lock-3635239/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-01-26 20:56",
+      "type": "news",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-in-Frost-vs-Google-Pixel-10-Pro-in-Moonstone-1-of-5.jpg",
+      "title_translated": "以下是应用程序锁定和其他 Android 17 更改如何结合在一起的初步了解",
+      "summary_translated": "无法获得足够的半透明音量条。"
+    },
+    {
+      "id": "f5e3ecb5b147",
+      "title": "Android 17 could take a page from Liquid Glass, and here’s a close look",
+      "summary": "A recent leak points to more blur in Android 17, and we've now got images to share.",
+      "url": "https://www.androidauthority.com/android-17-blur-effects-images-3635155/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-01-26 13:55",
+      "type": "news",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Android-17-featured-image.jpg",
+      "title_translated": "Android 17 可能会借鉴 Liquid Glass 的经验，仔细看看",
+      "summary_translated": "最近的泄漏表明 Android 17 中的内容更加模糊，我们现在可以分享图像。"
+    },
+    {
+      "id": "b813f1198685",
+      "title": "Google could bring a taste of Apple’s Liquid Glass to Android 17",
+      "summary": "Android 17 leak shows Google is finally embracing Apple’s translucent look.",
+      "url": "https://www.androidauthority.com/android-17-system-level-blur-effects-leak-3635131/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-01-26 10:34",
+      "type": "news",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Android-17-featured-image.jpg",
+      "title_translated": "谷歌可能会给 Android 17 带来苹果液体玻璃的味道",
+      "summary_translated": "Android 17 泄露事件表明谷歌终于接受了苹果的半透明外观。"
+    },
+    {
+      "id": "04a161aed36a",
+      "title": "Why does the Pixel 10a look fake?",
+      "summary": "The Google Pixel 10a is expected to launch pretty soon and, as that approaches, there’s something super weird about the leaked images we’ve seen.\nmore…",
+      "url": "https://9to5google.com/2026/01/25/why-does-the-pixel-10a-look-fake/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-01-25 17:00",
+      "type": "news",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/pixel-10a-render.jpg?quality=82&strip=all&w=1200",
+      "title_translated": "为什么 Pixel 10a 看上去很假？",
+      "summary_translated": "谷歌 Pixel 10a 预计很快就会推出，随着时间的临近，我们看到的泄露图片有些非常奇怪。\n更多的…"
+    },
+    {
+      "id": "0c61f81ff015",
+      "title": "Google adding blur to Android 17’s system UI on Pixel",
+      "summary": "Google is following last year’s Material 3 Expressive redesign on phones by introducing significantly more blur across Android 17. \nmore…",
+      "url": "https://9to5google.com/2026/01/25/android-17-blur/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-01-25 16:05",
+      "type": "news",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/android-16-qpr3-location-dot.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌为 Pixel 上的 Android 17 系统 UI 添加了模糊效果",
+      "summary_translated": "谷歌继去年对手机进行 Material 3 Expressive 重新设计之后，在 Android 17 中引入了更多的模糊效果。 \n更多…"
+    },
+    {
+      "id": "leaker_0",
+      "title": "OnLeaks (@OnLeaks)",
+      "summary": "关注 @OnLeaks 获取最新 Android 爆料信息。由于 Twitter/X API 限制，请手动查看其账号获取最新消息。",
+      "url": "https://twitter.com/OnLeaks",
+      "source": "Leaker",
+      "source_icon": "🔥",
+      "date": "2026-01-27",
+      "type": "leaker",
+      "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
+    },
+    {
+      "id": "leaker_1",
+      "title": "Evan Blass (@evleaks)",
+      "summary": "关注 @evleaks 获取最新 Android 爆料信息。由于 Twitter/X API 限制，请手动查看其账号获取最新消息。",
+      "url": "https://twitter.com/evleaks",
+      "source": "Leaker",
+      "source_icon": "🔥",
+      "date": "2026-01-27",
+      "type": "leaker",
+      "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
+    },
+    {
+      "id": "leaker_2",
+      "title": "Ice Universe (@UniverseIce)",
+      "summary": "关注 @UniverseIce 获取最新 Android 爆料信息。由于 Twitter/X API 限制，请手动查看其账号获取最新消息。",
+      "url": "https://twitter.com/UniverseIce",
+      "source": "Leaker",
+      "source_icon": "🔥",
+      "date": "2026-01-27",
+      "type": "leaker",
+      "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
+    },
+    {
+      "id": "leaker_3",
+      "title": "Mishaal Rahman (@MishaalRahman)",
+      "summary": "关注 @MishaalRahman 获取最新 Android 爆料信息。由于 Twitter/X API 限制，请手动查看其账号获取最新消息。",
+      "url": "https://twitter.com/MishaalRahman",
+      "source": "Leaker",
+      "source_icon": "🔥",
+      "date": "2026-01-27",
+      "type": "leaker",
+      "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
+    },
+    {
+      "id": "leaker_4",
+      "title": "Max Weinbach (@MaxWineworthy)",
+      "summary": "关注 @MaxWineworthy 获取最新 Android 爆料信息。由于 Twitter/X API 限制，请手动查看其账号获取最新消息。",
+      "url": "https://twitter.com/MaxWineworthy",
+      "source": "Leaker",
+      "source_icon": "🔥",
+      "date": "2026-01-27",
+      "type": "leaker",
+      "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
+    }
+  ]
+}
