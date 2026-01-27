@@ -66,6 +66,15 @@
         let newsData = [];
         let currentLang = 'zh';  // 默认中文
         let translationCache = {};  // 缓存翻译结果
+        // 从localStorage加载缓存
+        try {
+            const savedCache = localStorage.getItem('translationCache');
+            if (savedCache) {
+                translationCache = JSON.parse(savedCache);
+            }
+        } catch (e) {
+            console.log('无法加载翻译缓存:', e);
+        }
 
         document.addEventListener('DOMContentLoaded', () => {
             updateUILanguage(); // 设置界面为默认语言（中文）
@@ -117,10 +126,13 @@
         // 翻译单条文本
         async function translateText(text, targetLang) {
             const cacheKey = `${text}_${targetLang}`;
+
+            // 检查内存缓存
             if (translationCache[cacheKey]) {
                 return translationCache[cacheKey];
             }
 
+            // 检查是否需要实时翻译（如果有预翻译内容应该不会走到这里）
             try {
                 const response = await fetch('/api/translate', {
                     method: 'POST',
@@ -129,6 +141,14 @@
                 });
                 const data = await response.json();
                 translationCache[cacheKey] = data.translated;
+
+                // 保存到localStorage
+                try {
+                    localStorage.setItem('translationCache', JSON.stringify(translationCache));
+                } catch (e) {
+                    console.log('无法保存翻译缓存:', e);
+                }
+
                 return data.translated;
             } catch (error) {
                 console.error('Translation failed:', error);
@@ -213,9 +233,16 @@
                 return;
             }
 
-            // 显示加载中状态
+            // 检查是否需要显示翻译中状态
+            let needsTranslation = false;
             if (currentLang === 'zh') {
-                feed.innerHTML = '<div class="loading"><div class="spinner"></div><p>翻译中...</p></div>';
+                // 检查是否有新闻需要实时翻译
+                needsTranslation = filteredNews.some(item =>
+                    item.type === 'news' && (!item.title_translated || !item.summary_translated)
+                );
+                if (needsTranslation) {
+                    feed.innerHTML = '<div class="loading"><div class="spinner"></div><p>翻译中...</p></div>';
+                }
             }
 
             // 处理每条新闻
@@ -230,10 +257,17 @@
                 let title = item.title;
                 let summary = item.summary;
 
-                // 如果是中文模式，翻译内容
+                // 如果是中文模式，优先使用预翻译内容
                 if (currentLang === 'zh' && item.type === 'news') {
-                    title = await translateText(item.title, 'zh');
-                    summary = await translateText(item.summary, 'zh');
+                    // 检查是否有预翻译的字段
+                    if (item.title_translated && item.summary_translated) {
+                        title = item.title_translated;
+                        summary = item.summary_translated;
+                    } else {
+                        // 没有预翻译内容，使用实时翻译
+                        title = await translateText(item.title, 'zh');
+                        summary = await translateText(item.summary, 'zh');
+                    }
                 }
 
                 const readMoreText = item.type === 'leaker'

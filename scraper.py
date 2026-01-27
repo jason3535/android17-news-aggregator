@@ -12,6 +12,7 @@ from datetime import datetime
 from dateutil import parser as date_parser
 import re
 import hashlib
+from translator import translate_news_batch
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
 NEWS_FILE = os.path.join(DATA_DIR, 'news.json')
@@ -252,6 +253,20 @@ def scrape_all() -> dict:
 
     # 合并结果
     sorted_news = news_items + leaker_items
+
+    # 为新闻项添加中文翻译缓存
+    print("开始预翻译中文内容...")
+    try:
+        # 只翻译新闻类型的内容
+        news_to_translate = [item for item in sorted_news if item['type'] == 'news']
+        if news_to_translate:
+            translated_news = translate_news_batch(news_to_translate, 'zh-CN')
+            # 更新原始数据中的翻译字段
+            for i, item in enumerate(sorted_news):
+                if item['type'] == 'news':
+                    item.update(translated_news[i])
+    except Exception as e:
+        print(f"预翻译失败，将继续使用实时翻译: {e}")
 
     result = {
         'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
