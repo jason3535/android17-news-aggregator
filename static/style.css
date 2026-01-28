@@ -379,6 +379,24 @@ header h1::after {
     border: none;
 }
 
+/* Platform badge */
+.platform-badge {
+    padding: 4px 8px;
+    font-size: 0.55rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 1px solid var(--nothing-white);
+    color: var(--nothing-white);
+    background: transparent;
+    font-family: 'Space Mono', monospace;
+}
+
+.platform-badge.leaker {
+    background: var(--nothing-red);
+    border-color: var(--nothing-red);
+}
+
 .source-name {
     display: none;
 }

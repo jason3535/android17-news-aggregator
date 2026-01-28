@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ANDROID 17 // NEWS FEED</title>
+    <title>竞品软件更新跟踪</title>
     <link rel="stylesheet" href="static/style.css">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>●</text></svg>">
 </head>
@@ -16,8 +16,8 @@
         </button>
 
         <header>
-            <h1>Android 17</h1>
-            <p class="subtitle" data-en="News Feed // Product & Design Reference" data-zh="新闻聚合 // 产品设计参考">新闻聚合 // 产品设计参考</p>
+            <h1 data-en="Competitor Software Update Tracker" data-zh="竞品软件更新跟踪">竞品软件更新跟踪</h1>
+            <p class="subtitle" data-en="Android 17 · iOS 27 · Leakers" data-zh="Android 17 · iOS 27 · 爆料">Android 17 · iOS 27 · 爆料</p>
             <div class="header-actions">
                 <span class="last-updated" id="lastUpdated" data-en="Initializing..." data-zh="初始化中...">初始化中...</span>
                 <button class="refresh-btn" id="refreshBtn" onclick="window.location.reload()">
@@ -33,8 +33,12 @@
                 <span class="stat-label" data-en="Total" data-zh="总计">总计</span>
             </div>
             <div class="stat-item">
-                <span class="stat-value" id="newsCount">--</span>
-                <span class="stat-label" data-en="News" data-zh="新闻">新闻</span>
+                <span class="stat-value" id="androidCount">--</span>
+                <span class="stat-label" data-en="Android" data-zh="Android">Android</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="iosCount">--</span>
+                <span class="stat-label" data-en="iOS" data-zh="iOS">iOS</span>
             </div>
             <div class="stat-item">
                 <span class="stat-value" id="leakerCount">--</span>
@@ -44,8 +48,9 @@
 
         <div class="filters">
             <button class="filter-btn active" data-filter="all" data-en="All" data-zh="全部">全部</button>
-            <button class="filter-btn" data-filter="news" data-en="News" data-zh="新闻">新闻</button>
-            <button class="filter-btn" data-filter="leaker" data-en="Leakers" data-zh="爆料人">爆料人</button>
+            <button class="filter-btn" data-filter="android" data-en="Android 17" data-zh="Android 17">Android 17</button>
+            <button class="filter-btn" data-filter="ios" data-en="iOS 27" data-zh="iOS 27">iOS 27</button>
+            <button class="filter-btn" data-filter="leaker" data-en="Leakers" data-zh="爆料">爆料</button>
         </div>
 
         <main class="feed" id="newsFeed">
@@ -56,7 +61,7 @@
         </main>
 
         <footer>
-            <p data-en="Data Sources // Android Authority • 9to5Google • XDA" data-zh="数据来源 // Android Authority • 9to5Google • XDA">数据来源 // Android Authority • 9to5Google • XDA</p>
+            <p data-en="Data Sources // Android Authority • 9to5Google • XDA • 9to5Mac • MacRumors" data-zh="数据来源 // Android Authority • 9to5Google • XDA • 9to5Mac • MacRumors">数据来源 // Android Authority • 9to5Google • XDA • 9to5Mac • MacRumors</p>
             <p data-en="Auto Refresh // 1 Hour Interval" data-zh="自动刷新 // 每小时更新">自动刷新 // 每小时更新</p>
             <p class="build-info" id="buildInfo"></p>
         </footer>
@@ -149,7 +154,8 @@
 
                 // Update stats
                 document.getElementById('totalCount').textContent = data.total_count || 0;
-                document.getElementById('newsCount').textContent = data.news_count || 0;
+                document.getElementById('androidCount').textContent = data.android_count || 0;
+                document.getElementById('iosCount').textContent = data.ios_count || 0;
                 document.getElementById('leakerCount').textContent = data.leaker_count || 0;
 
                 // Update timestamp
@@ -181,7 +187,12 @@
             let filteredNews = newsData;
 
             if (currentFilter !== 'all') {
-                filteredNews = newsData.filter(item => item.type === currentFilter);
+                if (currentFilter === 'leaker') {
+                    filteredNews = newsData.filter(item => item.type === 'leaker');
+                } else {
+                    // Filter by platform (android/ios)
+                    filteredNews = newsData.filter(item => item.type !== 'leaker' && item.platform === currentFilter);
+                }
             }
 
             if (filteredNews.length === 0) {
@@ -205,10 +216,13 @@
             const newsHTML = [];
             for (const item of filteredNews) {
                 const sourceClass = item.source.replace(/\s+/g, '-').toLowerCase();
-                const badgeText = item.type === 'leaker' ? 'LKR' :
-                    item.source === 'Android Authority' ? 'AA' :
+                const platformBadge = item.type === 'leaker' ? 'Leaker' :
+                    item.platform === 'ios' ? 'iOS' : 'Android';
+                const sourceBadge = item.source === 'Android Authority' ? 'AA' :
                     item.source === '9to5Google' ? '9TO5' :
-                    item.source === 'XDA Developers' ? 'XDA' : item.source_icon;
+                    item.source === 'XDA Developers' ? 'XDA' :
+                    item.source === '9to5Mac' ? '9TO5' :
+                    item.source === 'MacRumors' ? 'MR' : item.source_icon;
 
                 let title = item.title;
                 let summary = item.summary;
@@ -233,12 +247,13 @@
                 </div>`;
 
                 newsHTML.push(`
-                    <article class="news-card ${item.type} ${item.image ? 'has-image' : ''}">
+                    <article class="news-card ${item.type} ${item.image ? 'has-image' : ''}" data-platform="${item.platform || 'android'}">
                         ${thumbnailHTML}
                         <div class="news-content">
                             <div class="news-header">
-                                <span class="source-badge ${sourceClass}">${badgeText}</span>
-                                <span class="news-date">${item.date}</span>
+                                <span class="platform-badge ${item.type === 'leaker' ? 'leaker' : ''}">${platformBadge}</span>
+                                ${item.type !== 'leaker' ? `<span class="source-badge ${sourceClass}">${sourceBadge}</span>` : ''}
+                                <span class="news-date">${item.date || '时间未知'}</span>
                             </div>
                             <h2 class="news-title">
                                 <a href="${item.url}" target="_blank" rel="noopener">${title}</a>
