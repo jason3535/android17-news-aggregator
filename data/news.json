@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-01-28 20:47:23",
-  "total_count": 39,
-  "news_count": 34,
+  "last_updated": "2026-01-28 21:40:16",
+  "total_count": 41,
+  "news_count": 36,
   "android_count": 16,
-  "ios_count": 18,
+  "ios_count": 20,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "235d801f6721",
+      "title": "iOS 26’s new Messages feature got better when I changed this one setting",
+      "summary": "Apple’s Messages app got a bunch of new features in iOS 26, including a ‘Screen Unknown Senders’ option meant to eliminate spam texts. My initial experience with the feature wasn’t great, but tweaking one key setting has changed that.\nmore…",
+      "url": "https://9to5mac.com/2026/01/28/ios-26s-new-messages-feature-got-better-when-i-changed-this-one-setting/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-01-28 21:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "当我更改了这一设置后，iOS 26 的新消息功能变得更好了",
+      "summary_translated": "苹果的消息应用程序在 iOS 26 中获得了一系列新功能，包括旨在消除垃圾短信的“屏幕未知发件人”选项。我对该功能的最初体验并不是很好，但调整一个关键设置改变了这一点。\n更多的…"
+    },
+    {
+      "id": "72ec36e7a047",
+      "title": "This iOS 26.3 feature is a sign of what’s to come for iPhone",
+      "summary": "With iOS 26.3, Apple is rolling out a new feature that lets you limit the information that cellular networks can use to determine your location. The twist, however, is that the feature is only supported on devices powered by Apple’s in-house modem.\nI think what’s more interesting than this specific ",
+      "url": "https://9to5mac.com/2026/01/28/this-ios-26-3-feature-is-a-sign-of-whats-to-come-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-01-28 21:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.48.29.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.3 的这一功能预示着 iPhone 的未来",
+      "summary_translated": "在 iOS 26.3 中，Apple 推出了一项新功能，可让您限制蜂窝网络可用于确定您位置的信息。然而，不同的是，该功能仅支持由苹果内部调制解调器供电的设备。\n我认为还有什么比这个具体更有趣的"
+    },
     {
       "id": "c15e30306373",
       "title": "Pages, Keynote, Numbers get iOS 26 updates, here’s everything new",
