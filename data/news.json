@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-28 21:40:16",
-  "total_count": 41,
-  "news_count": 36,
+  "last_updated": "2026-01-28 22:41:15",
+  "total_count": 42,
+  "news_count": 37,
   "android_count": 16,
-  "ios_count": 20,
+  "ios_count": 21,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iwork-2026-liquid-glass.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Pages、Keynote、Numbers 获得 iOS 26 更新，一切都是新的",
       "summary_translated": "Pages、Keynote 和 Numbers 刚刚针对 iOS 26、iPadOS 26 和 macOS Tahoe 进行了更新。此次更新采用了 Liquid Glass 设计并添加了新功能，其中包括许多 Apple Creator Studio 独有的功能。\n更多的…"
+    },
+    {
+      "id": "aeeac1484128",
+      "title": "Warning: These Continuity Features Are Broken on Latest iOS 26.3 and iPadOS 26.3 Betas",
+      "summary": "Users of Apple's latest iPhone and iPad Pro models who have been beta testing iOS 26.3 and iPadOS 26.3 may want to hold off on updating to the third betas released earlier this week, as several Continuity-related features are currently broken on these devices.\n\n\n\n\nApple has updated its developer rel",
+      "url": "https://www.macrumors.com/2026/01/28/continuity-features-broken-ios-26-3-beta/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-01-28 13:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iphone-mirroring-blue.jpg",
+      "title_translated": "警告：这些连续性功能在最新的 iOS 26.3 和 iPadOS 26.3 Beta 上已被破坏",
+      "summary_translated": "一直在测试 iOS 26.3 和 iPadOS 26.3 的苹果最新 iPhone 和 iPad Pro 机型的用户可能希望推迟更新到本周早些时候发布的第三个测试版，因为这些设备上的一些与连续性相关的功能目前已被破坏。\n\n\n\n\n苹果更新了开发者版本"
     },
     {
       "id": "927c47b63f9a",
