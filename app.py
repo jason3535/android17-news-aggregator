@@ -28,6 +28,13 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/preview')
+def preview():
+    """预览页面 - 新架构设计"""
+    data = load_news()
+    return render_template('preview_dynamic.html', news_data=data)
+
+
 @app.route('/api/news')
 def get_news():
     """API - 获取新闻数据"""
