@@ -300,8 +300,8 @@ header h1::after {
     width: 120px;
     height: 80px;
     overflow: hidden;
-    background: var(--nothing-gray);
-    border: 1px solid var(--nothing-border);
+    background: transparent;
+    border: none;
 }
 
 .news-thumbnail img {

@@ -274,12 +274,10 @@
                     ? (currentLang === 'zh' ? '查看主页' : 'View Profile')
                     : (currentLang === 'zh' ? '阅读全文' : 'Read More');
 
-                // 缩略图 HTML
-                const thumbnailHTML = item.image
-                    ? `<div class="news-thumbnail">
-                         <img src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.style.display='none'">
-                       </div>`
-                    : '';
+                // 缩略图 HTML - 始终显示容器
+                const thumbnailHTML = `<div class="news-thumbnail">
+                    ${item.image ? `<img src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
+                </div>`;
 
                 newsHTML.push(`
                     <article class="news-card ${item.type} ${item.image ? 'has-image' : ''}">

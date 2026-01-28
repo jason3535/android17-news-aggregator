@@ -36,6 +36,8 @@ ANDROID_KEYWORDS = [
 IOS_KEYWORDS = [
     'ios 27', 'ios27', 'ios 26', 'ios26',
     'ios beta', 'ios preview', 'ios developer',
+    'wwdc 2025', 'wwdc 2026', 'wwdc25', 'wwdc26',
+    'apple intelligence', 'siri ai',
 ]
 
 # 合并关键词（用于通用过滤）
@@ -761,7 +763,7 @@ def scrape_all() -> dict:
     # 4.7 严格过滤 iOS 新闻（清理非 iOS 27/26 beta 内容）
     print("严格过滤 iOS 新闻...")
     # 保留的关键词：iOS 版本相关
-    ios_keep_keywords = ['ios 27', 'ios27', 'ios 26', 'ios26', 'ios beta', 'ios preview', 'ios developer']
+    ios_keep_keywords = ['ios 27', 'ios27', 'ios 26', 'ios26', 'ios beta', 'ios preview', 'ios developer', 'wwdc 2025', 'wwdc 2026', 'wwdc25', 'wwdc26', 'apple intelligence', 'siri ai']
     # 需要过滤的硬件关键词（如果没有版本关键词）
     ios_hardware_keywords = ['iphone 17', 'iphone17', 'iphone 18']
 
