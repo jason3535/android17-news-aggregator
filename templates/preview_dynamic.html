@@ -365,9 +365,9 @@
     </style>
 </head>
 <body>
-    <button class="translate-btn" id="translateBtn" onclick="toggleLanguage()">
+    <button class="translate-btn active" id="translateBtn" onclick="toggleLanguage()">
         <span class="translate-icon">译</span>
-        <span id="translateLabel">EN → 中</span>
+        <span id="translateLabel">中 → EN</span>
     </button>
 
     <div class="container">
@@ -420,13 +420,13 @@
                     </div>
                     <h2 class="news-title">
                         <a href="{{ item.url }}" target="_blank" rel="noopener">
-                            <span class="title-en">{{ item.title }}</span>
-                            <span class="title-zh" style="display:none">{{ item.title_translated or item.title }}</span>
+                            <span class="title-en" style="display:none">{{ item.title }}</span>
+                            <span class="title-zh">{{ item.title_translated or item.title }}</span>
                         </a>
                     </h2>
                     <p class="news-summary">
-                        <span class="summary-en">{{ item.summary }}</span>
-                        <span class="summary-zh" style="display:none">{{ item.summary_translated or item.summary }}</span>
+                        <span class="summary-en" style="display:none">{{ item.summary }}</span>
+                        <span class="summary-zh">{{ item.summary_translated or item.summary }}</span>
                     </p>
                 </div>
             </article>
@@ -463,7 +463,7 @@
         });
 
         // Translate
-        let isZh = false;
+        let isZh = true;
         function toggleLanguage() {
             isZh = !isZh;
             document.getElementById('translateLabel').textContent = isZh ? '中 → EN' : 'EN → 中';

@@ -372,9 +372,9 @@
 <body>
     <div class="preview-badge">Preview v2</div>
 
-    <button class="translate-btn" id="translateBtn">
+    <button class="translate-btn active" id="translateBtn">
         <span class="translate-icon">译</span>
-        <span id="translateLabel">EN → 中</span>
+        <span id="translateLabel">中 → EN</span>
     </button>
 
     <div class="container">
@@ -574,7 +574,7 @@
         });
 
         // Translate toggle
-        let isZh = false;
+        let isZh = true;
         document.getElementById('translateBtn').addEventListener('click', () => {
             isZh = !isZh;
             document.getElementById('translateLabel').textContent = isZh ? '中 → EN' : 'EN → 中';
