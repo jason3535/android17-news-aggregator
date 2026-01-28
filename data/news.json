@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-01-28 14:35:44",
-  "total_count": 36,
-  "news_count": 31,
-  "android_count": 15,
+  "last_updated": "2026-01-28 15:25:52",
+  "total_count": 37,
+  "news_count": 32,
+  "android_count": 16,
   "ios_count": 16,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cb7418e38eba",
+      "title": "Are you excited or worried about Android 17’s blurry future?",
+      "summary": "We want to hear from you. With Android 17 seemingly making use of even more blur, is Google heading in the right direction?",
+      "url": "https://www.androidauthority.com/android-17-blur-open-thread-3635820/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-01-28 07:22",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/phone-showing-android-16-quick-settings-home-assistant-sit-stand-desk-toggles.jpg",
+      "title_translated": "您对 Android 17 的模糊未来感到兴奋还是担心？",
+      "summary_translated": "我们希望收到您的来信。 Android 17 似乎使用了更多模糊功能，谷歌是否正朝着正确的方向前进？"
+    },
     {
       "id": "5538153022b7",
       "title": "iOS 26.3: Here’s what’s new for your iPhone",
