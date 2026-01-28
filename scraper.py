@@ -35,12 +35,7 @@ ANDROID_KEYWORDS = [
 # iOS 27 相关关键词
 IOS_KEYWORDS = [
     'ios 27', 'ios27', 'ios 26', 'ios26',
-    'ios 2025', 'ios 2026',
-    'iphone 17', 'iphone17', 'iphone 18',
-    'wwdc 2025', 'wwdc 2026', 'wwdc25', 'wwdc26',
     'ios beta', 'ios preview', 'ios developer',
-    'apple intelligence', 'siri ai',
-    'a19', 'a20 chip',
 ]
 
 # 合并关键词（用于通用过滤）
@@ -762,6 +757,36 @@ def scrape_all() -> dict:
         else:
             filtered_items.append(item)  # 保留 iOS 新闻和爆料人士
     news_items = filtered_items
+
+    # 4.7 严格过滤 iOS 新闻（清理非 iOS 27/26 beta 内容）
+    print("严格过滤 iOS 新闻...")
+    # 保留的关键词：iOS 版本相关
+    ios_keep_keywords = ['ios 27', 'ios27', 'ios 26', 'ios26', 'ios beta', 'ios preview', 'ios developer']
+    # 需要过滤的硬件关键词（如果没有版本关键词）
+    ios_hardware_keywords = ['iphone 17', 'iphone17', 'iphone 18']
+
+    ios_filtered_items = []
+    for item in news_items:
+        if item.get('type') == 'news' and item.get('platform') == 'ios':
+            text = (item.get('title', '') + ' ' + item.get('summary', '')).lower()
+
+            # 检查是否包含要保留的 iOS 版本关键词
+            has_ios_version = any(kw in text for kw in ios_keep_keywords)
+            # 检查是否包含硬件关键词
+            has_ios_hardware = any(kw in text for kw in ios_hardware_keywords)
+
+            if has_ios_version:
+                # 包含 iOS 版本关键词，保留
+                ios_filtered_items.append(item)
+            elif has_ios_hardware:
+                # 只包含硬件关键词（如 iPhone），没有版本关键词，过滤掉
+                print(f"  移除单纯 iPhone 硬件新闻: {item.get('title', '')[:50]}...")
+            else:
+                # 既没有版本关键词也没有硬件关键词，可能是其他 iOS 新闻，过滤掉
+                print(f"  移除非 iOS 27/26 beta 新闻: {item.get('title', '')[:50]}...")
+        else:
+            ios_filtered_items.append(item)  # 保留 Android 新闻和爆料人士
+    news_items = ios_filtered_items
 
     # 5. 添加爆料人士信息（每次更新）
     leaker_items = get_leaker_info()
