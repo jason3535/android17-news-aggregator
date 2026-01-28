@@ -122,11 +122,16 @@
             color: var(--nothing-black);
         }
 
+        .platform-tab .tab-text {
+            display: block;
+            margin-bottom: 2px;
+        }
+
         .platform-tab .count {
             display: block;
             font-size: 0.7rem;
             font-weight: 700;
-            margin-bottom: 2px;
+            margin-top: 2px;
             color: var(--nothing-white);
         }
 
@@ -382,20 +387,20 @@
 
         <div class="platform-tabs">
             <button class="platform-tab active" data-filter="all" data-en="All" data-zh="全部">
-                <span class="count">{{ news_data.total_count }}</span>
                 <span class="tab-text">全部</span>
+                <span class="count">{{ news_data.total_count }}</span>
             </button>
             <button class="platform-tab" data-filter="android" data-en="Android 17" data-zh="Android 17">
-                <span class="count">{{ news_data.android_count or 0 }}</span>
                 <span class="tab-text">Android 17</span>
+                <span class="count">{{ news_data.android_count or 0 }}</span>
             </button>
             <button class="platform-tab" data-filter="ios" data-en="iOS 27" data-zh="iOS 27">
-                <span class="count">{{ news_data.ios_count or 0 }}</span>
                 <span class="tab-text">iOS 27</span>
+                <span class="count">{{ news_data.ios_count or 0 }}</span>
             </button>
             <button class="platform-tab" data-filter="leaker" data-en="Leakers" data-zh="爆料">
-                <span class="count">{{ news_data.leaker_count }}</span>
                 <span class="tab-text">爆料</span>
+                <span class="count">{{ news_data.leaker_count }}</span>
             </button>
         </div>
 

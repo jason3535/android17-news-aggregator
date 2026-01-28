@@ -117,11 +117,16 @@
             color: var(--nothing-black);
         }
 
+        .platform-tab .tab-text {
+            display: block;
+            margin-bottom: 2px;
+        }
+
         .platform-tab .count {
             display: block;
             font-size: 0.7rem;
             font-weight: 700;
-            margin-bottom: 2px;
+            margin-top: 2px;
             color: var(--nothing-white);
         }
 
@@ -386,20 +391,20 @@
         <!-- Platform Tabs -->
         <div class="platform-tabs">
             <button class="platform-tab active" data-platform="all">
+                <span class="tab-text">All</span>
                 <span class="count">12</span>
-                All
             </button>
             <button class="platform-tab" data-platform="android">
+                <span class="tab-text">Android</span>
                 <span class="count">5</span>
-                Android
             </button>
             <button class="platform-tab" data-platform="ios">
+                <span class="tab-text">iOS</span>
                 <span class="count">4</span>
-                iOS
             </button>
             <button class="platform-tab" data-platform="leaker">
+                <span class="tab-text">Leakers</span>
                 <span class="count">3</span>
-                Leakers
             </button>
         </div>
 
