@@ -213,7 +213,6 @@ header h1::after {
     font-family: 'Space Mono', monospace;
     font-size: 0.65rem;
     letter-spacing: 2px;
-    text-transform: uppercase;
     cursor: pointer;
     transition: all 0.2s ease;
     flex: 1;
