@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-01-28 11:33:36",
-  "total_count": 37,
-  "news_count": 32,
+  "last_updated": "2026-01-28 13:12:16",
+  "total_count": 38,
+  "news_count": 33,
   "android_count": 16,
-  "ios_count": 16,
+  "ios_count": 17,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "927c47b63f9a",
+      "title": "Apple pulls select iOS updates due to connectivity issues",
+      "summary": "Apple this week released an array of iOS updates, including iOS 26.2.1, iOS 18.7.4, and more.\nNow, however, it appears that Apple has pulled some of these new updates due to problems with network connectivity in Australia.\nmore…",
+      "url": "https://9to5mac.com/2026/01/28/apple-pulls-select-ios-updates-due-to-connectivity-issues/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-01-28 12:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/ios-18-generic-bg.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "由于连接问题，Apple 撤回了部分 iOS 更新",
+      "summary_translated": "苹果本周发布了一系列 iOS 更新，包括 iOS 26.2.1、iOS 18.7.4 等。\n然而现在，由于澳大利亚的网络连接问题，苹果似乎已经撤回了其中一些新更新。\n更多的…"
+    },
     {
       "id": "cb7418e38eba",
       "title": "Are you excited or worried about Android 17’s blurry future?",
