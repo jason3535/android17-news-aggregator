@@ -372,27 +372,30 @@
 
     <div class="container">
         <header>
-            <h1>Tech News Feed</h1>
-            <p class="subtitle">Android 17 · iOS 27 · Leakers</p>
-            <p class="last-updated">Updated // {{ news_data.last_updated }}</p>
+            <h1 data-en="Tech News Feed" data-zh="科技新闻聚合">科技新闻聚合</h1>
+            <p class="subtitle" data-en="Android 17 · iOS 27 · Leakers" data-zh="Android 17 · iOS 27 · 爆料">Android 17 · iOS 27 · 爆料</p>
+            <p class="last-updated">
+                <span class="static-text" data-en="Updated // " data-zh="更新于 // ">更新于 // </span>
+                <span class="timestamp">{{ news_data.last_updated }}</span>
+            </p>
         </header>
 
         <div class="platform-tabs">
-            <button class="platform-tab active" data-filter="all">
+            <button class="platform-tab active" data-filter="all" data-en="All" data-zh="全部">
                 <span class="count">{{ news_data.total_count }}</span>
-                All
+                <span class="tab-text">全部</span>
             </button>
-            <button class="platform-tab" data-filter="android">
+            <button class="platform-tab" data-filter="android" data-en="Android 17" data-zh="Android 17">
                 <span class="count">{{ news_data.android_count or 0 }}</span>
-                Android 17
+                <span class="tab-text">Android 17</span>
             </button>
-            <button class="platform-tab" data-filter="ios">
+            <button class="platform-tab" data-filter="ios" data-en="iOS 27" data-zh="iOS 27">
                 <span class="count">{{ news_data.ios_count or 0 }}</span>
-                iOS 27
+                <span class="tab-text">iOS 27</span>
             </button>
-            <button class="platform-tab" data-filter="leaker">
+            <button class="platform-tab" data-filter="leaker" data-en="Leakers" data-zh="爆料">
                 <span class="count">{{ news_data.leaker_count }}</span>
-                Leakers
+                <span class="tab-text">爆料</span>
             </button>
         </div>
 
@@ -464,16 +467,40 @@
 
         // Translate
         let isZh = true;
+
+        // 更新界面语言
+        function updateUILanguage() {
+            document.querySelectorAll('[data-en][data-zh]').forEach(el => {
+                const text = isZh ? el.dataset.zh : el.dataset.en;
+                // 如果元素有.tab-text子元素，更新子元素
+                const tabText = el.querySelector('.tab-text');
+                if (tabText) {
+                    tabText.textContent = text;
+                } else {
+                    el.textContent = text;
+                }
+            });
+        }
+
         function toggleLanguage() {
             isZh = !isZh;
             document.getElementById('translateLabel').textContent = isZh ? '中 → EN' : 'EN → 中';
             document.getElementById('translateBtn').classList.toggle('active', isZh);
 
+            // 更新界面静态文本
+            updateUILanguage();
+
+            // 更新新闻标题和摘要
             document.querySelectorAll('.title-en').forEach(el => el.style.display = isZh ? 'none' : 'inline');
             document.querySelectorAll('.title-zh').forEach(el => el.style.display = isZh ? 'inline' : 'none');
             document.querySelectorAll('.summary-en').forEach(el => el.style.display = isZh ? 'none' : 'inline');
             document.querySelectorAll('.summary-zh').forEach(el => el.style.display = isZh ? 'inline' : 'none');
         }
+
+        // 页面加载时设置界面语言
+        document.addEventListener('DOMContentLoaded', () => {
+            updateUILanguage();
+        });
     </script>
 </body>
 </html>
