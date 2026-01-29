@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-01-29 15:50:35",
-  "total_count": 42,
-  "news_count": 37,
+  "last_updated": "2026-01-29 16:56:46",
+  "total_count": 43,
+  "news_count": 38,
   "android_count": 16,
-  "ios_count": 21,
+  "ios_count": 22,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7223f54a5f4b",
+      "title": "Here's Everything Apple Released This Week",
+      "summary": "Following a quiet start to 2026, the final week of January has been a busy one for Apple so far. There are new versions of the AirTag and the Black Unity band for the Apple Watch, and the Apple Creator Studio bundle is now available.\n\n\n\n\nApple also released iOS 26.2.1 and watchOS 26.2.1 updates, and",
+      "url": "https://www.macrumors.com/2026/01/29/everything-apple-released-this-week/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-01-29 08:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/10/imac-video-apple-feature.jpg",
+      "title_translated": "这是苹果本周发布的所有产品",
+      "summary_translated": "继 2026 年平静的开局之后，1 月份的最后一周对苹果来说是忙碌的一周。 Apple Watch 推出了新版本的 AirTag 和 Black Unity 表带，并且 Apple Creator Studio 捆绑包现已推出。\n\n\n\n\n苹果还发布了 iOS 26.2.1 和 watchOS 26.2.1 更新，以及"
+    },
     {
       "id": "235d801f6721",
       "title": "iOS 26’s new Messages feature got better when I changed this one setting",
