@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-01-30 19:41:45",
-  "total_count": 45,
-  "news_count": 40,
+  "last_updated": "2026-01-30 20:45:03",
+  "total_count": 46,
+  "news_count": 41,
   "android_count": 17,
-  "ios_count": 23,
+  "ios_count": 24,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5a8826677c44",
+      "title": "Apple Wallet adds time-saving iOS 26 credit card feature, here’s how to use it",
+      "summary": "Apple’s Wallet app received a variety of great features in iOS 26, but one of my favorites is a convenient new way to manage and access credit cards. Here’s how to use it.\nmore…",
+      "url": "https://9to5mac.com/2026/01/30/apple-wallet-adds-time-saving-ios-26-credit-card-feature-heres-how-to-use-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-01-30 19:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-app-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Wallet 添加省时的 iOS 26 信用卡功能，以下是如何使用它",
+      "summary_translated": "Apple 的钱包应用程序在 iOS 26 中获得了多种出色的功能，但我最喜欢的功能之一是管理和访问信用卡的便捷新方式。以下是如何使用它。\n更多的…"
+    },
     {
       "id": "34ff4f42b1ba",
       "title": "Blur is the new bold: Here’s how users really feel about Android 17’s frosted updates",
