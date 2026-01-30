@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-01-30 10:50:56",
-  "total_count": 44,
-  "news_count": 39,
-  "android_count": 16,
+  "last_updated": "2026-01-30 11:38:39",
+  "total_count": 45,
+  "news_count": 40,
+  "android_count": 17,
   "ios_count": 23,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "34ff4f42b1ba",
+      "title": "Blur is the new bold: Here’s how users really feel about Android 17’s frosted updates",
+      "summary": "...and if readers believe that Android is flying too close to the iOS sun.",
+      "url": "https://www.androidauthority.com/android-17-blur-poll-results-3636634/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-01-30 11:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/phone-showing-android-16-quick-settings-home-assistant-smart-home-control-center-toggles.jpg",
+      "title_translated": "模糊是新的大胆：以下是用户对 Android 17 磨砂更新的真实感受",
+      "summary_translated": "...如果读者认为 Android 距离 iOS 太阳太近了。"
+    },
     {
       "id": "5dab56e96d51",
       "title": "Here’s how people are using Apple Intelligence, according to Tim Cook",
