@@ -1,25 +1,11 @@
 {
-  "last_updated": "2026-01-30 02:49:32",
-  "total_count": 44,
-  "news_count": 39,
+  "last_updated": "2026-01-30 09:54:27",
+  "total_count": 43,
+  "news_count": 38,
   "android_count": 16,
-  "ios_count": 23,
+  "ios_count": 22,
   "leaker_count": 5,
   "items": [
-    {
-      "id": "5dab56e96d51",
-      "title": "Here’s how people are using Apple Intelligence, according to Tim Cook",
-      "summary": "Tim Cook’s opening remarks on Apple’s fiscal Q1 2026 earnings call touched on how customers are using Apple Intelligence. Here’s what he said.\nmore…",
-      "url": "https://9to5mac.com/2026/01/29/heres-how-people-are-using-apple-intelligence-according-to-tim-cook/",
-      "source": "9to5Mac",
-      "source_icon": "9to5",
-      "date": "2026-01-30 02:13",
-      "type": "news",
-      "platform": "ios",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?quality=82&strip=all&w=1600",
-      "title_translated": "蒂姆·库克 (Tim Cook) 表示，人们如何使用 Apple Intelligence",
-      "summary_translated": "蒂姆·库克 (Tim Cook) 在苹果 2026 年第一季度财报电话会议上的开场发言谈到了客户如何使用 Apple Intelligence。这是他说的。\n更多的…"
-    },
     {
       "id": "7223f54a5f4b",
       "title": "Here's Everything Apple Released This Week",
@@ -88,7 +74,7 @@
       "platform": "ios",
       "image": "https://images.macrumors.com/article-new/2026/01/iphone-mirroring-blue.jpg",
       "title_translated": "警告：这些连续性功能在最新的 iOS 26.3 和 iPadOS 26.3 Beta 上已被破坏",
-      "summary_translated": "一直在测试 iOS 26.3 和 iPadOS 26.3 的苹果最新 iPhone 和 iPad Pro 机型的用户可能希望推迟更新到本周早些时候发布的第三个测试版，因为这些设备上的一些与连续性相关的功能目前已被破坏。\n\n\n\n\n苹果更新了开发者版本"
+      "summary_translated": "一直在测试 iOS 26.3 和 iPadOS 26.3 的苹果最新 iPhone 和 iPad Pro 机型的用户可能希望推迟更新到本周早些时候发布的第三个测试版，因为这些设备上目前有一些与连续性相关的功能被破坏。\n\n\n\n\n苹果更新了开发者版本"
     },
     {
       "id": "927c47b63f9a",
