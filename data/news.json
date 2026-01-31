@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-01-31 11:31:39",
-  "total_count": 48,
-  "news_count": 43,
+  "last_updated": "2026-01-31 13:08:28",
+  "total_count": 49,
+  "news_count": 44,
   "android_count": 18,
-  "ios_count": 25,
+  "ios_count": 26,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e85a6b5df791",
+      "title": "This week’s top stories: AirTag 2, blockbuster Apple acquisition, more",
+      "summary": "Welcome to 9to5Mac’s top stories of the week, where we recap the biggest news in the Apple world every Saturday. This week, we have AirTag 2, a blockbuster Apple acquisition, and iOS 26.3 beta testing continues. Plus, our usual slate of new podcast episodes, opinion pieces, and much more. Read on fo",
+      "url": "https://9to5mac.com/2026/01/31/this-weeks-top-stories-airtag-2-blockbuster-apple-acquisition-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-01-31 12:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "本周头条新闻：AirTag 2、苹果重磅收购等",
+      "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，我们迎来了 Apple 重磅收购的 AirTag 2，并且 iOS 26.3 Beta 测试仍在继续。另外，还有我们通常的新播客剧集、观点文章等等。阅读 fo"
+    },
     {
       "id": "71fa72daadbf",
       "title": "Pixelated 86: A blurry vision of Android",
