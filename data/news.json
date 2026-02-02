@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-02 11:48:47",
-  "total_count": 49,
-  "news_count": 44,
-  "android_count": 18,
+  "last_updated": "2026-02-02 13:22:44",
+  "total_count": 50,
+  "news_count": 45,
+  "android_count": 19,
   "ios_count": 26,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8da64a4b5608",
+      "title": "New theme packs for your Pixel phone are coming soon, but dont hold your breath on AI icons",
+      "summary": "AI-based icon theming won't arrive before Android 17.",
+      "url": "https://www.androidauthority.com/google-pixel-theme-packs-3637156/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-02 12:34",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Closeup-photo-of-Android-phone-home-screen-with-themed-icons-scaled.jpg",
+      "title_translated": "适用于 Pixel 手机的新主题包即将推出，但不要对 AI 图标屏住呼吸",
+      "summary_translated": "基于 AI 的图标主题不会在 Android 17 之前出现。"
+    },
     {
       "id": "e85a6b5df791",
       "title": "This week’s top stories: AirTag 2, blockbuster Apple acquisition, more",
