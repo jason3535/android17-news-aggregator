@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-03 14:58:46",
-  "total_count": 54,
-  "news_count": 49,
+  "last_updated": "2026-02-03 16:01:17",
+  "total_count": 55,
+  "news_count": 50,
   "android_count": 20,
-  "ios_count": 29,
+  "ios_count": 30,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-26-2.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.2扩展了AirPods Pro强大的新功能，以下是如何使用它",
       "summary_translated": "iOS 26.2 是 iPhone 的最新重大更新，在众多新功能中，AirPods 实时翻译扩展到了更多用户。以下是如何使用 AirPods 最近新增的强大功能。\n更多的…"
+    },
+    {
+      "id": "73f5e2c93cd4",
+      "title": "iOS 26.3 and iOS 26.4 Will Add These New Features to Your iPhone",
+      "summary": "We are still waiting for the iOS 26.3 Release Candidate to come out, so the first iOS 26.4 beta is likely still at least a week or two away. Following beta testing, iOS 26.4 will likely be released to the general public in March or April.\n\n\n\n\nBelow, we have recapped known or rumored iOS 26.3 and iOS",
+      "url": "https://www.macrumors.com/2026/02/03/ios-26-3-and-ios-26-4-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-03 07:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26.3-and-26.4-Feature.jpg",
+      "title_translated": "iOS 26.3 和 iOS 26.4 将为你的 iPhone 添加这些新功能",
+      "summary_translated": "我们仍在等待 iOS 26.3 候选版本的发布，因此第一个 iOS 26.4 Beta 版可能至少还需要一两周的时间。经过 Beta 测试后，iOS 26.4 可能会在 3 月或 4 月向公众发布。\n\n\n\n\n下面，我们回顾一下已知或传闻的 iOS 26.3 和 iOS"
     },
     {
       "id": "0e3e863e81f9",
