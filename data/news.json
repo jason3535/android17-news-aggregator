@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-02-02 23:39:49",
-  "total_count": 50,
-  "news_count": 45,
-  "android_count": 19,
-  "ios_count": 26,
+  "last_updated": "2026-02-03 02:54:45",
+  "total_count": 53,
+  "news_count": 48,
+  "android_count": 20,
+  "ios_count": 28,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0e3e863e81f9",
+      "title": "You can no longer downgrade to iOS 26.2",
+      "summary": "Following last week’s release of iOS 26.2.1, Apple has now stopped signing iOS 26.2. Here’s what that means.\nmore…",
+      "url": "https://9to5mac.com/2026/02/02/you-can-no-longer-downgrade-to-ios-26-2/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-03 02:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/downgrade-26-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "您无法再降级到 iOS 26.2",
+      "summary_translated": "继上周发布 iOS 26.2.1 后，Apple 现已停止签署 iOS 26.2。这就是这意味着什么。\n更多的…"
+    },
+    {
+      "id": "989bf40afa5e",
+      "title": "Android 16 QPR3: Pixel adds Adaptive Connectivity auto-switch, battery settings",
+      "summary": "With Android 16 QPR3, Google is introducing more granular Adaptive Connectivity settings on Pixel phones.\nmore…",
+      "url": "https://9to5google.com/2026/02/02/pixel-adaptive-connectivity-settings/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-03 00:54",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Adaptive-connectivity-cover1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 16 QPR3：Pixel 添加自适应连接自动切换、电池设置",
+      "summary_translated": "通过 Android 16 QPR3，Google 在 Pixel 手机上引入了更精细的自适应连接设置。\n更多的…"
+    },
+    {
+      "id": "a08b2aff015b",
+      "title": "Apple Stops Signing iOS 26.2, Blocking Downgrades From iOS 26.2.1",
+      "summary": "Apple today stopped signing iOS 26.2, which means that iPhone users who have updated to iOS 26.2.1 are no longer able to downgrade to the earlier version of iOS. Apple released iOS 26.2.1 last week with support for the AirTags 2.\n\n\n\n\nSoftware \"signing\" means that it has passed the server-side verifi",
+      "url": "https://www.macrumors.com/2026/02/02/apple-stops-signing-ios-26-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-02 16:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.2.1-Feature.jpg",
+      "title_translated": "Apple 停止签署 iOS 26.2，阻止从 iOS 26.2.1 降级",
+      "summary_translated": "Apple 今天停止签署 iOS 26.2，这意味着已更新到 iOS 26.2.1 的 iPhone 用户不再能够降级到早期版本的 iOS。 Apple 上周发布了 iOS 26.2.1，支持 AirTags 2。\n\n\n\n\n软件“签名”意味着它已经通过服务器端验证"
+    },
     {
       "id": "8da64a4b5608",
       "title": "New theme packs for your Pixel phone are coming soon, but dont hold your breath on AI icons",
@@ -643,7 +685,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-02",
+      "date": "2026-02-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -654,7 +696,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-02",
+      "date": "2026-02-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -665,7 +707,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-02",
+      "date": "2026-02-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -676,7 +718,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-02",
+      "date": "2026-02-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -687,7 +729,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-02",
+      "date": "2026-02-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
