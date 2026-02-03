@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-03 13:23:31",
-  "total_count": 53,
-  "news_count": 48,
+  "last_updated": "2026-02-03 14:58:46",
+  "total_count": 54,
+  "news_count": 49,
   "android_count": 20,
-  "ios_count": 28,
+  "ios_count": 29,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bd94845c7fc1",
+      "title": "iOS 26.2 expands AirPods Pro’s powerful new feature, here’s how to use it",
+      "summary": "iOS 26.2 is the latest major iPhone update, and among its many new features, AirPods Live Translation expanded to a lot more users. Here’s how to use AirPods’ powerful recent addition.\nmore…",
+      "url": "https://9to5mac.com/2026/02/03/ios-26-2-expands-airpods-pros-powerful-new-feature-heres-how-to-use-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-03 14:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-26-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.2扩展了AirPods Pro强大的新功能，以下是如何使用它",
+      "summary_translated": "iOS 26.2 是 iPhone 的最新重大更新，在众多新功能中，AirPods 实时翻译扩展到了更多用户。以下是如何使用 AirPods 最近新增的强大功能。\n更多的…"
+    },
     {
       "id": "0e3e863e81f9",
       "title": "You can no longer downgrade to iOS 26.2",
