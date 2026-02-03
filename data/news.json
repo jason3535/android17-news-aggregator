@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-03 16:01:17",
-  "total_count": 55,
-  "news_count": 50,
+  "last_updated": "2026-02-03 17:09:04",
+  "total_count": 56,
+  "news_count": 51,
   "android_count": 20,
-  "ios_count": 30,
+  "ios_count": 31,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2ab9f6c8f2e1",
+      "title": "iOS 26’s Passwords app has a new feature that can save you a headache",
+      "summary": "Apple’s Passwords app has become my full-time password manager thanks to several iOS 26 changes. And there’s one welcome new feature I recently discovered that can prevent the headache of a forgotten password loop.\nmore…",
+      "url": "https://9to5mac.com/2026/02/03/ios-26s-passwords-app-has-a-new-feature-that-can-save-you-a-headache/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-03 16:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/passwords-app-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的密码应用程序有一个新功能可以让你省去麻烦",
+      "summary_translated": "由于 iOS 26 的多项更改，Apple 的密码应用程序已成为我的全职密码管理器。我最近发现了一项受欢迎的新功能，可以防止忘记密码循环带来的麻烦。\n更多的…"
+    },
     {
       "id": "bd94845c7fc1",
       "title": "iOS 26.2 expands AirPods Pro’s powerful new feature, here’s how to use it",
