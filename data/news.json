@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-03 19:10:31",
-  "total_count": 56,
-  "news_count": 51,
-  "android_count": 20,
+  "last_updated": "2026-02-03 20:52:12",
+  "total_count": 57,
+  "news_count": 52,
+  "android_count": 21,
   "ios_count": 31,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "59bd884ef415",
+      "title": "Android 16 February 2026 update rolling out: No Pixel bug fixes",
+      "summary": "The year in updates continues with the February 2026 security patch for Android 16 QPR2 on the Pixel 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold.\nmore…",
+      "url": "https://9to5google.com/2026/02/03/android-16-february-update-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-03 19:10",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/Pending-software-update-on-Pixel-10-Pro.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 2026 年 2 月 16 日更新推出：未修复 Pixel 错误",
+      "summary_translated": "今年的更新继续进行，适用于 Pixel 7a、平板电脑、Fold、8、8 Pro、8a、9、9 Pro、9 Pro XL、9 Pro Fold、9a、Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL 和 Pixel 10 Pro Fold 上的 Android 16 QPR2 的 2026 年 2 月安全补丁。\n更多的…"
+    },
     {
       "id": "2ab9f6c8f2e1",
       "title": "iOS 26’s Passwords app has a new feature that can save you a headache",
