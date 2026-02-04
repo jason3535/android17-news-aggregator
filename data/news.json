@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-04 22:42:09",
-  "total_count": 62,
-  "news_count": 57,
+  "last_updated": "2026-02-04 23:39:11",
+  "total_count": 63,
+  "news_count": 58,
   "android_count": 22,
-  "ios_count": 35,
+  "ios_count": 36,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iOS-26.3-rc.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.3 RC",
       "summary_translated": "Apple 发布了 iPhone 的 iOS 26.3 候选版本。 iOS 26.3 引入了在 Android 和 iPhone 之间切换的更简单方法，对天文学和天气壁纸库的调整等等。\n更多的…"
+    },
+    {
+      "id": "6f5336960547",
+      "title": "New M5 Chips Spotted in iOS 26.3 Beta",
+      "summary": "The iOS 26.3 release candidate includes references to a pair of unreleased chips that are in the M5 family, according to information found by Nicolás Alvarez and shared with MacRumors.\n\n\n\n\nThe iOS 26.3 RC mentions two unreleased SoCs, T6051 and T6052, with associated H17C and H17D platform names. Th",
+      "url": "https://www.macrumors.com/2026/02/04/new-m5-chips-ios-26-3-beta/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-04 14:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/m5-macbook-pro-cyber.jpg",
+      "title_translated": "iOS 26.3 Beta 中发现新 M5 芯片",
+      "summary_translated": "根据 Nicolás Alvarez 发现并与 MacRumors 分享的信息，iOS 26.3 候选版本包含对 M5 系列中一对未发布芯片的引用。\n\n\n\n\niOS 26.3 RC 提到了两款未发布的 SoC：T6051 和 T6052，以及相关的 H17C 和 H17D 平台名称。钍"
     },
     {
       "id": "955fec4200b8",
