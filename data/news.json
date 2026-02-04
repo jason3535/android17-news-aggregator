@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-04 19:50:31",
-  "total_count": 61,
-  "news_count": 56,
+  "last_updated": "2026-02-04 20:50:31",
+  "total_count": 62,
+  "news_count": 57,
   "android_count": 22,
-  "ios_count": 34,
+  "ios_count": 35,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a457c502fe56",
+      "title": "Tim Cook revealed standout AI feature for users, and it’s rumored to get even better",
+      "summary": "Tim Cook recently called out one specific AI feature—visual intelligence—as being among the most popular Apple Intelligence capabilities so far. And rumors indicate that later this year, it could get a lot more powerful.\nmore…",
+      "url": "https://9to5mac.com/2026/02/04/tim-cook-revealed-standout-ai-feature-for-users-and-its-rumored-to-get-even-better/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-04 20:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-apple-intelligence.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "蒂姆·库克为用户展示了出色的人工智能功能，据说还会变得更好",
+      "summary_translated": "蒂姆·库克 (Tim Cook) 最近指出，一项特定的人工智能功能——视觉智能——是迄今为止最受欢迎的苹果智能功能之一。有传言称，今年晚些时候，它可能会变得更加强大。\n更多的…"
+    },
     {
       "id": "45a643ca3166",
       "title": "Apple releases iOS 26.3 RC for iPhone",
