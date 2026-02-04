@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-04 11:44:47",
-  "total_count": 58,
-  "news_count": 53,
+  "last_updated": "2026-02-04 13:23:29",
+  "total_count": 59,
+  "news_count": 54,
   "android_count": 22,
-  "ios_count": 31,
+  "ios_count": 32,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "955fec4200b8",
+      "title": "iOS 26.2.1 causing crashes, freezes, and severe battery drain for some",
+      "summary": "iOS 26.2.1 was released last week, adding support for AirTag 2, alongside bug fixes. However, a small minority of users are reporting that it has introduced bugs rather than removed them.\nAmong the problems being reported are apps crashing, freezing, or lagging; connectivity failures; and severe bat",
+      "url": "https://9to5mac.com/2026/02/04/ios-26-2-1-causing-crashes-freezes-and-severe-battery-drain-for-some/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-04 12:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.2.1-causing-crashes-freezes-and-severe-battery-drain-for-some.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.2.1 导致某些用户崩溃、死机和电池严重耗尽",
+      "summary_translated": "iOS 26.2.1 于上周发布，增加了对 AirTag 2 的支持，并修复了错误。然而，一小部分用户报告说它引入了错误，而不是删除了错误。\n报告的问题包括应用程序崩溃、冻结或滞后；连接失败；和严重的蝙蝠"
+    },
     {
       "id": "f271e1f7d373",
       "title": "PSA: Don’t wait for Android 17 Developer Previews",
