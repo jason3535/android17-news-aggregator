@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-04 10:56:41",
-  "total_count": 57,
-  "news_count": 52,
-  "android_count": 21,
+  "last_updated": "2026-02-04 11:44:47",
+  "total_count": 58,
+  "news_count": 53,
+  "android_count": 22,
   "ios_count": 31,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f271e1f7d373",
+      "title": "PSA: Don’t wait for Android 17 Developer Previews",
+      "summary": "The Android Canary program long replaced Android Developer Previews for bleeding-edge features.",
+      "url": "https://www.androidauthority.com/psa-android-17-developer-previews-3637481/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-04 11:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Android-17-Cinnamon-bun-hero-image-2.jpg",
+      "title_translated": "PSA：不要等待 Android 17 开发者预览版",
+      "summary_translated": "Android Canary 程序长期以来取代了 Android 开发者预览版的前沿功能。"
+    },
     {
       "id": "59bd884ef415",
       "title": "Android 16 February 2026 update rolling out: No Pixel bug fixes",
