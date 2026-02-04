@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-04 19:05:00",
-  "total_count": 59,
-  "news_count": 54,
+  "last_updated": "2026-02-04 19:50:31",
+  "total_count": 61,
+  "news_count": 56,
   "android_count": 22,
-  "ios_count": 32,
+  "ios_count": 34,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "45a643ca3166",
+      "title": "Apple releases iOS 26.3 RC for iPhone",
+      "summary": "Apple has released the iOS 26.3 Release Candidate for iPhone. iOS 26.3 introduces an easier way to switch between Android and iPhone, tweaks to the Astronomy and Weather wallpaper gallery, and more.\nmore…",
+      "url": "https://9to5mac.com/2026/02/04/apple-releases-ios-26-3-rc-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-04 19:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iOS-26.3-rc.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iPhone 版 iOS 26.3 RC",
+      "summary_translated": "Apple 发布了 iPhone 的 iOS 26.3 候选版本。 iOS 26.3 引入了在 Android 和 iPhone 之间切换的更简单方法，对天文学和天气壁纸库的调整等等。\n更多的…"
+    },
     {
       "id": "955fec4200b8",
       "title": "iOS 26.2.1 causing crashes, freezes, and severe battery drain for some",
@@ -33,6 +47,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Android-17-Cinnamon-bun-hero-image-2.jpg",
       "title_translated": "PSA：不要等待 Android 17 开发者预览版",
       "summary_translated": "Android Canary 程序长期以来取代了 Android 开发者预览版的前沿功能。"
+    },
+    {
+      "id": "1b8578bc2e8d",
+      "title": "Apple Seeds iOS 26.3 and iPadOS 26.3 Release Candidates",
+      "summary": "Apple today seeded the release candidate (RC) versions of upcoming iOS 26.3 and iPadOS 26.3 updates to developers for testing purposes, with the software coming a week after the release of the third betas. The RCs represent the final versions of iOS 26.3 and iPadOS 26.3 that will be provided to the ",
+      "url": "https://www.macrumors.com/2026/02/04/apple-seeds-ios-26-3-rc/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-04 11:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/12/iOS-26.3-Feature.jpg",
+      "title_translated": "Apple 种子 iOS 26.3 和 iPadOS 26.3 候选版本",
+      "summary_translated": "Apple 今天向开发者发布了即将推出的 iOS 26.3 和 iPadOS 26.3 更新的候选发布 (RC) 版本以进行测试，该软件在第三个测试版发布一周后发布。 RC 代表 iOS 26.3 和 iPadOS 26.3 的最终版本，将提供给"
     },
     {
       "id": "59bd884ef415",
