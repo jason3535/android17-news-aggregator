@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-05 22:45:01",
-  "total_count": 65,
-  "news_count": 60,
+  "last_updated": "2026-02-05 23:35:20",
+  "total_count": 66,
+  "news_count": 61,
   "android_count": 23,
-  "ios_count": 37,
+  "ios_count": 38,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 即将到来：以下是传闻中的新功能",
       "summary_translated": "iOS 26.3 RC 昨天首次亮相，这意味着第一个 iOS 26.4 Beta 版也将很快发布。以下是 iOS 26.4 预计将带来的所有传闻新功能。\n更多的…"
+    },
+    {
+      "id": "9b6c57b01d55",
+      "title": "Apple Reportedly Scaling Back This Long-Rumored iOS 27 Feature",
+      "summary": "iOS 27 will no longer include a new virtual health coach in the Apple Health app, according to Bloomberg's Mark Gurman.\n\n\n\n\nThe feature was unofficially referred to as Apple Health+ within the company, the report said. Some of the components of this feature will be \"repurposed and introduced as earl",
+      "url": "https://www.macrumors.com/2026/02/05/apple-reportedly-scales-back-ios-27-feature/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-05 15:32",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "据报道，苹果缩减了传闻已久的 iOS 27 功能",
+      "summary_translated": "据彭博社的 Mark Gurman 称，iOS 27 将不再在 Apple Health 应用程序中包含新的虚拟健康教练。\n\n\n\n\n报道称，该功能在公司内部被非正式地称为 Apple Health+。此功能的一些组件将被“重新调整用途并作为伯爵引入”"
     },
     {
       "id": "880173743a28",
