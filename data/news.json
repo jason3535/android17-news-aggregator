@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-05 15:54:13",
-  "total_count": 64,
-  "news_count": 59,
+  "last_updated": "2026-02-05 17:04:07",
+  "total_count": 65,
+  "news_count": 60,
   "android_count": 23,
-  "ios_count": 36,
+  "ios_count": 37,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9e493f74189c",
+      "title": "iOS 26.4 is coming: Here are the rumored new features",
+      "summary": "The iOS 26.3 RC debuted yesterday, which means the first iOS 26.4 beta will be dropping soon too. Here is every rumored new feature that iOS 26.4 is expected to bring.\nmore…",
+      "url": "https://9to5mac.com/2026/02/05/ios-26-4-is-coming-here-are-the-rumored-new-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-05 15:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 即将到来：以下是传闻中的新功能",
+      "summary_translated": "iOS 26.3 RC 昨天首次亮相，这意味着第一个 iOS 26.4 Beta 版也将很快发布。以下是 iOS 26.4 预计将带来的所有传闻新功能。\n更多的…"
+    },
     {
       "id": "880173743a28",
       "title": "6 big changes coming to your Pixel in next month’s Android 16 QPR3 update",
