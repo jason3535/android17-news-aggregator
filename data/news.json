@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-06 22:39:26",
-  "total_count": 70,
-  "news_count": 65,
+  "last_updated": "2026-02-06 23:37:41",
+  "total_count": 71,
+  "news_count": 66,
   "android_count": 23,
-  "ios_count": 42,
+  "ios_count": 43,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-27-heart.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果最新的 iOS 27 转型对于厌倦订阅的人来说是个好消息",
       "summary_translated": "近年来，苹果的“服务”业务大幅增长，导致一些用户对日益增长的订阅趋势感到厌倦。但据报道，苹果公司的 iOS 27 将重点转向计划中的“健康+”服务，这对于厌倦订阅的人来说是个好消息。\n更多的…"
+    },
+    {
+      "id": "76c017fb7d72",
+      "title": "Why Apple's iOS 26.4 Siri Upgrade Will Be Bigger Than Originally Promised",
+      "summary": "In the iOS 26.4 update that's coming this spring, Apple will introduce a new version of Siri that's going to overhaul how we interact with the personal assistant and what it's able to do.\n\n\n\n\nThe iOS 26.4 version of ‌Siri‌ won't work like ChatGPT or Claude, but it will rely on large language models ",
+      "url": "https://www.macrumors.com/2026/02/06/siri-ios-26-4-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-06 15:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/Finder-Siri-Feature.jpg",
+      "title_translated": "为什么苹果的 iOS 26.4 Siri 升级将比最初承诺的更大",
+      "summary_translated": "在今年春季发布的 iOS 26.4 更新中，苹果将推出新版本的 Siri，它将彻底改变我们与个人助理的交互方式及其功能。\n\n\n\n\niOS 26.4 版本的 Siri 不会像 ChatGPT 或 Claude 那样工作，但它将依赖大型语言模型"
     },
     {
       "id": "ad5ba43f79ac",
