@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-06 15:54:18",
-  "total_count": 67,
-  "news_count": 62,
+  "last_updated": "2026-02-06 17:00:49",
+  "total_count": 69,
+  "news_count": 64,
   "android_count": 23,
-  "ios_count": 39,
+  "ios_count": 41,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "57fe3250181c",
+      "title": "Apple’s latest iOS 27 pivot is good news for the subscription-weary",
+      "summary": "Apple’s ’Services’ business has grown significantly in recent years, leading some users fatigued by an increasing trend toward subscriptions. But Apple’s reported iOS 27 pivot on a planned ‘Health+’ service is good news for the subscription-weary.\nmore…",
+      "url": "https://9to5mac.com/2026/02/06/apples-latest-ios-27-pivot-is-good-news-for-the-subscription-weary/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-06 16:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-27-heart.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果最新的 iOS 27 转型对于厌倦订阅的人来说是个好消息",
+      "summary_translated": "近年来，苹果的“服务”业务大幅增长，导致一些用户对日益增长的订阅趋势感到厌倦。但据报道，苹果公司的 iOS 27 将重点转向计划中的“健康+”服务，这对于厌倦订阅的人来说是个好消息。\n更多的…"
+    },
     {
       "id": "ad5ba43f79ac",
       "title": "Apple’s cheapest iPad to get Apple Intelligence support at just the right time",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/iPad-11-A16-v3.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果最便宜的 iPad 适时获得 Apple Intelligence 支持",
       "summary_translated": "除了 iPhone 17e 之外，苹果还正在开发一款更新的基本型号 iPad。 Macotakara 的一份新报告强调了我们对苹果最便宜 iPad 更新的期待。\n更多的…"
+    },
+    {
+      "id": "cecee37bab6c",
+      "title": "Swift Student Challenge Submissions Now Open Ahead of WWDC 2026",
+      "summary": "Apple today announced that submissions for the 2026 Swift Student Challenge are now open through Saturday, February 28.\n\n\n\n\nThe annual Swift Student Challenge gives eligible student developers around the world the opportunity to showcase their coding capabilities by using the Swift Playground or Xco",
+      "url": "https://www.macrumors.com/2026/02/06/2026-swift-student-challenge-begins/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-06 08:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/2026-Swift-Student-Challenge.jpg",
+      "title_translated": "Swift 学生挑战赛现已在 WWDC 2026 之前开放提交",
+      "summary_translated": "Apple 今天宣布，2026 年 Swift 学生挑战赛的提交现已开放至 2 月 28 日星期六。\n\n\n\n\n一年一度的 Swift 学生挑战赛为世界各地符合资格的学生开发者提供了使用 Swift Playground 或 Xco 展示其编码能力的机会"
     },
     {
       "id": "9e493f74189c",
