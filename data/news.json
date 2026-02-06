@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-06 20:48:32",
-  "total_count": 69,
-  "news_count": 64,
+  "last_updated": "2026-02-06 21:42:44",
+  "total_count": 70,
+  "news_count": 65,
   "android_count": 23,
-  "ios_count": 41,
+  "ios_count": 42,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "826956344a31",
+      "title": "iOS 26’s new Phone app has a feature I don’t ever want to go without",
+      "summary": "Apple overhauled the Phone app in iOS 26 with a new design and added several powerful features, including a new call screening option that I don’t ever want to go without.\nmore…",
+      "url": "https://9to5mac.com/2026/02/06/ios-26s-new-phone-app-has-a-feature-i-dont-ever-want-to-go-without/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-06 20:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-phone-app.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的新电话应用程序有一个我不想没有的功能",
+      "summary_translated": "Apple 采用全新设计对 iOS 26 中的“电话”应用进行了彻底改造，并添加了多项强大的功能，包括我永远不想没有的新呼叫筛选选项。\n更多的…"
+    },
     {
       "id": "57fe3250181c",
       "title": "Apple’s latest iOS 27 pivot is good news for the subscription-weary",
