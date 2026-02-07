@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-06 23:37:41",
-  "total_count": 71,
-  "news_count": 66,
+  "last_updated": "2026-02-07 02:47:37",
+  "total_count": 72,
+  "news_count": 67,
   "android_count": 23,
-  "ios_count": 43,
+  "ios_count": 44,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8851fd85eb7a",
+      "title": "9to5Mac Overtime 058: Give me your phone",
+      "summary": "Apple releases iOS 26.3 RC, Jeff plays with Moltbot on his Mac mini, Fernando gets his iPhone’s screen fixed, Jeff laments what it’s like to use Apple Pay at drive thrus, why Apple should add native screen sharing from the iPad back to the Mac, and Fernando gets a new MacBook Pro and considers switc",
+      "url": "https://9to5mac.com/2026/02/06/9to5mac-overtime-058-give-me-your-phone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-07 00:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/9to5Mac-Overtime-058.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac 加班058：把你的手机给我",
+      "summary_translated": "Apple 发布了 iOS 26.3 RC，Jeff 在他的 Mac mini 上玩 Moltbot，Fernando 修好了 iPhone 的屏幕，Jeff 感叹在得来速餐厅使用 Apple Pay 的感觉，为什么 Apple 应该将 iPad 上的本机屏幕共享功能重新添加到 Mac，Fernando 买了一台新 MacBook Pro 并考虑更换"
+    },
     {
       "id": "826956344a31",
       "title": "iOS 26’s new Phone app has a feature I don’t ever want to go without",
@@ -937,7 +951,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-06",
+      "date": "2026-02-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -948,7 +962,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-06",
+      "date": "2026-02-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -959,7 +973,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-06",
+      "date": "2026-02-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -970,7 +984,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-06",
+      "date": "2026-02-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -981,7 +995,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-06",
+      "date": "2026-02-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
