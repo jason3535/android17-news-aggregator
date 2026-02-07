@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-07 15:37:33",
-  "total_count": 73,
-  "news_count": 68,
+  "last_updated": "2026-02-07 16:46:46",
+  "total_count": 74,
+  "news_count": 69,
   "android_count": 23,
-  "ios_count": 45,
+  "ios_count": 46,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e5c82f0fef0c",
+      "title": "Apple will introduce these key Messages app upgrades very soon, here’s what they are",
+      "summary": "Last year, Apple confirmed that it’d be supporting end-to-end encryption with RCS in a future software update. At the time, iOS 18 was still the latest version of iOS – thus implying that the upgrade would come as part of the next round of software – iOS 26.\nSo far, end-to-end encryption is yet to s",
+      "url": "https://9to5mac.com/2026/02/07/apple-messages-app-upgrades-coming-soon-ios-26-4-rcs-texting/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-07 16:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果将​​很快推出这些关键的消息应用程序升级，具体内容如下",
+      "summary_translated": "去年，苹果确认将在未来的软件更新中支持 RCS 端到端加密。当时，iOS 18 仍然是 iOS 的最新版本 - 这意味着升级将作为下一轮软件 - iOS 26 的一部分。\n到目前为止，端到端加密尚未实现"
+    },
     {
       "id": "e6f266570fdf",
       "title": "Top Stories: iOS 26.3 and 26.4 Features, Foldable iPhone Details, and More",
