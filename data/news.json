@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-08 13:11:31",
-  "total_count": 74,
-  "news_count": 69,
+  "last_updated": "2026-02-08 14:41:48",
+  "total_count": 76,
+  "news_count": 71,
   "android_count": 23,
-  "ios_count": 46,
+  "ios_count": 48,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0342c370d4af",
+      "title": "iOS 26.4: Here’s when Apple will release the first beta",
+      "summary": "iOS 26.4 is set to be one of the most important updates ever for the iPhone, offering a suite of new Apple Intelligence and Siri features. A new report from Bloomberg today reveals Apple’s timeline for launching iOS 26.4.\nmore…",
+      "url": "https://9to5mac.com/2026/02/08/ios-26-4-heres-when-apple-will-release-the-first-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-08 13:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4：苹果将在此时发布第一个测试版",
+      "summary_translated": "iOS 26.4 将成为 iPhone 有史以来最重要的更新之一，提供了一套新的 Apple Intelligence 和 Siri 功能。彭博社今天的一份新报告揭示了苹果推出 iOS 26.4 的时间表。\n更多的…"
+    },
+    {
+      "id": "8cbb041024c6",
+      "title": "Report Reveals iOS 26.4 Beta Release Date",
+      "summary": "Apple is set to release the first beta version of iOS 26.4 later this month, providing the first real-world look at the Apple Intelligence features promised at WWDC 2024, Bloomberg's Mark Gurman claims.\n\n\n\n\nGurman revealed the timing in his \"Power On\" newsletter. Barring further delays, the first be",
+      "url": "https://www.macrumors.com/2026/02/08/ios-26-4-beta-release-date-revealed/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-08 05:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "报告揭示 iOS 26.4 Beta 发布日期",
+      "summary_translated": "彭博社的马克·古尔曼 (Mark Gurman) 称，苹果将于本月晚些时候发布 iOS 26.4 的第一个测试版，首次展示 WWDC 2024 上承诺的 Apple Intelligence 功能。\n\n\n\n\n古尔曼在他的“Power On”时事通讯中透露了这一时间安排。除非进一步拖延，首先是"
+    },
     {
       "id": "e5c82f0fef0c",
       "title": "Apple will introduce these key Messages app upgrades very soon, here’s what they are",
