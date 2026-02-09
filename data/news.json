@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-09 15:07:42",
-  "total_count": 78,
-  "news_count": 73,
+  "last_updated": "2026-02-09 17:09:33",
+  "total_count": 79,
+  "news_count": 74,
   "android_count": 23,
-  "ios_count": 50,
+  "ios_count": 51,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2f2c85be6207",
+      "title": "9to5Mac Daily: February 9, 2026 – New CarPlay feature coming soon, iOS 26.4 rumors",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head an",
+      "url": "https://9to5mac.com/2026/02/09/daily-february-9-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-09 16:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 2 月 9 日 – 新的 CarPlay 功能即将推出，iOS 26.4 传闻",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Stuff 赞助：Stuff 可以帮助您摆脱头脑中的一切"
+    },
     {
       "id": "016ed9c5e4dc",
       "title": "Could Apple really press pause on new features in iOS 27? [Poll]",
