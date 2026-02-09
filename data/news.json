@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-09 19:37:32",
-  "total_count": 80,
-  "news_count": 75,
+  "last_updated": "2026-02-09 21:07:26",
+  "total_count": 81,
+  "news_count": 76,
   "android_count": 23,
-  "ios_count": 52,
+  "ios_count": 53,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "43e4c0197538",
+      "title": "It sounds like Apple will continue a positive CarPlay trend around iOS 27",
+      "summary": "When Apple previewed “next-generation CarPlay” in 2022, it felt like Apple froze development of the CarPlay version actually used by drivers. Eventually, next-gen CarPlay became CarPlay Ultra, and CarPlay for non-Aston Martin drivers rapidly started to see new improvements again. Now it sounds like ",
+      "url": "https://9to5mac.com/2026/02/09/carplay-improvements-coming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-09 20:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/bmw-carplay.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "听起来苹果将在 iOS 27 周围延续积极的 CarPlay 趋势",
+      "summary_translated": "当苹果在 2022 年预览“下一代 CarPlay”时，感觉苹果冻结了驾驶员实际使用的 CarPlay 版本的开发。最终，下一代 CarPlay 变成了 CarPlay Ultra，面向非阿斯顿·马丁驾驶员的 CarPlay 很快又开始看到新的改进。现在听起来像"
+    },
     {
       "id": "2f2c85be6207",
       "title": "9to5Mac Daily: February 9, 2026 – New CarPlay feature coming soon, iOS 26.4 rumors",
