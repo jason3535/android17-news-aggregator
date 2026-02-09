@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-09 17:09:33",
-  "total_count": 79,
-  "news_count": 74,
+  "last_updated": "2026-02-09 19:37:32",
+  "total_count": 80,
+  "news_count": 75,
   "android_count": 23,
-  "ios_count": 51,
+  "ios_count": 52,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "title_translated": "9to5Mac Daily：2026 年 2 月 9 日 – 新的 CarPlay 功能即将推出，iOS 26.4 传闻",
       "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Stuff 赞助：Stuff 可以帮助您摆脱头脑中的一切"
+    },
+    {
+      "id": "0ffb5e1c7d0b",
+      "title": "CarPlay in iOS 26 enables ‘video in the car’, but there’s a catch",
+      "summary": "Apple made a major U-turn with CarPlay after a decade of not allowing video playback. Starting with iOS 26, Apple technically allows apps to display video through the CarPlay screen while parked.\nmore…",
+      "url": "https://9to5mac.com/2026/02/09/carplay-video-ios-26/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-09 14:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/Apple-WWDC25-iOS-26-CarPlay-Dark-mode-250609_big.jpg.large_2x.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 中的 CarPlay 支持“车内视频”，但有一个问题",
+      "summary_translated": "在不允许视频播放十年之后，苹果公司在 CarPlay 上做出了重大转变。从 iOS 26 开始，苹果在技术上允许应用程序在停车时通过 CarPlay 屏幕显示视频。\n更多的…"
     },
     {
       "id": "016ed9c5e4dc",
