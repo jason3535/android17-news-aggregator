@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-08 23:43:11",
-  "total_count": 76,
-  "news_count": 71,
+  "last_updated": "2026-02-09 03:17:31",
+  "total_count": 77,
+  "news_count": 72,
   "android_count": 23,
-  "ios_count": 48,
+  "ios_count": 49,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "750331aad741",
+      "title": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks",
+      "summary": "Apple's new software updates to be previewed at 2026's Worldwide Developers Conference (WWDC) could be relatively modest, Bloomberg's Mark Gurman claims.\n\n\n\n\nIn today's \"Power On\" newsletter, Gurman said that iOS 27 will be unveiled at WWDC this year, and while it will deliver further Apple Intellig",
+      "url": "https://www.macrumors.com/2026/02/08/ios-27-to-focus-on-bug-fixes-and-tweaks/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-08 18:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "iOS 27 将重点关注错误修复、性能和设计调整",
+      "summary_translated": "彭博社的马克·古尔曼 (Mark Gurman) 称，苹果将在 2026 年全球开发者大会 (WWDC) 上预览的新软件更新可能相对温和。\n\n\n\n\n在今天的“Power On”时事通讯中，Gurman 表示 iOS 27 将于今年的 WWDC 上亮相，同时它将进一步提供 Apple Intellig"
+    },
     {
       "id": "0342c370d4af",
       "title": "iOS 26.4: Here’s when Apple will release the first beta",
@@ -1007,7 +1021,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-08",
+      "date": "2026-02-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -1018,7 +1032,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-08",
+      "date": "2026-02-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -1029,7 +1043,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-08",
+      "date": "2026-02-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -1040,7 +1054,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-08",
+      "date": "2026-02-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -1051,7 +1065,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-08",
+      "date": "2026-02-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
