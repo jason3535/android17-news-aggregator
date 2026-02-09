@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-09 11:07:47",
-  "total_count": 77,
-  "news_count": 72,
+  "last_updated": "2026-02-09 13:43:24",
+  "total_count": 78,
+  "news_count": 73,
   "android_count": 23,
-  "ios_count": 49,
+  "ios_count": 50,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "016ed9c5e4dc",
+      "title": "Could Apple really press pause on new features in iOS 27? [Poll]",
+      "summary": "No news isn’t usually good news when it comes to hardware, and the expectations for the new Apple products coming soon are somewhat underwhelming.\nBut when it comes to software updates, sometimes less really is more. A new report says that this will be the case with iOS 27, but is that really a poss",
+      "url": "https://9to5mac.com/2026/02/09/could-apple-really-press-pause-on-new-features-in-ios-27-poll/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-09 12:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-icon-mockup.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果真的可以暂停 iOS 27 中的新功能吗？ [轮询]",
+      "summary_translated": "对于硬件而言，没有消息通常不是好消息，人们对即将推出的苹果新产品的期望有些平淡。\n但当涉及到软件更新时，有时少即是多。一份新报告称 iOS 27 也会出现这种情况，但这真的是可能吗？"
+    },
     {
       "id": "750331aad741",
       "title": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks",
