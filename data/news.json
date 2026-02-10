@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-10 21:56:50",
-  "total_count": 82,
-  "news_count": 77,
-  "android_count": 24,
-  "ios_count": 53,
+  "last_updated": "2026-02-10 22:56:27",
+  "total_count": 84,
+  "news_count": 79,
+  "android_count": 25,
+  "ios_count": 54,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e9dcbd60b960",
+      "title": "Android 16 QPR3 Beta 2.1 rolls out with a focus on reliability and performance",
+      "summary": "Google keeps tinkering ahead of QPR3’s full release.",
+      "url": "https://www.androidauthority.com/android-16-qpr3-beta-2-1-rollout-3639687/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-10 21:59",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-16-qpr3-logo-hero-photo-2-scaled.jpg",
+      "title_translated": "Android 16 QPR3 Beta 2.1 推出，重点关注可靠性和性能",
+      "summary_translated": "在 QPR3 全面发布之前，Google 一直在进行修补。"
+    },
     {
       "id": "021da4e270b6",
       "title": "Google rolling out Android 16 QPR3 Beta 2.1 patch",
@@ -19,6 +33,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-7.jpg?quality=82&strip=all&w=1600",
       "title_translated": "谷歌推出Android 16 QPR3 Beta 2.1补丁",
       "summary_translated": "Android 16 QPR3 Beta 2.1 现已在 Pixel 设备上推出。该补丁是在上次发布后近四个星期发布的，而且令人惊讶的是它不是 Beta 3。\n更多…"
+    },
+    {
+      "id": "9c523a89433d",
+      "title": "Google Brings Fitbit AI Health Coach to iPhone as Apple Pulls Back on iOS 27 Health Plans",
+      "summary": "Amid rumors that Apple is scaling back its AI health plans, Google today expanded its subscription-based Fitbit AI personal health coach service to more users worldwide, including those who are on iOS. Prior to now, the Fitbit service was limited to Android users.\n\n\n\n\nThe Gemini-powered Fitbit perso",
+      "url": "https://www.macrumors.com/2026/02/10/google-fitbit-ai-health-coach-ios/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-10 14:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/fitbit-health-coach.jpg",
+      "title_translated": "随着苹果撤回 iOS 27 健康计划，谷歌将 Fitbit AI Health Coach 引入 iPhone",
+      "summary_translated": "有传言称苹果正在缩减其人工智能健康计划，谷歌今天将其基于订阅的 Fitbit 人工智能个人健康教练服务扩展到全球更多用户，包括使用 iOS 的用户。此前，Fitbit 服务仅限于 Android 用户。\n\n\n\n\n由 Gemini 驱动的 Fitbit 人"
     },
     {
       "id": "43e4c0197538",
