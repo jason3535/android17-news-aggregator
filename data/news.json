@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-10 22:56:27",
-  "total_count": 84,
-  "news_count": 79,
-  "android_count": 25,
+  "last_updated": "2026-02-10 23:51:40",
+  "total_count": 85,
+  "news_count": 80,
+  "android_count": 26,
   "ios_count": 54,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8b53cbe75e92",
+      "title": "Google says the Android 17 Beta is coming soon",
+      "summary": "Following the release of Android 16 QPR3 Beta 2.1 earlier today, Google has revealed that the Android 17 Beta is starting soon.\nmore…",
+      "url": "https://9to5google.com/2026/02/10/android-17-beta-coming-soon/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-10 23:12",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-1_d4cf83.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌表示 Android 17 Beta 即将推出",
+      "summary_translated": "继今天早些时候发布 Android 16 QPR3 Beta 2.1 后，谷歌透露 Android 17 Beta 即将启动。\n更多的…"
+    },
     {
       "id": "e9dcbd60b960",
       "title": "Android 16 QPR3 Beta 2.1 rolls out with a focus on reliability and performance",
