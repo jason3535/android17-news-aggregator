@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-10 20:58:22",
-  "total_count": 81,
-  "news_count": 76,
-  "android_count": 23,
+  "last_updated": "2026-02-10 21:56:50",
+  "total_count": 82,
+  "news_count": 77,
+  "android_count": 24,
   "ios_count": 53,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "021da4e270b6",
+      "title": "Google rolling out Android 16 QPR3 Beta 2.1 patch",
+      "summary": "Android 16 QPR3 Beta 2.1 is rolling out to Pixel devices today. This patch comes almost four weeks after the last release, and is surprisingly not Beta 3.\nmore…",
+      "url": "https://9to5google.com/2026/02/10/android-16-qpr3-beta-2-1-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-10 21:13",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-7.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌推出Android 16 QPR3 Beta 2.1补丁",
+      "summary_translated": "Android 16 QPR3 Beta 2.1 现已在 Pixel 设备上推出。该补丁是在上次发布后近四个星期发布的，而且令人惊讶的是它不是 Beta 3。\n更多…"
+    },
     {
       "id": "43e4c0197538",
       "title": "It sounds like Apple will continue a positive CarPlay trend around iOS 27",
