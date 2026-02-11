@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-11 21:46:14",
-  "total_count": 104,
-  "news_count": 99,
+  "last_updated": "2026-02-11 22:46:35",
+  "total_count": 105,
+  "news_count": 100,
   "android_count": 34,
-  "ios_count": 65,
+  "ios_count": 66,
   "leaker_count": 5,
   "items": [
     {
@@ -187,6 +187,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "谷歌为 Pixel 推出 Android 17 Beta",
       "summary_translated": "鉴于 Android Canary 渠道的持续发展，谷歌移动操作系统的下一个主要版本将以 Beta 版本的形式首次亮相。 Android 17 Beta 1 将于今天向 Pixel 设备推出。\n更多的…"
+    },
+    {
+      "id": "be971fae8a13",
+      "title": "iOS 26.3 Features: Everything New in iOS 26.3",
+      "summary": "Apple released iOS 26.3 today, and while it doesn't have as many features as iOS 26.1 or iOS 26.2, there are still a couple of new additions worth knowing about.\n\n\n\n\nTransfer to Android\n\nApple is making it easier for iPhone users to transition to an Android smartphone in iOS 26.3, introducing a new ",
+      "url": "https://www.macrumors.com/guide/ios-26-3-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-11 13:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/12/iOS-26.3-Feature.jpg",
+      "title_translated": "iOS 26.3 功能：iOS 26.3 中的一切新功能",
+      "summary_translated": "苹果今天发布了 iOS 26.3，虽然它没有 iOS 26.1 或 iOS 26.2 那么多的功能，但仍然有一些新功能值得了解。\n\n\n\n\n转移到安卓\n\nApple 在 iOS 26.3 中引入了新功能，让 iPhone 用户可以更轻松地过渡到 Android 智能手机"
     },
     {
       "id": "9cab8817375c",
