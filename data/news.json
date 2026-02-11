@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-11 19:18:09",
-  "total_count": 100,
-  "news_count": 95,
-  "android_count": 33,
-  "ios_count": 62,
+  "last_updated": "2026-02-11 20:53:03",
+  "total_count": 103,
+  "news_count": 98,
+  "android_count": 34,
+  "ios_count": 64,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f7419e5ce4aa",
+      "title": "Apple reportedly pushing back Gemini-powered Siri features beyond iOS 26.4",
+      "summary": "Despite inking a deal with Google to use Gemini AI as the brains behind upgraded Siri, Apple is reportedly facing internal challenges in getting the final product ready for prime time. The reported delays could stretch into iOS 27 this fall. Apple first announced a more capable version of Siri in 20",
+      "url": "https://9to5mac.com/2026/02/11/apple-reportedly-pushing-back-gemini-powered-siri-features-beyond-ios-26-4/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-11 19:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，苹果将推迟 iOS 26.4 之后由 Gemini 驱动的 Siri 功能",
+      "summary_translated": "尽管与谷歌达成协议，使用 Gemini AI 作为升级 Siri 的大脑，但据报道，苹果在让最终产品为黄金时段做好准备方面面临着内部挑战。据报道，延迟可能会持续到今年秋季的 iOS 27。 Apple 在 20 年首次发布了功能更强大的 Siri 版本"
+    },
+    {
+      "id": "016fee46c9c0",
+      "title": "Google slams the brakes on today’s planned Android 17 Beta 1 release",
+      "summary": "The Beta is now \"coming soon\" with no firm release ETA.",
+      "url": "https://www.androidauthority.com/android-17-beta-1-delay-3640044/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-11 19:34",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg",
+      "title_translated": "谷歌暂停了今天计划的 Android 17 Beta 1 发布",
+      "summary_translated": "Beta 版现已“即将推出”，但尚未确定正式发布的预计时间。"
+    },
     {
       "id": "7e9fbd37922a",
       "title": "Google cancels today’s Android 17 Beta 1 release",
@@ -145,6 +173,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "谷歌为 Pixel 推出 Android 17 Beta",
       "summary_translated": "鉴于 Android Canary 渠道的持续发展，谷歌移动操作系统的下一个主要版本将以 Beta 版本的形式首次亮相。 Android 17 Beta 1 将于今天向 Pixel 设备推出。\n更多的…"
+    },
+    {
+      "id": "9cab8817375c",
+      "title": "New Siri Runs Into Problems, Features Could Be Pushed to iOS 26.5 and iOS 27",
+      "summary": "Apple has \"run into snags\" testing the more personalized, smarter version of Siri that's planned for iOS 26.4, reports Bloomberg. Because of the issues, the upcoming ‌Siri‌ features will be spread across several upcoming iOS releases and won't all come in the spring iOS 26.4 update.\n\n\n\n\nApple could ",
+      "url": "https://www.macrumors.com/2026/02/11/siri-features-delayed-ios-26-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-11 12:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/Sad-Siri-Feature.jpg",
+      "title_translated": "新 Siri 遇到问题，功能可能推送到 iOS 26.5 和 iOS 27",
+      "summary_translated": "据彭博社报道，苹果在测试计划在 iOS 26.4 中使用的更个性化、更智能的 Siri 版本时“遇到了障碍”。由于这些问题，即将推出的“Siri”功能将分布在多个即将发布的 iOS 版本中，并且不会全部出现在春季 iOS 26.4 更新中。\n\n\n\n\n苹果可以"
     },
     {
       "id": "7ab23b198164",
