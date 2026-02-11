@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-11 20:53:03",
-  "total_count": 103,
-  "news_count": 98,
+  "last_updated": "2026-02-11 21:46:14",
+  "total_count": 104,
+  "news_count": 99,
   "android_count": 34,
-  "ios_count": 64,
+  "ios_count": 65,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a14733407afe",
+      "title": "iOS 26 gave screenshots a hidden power I’ve started using a lot",
+      "summary": "iOS 26 brings visual intelligence to screenshots, enabling several new features. But there’s one I only recently discovered that solves the common problem of plain text URLs you can’t easily tap to open.\nmore…",
+      "url": "https://9to5mac.com/2026/02/11/ios-26-gave-screenshots-a-hidden-power-ive-started-using-a-lot/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-11 21:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-apple-intelligence.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 赋予了屏幕截图一种隐藏的力量，我已经开始大量使用了",
+      "summary_translated": "iOS 26 为屏幕截图带来了视觉智能，启用了多项新功能。但我最近才发现一个可以解决纯文本 URL 无法轻松点击打开的常见问题的方法。\n更多的…"
+    },
     {
       "id": "f7419e5ce4aa",
       "title": "Apple reportedly pushing back Gemini-powered Siri features beyond iOS 26.4",
