@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-11 03:22:26",
-  "total_count": 85,
-  "news_count": 80,
-  "android_count": 26,
+  "last_updated": "2026-02-11 05:42:13",
+  "total_count": 86,
+  "news_count": 81,
+  "android_count": 27,
   "ios_count": 54,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "af5a2f9741d7",
+      "title": "Cinnamon Bun is baking: Google confirms Android 17 Beta 1 is coming soon",
+      "summary": "Devices still enrolled in the Android Beta Program will automatically receive Android 17 Beta 1.",
+      "url": "https://www.androidauthority.com/android-17-beta-1-release-announcement-3639734/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-11 03:26",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Android-17-logo-on-a-Pixel-phone-held-in-a-car-2.jpeg",
+      "title_translated": "肉桂面包正在烘烤：谷歌确认 Android 17 Beta 1 即将推出",
+      "summary_translated": "仍在 Android Beta 计划中注册的设备将自动接收 Android 17 Beta 1。"
+    },
     {
       "id": "8b53cbe75e92",
       "title": "Google says the Android 17 Beta is coming soon",
