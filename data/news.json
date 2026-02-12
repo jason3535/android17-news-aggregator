@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-11 23:44:38",
-  "total_count": 105,
-  "news_count": 100,
+  "last_updated": "2026-02-12 03:18:03",
+  "total_count": 106,
+  "news_count": 101,
   "android_count": 34,
-  "ios_count": 66,
+  "ios_count": 67,
   "leaker_count": 5,
   "items": [
     {
@@ -187,6 +187,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "谷歌为 Pixel 推出 Android 17 Beta",
       "summary_translated": "鉴于 Android Canary 渠道的持续发展，谷歌移动操作系统的下一个主要版本将以 Beta 版本的形式首次亮相。 Android 17 Beta 1 将于今天向 Pixel 设备推出。\n更多的…"
+    },
+    {
+      "id": "7ec4140cfd7b",
+      "title": "Will Apple Music Get AI Playlists in iOS 27?",
+      "summary": "AI features are expanding to all kinds of apps, and it's getting difficult to find a service that hasn't embraced AI. Lately, AI playlists in music apps have been growing in popularity, and it's plausible that we'll see Apple adopt the trend in the near future.\n\n\n\n\nYouTube\n\nThis week, YouTube Music ",
+      "url": "https://www.macrumors.com/2026/02/11/apple-music-ai-playlists-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-11 16:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Music-Glass-Feature.jpg",
+      "title_translated": "Apple Music 会在 iOS 27 中获得 AI 播放列表吗？",
+      "summary_translated": "人工智能功能正在扩展到各种应用程序，并且很难找到没有采用人工智能的服务。最近，音乐应用程序中的人工智能播放列表越来越受欢迎，我们很可能会在不久的将来看到苹果采用这一趋势。\n\n\n\n\nYouTube\n\n本周，YouTube 音乐"
     },
     {
       "id": "be971fae8a13",
@@ -1413,7 +1427,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-11",
+      "date": "2026-02-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -1424,7 +1438,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-11",
+      "date": "2026-02-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -1435,7 +1449,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-11",
+      "date": "2026-02-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -1446,7 +1460,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-11",
+      "date": "2026-02-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -1457,7 +1471,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-11",
+      "date": "2026-02-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
