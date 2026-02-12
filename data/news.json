@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-12 22:47:03",
-  "total_count": 107,
-  "news_count": 102,
+  "last_updated": "2026-02-12 23:40:59",
+  "total_count": 108,
+  "news_count": 103,
   "android_count": 34,
-  "ios_count": 68,
+  "ios_count": 69,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3e33cd5a56b5",
+      "title": "Apple says it is still on track to launch new Siri this year, as promised",
+      "summary": "Bloomberg’s Mark Gurman yesterday reported that Apple’s new Siri initiative was facing internal delays, having originally been planned to start rolling out with iOS 26.4. Gurman suggested features may start appearing in iOS 26.5, or later releases in the year.\nThat report has seemingly rocked invest",
+      "url": "https://9to5mac.com/2026/02/12/apple-iphone-siri-promise-this-year/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-12 23:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/siri-iphone.jpeg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果表示，仍将如承诺的那样，在今年推出新的 Siri",
+      "summary_translated": "彭博社的 Mark Gurman 昨天报道称，苹果的新 Siri 计划正面临内部延迟，原计划在 iOS 26.4 中开始推出。 Gurman 建议功能可能会开始出现在 iOS 26.5 或今年晚些时候的版本中。\n该报告似乎震动了投资"
+    },
     {
       "id": "cdcc12550d28",
       "title": "iOS 27 Will Add These New Features to Your iPhone",
