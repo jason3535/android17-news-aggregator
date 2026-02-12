@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-12 13:41:57",
-  "total_count": 106,
-  "news_count": 101,
+  "last_updated": "2026-02-12 15:02:22",
+  "total_count": 107,
+  "news_count": 102,
   "android_count": 34,
-  "ios_count": 67,
+  "ios_count": 68,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cdcc12550d28",
+      "title": "iOS 27 Will Add These New Features to Your iPhone",
+      "summary": "While the first beta of iOS 27 is still four months away, there are already plenty of rumors about new features that will be included in the update.\n\n\n\n\nBelow, we recap iOS 27 rumors so far:Siri Chatbot: iOS 27 will reportedly include a full-out Siri chatbot that you can have back-and-forth conversa",
+      "url": "https://www.macrumors.com/2026/02/12/ios-27-features-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-12 06:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "iOS 27 将为你的 iPhone 添加这些新功能",
+      "summary_translated": "虽然距离 iOS 27 的第一个测试版还有四个月的时间，但已经有很多关于更新中将包含新功能的传言。\n\n\n\n\n下面，我们回顾一下迄今为止的 iOS 27 传闻：Siri 聊天机器人：据报道，iOS 27 将包括一个完整的 Siri 聊天机器人，您可以与它进行来回对话"
+    },
     {
       "id": "a14733407afe",
       "title": "iOS 26 gave screenshots a hidden power I’ve started using a lot",
