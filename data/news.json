@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-13 20:53:32",
-  "total_count": 118,
-  "news_count": 113,
-  "android_count": 38,
+  "last_updated": "2026-02-13 21:49:19",
+  "total_count": 120,
+  "news_count": 115,
+  "android_count": 40,
   "ios_count": 75,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c24f0b7b8e1d",
+      "title": "Pixel Launcher search bar gets a ‘redesign’ in Android 17 Beta 1",
+      "summary": "Up is down and down is up in Android 17 Beta 1. The first iteration of Google’s Android 17 update brings back a familiar design in place of the Pixel Launcher’s immovable search bar.\nmore…",
+      "url": "https://9to5google.com/2026/02/13/android-17-beta-1-pixel-launcher-search-bar-redesign/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-13 21:44",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixel Launcher 搜索栏在 Android 17 Beta 1 中得到“重新设计”",
+      "summary_translated": "在 Android 17 Beta 1 中，向上就是向下，向下就是向上。谷歌 Android 17 更新的第一次迭代带来了熟悉的设计，取代了 Pixel Launcher 的不可移动搜索栏。\n更多的…"
+    },
+    {
+      "id": "504815abeeda",
+      "title": "Pixelated 088: The beta that (almost) wasn’t",
+      "summary": "Welcome to episode 88 of Pixelated, a podcast by 9to5Google. This week, Ben Schoon joins Damien and Will to talk through the announcement — and subsequent unannouncement — of Android 17. The group talks through how and why this launch fell apart before discussing exactly what expectations we all sho",
+      "url": "https://9to5google.com/2026/02/13/pixelated-088-the-beta-that-almost-wasnt/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-13 21:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixelated 088：（几乎）不是的测试版",
+      "summary_translated": "欢迎收看 9to5Google 播客 Pixelated 第 88 集。 本周，Ben Schoon 与 Damien 和 Will 一起讨论了 Android 17 的发布以及随后的未发布。该小组讨论了这次发布失败的方式和原因，然后讨论了我们所有人的期望"
+    },
     {
       "id": "577546155bc6",
       "title": "Are people updating to iOS 26? Here’s Apple’s official data",
