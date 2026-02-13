@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-13 11:40:54",
-  "total_count": 109,
-  "news_count": 104,
-  "android_count": 34,
+  "last_updated": "2026-02-13 13:23:47",
+  "total_count": 110,
+  "news_count": 105,
+  "android_count": 35,
   "ios_count": 70,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e165bca5a589",
+      "title": "Survey reveals which Android 16 QPR3 feature you’re most excited about",
+      "summary": "We polled our readers on the upcoming changes, and customization won through.",
+      "url": "https://www.androidauthority.com/android-16-qpr3-feature-excited-poll-result-3640594/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-13 12:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-16-qpr3-logo-hero-photo-1-scaled.jpg",
+      "title_translated": "调查揭示了您最感兴趣的 Android 16 QPR3 功能",
+      "summary_translated": "我们就即将到来的变化对读者进行了民意调查，最终定制化胜出。"
+    },
     {
       "id": "22ea22defc70",
       "title": "iOS 26.3: Here are the new features for your iPhone",
