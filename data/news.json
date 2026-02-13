@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-13 13:23:47",
-  "total_count": 110,
-  "news_count": 105,
+  "last_updated": "2026-02-13 14:56:58",
+  "total_count": 111,
+  "news_count": 106,
   "android_count": 35,
-  "ios_count": 70,
+  "ios_count": 71,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "70cc9fc0aab6",
+      "title": "9to5Mac Overtime 059: Starts with Air ends with Power",
+      "summary": "Some of the new Siri features slated for iOS 26.4 are reportedly delayed; the struggle to balance useful AI-powered features with privacy; new AirPods Pro rumors; and Jeff and Fernando share frustrations about macOS Tahoe and iPadOS 26 design.\n9to5Mac Overtime is a weekly video-first podcast explori",
+      "url": "https://9to5mac.com/2026/02/13/9to5mac-overtime-059-starts-with-air-ends-with-power/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-13 14:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Episode-059.jpeg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac 加时赛 059：以空气开始，以动力结束",
+      "summary_translated": "据报道，iOS 26.4 的一些新 Siri 功能被推迟；努力平衡有用的人工智能功能与隐私；新 AirPods Pro 传闻； Jeff 和 Fernando 分享了对 macOS Tahoe 和 iPadOS 26 设计的不满。\n9to5Mac Overtime 是每周一次的视频优先播客探索"
+    },
     {
       "id": "e165bca5a589",
       "title": "Survey reveals which Android 16 QPR3 feature you’re most excited about",
