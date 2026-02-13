@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-13 22:48:55",
-  "total_count": 122,
-  "news_count": 117,
-  "android_count": 42,
+  "last_updated": "2026-02-13 23:40:41",
+  "total_count": 123,
+  "news_count": 118,
+  "android_count": 43,
   "ios_count": 75,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a797fd850420",
+      "title": "How to install the Android 17 Beta on Google Pixel",
+      "summary": "Google has released Android 17 in beta for Pixel devices, skipping the usual Developer Preview given the arrival of new Canary builds, and you can install it now. Here’s how.\nmore…",
+      "url": "https://9to5google.com/2026/02/13/how-to-install-the-android-17-beta-on-google-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-13 23:05",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "如何在 Google Pixel 上安装 Android 17 Beta",
+      "summary_translated": "谷歌已经发布了适用于 Pixel 设备的 Android 17 测试版，鉴于新的 Canary 版本的到来，跳过了通常的开发者预览版，您现在就可以安装它。方法如下。\n更多的…"
+    },
     {
       "id": "de0d43965f60",
       "title": "Android 17 finally brings custom shortcuts to the Pixel Launcher search bar",
