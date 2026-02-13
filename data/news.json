@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-12 23:40:59",
-  "total_count": 108,
-  "news_count": 103,
+  "last_updated": "2026-02-13 03:18:43",
+  "total_count": 109,
+  "news_count": 104,
   "android_count": 34,
-  "ios_count": 69,
+  "ios_count": 70,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "22ea22defc70",
+      "title": "iOS 26.3: Here are the new features for your iPhone",
+      "summary": "Apple released for iPhone users everywhere this week. The update focuses a lot on interoperability between iPhone and Android devices, privacy, and more. Here are all of the new features in iOS 26.3. \nmore…",
+      "url": "https://9to5mac.com/2026/02/12/ios-26-3-new-features-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-13 00:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/ios-26.3-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.3：以下是 iPhone 的新功能",
+      "summary_translated": "Apple 本周向各地 iPhone 用户发布了这款产品。此次更新主要关注 iPhone 和 Android 设备之间的互操作性、隐私等。以下是 iOS 26.3 中的所有新功能。 \n更多的…"
+    },
     {
       "id": "3e33cd5a56b5",
       "title": "Apple says it is still on track to launch new Siri this year, as promised",
@@ -1455,7 +1469,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-12",
+      "date": "2026-02-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -1466,7 +1480,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-12",
+      "date": "2026-02-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -1477,7 +1491,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-12",
+      "date": "2026-02-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -1488,7 +1502,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-12",
+      "date": "2026-02-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -1499,7 +1513,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-12",
+      "date": "2026-02-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
