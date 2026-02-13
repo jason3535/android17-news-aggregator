@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-13 21:49:19",
-  "total_count": 120,
-  "news_count": 115,
-  "android_count": 40,
+  "last_updated": "2026-02-13 22:48:55",
+  "total_count": 122,
+  "news_count": 117,
+  "android_count": 42,
   "ios_count": 75,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "de0d43965f60",
+      "title": "Android 17 finally brings custom shortcuts to the Pixel Launcher search bar",
+      "summary": "No more Google search widget jealousy!",
+      "url": "https://www.androidauthority.com/android-17-search-shortcuts-3641017/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-13 22:12",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/google-search-bar-widget-customization-shortcuts-2-scaled.jpg",
+      "title_translated": "Android 17 终于为 Pixel Launcher 搜索栏带来了自定义快捷方式",
+      "summary_translated": "不再有 Google 搜索小部件嫉妒！"
+    },
+    {
+      "id": "8877626dbf08",
+      "title": "Android 17 Beta 1 finally lets you remove the At a Glance widget on your home screen",
+      "summary": "There are also UI changes to the volume and brightness sliders.",
+      "url": "https://www.androidauthority.com/android-17-beta-1-remove-at-a-glance-home-screen-3641021/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-13 21:58",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-beta-1-at-a-glance-removed-hero-scaled.jpg",
+      "title_translated": "Android 17 Beta 1 最终允许您删除主屏幕上的“概览”小部件",
+      "summary_translated": "音量和亮度滑块的 UI 也发生了变化。"
+    },
     {
       "id": "c24f0b7b8e1d",
       "title": "Pixel Launcher search bar gets a ‘redesign’ in Android 17 Beta 1",
