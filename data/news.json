@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-13 15:56:08",
-  "total_count": 111,
-  "news_count": 106,
+  "last_updated": "2026-02-13 17:02:23",
+  "total_count": 112,
+  "news_count": 107,
   "android_count": 35,
-  "ios_count": 71,
+  "ios_count": 72,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a6702836c4e8",
+      "title": "iOS 26.3 adds unique new privacy feature, and it’s Apple at its best",
+      "summary": "iOS 26.3 is the latest iPhone software update, and one of its most interesting new features is a privacy setting—‘Limit Precise Location’—that reveals Apple at its best.\nmore…",
+      "url": "https://9to5mac.com/2026/02/13/ios-26-3-adds-unique-new-privacy-feature-and-its-apple-at-its-best/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-13 16:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.3-location.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.3 增加了独特的新隐私功能，这是苹果的最佳表现",
+      "summary_translated": "iOS 26.3 是最新的 iPhone 软件更新，其最有趣的新功能之一是隐私设置——“限制精确位置”——它揭示了苹果的最佳状态。\n更多的…"
+    },
     {
       "id": "70cc9fc0aab6",
       "title": "9to5Mac Overtime 059: Starts with Air ends with Power",
