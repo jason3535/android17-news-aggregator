@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-14 13:10:53",
-  "total_count": 125,
-  "news_count": 120,
+  "last_updated": "2026-02-14 14:39:50",
+  "total_count": 126,
+  "news_count": 121,
   "android_count": 44,
-  "ios_count": 76,
+  "ios_count": 77,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
       "title_translated": "本周头条新闻：iOS 26.3 现已推出、Siri 障碍等等",
       "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，我们有更多潜在的 Siri 延迟、iOS 26.3 现已发布，以及更多苹果新闻。另外，还有我们通常的新播客剧集、观点文章等等。继续阅读"
+    },
+    {
+      "id": "b6b4a391d781",
+      "title": "Top Stories: iOS 26.3 Released, New Siri Snags, and More",
+      "summary": "Apple continued to keep users waiting for new hardware this week, as we've yet to see any of the significant product launches we're expecting to see in the first few months of the year.\n\n\n\n\nNews on the software side was a bit of a mixed bag this week, with iOS 26.3 and other updates finally seeing t",
+      "url": "https://www.macrumors.com/2026/02/14/top-stories-ios-26-3-released/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-14 06:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/top-stories-2026-02-14.jpg",
+      "title_translated": "头条新闻：iOS 26.3 发布、新的 Siri 障碍等",
+      "summary_translated": "苹果本周继续让用户等待新硬件，因为我们还没有看到任何我们预计在今年头几个月看到的重要产品发布。\n\n\n\n\n本周软件方面的消息好坏参半，iOS 26.3 和其他更新终于发布了。"
     },
     {
       "id": "7fc0b1cdfc04",
