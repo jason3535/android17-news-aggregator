@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-14 14:39:50",
-  "total_count": 126,
-  "news_count": 121,
-  "android_count": 44,
+  "last_updated": "2026-02-14 15:37:02",
+  "total_count": 127,
+  "news_count": 122,
+  "android_count": 45,
   "ios_count": 77,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9358ff623dc0",
+      "title": "Google sets accelerated Android 17 release schedule",
+      "summary": "Besides replacing Developer Previews, the Android 17 Beta cycle is operating on a faster release schedule.\nmore…",
+      "url": "https://9to5google.com/2026/02/14/android-17-schedule/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-14 15:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌设定加速 Android 17 发布时间表",
+      "summary_translated": "除了取代开发者预览版之外，Android 17 Beta 周期的发布时间表也更快。\n更多的…"
+    },
     {
       "id": "052447df09bb",
       "title": "This week’s top stories: iOS 26.3 now available, Siri roadblocks, and more",
