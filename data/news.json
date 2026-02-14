@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-13 23:40:41",
-  "total_count": 123,
-  "news_count": 118,
-  "android_count": 43,
+  "last_updated": "2026-02-14 02:49:24",
+  "total_count": 124,
+  "news_count": 119,
+  "android_count": 44,
   "ios_count": 75,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7fc0b1cdfc04",
+      "title": "App ‘Handoff’ coming to Android 17 for cross-device continuity",
+      "summary": "Besides what was detailed in Google’s blog post, another new “cross-device continuity” feature coming to Android 17 is “Handoff.”\nmore…",
+      "url": "https://9to5google.com/2026/02/13/android-17-handoff/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-13 23:50",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-3.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "应用“Handoff”即将登陆 Android 17 以实现跨设备连续性",
+      "summary_translated": "除了谷歌博客文章中详细介绍的内容之外，Android 17 的另一个新的“跨设备连续性”功能是“Handoff”。\n更多的…"
+    },
     {
       "id": "a797fd850420",
       "title": "How to install the Android 17 Beta on Google Pixel",
@@ -1665,7 +1679,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -1676,7 +1690,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -1687,7 +1701,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -1698,7 +1712,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -1709,7 +1723,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
