@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-14 11:33:08",
-  "total_count": 124,
-  "news_count": 119,
+  "last_updated": "2026-02-14 13:10:53",
+  "total_count": 125,
+  "news_count": 120,
   "android_count": 44,
-  "ios_count": 75,
+  "ios_count": 76,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "052447df09bb",
+      "title": "This week’s top stories: iOS 26.3 now available, Siri roadblocks, and more",
+      "summary": "Welcome to 9to5Mac’s top stories of the week, where we recap the biggest news in the Apple world every Saturday. This week, we have more potential Siri delays, iOS 26.3 is now available, and more Apple news. Plus, our usual slate of new podcast episodes, opinion pieces, and much more. Read on for al",
+      "url": "https://9to5mac.com/2026/02/14/this-weeks-top-stories-ios-26-3-now-available-siri-roadblocks-and-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-14 12:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "本周头条新闻：iOS 26.3 现已推出、Siri 障碍等等",
+      "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，我们有更多潜在的 Siri 延迟、iOS 26.3 现已发布，以及更多苹果新闻。另外，还有我们通常的新播客剧集、观点文章等等。继续阅读"
+    },
     {
       "id": "7fc0b1cdfc04",
       "title": "App ‘Handoff’ coming to Android 17 for cross-device continuity",
