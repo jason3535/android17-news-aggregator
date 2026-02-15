@@ -447,15 +447,18 @@ header h1::after {
     display: inline-flex;
     align-items: center;
     gap: 8px;
+    opacity: 0.8;
 }
 
 .read-more::after {
     content: '→';
     transition: transform 0.2s ease;
+    font-size: 0.8rem;
 }
 
 .read-more:hover {
     color: var(--nothing-white);
+    opacity: 1;
 }
 
 .read-more:hover::after {
@@ -613,4 +616,231 @@ footer p {
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--nothing-gray-text);
+}
+
+/* Share Button & Actions */
+.news-actions {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin-top: 4px;
+}
+
+.share-btn {
+    background: transparent;
+    color: var(--nothing-gray-text);
+    border: none;
+    padding: 0 0 0 16px;
+    margin-left: 16px;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.55rem;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    text-transform: uppercase;
+    opacity: 0.6;
+    border-left: 1px solid var(--nothing-border);
+    position: relative;
+}
+
+.share-btn:hover {
+    color: var(--nothing-white);
+    opacity: 1;
+}
+
+.share-btn:hover .share-icon {
+    transform: rotate(90deg) translateY(-1px);
+}
+
+.share-icon {
+    font-size: 0.7rem;
+    transform: rotate(90deg);
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+.share-text {
+    font-size: 0.55rem;
+}
+
+/* Share Modal */
+.share-modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.share-modal-content {
+    background: var(--nothing-black);
+    border: 2px solid var(--nothing-border);
+    max-width: 500px;
+    width: 90%;
+    animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.share-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--nothing-border);
+}
+
+.share-modal-header h3 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--nothing-white);
+}
+
+.share-modal-close {
+    background: transparent;
+    border: none;
+    color: var(--nothing-gray-text);
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: color 0.2s ease;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.share-modal-close:hover {
+    color: var(--nothing-red);
+}
+
+.share-modal-body {
+    padding: 24px;
+}
+
+.share-badge-nothing {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background: var(--nothing-red);
+    color: var(--nothing-white);
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.share-hint {
+    color: var(--nothing-gray-text);
+    font-size: 0.7rem;
+    margin-bottom: 16px;
+    line-height: 1.6;
+}
+
+.share-link-container {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.share-link-input {
+    flex: 1;
+    background: var(--nothing-gray);
+    border: 1px solid var(--nothing-border);
+    color: var(--nothing-white);
+    padding: 12px 16px;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    outline: none;
+    transition: border-color 0.2s ease;
+}
+
+.share-link-input:focus {
+    border-color: var(--nothing-white);
+}
+
+.copy-btn {
+    background: var(--nothing-white);
+    color: var(--nothing-black);
+    border: 1px solid var(--nothing-white);
+    padding: 12px 20px;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-weight: 700;
+}
+
+.copy-btn:hover {
+    background: var(--nothing-red);
+    border-color: var(--nothing-red);
+    color: var(--nothing-white);
+}
+
+.share-success {
+    text-align: center;
+    padding: 12px;
+    background: rgba(215, 25, 33, 0.1);
+    border: 1px solid var(--nothing-red);
+    color: var(--nothing-red);
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    animation: fadeIn 0.3s ease;
+}
+
+/* Responsive - Share */
+@media (max-width: 600px) {
+    .share-modal-content {
+        width: 95%;
+    }
+
+    .share-modal-header {
+        padding: 16px 20px;
+    }
+
+    .share-modal-body {
+        padding: 20px;
+    }
+
+    .share-link-container {
+        flex-direction: column;
+    }
+
+    .copy-btn {
+        width: 100%;
+    }
+
+    .news-actions {
+        gap: 12px;
+    }
 }

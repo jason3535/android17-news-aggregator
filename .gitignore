@@ -51,3 +51,22 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+
+# Logs
+*.log
+flask.log
+flask_output.log
+
+# Backup files
+*.backup
+*.backup.*
+data/*.backup*
+
+# Temporary scripts
+test_*.py
+restart.sh
+start.sh
+
+# Documentation (optional - keep main docs)
+QUICK_START_SHARE.md
+SHARE_STYLE_UPDATE.md

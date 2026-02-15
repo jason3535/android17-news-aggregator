@@ -72,6 +72,96 @@ def translate():
     return jsonify({'translated': translated})
 
 
+@app.route('/api/share', methods=['POST'])
+def create_share():
+    """API - 创建分享链接"""
+    import uuid
+    import json
+    from pathlib import Path
+    from datetime import datetime as dt
+    from summarizer import generate_smart_summary, generate_bullet_summary
+
+    data = request.get_json()
+    news_item = data.get('news_item')
+
+    if not news_item:
+        return jsonify({'error': 'No news item provided'}), 400
+
+    # 生成唯一分享ID
+    share_id = str(uuid.uuid4())[:8]
+
+    # 生成AI总结
+    try:
+        ai_summary = generate_smart_summary(news_item)
+        bullet_points = generate_bullet_summary(news_item)
+    except Exception as e:
+        print(f"Summary generation error: {e}")
+        ai_summary = ""
+        bullet_points = []
+
+    # 读取现有分享数据
+    shares_file = Path('data/shares.json')
+    shares_file.parent.mkdir(exist_ok=True)
+
+    shares = {}
+    if shares_file.exists():
+        try:
+            with open(shares_file, 'r', encoding='utf-8') as f:
+                shares = json.load(f)
+        except:
+            shares = {}
+
+    # 保存分享数据（包含AI总结）
+    shares[share_id] = {
+        'news_item': news_item,
+        'ai_summary': ai_summary,
+        'bullet_points': bullet_points,
+        'created_at': dt.now().isoformat(),
+        'source': 'Nothing 竞品追踪'
+    }
+
+    with open(shares_file, 'w', encoding='utf-8') as f:
+        json.dump(shares, f, ensure_ascii=False, indent=2)
+
+    # 生成分享链接
+    share_url = request.host_url.rstrip('/') + f'/share/{share_id}'
+
+    return jsonify({
+        'share_id': share_id,
+        'share_url': share_url
+    })
+
+
+@app.route('/share/<share_id>')
+def view_share(share_id):
+    """分享页面 - 查看分享的新闻"""
+    import json
+    from pathlib import Path
+
+    shares_file = Path('data/shares.json')
+
+    if not shares_file.exists():
+        return "分享不存在", 404
+
+    try:
+        with open(shares_file, 'r', encoding='utf-8') as f:
+            shares = json.load(f)
+    except:
+        return "无法读取分享数据", 500
+
+    share_data = shares.get(share_id)
+    if not share_data:
+        return "分享不存在或已过期", 404
+
+    return render_template('share.html',
+                         news_item=share_data['news_item'],
+                         ai_summary=share_data.get('ai_summary', ''),
+                         bullet_points=share_data.get('bullet_points', []),
+                         share_id=share_id,
+                         created_at=share_data.get('created_at'),
+                         source=share_data.get('source', 'Nothing 竞品追踪'))
+
+
 def run_scheduler():
     """启动定时任务调度器"""
     if not scheduler.running:
