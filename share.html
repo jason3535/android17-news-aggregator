@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新闻分享 - Nothing 竞品追踪</title>
+    <meta property="og:title" content="Nothing 竞品追踪 - Android 17 & iOS 27">
+    <meta property="og:description" content="专业的竞品软件更新追踪系统">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>●</text></svg>">
+    <style>
+        /* Import Google Font */
+        @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+        /* Nothing Style - CSS Variables */
+        :root {
+            --nothing-black: #000000;
+            --nothing-white: #ffffff;
+            --nothing-red: #d71921;
+            --nothing-gray: #1a1a1a;
+            --nothing-gray-light: #2a2a2a;
+            --nothing-gray-text: #888888;
+            --nothing-border: #333333;
+            --dot-size: 3px;
+            --dot-gap: 8px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Space Mono', monospace;
+            background-color: var(--nothing-black);
+            color: var(--nothing-white);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        /* Dot pattern background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: radial-gradient(circle, var(--nothing-border) 1px, transparent 1px);
+            background-size: var(--dot-gap) var(--dot-gap);
+            opacity: 0.3;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .share-container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Header */
+        .share-header {
+            text-align: center;
+            padding: 40px 0;
+            margin-bottom: 40px;
+            position: relative;
+        }
+
+        .share-header::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 2px;
+            background: var(--nothing-red);
+        }
+
+        .share-brand {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: var(--nothing-red);
+            color: var(--nothing-white);
+            font-size: 0.65rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 24px;
+        }
+
+        .share-brand::before {
+            content: '●';
+            font-size: 8px;
+        }
+
+        .share-header h1 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+        }
+
+        .share-header h1::before {
+            content: '( ';
+            color: var(--nothing-red);
+        }
+
+        .share-header h1::after {
+            content: ' )';
+            color: var(--nothing-red);
+        }
+
+        .share-subtitle {
+            color: var(--nothing-gray-text);
+            font-size: 0.65rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        /* News Card */
+        .share-news-card {
+            background: var(--nothing-black);
+            border: 1px solid var(--nothing-border);
+            padding: 0;
+            margin-bottom: 40px;
+        }
+
+        .share-card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--nothing-border);
+        }
+
+        .share-card-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .source-badge {
+            padding: 4px 8px;
+            font-size: 0.55rem;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            background: var(--nothing-gray-light);
+            color: var(--nothing-white);
+        }
+
+        .source-badge.android-authority,
+        .source-badge.9to5google,
+        .source-badge.xda-developers {
+            background: transparent;
+            border: 1px solid var(--nothing-white);
+        }
+
+        .news-date {
+            color: var(--nothing-gray-text);
+            font-size: 0.6rem;
+            letter-spacing: 1px;
+        }
+
+        .share-thumbnail-wrapper {
+            width: 100%;
+            height: 300px;
+            overflow: hidden;
+            background: var(--nothing-gray);
+            border-bottom: 1px solid var(--nothing-border);
+        }
+
+        .share-thumbnail-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: grayscale(20%);
+        }
+
+        /* AI Summary */
+        .ai-summary-section {
+            background: var(--nothing-gray);
+            border-bottom: 1px solid var(--nothing-border);
+            padding: 20px;
+        }
+
+        .ai-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--nothing-red);
+            color: var(--nothing-white);
+            font-size: 0.55rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .ai-summary-text {
+            color: var(--nothing-white);
+            font-size: 0.75rem;
+            line-height: 1.8;
+            margin-top: 12px;
+        }
+
+        .share-card-content {
+            padding: 24px 20px;
+        }
+
+        .share-news-title {
+            font-size: 1.1rem;
+            font-weight: 400;
+            line-height: 1.6;
+            letter-spacing: 0.5px;
+            margin-bottom: 16px;
+        }
+
+        .share-news-summary {
+            color: var(--nothing-gray-text);
+            font-size: 0.75rem;
+            line-height: 1.8;
+        }
+
+        /* Actions */
+        .share-actions {
+            display: flex;
+            gap: 0;
+            border-top: 1px solid var(--nothing-border);
+        }
+
+        .share-action-btn {
+            flex: 1;
+            background: transparent;
+            color: var(--nothing-gray-text);
+            border: none;
+            border-right: 1px solid var(--nothing-border);
+            padding: 16px 20px;
+            font-family: 'Space Mono', monospace;
+            font-size: 0.65rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .share-action-btn:last-child {
+            border-right: none;
+        }
+
+        .share-action-btn:hover {
+            background: var(--nothing-white);
+            color: var(--nothing-black);
+        }
+
+        .share-action-btn.primary {
+            background: var(--nothing-red);
+            color: var(--nothing-white);
+        }
+
+        .share-action-btn.primary:hover {
+            background: var(--nothing-white);
+            color: var(--nothing-black);
+        }
+
+        /* Footer */
+        .share-footer {
+            text-align: center;
+            padding: 48px 0;
+            color: var(--nothing-gray-text);
+            font-size: 0.6rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            position: relative;
+        }
+
+        .share-footer::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 4px;
+            height: 4px;
+            background: var(--nothing-red);
+            border-radius: 50%;
+        }
+
+        .share-footer p {
+            margin: 8px 0;
+        }
+
+        .share-footer a {
+            color: var(--nothing-white);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .share-footer a:hover {
+            color: var(--nothing-red);
+        }
+
+        .error-message {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--nothing-red);
+        }
+
+        @media (max-width: 600px) {
+            .share-container {
+                padding: 20px 16px;
+            }
+
+            .share-header {
+                padding: 24px 0;
+            }
+
+            .share-header h1 {
+                font-size: 1rem;
+                letter-spacing: 2px;
+            }
+
+            .share-thumbnail-wrapper {
+                height: 200px;
+            }
+
+            .share-news-title {
+                font-size: 0.95rem;
+            }
+
+            .share-actions {
+                flex-direction: column;
+            }
+
+            .share-action-btn {
+                border-right: none;
+                border-bottom: 1px solid var(--nothing-border);
+            }
+
+            .share-action-btn:last-child {
+                border-bottom: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="share-container" id="app">
+        <div class="error-message" id="error" style="display: none;">
+            无法加载分享内容
+        </div>
+    </div>
+
+    <script>
+        // 从URL解析分享数据
+        function getShareData() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const encodedData = urlParams.get('d');
+
+            if (!encodedData) {
+                return null;
+            }
+
+            try {
+                const jsonString = decodeURIComponent(atob(encodedData));
+                return JSON.parse(jsonString);
+            } catch (error) {
+                console.error('Failed to parse share data:', error);
+                return null;
+            }
+        }
+
+        // 生成AI总结
+        function generateSummary(newsData) {
+            const summary = newsData.summary_translated || newsData.summary || '';
+            if (!summary) return '';
+
+            // 提取第一句话作为总结
+            const sentences = summary.split(/[。.！!？?]\s*/);
+            return sentences[0] || summary.substring(0, 150);
+        }
+
+        // 渲染分享页面
+        function renderSharePage(newsData) {
+            const app = document.getElementById('app');
+
+            // 获取显示文本（优先使用翻译版本）
+            const title = newsData.title_translated || newsData.title;
+            const summary = newsData.summary_translated || newsData.summary;
+            const aiSummary = generateSummary(newsData);
+
+            // 确定source badge文字
+            let badgeText = newsData.source_icon || newsData.source.substring(0, 3).toUpperCase();
+            if (newsData.type === 'leaker') badgeText = 'LKR';
+            else if (newsData.source === 'Android Authority') badgeText = 'AA';
+            else if (newsData.source === '9to5Google') badgeText = '9TO5';
+            else if (newsData.source === 'XDA Developers') badgeText = 'XDA';
+
+            const sourceClass = newsData.source.replace(/\s+/g, '-').toLowerCase();
+
+            // 更新页面标题
+            document.title = `${title} - Nothing 竞品追踪`;
+
+            // 更新Open Graph
+            const ogTitle = document.querySelector('meta[property="og:title"]');
+            const ogDescription = document.querySelector('meta[property="og:description"]');
+            if (ogTitle) ogTitle.content = title;
+            if (ogDescription) ogDescription.content = summary.substring(0, 200);
+
+            app.innerHTML = `
+                <header class="share-header">
+                    <div class="share-brand">Nothing 竞品追踪</div>
+                    <h1>Shared News</h1>
+                    <p class="share-subtitle">Android 17 & iOS 27 // 竞品软件更新追踪</p>
+                </header>
+
+                <article class="share-news-card">
+                    <div class="share-card-header">
+                        <div class="share-card-meta">
+                            <span class="source-badge ${sourceClass}">${badgeText}</span>
+                            <span class="news-date">${newsData.date}</span>
+                        </div>
+                    </div>
+
+                    ${newsData.image ? `
+                    <div class="share-thumbnail-wrapper">
+                        <img src="${newsData.image}" alt="${title}" loading="lazy">
+                    </div>
+                    ` : ''}
+
+                    ${aiSummary ? `
+                    <div class="ai-summary-section">
+                        <span class="ai-badge">AI 总结</span>
+                        <p class="ai-summary-text">${aiSummary}</p>
+                    </div>
+                    ` : ''}
+
+                    <div class="share-card-content">
+                        <h2 class="share-news-title">${title}</h2>
+                        <p class="share-news-summary">${summary}</p>
+                    </div>
+
+                    <div class="share-actions">
+                        <a href="${newsData.url}" target="_blank" rel="noopener" class="share-action-btn primary">
+                            <span>→</span>
+                            <span>阅读全文</span>
+                        </a>
+                        <a href="./" class="share-action-btn">
+                            <span>●</span>
+                            <span>更多新闻</span>
+                        </a>
+                    </div>
+                </article>
+
+                <footer class="share-footer">
+                    <p>SHARED FROM <a href="./">NOTHING 竞品追踪系统</a></p>
+                    <p>ANDROID 17 & iOS 27 // REAL-TIME TRACKING</p>
+                </footer>
+            `;
+        }
+
+        // 页面加载时执行
+        document.addEventListener('DOMContentLoaded', () => {
+            const newsData = getShareData();
+
+            if (!newsData) {
+                document.getElementById('error').style.display = 'block';
+                return;
+            }
+
+            renderSharePage(newsData);
+        });
+    </script>
+</body>
+</html>

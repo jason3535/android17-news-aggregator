@@ -350,18 +350,28 @@
             }
 
             try {
-                const response = await fetch('/api/share', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ news_item: newsItem })
-                });
+                // 纯前端分享方案（适配GitHub Pages）
+                const shareData = {
+                    title: newsItem.title,
+                    title_translated: newsItem.title_translated,
+                    summary: newsItem.summary,
+                    summary_translated: newsItem.summary_translated,
+                    url: newsItem.url,
+                    image: newsItem.image,
+                    source: newsItem.source,
+                    source_icon: newsItem.source_icon,
+                    date: newsItem.date,
+                    type: newsItem.type
+                };
 
-                const data = await response.json();
-                if (data.share_url) {
-                    showShareModal(data.share_url);
-                } else {
-                    alert(currentLang === 'zh' ? '生成分享链接失败' : 'Failed to generate share link');
-                }
+                // Base64编码（URL安全）
+                const encodedData = btoa(encodeURIComponent(JSON.stringify(shareData)));
+
+                // 生成分享URL
+                const baseUrl = window.location.origin + window.location.pathname.replace('index.html', '');
+                const shareUrl = `${baseUrl}share.html?d=${encodedData}`;
+
+                showShareModal(shareUrl);
             } catch (error) {
                 console.error('Share failed:', error);
                 alert(currentLang === 'zh' ? '分享失败，请重试' : 'Share failed, please retry');
