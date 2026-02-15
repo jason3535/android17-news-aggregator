@@ -341,7 +341,7 @@
         async function shareNews(index) {
             let filteredNews = newsData;
             if (currentFilter !== 'all') {
-                filteredNews = newsData.filter(item => item.type === currentFilter);
+                filteredNews = newsData.filter(item => item.platform === currentFilter);
             }
 
             const newsItem = filteredNews[index];
