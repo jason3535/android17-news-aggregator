@@ -34,19 +34,19 @@
                 <span class="stat-label" data-en="Total" data-zh="总计">总计</span>
             </div>
             <div class="stat-item">
-                <span class="stat-value" id="newsCount">--</span>
-                <span class="stat-label" data-en="News" data-zh="新闻">新闻</span>
+                <span class="stat-value" id="androidCount">--</span>
+                <span class="stat-label" data-en="Android 17" data-zh="Android 17">Android 17</span>
             </div>
             <div class="stat-item">
-                <span class="stat-value" id="leakerCount">--</span>
-                <span class="stat-label" data-en="Leakers" data-zh="爆料">爆料</span>
+                <span class="stat-value" id="iosCount">--</span>
+                <span class="stat-label" data-en="iOS 27" data-zh="iOS 27">iOS 27</span>
             </div>
         </div>
 
         <div class="filters">
-            <button class="filter-btn active" data-filter="all" data-en="All Updates" data-zh="● 全部动态">● 全部动态</button>
-            <button class="filter-btn" data-filter="news" data-en="Official News" data-zh="官方新闻">官方新闻</button>
-            <button class="filter-btn" data-filter="leaker" data-en="Insider Leaks" data-zh="内部爆料">内部爆料</button>
+            <button class="filter-btn active" data-filter="all" data-en="● All" data-zh="● 全部">● 全部</button>
+            <button class="filter-btn" data-filter="android" data-en="Android 17" data-zh="Android 17">Android 17</button>
+            <button class="filter-btn" data-filter="ios" data-en="iOS 27" data-zh="iOS 27">iOS 27</button>
         </div>
 
         <main class="feed" id="newsFeed">
@@ -190,8 +190,8 @@
 
                 // Update stats
                 document.getElementById('totalCount').textContent = data.total_count || 0;
-                document.getElementById('newsCount').textContent = data.news_count || 0;
-                document.getElementById('leakerCount').textContent = data.leaker_count || 0;
+                document.getElementById('androidCount').textContent = data.android_count || 0;
+                document.getElementById('iosCount').textContent = data.ios_count || 0;
 
                 // Update timestamp
                 if (data.last_updated) {
@@ -224,8 +224,8 @@
 
                 // Update stats
                 document.getElementById('totalCount').textContent = data.total_count || 0;
-                document.getElementById('newsCount').textContent = data.news_count || 0;
-                document.getElementById('leakerCount').textContent = data.leaker_count || 0;
+                document.getElementById('androidCount').textContent = data.android_count || 0;
+                document.getElementById('iosCount').textContent = data.ios_count || 0;
 
                 // Update timestamp
                 if (data.last_updated) {
@@ -251,7 +251,7 @@
             let filteredNews = newsData;
 
             if (currentFilter !== 'all') {
-                filteredNews = newsData.filter(item => item.type === currentFilter);
+                filteredNews = newsData.filter(item => item.platform === currentFilter);
             }
 
             if (filteredNews.length === 0) {
