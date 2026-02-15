@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-15 13:12:30",
-  "total_count": 94,
-  "news_count": 89,
+  "last_updated": "2026-02-15 14:40:39",
+  "total_count": 95,
+  "news_count": 90,
   "android_count": 39,
-  "ios_count": 50,
+  "ios_count": 51,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "15e13a3480fd",
+      "title": "iOS 27 to include code cleanup and interface tweaks in hopes to boost battery life: report",
+      "summary": "In today’s edition of the Power On newsletter, Bloomberg’s Mark Gurman shared a number of new details about Apple’s upcoming software release: iOS 27. The company is aiming to ‘tidy’ its codebase, upgrade older apps, and tweak Liquid Glass – and as a result, battery life should hopefully improve.\nmo",
+      "url": "https://9to5mac.com/2026/02/15/apple-code-cleanup-in-ios-27-for-better-battery-life-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-15 13:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 将包括代码清理和界面调整，以期延长电池寿命：报告",
+      "summary_translated": "在今天的 Power On 时事通讯中，彭博社的 Mark Gurman 分享了有关苹果即将发布的软件 iOS 27 的一些新细节。该公司的目标是“整理”其代码库、升级旧应用程序并调整 Liquid Glass，从而有望改善电池寿命。\n莫"
+    },
     {
       "id": "9358ff623dc0",
       "title": "Google sets accelerated Android 17 release schedule",
