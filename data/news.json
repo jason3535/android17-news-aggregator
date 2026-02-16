@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-16 07:18:48",
-  "total_count": 95,
-  "news_count": 90,
-  "android_count": 39,
+  "last_updated": "2026-02-16 09:03:00",
+  "total_count": 96,
+  "news_count": 91,
+  "android_count": 40,
   "ios_count": 51,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2122f7c37ff3",
+      "title": "Android 17 Beta 1 reveals a surprising secret about the Pixel Launcher search bar",
+      "summary": "The search bar is now the Google widget in disguise, and it has new hidden search provider settings.",
+      "url": "https://www.androidauthority.com/android-17-pixel-launcher-search-bar-customization-3641175/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-16 08:51",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/google-search-bar-widget-customization-shortcuts-1-scaled.jpg",
+      "title_translated": "Android 17 Beta 1 揭示了 Pixel Launcher 搜索栏的惊人秘密",
+      "summary_translated": "搜索栏现在是伪装的 Google 小部件，并且具有新的隐藏搜索提供商设置。"
+    },
     {
       "id": "15e13a3480fd",
       "title": "iOS 27 to include code cleanup and interface tweaks in hopes to boost battery life: report",
