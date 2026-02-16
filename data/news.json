@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-16 21:39:41",
-  "total_count": 112,
-  "news_count": 107,
+  "last_updated": "2026-02-16 22:45:16",
+  "total_count": 113,
+  "news_count": 108,
   "android_count": 40,
-  "ios_count": 67,
+  "ios_count": 68,
   "leaker_count": 5,
   "items": [
     {
@@ -145,6 +145,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-b1.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布了 iPhone 版 iOS 26.4 beta 1，以下是新内容",
       "summary_translated": "苹果发布了第一个 iPhone 版 iOS 26.4 测试版。虽然我们最初预计 iOS 26.4 将包含升级的 Siri，但听起来我们目前还不会看到这些变化。 \n更多的…"
+    },
+    {
+      "id": "96585827ec36",
+      "title": "Everything New in iOS 26.4 Beta 1",
+      "summary": "Apple today provided developers with the first beta of an upcoming iOS 26.4 update, which adds quite a few new features to the iPhone. There's a video podcasts feature, updates to Stolen Device Protection, end-to-end encryption for RCS messages, an Apple Music tool for generating playlists, and much",
+      "url": "https://www.macrumors.com/guide/ios-26-4-beta-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-16 13:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "iOS 26.4 Beta 1 中的所有新功能",
+      "summary_translated": "苹果今天向开发者提供了即将推出的 iOS 26.4 更新的第一个测试版，该更新为 iPhone 增加了很多新功能。有视频播客功能、被盗设备保护更新、RCS 消息端到端加密、用于生成播放列表的 Apple Music 工具等等"
     },
     {
       "id": "d07448a23ae6",
