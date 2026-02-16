@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-16 11:50:53",
-  "total_count": 96,
-  "news_count": 91,
+  "last_updated": "2026-02-16 13:36:23",
+  "total_count": 97,
+  "news_count": 92,
   "android_count": 40,
-  "ios_count": 51,
+  "ios_count": 52,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/google-search-bar-widget-customization-shortcuts-1-scaled.jpg",
       "title_translated": "Android 17 Beta 1 揭示了 Pixel Launcher 搜索栏的惊人秘密",
       "summary_translated": "搜索栏现在是伪装的 Google 小部件，并且具有新的隐藏搜索提供商设置。"
+    },
+    {
+      "id": "c144e136d851",
+      "title": "iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life",
+      "summary": "Apple's iOS 27 update will prioritize cleaning up the operating system's internals, with engineers making changes that could result in better battery life, according to Bloomberg's Mark Gurman.\n\n\n\n\nThe effort is said to be similar to what Apple did with its Snow Leopard Mac update years ago, and wil",
+      "url": "https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-16 04:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "iOS 27“狂欢”更新清理代码，可以延长电池寿命",
+      "summary_translated": "据彭博社的马克·古尔曼（Mark Gurman）称，苹果的 iOS 27 更新将优先清理操作系统的内部结构，工程师将进行一些可能会延长电池寿命的更改。\n\n\n\n\n据称，这一举措与苹果几年前对其 Snow Leopard Mac 更新所做的类似，并且将会"
     },
     {
       "id": "15e13a3480fd",
