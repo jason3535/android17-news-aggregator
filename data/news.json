@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-16 19:00:23",
-  "total_count": 105,
-  "news_count": 100,
+  "last_updated": "2026-02-16 19:40:38",
+  "total_count": 106,
+  "news_count": 101,
   "android_count": 40,
-  "ios_count": 60,
+  "ios_count": 61,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7c7cd7bd9494",
+      "title": "Apple Music in iOS 26.4 has new design for albums, playlists, and more",
+      "summary": "iOS 26.4 beta 1 launched today, and among its various changes, Apple Music introduces a new fullscreen design for albums and playlists, plus concert info and more.\nmore…",
+      "url": "https://9to5mac.com/2026/02/16/apple-music-in-ios-26-4-has-new-design-for-albums-playlists-and-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-16 19:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-music-ios-26-4-design.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 中的 Apple Music 对专辑、播放列表等进行了全新设计",
+      "summary_translated": "iOS 26.4 beta 1 今天发布，在其各种变化中，Apple Music 引入了专辑和播放列表的新全屏设计，以及音乐会信息等。\n更多的…"
+    },
     {
       "id": "cdf4b98ddf27",
       "title": "iOS 26.4 redesigns Wallpaper Gallery",
