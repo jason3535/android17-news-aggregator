@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-16 20:46:41",
-  "total_count": 111,
-  "news_count": 106,
+  "last_updated": "2026-02-16 21:39:41",
+  "total_count": 112,
+  "news_count": 107,
   "android_count": 40,
-  "ios_count": 66,
+  "ios_count": 67,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cc7b0a97b622",
+      "title": "Apple starts testing end-to-end RCS encryption on iPhone, but without Android support",
+      "summary": "Apple’s latest iOS 26.4 beta is now available for iPhone owners, with an added perk for RCS messaging – end-to-end encryption. But, unfortunately, that doesn’t work with Android yet.\nmore…",
+      "url": "https://9to5google.com/2026/02/16/apple-iphone-rcs-encryption-test-no-android/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-16 21:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/10/Typing-indicators-in-RCS.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 开始在 iPhone 上测试端到端 RCS 加密，但不支持 Android",
+      "summary_translated": "Apple 最新的 iOS 26.4 测试版现已可供 iPhone 用户使用，并为 RCS 消息传递提供了一项额外功能——端到端加密。但不幸的是，这还不适用于 Android。\n更多的…"
+    },
     {
       "id": "69ec514dfca7",
       "title": "iOS 26.4 beta 1: Here’s everything new",
