@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-17 17:14:00",
-  "total_count": 119,
-  "news_count": 114,
-  "android_count": 40,
-  "ios_count": 74,
+  "last_updated": "2026-02-17 19:12:11",
+  "total_count": 122,
+  "news_count": 117,
+  "android_count": 41,
+  "ios_count": 76,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6a4d0ae6f665",
+      "title": "Google shares how Android 17 is making everything run smoother",
+      "summary": "Android 17's got a new tool for reducing missed frames.",
+      "url": "https://www.androidauthority.com/android-17-missed-frames-3641660/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-17 18:27",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-2-scaled.jpg",
+      "title_translated": "谷歌分享 Android 17 如何让一切运行更顺畅",
+      "summary_translated": "Android 17 提供了一个用于减少丢失帧的新工具。"
+    },
+    {
+      "id": "5ea94f35ccb6",
+      "title": "Apple releases first iOS 26.4 public beta with these changes",
+      "summary": "Apple has released the first iOS 26.4 public beta version for iPhone. iOS 26.4 includes a number of exciting new features and changes, including AI-powered Apple Music updates.\nmore…",
+      "url": "https://9to5mac.com/2026/02/17/apple-releases-first-ios-26-4-public-beta-with-these-changes/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-17 18:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-public-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 发布了第一个 iOS 26.4 公共测试版，其中包含这些更改",
+      "summary_translated": "苹果发布了第一个 iPhone 版 iOS 26.4 公开测试版。 iOS 26.4 包含许多令人兴奋的新功能和变化，包括人工智能驱动的 Apple Music 更新。\n更多的…"
+    },
     {
       "id": "fc53dd724266",
       "title": "Apple plans M5-based Private Cloud Compute architecture for Apple Intelligence",
@@ -47,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-wi-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 让您轻松查看谁在使用您的个人热点数据",
       "summary_translated": "iOS 26.4 beta 1 于昨天推出，包含大量新功能，包括对个人热点的更改，可以轻松查看谁在使用您的数据。\n更多的…"
+    },
+    {
+      "id": "99f2897a9103",
+      "title": "iOS 26.4 and iPadOS 26.4 Public Beta Now Available",
+      "summary": "Apple today provided public beta testers with the first releases of upcoming iOS 26.4, iPadOS 26.4, tvOS 26.4, and watchOS 26.4 updates for testing purposes. The public betas come a day after Apple provided the betas to developers.\n\n\n\n\nAnyone can download and install public betas, and all that's req",
+      "url": "https://www.macrumors.com/2026/02/17/ios-26-4-public-beta-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-17 10:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "iOS 26.4 和 iPadOS 26.4 公开测试版现已推出",
+      "summary_translated": "Apple 今天向公共 Beta 测试人员提供了即将推出的 iOS 26.4、iPadOS 26.4、tvOS 26.4 和 watchOS 26.4 更新的第一版，以进行测试。公开测试版是在苹果向开发者提供测试版的第二天发布的。\n\n\n\n\n任何人都可以下载并安装公共测试版，而这一切都是必需的"
     },
     {
       "id": "4697c9ccaeae",
