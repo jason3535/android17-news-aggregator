@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-17 15:01:16",
-  "total_count": 116,
-  "news_count": 111,
+  "last_updated": "2026-02-17 16:04:19",
+  "total_count": 118,
+  "news_count": 113,
   "android_count": 40,
-  "ios_count": 71,
+  "ios_count": 73,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fc53dd724266",
+      "title": "Apple plans M5-based Private Cloud Compute architecture for Apple Intelligence",
+      "summary": "According to a new Private Cloud Compute software release this week, Apple is starting to use M5 chips in Apple Private Cloud Compute servers. This is the infrastructure that powers Apple Intelligence’s cloud-based features.\nmore…",
+      "url": "https://9to5mac.com/2026/02/17/apple-plans-m5-based-private-cloud-compute-architecture-for-apple-intelligence/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-17 15:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/M4-to-M5-MacBook-Pro-benchmarks-impressive-but-little-real-world-benefit.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 计划为 Apple Intelligence 提供基于 M5 的私有云计算架构",
+      "summary_translated": "根据本周发布的新私有云计算软件，苹果开始在苹果私有云计算服务器中使用 M5 芯片。这是为 Apple Intelligence 的基于云的功能提供支持的基础设施。\n更多的…"
+    },
+    {
+      "id": "b4654fda37bc",
+      "title": "iOS 26.4 preps for CarPlay video feature, code reveals",
+      "summary": "iOS 26.4 is here, at least in beta form, and delving into the code has revealed that Apple is preparing for CarPlay to let you watch videos when parked.\nmore…",
+      "url": "https://9to5mac.com/2026/02/17/ios-26-4-preps-for-carplay-video-feature-code-reveals/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-17 15:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/Apple-WWDC25-iOS-26-CarPlay-Dark-mode-250609_big.jpg.large_2x.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为 CarPlay 视频功能做准备，代码显示",
+      "summary_translated": "iOS 26.4 已经发布，至少是测试版，深入研究代码可以发现，苹果正在为 CarPlay 做准备，让你在停车时观看视频。\n更多的…"
+    },
     {
       "id": "c20592ff3839",
       "title": "iOS 26.4 makes it easy to see who’s using your personal hotspot data",
