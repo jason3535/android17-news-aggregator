@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-17 13:36:52",
-  "total_count": 114,
-  "news_count": 109,
+  "last_updated": "2026-02-17 15:01:16",
+  "total_count": 116,
+  "news_count": 111,
   "android_count": 40,
-  "ios_count": 69,
+  "ios_count": 71,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c20592ff3839",
+      "title": "iOS 26.4 makes it easy to see who’s using your personal hotspot data",
+      "summary": "iOS 26.4 beta 1 debuted yesterday, packing a wide array of new features, including a change for personal hotspot that makes it easy to see who’s using your data.\nmore…",
+      "url": "https://9to5mac.com/2026/02/17/ios-26-4-makes-it-easy-to-see-whos-using-your-personal-hotspot/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-17 14:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-wi-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 让您轻松查看谁在使用您的个人热点数据",
+      "summary_translated": "iOS 26.4 beta 1 于昨天推出，包含大量新功能，包括对个人热点的更改，可以轻松查看谁在使用您的数据。\n更多的…"
+    },
+    {
+      "id": "685f704fc124",
+      "title": "iOS 26.4 Highlights Your Personal Hotspot Data Usage More Prominently",
+      "summary": "iOS 26.4 moves the feature to show how much mobile data connected devices have used via Personal Hotspot to a more prominent and easily accessible location.\n\n\n\n\nNow available in Personal Hotspot settings below the \"Maximize Compatibility\" toggle, the functionality breaks down data usage by device, w",
+      "url": "https://www.macrumors.com/2026/02/17/ios-26-4-shows-hotspot-data-usage/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-17 02:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "iOS 26.4 更突出地突出您的个人热点数据使用情况",
+      "summary_translated": "iOS 26.4 将显示连接设备通过个人热点使用的移动数据量的功能移至更显眼且更易于访问的位置。\n\n\n\n\n现在可在“最大化兼容性”切换下方的个人热点设置中使用，该功能可按设备细分数据使用情况，"
+    },
     {
       "id": "cc7b0a97b622",
       "title": "Apple starts testing end-to-end RCS encryption on iPhone, but without Android support",
