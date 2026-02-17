@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-17 19:12:11",
-  "total_count": 122,
-  "news_count": 117,
+  "last_updated": "2026-02-17 20:52:51",
+  "total_count": 124,
+  "news_count": 119,
   "android_count": 41,
-  "ios_count": 76,
+  "ios_count": 78,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "add369d21097",
+      "title": "iOS 26.4 adds more Sleep and Vitals data to Apple Health",
+      "summary": "Apple released iOS 26.4 beta 1 yesterday, and the update includes a variety of changes and new features. In addition to everything we’ve covered so far, there are two specific changes to the Health app: updates to the Vitals metric and sleep tracking.\nmore…",
+      "url": "https://9to5mac.com/2026/02/17/ios-26-4-adds-more-sleep-and-vitals-data-to-apple-health/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-17 20:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-health-ios-26.4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为 Apple Health 添加了更多睡眠和生命体征数据",
+      "summary_translated": "苹果昨天发布了 iOS 26.4 beta 1，该更新包括各种变化和新功能。除了我们迄今为止介绍的所有内容之外，健康应用程序还有两项具体更改：生命体征指标和睡眠跟踪的更新。\n更多的…"
+    },
     {
       "id": "6a4d0ae6f665",
       "title": "Google shares how Android 17 is making everything run smoother",
@@ -75,6 +89,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-wi-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 让您轻松查看谁在使用您的个人热点数据",
       "summary_translated": "iOS 26.4 beta 1 于昨天推出，包含大量新功能，包括对个人热点的更改，可以轻松查看谁在使用您的数据。\n更多的…"
+    },
+    {
+      "id": "7ca3338f2cf3",
+      "title": "iOS 26.4 Adds Average Bedtime Metric and Restores Blood Oxygen to Health App Vitals Graph",
+      "summary": "In iOS 26.4, Apple added an Average Bedtime metric to the Sleep section of the Health app, letting users better monitor how bedtime impacts sleep quality.\n\n\n\n\nUnder a new Sleep Highlight, Apple lists the time that you went to bed and the time that you usually go to bed based on averages over a two-w",
+      "url": "https://www.macrumors.com/2026/02/17/ios-26-4-average-bedtime-vitals-blood-oxygen/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-17 11:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-average-bedtime.jpg",
+      "title_translated": "iOS 26.4 增加了平均就寝时间指标并恢复了健康应用生命体图的血氧含量",
+      "summary_translated": "在 iOS 26.4 中，Apple 在“健康”应用程序的“睡眠”部分添加了“平均就寝时间”指标，让用户可以更好地监控就寝时间对睡眠质量的影响。\n\n\n\n\n在新的“睡眠亮点”下，苹果根据两周内的平均值列出了您上床睡觉的时间以及您通常上床睡觉的时间。"
     },
     {
       "id": "99f2897a9103",
