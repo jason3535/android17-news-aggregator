@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-17 02:55:00",
-  "total_count": 113,
-  "news_count": 108,
+  "last_updated": "2026-02-17 05:01:59",
+  "total_count": 114,
+  "news_count": 109,
   "android_count": 40,
-  "ios_count": 68,
+  "ios_count": 69,
   "leaker_count": 5,
   "items": [
     {
@@ -75,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 将在所有 iPhone 上激活密钥防盗功能",
       "summary_translated": "iOS 26.4 是下一个重要的 iPhone 软件版本，苹果计划在更新中默认启用一项关键安全功能。\n更多的…"
+    },
+    {
+      "id": "2af9b1deb3b3",
+      "title": "iOS 26.4 Lays Groundwork for CarPlay Video, Including Apple TV",
+      "summary": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, and the first beta of iOS 26.4 suggests the feature may be nearing availability.\n\n\n\n\nThe original mention of the feature appeared on Apple's CarPlay ",
+      "url": "https://www.macrumors.com/2026/02/16/ios-26-4-carplay-video-apple-tv/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-16 19:52",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/Apple-CarPlay-iOS-26-Tight-Crop.jpg",
+      "title_translated": "iOS 26.4 为 CarPlay 视频（包括 Apple TV）奠定了基础",
+      "summary_translated": "早在 WWDC 2025 上，苹果就透露，计划允许 CarPlay 用户在不开车时在车内通过 AirPlay 观看视频，iOS 26.4 的第一个测试版表明该功能可能即将推出。\n\n\n\n\n该功能最初的提及出现在苹果的 CarPlay 上"
     },
     {
       "id": "7c7cd7bd9494",
