@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-17 16:04:19",
-  "total_count": 118,
-  "news_count": 113,
+  "last_updated": "2026-02-17 17:14:00",
+  "total_count": 119,
+  "news_count": 114,
   "android_count": 40,
-  "ios_count": 73,
+  "ios_count": 74,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-wi-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 让您轻松查看谁在使用您的个人热点数据",
       "summary_translated": "iOS 26.4 beta 1 于昨天推出，包含大量新功能，包括对个人热点的更改，可以轻松查看谁在使用您的数据。\n更多的…"
+    },
+    {
+      "id": "4697c9ccaeae",
+      "title": "Apple Intelligence Rollout Nears Completion With Upcoming iPad 12",
+      "summary": "Apple's next entry-level iPad is expected to gain the A18 chip, a change that appears modest on paper but would enable Apple Intelligence on the company's most affordable tablet for the first time.\n\n\n\n\nApple last refreshed the entry-level ‌iPad‌ in March 2025, adding the A16 chip. ‌Apple Intelligenc",
+      "url": "https://www.macrumors.com/2026/02/17/apple-intelligence-nears-completion/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-17 09:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
+      "title_translated": "Apple Intelligence 推出即将完成，即将推出 iPad 12",
+      "summary_translated": "苹果的下一代入门级 iPad 预计将采用 A18 芯片，这一变化在纸面上看似不大，但将首次在该公司最实惠的平板电脑上启用 Apple Intelligence。\n\n\n\n\n苹果上次更新入门级 iPad 是在 2025 年 3 月，添加了 A16 芯片。 ‌苹果智能"
     },
     {
       "id": "685f704fc124",
