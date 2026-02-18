@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-17 23:40:12",
-  "total_count": 126,
-  "news_count": 121,
+  "last_updated": "2026-02-18 03:14:06",
+  "total_count": 127,
+  "news_count": 122,
   "android_count": 41,
-  "ios_count": 80,
+  "ios_count": 81,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-public-beta.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布了第一个 iOS 26.4 公共测试版，其中包含这些更改",
       "summary_translated": "苹果发布了第一个 iPhone 版 iOS 26.4 公开测试版。 iOS 26.4 包含许多令人兴奋的新功能和变化，包括人工智能驱动的 Apple Music 更新。\n更多的…"
+    },
+    {
+      "id": "afaa571380d0",
+      "title": "iOS 26.4 Beta Tidbits: Hidden Features You May Have Missed",
+      "summary": "There is a long list of new features in the iOS 26.4 beta, many of which we highlighted yesterday, but we've since discovered several other smaller changes that Apple made in the software.\n\n\n\n\n\nHealth App\n\niOS 26.4 includes a new Average Bedtime metric for the sleep section of the Health app, provid",
+      "url": "https://www.macrumors.com/2026/02/17/ios-26-4-beta-tidbits/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-17 16:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "iOS 26.4 Beta 花絮：你可能错过的隐藏功能",
+      "summary_translated": "iOS 26.4 Beta 中有一长串新功能，我们昨天重点介绍了其中许多功能，但此后我们发现了苹果在该软件中所做的其他一些较小的更改。\n\n\n\n\n\n健康应用程序\n\niOS 26.4 为健康应用程序的睡眠部分提供了一个新的平均就寝时间指标，提供"
     },
     {
       "id": "fc53dd724266",
@@ -1707,7 +1721,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -1718,7 +1732,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -1729,7 +1743,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -1740,7 +1754,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -1751,7 +1765,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
