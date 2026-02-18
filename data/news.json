@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-18 19:10:41",
-  "total_count": 133,
-  "news_count": 128,
+  "last_updated": "2026-02-18 20:54:10",
+  "total_count": 134,
+  "news_count": 129,
   "android_count": 41,
-  "ios_count": 87,
+  "ios_count": 88,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2783557044c1",
+      "title": "iOS 26.4 adds a new category of CarPlay apps",
+      "summary": "Earlier this month, Bloomberg reported that Apple was preparing to update CarPlay with support for voice-based interactions in AI apps like OpenAI’s ChatGPT and Google’s Gemini. As of this week’s release of iOS 26.4 beta 1, that support has officially arrived.\nHere’s how it works.\nmore…",
+      "url": "https://9to5mac.com/2026/02/18/ios-26-4-adds-support-for-voice-based-ai-apps-to-carplay/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-18 19:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-tapbacks-ios-26.jpeg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 添加了新的 CarPlay 应用类别",
+      "summary_translated": "本月早些时候，彭博社报道称，苹果正准备更新 CarPlay，支持 OpenAI 的 ChatGPT 和谷歌的 Gemini 等人工智能应用程序中基于语音的交互。自本周发布 iOS 26.4 beta 1 以来，该支持已正式到来。\n这是它的工作原理。\n更多的…"
+    },
     {
       "id": "17eaad909499",
       "title": "Apple Music in iOS 26.4: Five new features coming to iPhone",
