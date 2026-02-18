@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-18 13:38:39",
-  "total_count": 127,
-  "news_count": 122,
+  "last_updated": "2026-02-18 15:00:08",
+  "total_count": 129,
+  "news_count": 124,
   "android_count": 41,
-  "ios_count": 81,
+  "ios_count": 83,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9acb6eef2fac",
+      "title": "Early demo reveals how CarPlay handles video in iOS 26.4, including Apple TV app",
+      "summary": "Starting with iOS 26, Apple will officially allow video playback through CarPlay. Released this week in beta, iOS 26.4 appears to be the first version with support, as long as two conditions are met. While CarPlay video playback isn’t ready for users yet, one developer has shown off how it will look",
+      "url": "https://9to5mac.com/2026/02/18/early-demo-reveals-how-carplay-handles-video-in-ios-26-4-including-apple-tv-ui/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-18 14:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "早期演示揭示了 CarPlay 如何在 iOS 26.4 中处理视频，包括 Apple TV 应用",
+      "summary_translated": "从 iOS 26 开始，苹果将正式允许通过 CarPlay 播放视频。 iOS 26.4 本周发布了测试版，它似乎是第一个支持的版本，只要满足两个条件即可。虽然 CarPlay 视频播放尚未为用户做好准备，但一位开发人员已经展示了它的外观"
+    },
+    {
+      "id": "704cf0dc11db",
+      "title": "Apple is making it easier to customize how subtitles look on iPhone",
+      "summary": "The usage of subtitles and captions in TV shows and movies is ever increasing, both due to the popularity of foreign language content and Hollywood’s inability to produce an audio track where the person speaking is sufficiently intelligible.  \nWith iOS 26.4, Apple is improving the subtitles experien",
+      "url": "https://9to5mac.com/2026/02/18/iphone-subtitle-design-customize-apple-tv/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-18 13:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-video-subtitles-caption.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 正在让自定义字幕在 iPhone 上的显示方式变得更加容易",
+      "summary_translated": "电视节目和电影中字幕的使用量不断增加，这既是由于外语内容的流行，也是由于好莱坞无法制作出说话人足够清晰的音轨。  \n在 iOS 26.4 中，Apple 正在改善字幕体验"
+    },
     {
       "id": "22cb4708b4a4",
       "title": "9to5Mac Daily: February 17, 2026 – iOS 26.4 beta now available, what’s new?",
