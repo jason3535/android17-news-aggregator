@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-18 15:00:08",
-  "total_count": 129,
-  "news_count": 124,
+  "last_updated": "2026-02-18 16:03:50",
+  "total_count": 131,
+  "news_count": 126,
   "android_count": 41,
-  "ios_count": 83,
+  "ios_count": 85,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "17eaad909499",
+      "title": "Apple Music in iOS 26.4: Five new features coming to iPhone",
+      "summary": "iOS 26.4 is packed with new features and changes, including five updates for the Music app. Here’s everything new for Apple Music in iOS 26.4.\nmore…",
+      "url": "https://9to5mac.com/2026/02/18/apple-music-in-ios-26-4-five-new-features-coming-to-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-18 15:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-apple-music-new-features.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 中的 Apple Music：iPhone 即将推出五项新功能",
+      "summary_translated": "iOS 26.4 充满了新功能和变化，其中包括音乐应用程序的五项更新。以下是 iOS 26.4 中 Apple Music 的所有新功能。\n更多的…"
+    },
+    {
+      "id": "83dade14e3cc",
+      "title": "iOS 26.4 beta 1: Notification Forwarding onboarding, allow search on iCloud․com, and more [Video]",
+      "summary": "In this new episode of iOS Decoded, we take a deep dive into what’s new in iOS 26.4 beta 1, with in-depth looks at dozens of new features and changes. For example, we get our first look at the Notification Forwarding setup for third-party smart watches and other hardware devices in the EU, along wit",
+      "url": "https://9to5mac.com/2026/02/18/ios-26-4-beta-1-notification-forwarding-onboarding-allow-search-on-icloud%e2%80%a4com-and-more-video/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-18 15:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-Beta-1-Changes-and-Features-Notification-Forwarding.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 beta 1：通知转发入门、允许在 iCloud․com 上搜索等 [视频]",
+      "summary_translated": "在这一新的 iOS 解码中，我们深入探讨了 iOS 26.4 beta 1 中的新增功能，深入研究了数十项新功能和变化。例如，我们首先了解了欧盟第三方智能手表和其他硬件设备的通知转发设置，以及"
+    },
     {
       "id": "9acb6eef2fac",
       "title": "Early demo reveals how CarPlay handles video in iOS 26.4, including Apple TV app",
