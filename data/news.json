@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-18 17:18:28",
-  "total_count": 131,
-  "news_count": 126,
+  "last_updated": "2026-02-18 19:10:41",
+  "total_count": 133,
+  "news_count": 128,
   "android_count": 41,
-  "ios_count": 85,
+  "ios_count": 87,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-video-subtitles-caption.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 正在让自定义字幕在 iPhone 上的显示方式变得更加容易",
       "summary_translated": "电视节目和电影中字幕的使用量不断增加，这既是由于外语内容的流行，也是由于好莱坞无法制作出说话人足够清晰的音轨。  \n在 iOS 26.4 中，Apple 正在改善字幕体验"
+    },
+    {
+      "id": "f3c92e26ca01",
+      "title": "iOS 26.4 Brings CarPlay Support for ChatGPT, Claude and Gemini",
+      "summary": "With iOS 26.4, CarPlay users will be able to use third-party chatbots with ‌CarPlay‌. AI services like Claude, Gemini, and ChatGPT will be accessible through the ‌CarPlay‌ system for the first time.\n\n\n\n\nApple's ‌CarPlay‌ Developer Guide [PDF] lists voice-based conversational apps as a supported app ",
+      "url": "https://www.macrumors.com/2026/02/18/ios-26-4-carplay-support/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-18 10:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "title_translated": "iOS 26.4 为 ChatGPT、Claude 和 Gemini 带来 CarPlay 支持",
+      "summary_translated": "在 iOS 26.4 中，CarPlay 用户将能够通过“CarPlay”使用第三方聊天机器人。 Claude、Gemini 和 ChatGPT 等人工智能服务将首次通过 CarPlay 系统访问。\n\n\n\n\nApple 的 CarPlay 开发人员指南 [PDF] 将基于语音的对话应用程序列为受支持的应用程序"
+    },
+    {
+      "id": "fd3b527df676",
+      "title": "iOS 26.4's Major New CarPlay Feature Revealed",
+      "summary": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, and the first beta of iOS 26.4 suggests the feature may be nearing availability.\n\n\n\n\nThere are several new references to CarPlay video streaming func",
+      "url": "https://www.macrumors.com/2026/02/18/ios-26-4-major-new-carplay-feature-revealed/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-18 09:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Dark.jpg",
+      "title_translated": "iOS 26.4 的主要新 CarPlay 功能揭晓",
+      "summary_translated": "早在 WWDC 2025 上，苹果就透露，计划允许 CarPlay 用户在不开车时在车内通过 AirPlay 观看视频，iOS 26.4 的第一个测试版表明该功能可能即将推出。\n\n\n\n\nCarPlay 视频流功能有几个新的参考"
     },
     {
       "id": "22cb4708b4a4",
