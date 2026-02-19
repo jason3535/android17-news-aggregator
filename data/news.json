@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-19 19:49:12",
-  "total_count": 137,
-  "news_count": 132,
+  "last_updated": "2026-02-19 20:47:54",
+  "total_count": 138,
+  "news_count": 133,
   "android_count": 42,
-  "ios_count": 90,
+  "ios_count": 91,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9832d14f3340",
+      "title": "Apple event confirmed, iOS 26.4 features, Apple AI devices",
+      "summary": "Benjamin and Chance discuss all the new features in iOS 26.4, which turned out to be a pretty packed release, even with the Siri features missing in action. Also, Apple confirms a product event for March 4, with rumors of new Macs and more in the air. Finally, Bloomberg reports Apple is advancing wo",
+      "url": "https://9to5mac.com/2026/02/19/happy-hour-578/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-19 20:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果活动确认，iOS 26.4功能，苹果AI设备",
+      "summary_translated": "Benjamin 和 Chance 讨论了 iOS 26.4 中的所有新功能，尽管 Siri 功能缺失，但事实证明这是一个非常丰富的版本。此外，Apple 还确认了 3 月 4 日的产品发布会，并有关于新款 Mac 等产品的传言。最后，彭博社报道苹果正在推进世界"
+    },
     {
       "id": "bce2abb1fa99",
       "title": "iOS 27 will bring Liquid Glass changes, and I’m excited for one reason",
