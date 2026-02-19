@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-19 19:05:21",
-  "total_count": 136,
-  "news_count": 131,
+  "last_updated": "2026-02-19 19:49:12",
+  "total_count": 137,
+  "news_count": 132,
   "android_count": 42,
-  "ios_count": 89,
+  "ios_count": 90,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bce2abb1fa99",
+      "title": "iOS 27 will bring Liquid Glass changes, and I’m excited for one reason",
+      "summary": "iOS 27 will reportedly come with changes to the iPhone’s interface. Those changes aren’t expected to be as major as iOS 26, but they could still reveal a lot about Apple’s priorities under new design leadership.\nmore…",
+      "url": "https://9to5mac.com/2026/02/19/ios-27-will-bring-liquid-glass-changes-and-im-excited-for-one-reason/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-19 19:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 将带来 Liquid Glass 的变化，我很兴奋有一个原因",
+      "summary_translated": "据报道，iOS 27 将对 iPhone 界面进行更改。这些变化预计不会像 iOS 26 那样重大，但它们仍然可以揭示苹果在新设计领导下的优先事项。\n更多的…"
+    },
     {
       "id": "15688424cbb9",
       "title": "5 secret Android 17 features I’m looking forward to, and one I really don’t want",
