@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-19 11:03:09",
-  "total_count": 135,
-  "news_count": 130,
-  "android_count": 41,
+  "last_updated": "2026-02-19 11:51:35",
+  "total_count": 136,
+  "news_count": 131,
+  "android_count": 42,
   "ios_count": 89,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "15688424cbb9",
+      "title": "5 secret Android 17 features I’m looking forward to, and one I really don’t want",
+      "summary": "Android 17 seems like a lackluster update on paper, but there are many exciting features in the works.",
+      "url": "https://www.androidauthority.com/5-android-features-looking-forward-to-one-really-dont-want-3642011/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-19 11:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-1-scaled.jpg",
+      "title_translated": "Android 17 的 5 项秘密功能我很期待，但有一项我真的不想要",
+      "summary_translated": "Android 17 表面上看起来平淡无奇，但实际上有许多令人兴奋的功能正在开发中。"
+    },
     {
       "id": "2ddb7ffa4137",
       "title": "9to5Mac Daily: February 18, 2026 – iOS 27 expectations, AI products",
