@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-19 21:46:12",
-  "total_count": 138,
-  "news_count": 133,
+  "last_updated": "2026-02-19 22:47:46",
+  "total_count": 139,
+  "news_count": 134,
   "android_count": 42,
-  "ios_count": 91,
+  "ios_count": 92,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "469291dab191",
+      "title": "Apple and Jon Prosser coordinating deposition in iOS 26 leak case",
+      "summary": "In a joint status report with Michael Ramacciotti’s legal team, Apple also disclosed new details about its efforts to depose Jon Prosser as part of the iOS 26 leak case. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/02/19/apple-and-jon-prosser-coordinating-deposition-in-ios-26-leak-case/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-19 22:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 和 Jon Prosser 协调 iOS 26 泄露案件的证词",
+      "summary_translated": "在与 Michael Ramacciotti 法律团队的联合状态报告中，苹果还披露了有关其在 iOS 26 泄露案件中罢黜 Jon Prosser 的努力的新细节。以下是详细信息。\n更多的…"
+    },
     {
       "id": "9832d14f3340",
       "title": "Apple event confirmed, iOS 26.4 features, Apple AI devices",
