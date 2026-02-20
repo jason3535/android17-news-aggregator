@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-20 21:36:42",
-  "total_count": 142,
-  "news_count": 137,
+  "last_updated": "2026-02-20 22:42:15",
+  "total_count": 143,
+  "news_count": 138,
   "android_count": 42,
-  "ios_count": 95,
+  "ios_count": 96,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ed02ccfb2e1e",
+      "title": "iOS 26 added my favorite new iPhone ringtone, listen here",
+      "summary": "My iPhone stays on silent most of the time, but a new iOS 26 ringtone has made me very tempted to rethink that choice because it’s such a pleasant tune. Here’s my new favorite iPhone ringtone.\nmore…",
+      "url": "https://9to5mac.com/2026/02/20/ios-26-added-my-favorite-new-iphone-ringtone-listen-here/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-20 21:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-phone-app.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 添加了我最喜欢的新 iPhone 铃声，请听这里",
+      "summary_translated": "我的 iPhone 大部分时间都处于静音状态，但新的 iOS 26 铃声让我很想重新考虑这个选择，因为它的曲调非常令人愉悦。这是我最喜欢的 iPhone 铃声。\n更多的…"
+    },
     {
       "id": "5255ac0be148",
       "title": "CarPlay just got a big upgrade, and iOS 26.4 delivers even more",
