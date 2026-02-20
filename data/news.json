@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-20 14:55:10",
-  "total_count": 141,
-  "news_count": 136,
+  "last_updated": "2026-02-20 15:50:02",
+  "total_count": 142,
+  "news_count": 137,
   "android_count": 42,
-  "ios_count": 94,
+  "ios_count": 95,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5255ac0be148",
+      "title": "CarPlay just got a big upgrade, and iOS 26.4 delivers even more",
+      "summary": "The last year has been an exciting one for CarPlay, with CarPlay Ultra launching and iOS 26 bringing some of the biggest CarPlay changes in years. Now iOS 26.4 is set to continue this positive trend, showing that CarPlay’s best days may be ahead.\nmore…",
+      "url": "https://9to5mac.com/2026/02/20/carplay-just-got-a-big-upgrade-and-ios-26-4-delivers-even-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-20 15:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/carplay-ultra-ios-26-aston.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "CarPlay 刚刚获得重大升级，iOS 26.4 提供更多功能",
+      "summary_translated": "去年对于 CarPlay 来说是令人兴奋的一年，CarPlay Ultra 的推出以及 iOS 26 带来了多年来 CarPlay 的一些最大变化。现在，iOS 26.4 将延续这一积极趋势，表明 CarPlay 最好的日子可能即将到来。\n更多的…"
+    },
     {
       "id": "b30360313708",
       "title": "9to5Mac Overtime 060: The perfect testbed for cellular Macs",
