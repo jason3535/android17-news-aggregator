@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-20 13:21:32",
-  "total_count": 139,
-  "news_count": 134,
+  "last_updated": "2026-02-20 14:55:10",
+  "total_count": 141,
+  "news_count": 136,
   "android_count": 42,
-  "ios_count": 92,
+  "ios_count": 94,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b30360313708",
+      "title": "9to5Mac Overtime 060: The perfect testbed for cellular Macs",
+      "summary": "Episode 060: First impressions of iOS 26.4 beta 1, a preview of Apple’s upcoming March 4th event, and why the upcoming low-cost MacBook is by far its most interesting new product on the horizon.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ",
+      "url": "https://9to5mac.com/2026/02/20/9to5mac-overtime-060-the-perfect-testbed-for-cellular-macs/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-20 14:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/IMG_4804.png?w=1600",
+      "title_translated": "9to5Mac Overtime 060：蜂窝 Mac 的完美测试平台",
+      "summary_translated": "第 060 集：iOS 26.4 beta 1 的第一印象，苹果即将举行的 3 月 4 日活动预览，以及为什么即将推出的低成本 MacBook 是迄今为止最有趣的新产品。\n9to5Mac Overtime 是每周一次的视频优先播客，探索 Apple 中有趣的观察结果"
+    },
+    {
+      "id": "804870fe2af7",
+      "title": "Security Bite: The two biggest security upgrades in iOS 26.4 explained",
+      "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
+      "url": "https://9to5mac.com/2026/02/20/security-bite-the-two-biggest-security-upgrades-in-ios-26-4-explained/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-20 13:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "安全要点：解释 iOS 26.4 中两项最大的安全升级",
+      "summary_translated": "9to5Mac Security Bite 由唯一的 Apple 统一平台 Mosyle 独家为您提供。 我们所做的就是让 Apple 设备做好工作准备并确保企业安全。我们独特的管理和安全集成方法结合了最先进的 Apple 特定安全解决方案，可实现完全自动化"
+    },
     {
       "id": "469291dab191",
       "title": "Apple and Jon Prosser coordinating deposition in iOS 26 leak case",
