@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-21 13:09:29",
-  "total_count": 144,
-  "news_count": 139,
+  "last_updated": "2026-02-21 14:39:00",
+  "total_count": 145,
+  "news_count": 140,
   "android_count": 43,
-  "ios_count": 96,
+  "ios_count": 97,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
       "title_translated": "After using Android 17 Beta 1, I can’t go back to Android 16 because of these 2 features",
       "summary_translated": "谷歌的下一次 Android 更新已经有了一个令人难以置信的开始。"
+    },
+    {
+      "id": "ba7ebf746ec3",
+      "title": "Top Stories: Apple Event on March 4, iOS 26.4 Beta, and More",
+      "summary": "It looks like our first major Apple product announcements of 2026 are right around the corner, with Apple announcing a \"special Apple Experience\" for members of the media scheduled for March 4 where we're expecting to see them get hands-on time with several newly announced products.\n\n\n\n\nIn other App",
+      "url": "https://www.macrumors.com/2026/02/21/top-stories-apple-event-march-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-21 06:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/top-stories-2026-02-21.jpg",
+      "title_translated": "热门新闻：3 月 4 日的 Apple 活动、iOS 26.4 Beta 等",
+      "summary_translated": "看起来我们 2026 年的首个主要 Apple 产品发布即将到来，Apple 宣布定于 3 月 4 日为媒体成员提供“特别的 Apple 体验”，我们预计他们将有机会亲身体验几款新发布的产品。\n\n\n\n\n在其他应用程序中"
     },
     {
       "id": "ed02ccfb2e1e",
