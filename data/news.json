@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-21 10:40:03",
-  "total_count": 143,
-  "news_count": 138,
-  "android_count": 42,
+  "last_updated": "2026-02-21 11:32:42",
+  "total_count": 144,
+  "news_count": 139,
+  "android_count": 43,
   "ios_count": 96,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9a6ee2577866",
+      "title": "After using Android 17 Beta 1, I can’t go back to Android 16 because of these 2 features",
+      "summary": "Google's next Android update is off to an incredible start.",
+      "url": "https://www.androidauthority.com/android-17-beta-1-hands-on-3642520/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-21 11:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
+      "title_translated": "After using Android 17 Beta 1, I can’t go back to Android 16 because of these 2 features",
+      "summary_translated": "谷歌的下一次 Android 更新已经有了一个令人难以置信的开始。"
+    },
     {
       "id": "ed02ccfb2e1e",
       "title": "iOS 26 added my favorite new iPhone ringtone, listen here",
