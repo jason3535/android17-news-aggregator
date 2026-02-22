@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-22 19:35:11",
-  "total_count": 145,
-  "news_count": 140,
+  "last_updated": "2026-02-22 20:39:22",
+  "total_count": 146,
+  "news_count": 141,
   "android_count": 43,
-  "ios_count": 97,
+  "ios_count": 98,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5c1372e03eb1",
+      "title": "Apple should take Visual Intelligence one step further – with Reminders",
+      "summary": "One of the core Apple Intelligence features to date has been Visual Intelligence. It started off in a rather limited capacity through Camera Control, but with iOS 26, the company expanded it to screenshots. I’ve found those capabilities very useful thus far, and I’d love to see Apple take it even fu",
+      "url": "https://9to5mac.com/2026/02/22/apple-visual-intelligence-reminders-feature-request-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-22 20:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果应该通过提醒将视觉智能更进一步",
+      "summary_translated": "迄今为止，Apple Intelligence 的核心功能之一是视觉智能。一开始，它通过相机控制功能相当有限，但在 iOS 26 中，该公司将其扩展到屏幕截图。到目前为止，我发现这些功能非常有用，我很高兴看到 Apple 进一步利用它"
+    },
     {
       "id": "9a6ee2577866",
       "title": "After using Android 17 Beta 1, I can’t go back to Android 16 because of these 2 features",
