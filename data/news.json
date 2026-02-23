@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-23 20:58:40",
-  "total_count": 154,
-  "news_count": 149,
+  "last_updated": "2026-02-23 22:03:23",
+  "total_count": 156,
+  "news_count": 151,
   "android_count": 43,
-  "ios_count": 106,
+  "ios_count": 108,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "74c0261330d9",
+      "title": "iOS 26.4 beta 2: Here’s what’s new",
+      "summary": "One week after the release of the first beta, iOS 26.4 beta 2 is now available. The update continues to refine new features and changes for iPhone users. There are updates to RCS encryption, the Games app, and more. \nmore…",
+      "url": "https://9to5mac.com/2026/02/23/ios-26-4-beta-2-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-23 21:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 beta 2：以下是新功能",
+      "summary_translated": "第一个测试版发布一周后，iOS 26.4 beta 2 现已推出。此次更新继续为 iPhone 用户完善新功能和变化。 RCS 加密、游戏应用程序等都有更新。 \n更多的…"
+    },
     {
       "id": "bb769e659f93",
       "title": "iOS 26.4 makes two app updates that bring back iOS 18 designs",
@@ -75,6 +89,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.3.1.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.3.1 可能会在下一次 iPhone 更新时发布",
       "summary_translated": "苹果目前正在对 iOS 26.4 作为其下一个主要 iPhone 更新进行 Beta 测试，但根据 9to5Mac 的访客日志，似乎有一个较小的软件版本首先发布：iOS 26.3.1 即将推出。\n更多的…"
+    },
+    {
+      "id": "4e307278922b",
+      "title": "Everything New in iOS 26.4 Beta 2",
+      "summary": "Testing on the iOS 26.4 update is continuing, and Apple released the second beta today. The main new feature is an expansion of RCS encryption testing, but there are a few other small tweaks.\n\n\n\n\nEnd-to-End Encryption RCS Testing\n\nWith the second beta of iOS 26.4, Apple is testing end-to-end encrypt",
+      "url": "https://www.macrumors.com/2026/02/23/ios-26-4-beta-2-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-23 13:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "iOS 26.4 Beta 2 中的所有新功能",
+      "summary_translated": "iOS 26.4 更新的测试仍在继续，苹果今天发布了第二个测试版。主要的新功能是 RCS 加密测试的扩展，但还有一些其他的小调整。\n\n\n\n\n端到端加密 RCS 测试\n\n在 iOS 26.4 的第二个测试版中，Apple 正在测试端到端加密"
     },
     {
       "id": "35ed6ef042fa",
