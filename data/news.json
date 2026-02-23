@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-23 13:38:58",
-  "total_count": 147,
-  "news_count": 142,
+  "last_updated": "2026-02-23 15:02:07",
+  "total_count": 148,
+  "news_count": 143,
   "android_count": 43,
-  "ios_count": 99,
+  "ios_count": 100,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b77ef578cd59",
+      "title": "iOS 26.3.1 could launch soon as the next iPhone update",
+      "summary": "Apple is currently beta testing iOS 26.4 as its next major iPhone update, but per 9to5Mac’s visitor logs, it appears there’s a smaller software release launching first: iOS 26.3.1 is coming soon.\nmore…",
+      "url": "https://9to5mac.com/2026/02/23/ios-26-3-1-could-launch-soon-as-the-next-iphone-update/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-23 14:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.3.1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.3.1 可能会在下一次 iPhone 更新时发布",
+      "summary_translated": "苹果目前正在对 iOS 26.4 作为其下一个主要 iPhone 更新进行 Beta 测试，但根据 9to5Mac 的访客日志，似乎有一个较小的软件版本首先发布：iOS 26.3.1 即将推出。\n更多的…"
+    },
     {
       "id": "5c1372e03eb1",
       "title": "Apple should take Visual Intelligence one step further – with Reminders",
