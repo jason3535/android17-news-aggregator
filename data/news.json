@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-23 19:20:22",
-  "total_count": 153,
-  "news_count": 148,
+  "last_updated": "2026-02-23 20:58:40",
+  "total_count": 154,
+  "news_count": 149,
   "android_count": 43,
-  "ios_count": 105,
+  "ios_count": 106,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bb769e659f93",
+      "title": "iOS 26.4 makes two app updates that bring back iOS 18 designs",
+      "summary": "iOS 26.4 beta 2 arrived today for developers, with two app changes that reverse iOS 26 search designs to be more like iOS 18.\nmore…",
+      "url": "https://9to5mac.com/2026/02/23/ios-26-4-makes-two-app-updates-that-bring-back-ios-18-designs/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-23 19:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-games-app-design.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 进行了两项应用程序更新，恢复了 iOS 18 的设计",
+      "summary_translated": "iOS 26.4 beta 2 今天面向开发者发布，其中两项应用程序更改将 iOS 26 的搜索设计逆转为更像 iOS 18。\n更多…"
+    },
     {
       "id": "35e6f35267a0",
       "title": "iOS 26.4 beta 2 adds support for testing encrypted RCS between iPhone and Android",
