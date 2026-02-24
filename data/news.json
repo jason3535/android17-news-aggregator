@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-24 15:05:28",
-  "total_count": 156,
-  "news_count": 151,
+  "last_updated": "2026-02-24 16:13:17",
+  "total_count": 157,
+  "news_count": 152,
   "android_count": 43,
-  "ios_count": 108,
+  "ios_count": 109,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1496c9f6d830",
+      "title": "iOS 26.4 release date: Here’s when to expect new iPhone features",
+      "summary": "iOS 26.4 is a big update with plenty of new features for Apple Music, Podcasts, CarPlay, and more. The software is currently available in beta, here’s when to expect its public launch.\nmore…",
+      "url": "https://9to5mac.com/2026/02/24/ios-26-4-release-date-heres-when-to-expect-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-24 15:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-when.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 发布日期：iPhone 新功能的发布时间",
+      "summary_translated": "iOS 26.4 是一次重大更新，为 Apple Music、播客、CarPlay 等带来了大量新功能。该软件目前处于测试阶段，预计其公开发布时间如下。\n更多的…"
+    },
     {
       "id": "74c0261330d9",
       "title": "iOS 26.4 beta 2: Here’s what’s new",
