@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-24 16:13:17",
-  "total_count": 157,
-  "news_count": 152,
+  "last_updated": "2026-02-24 18:07:15",
+  "total_count": 158,
+  "news_count": 153,
   "android_count": 43,
-  "ios_count": 109,
+  "ios_count": 110,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ce9d5be54ff1",
+      "title": "iOS 27’s most fascinating change might stay secret until September",
+      "summary": "iOS 27 will be unveiled in just a few months at WWDC, but there’s one rumored change that’s likely to stay a secret until close to the September launch: iPhone Fold multitasking.\nmore…",
+      "url": "https://9to5mac.com/2026/02/24/ios-27s-most-fascinating-change-might-stay-secret-until-september/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-24 16:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 最引人入胜的变化可能要等到 9 月才能揭晓",
+      "summary_translated": "iOS 27 将在几个月后的 WWDC 上亮相，但有一个传闻中的变化可能会在 9 月份发布之前一直保密：iPhone Fold 多任务处理。\n更多的…"
+    },
     {
       "id": "1496c9f6d830",
       "title": "iOS 26.4 release date: Here’s when to expect new iPhone features",
