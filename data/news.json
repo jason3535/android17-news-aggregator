@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-25 19:18:45",
-  "total_count": 161,
-  "news_count": 156,
-  "android_count": 43,
-  "ios_count": 113,
+  "last_updated": "2026-02-25 20:51:39",
+  "total_count": 163,
+  "news_count": 158,
+  "android_count": 44,
+  "ios_count": 114,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2c77834263f4",
+      "title": "Motorola Android 17 betas are getting started — here’s how to sign up",
+      "summary": "In the US, you'll need a Motorola Edge 2025 to participate.",
+      "url": "https://www.androidauthority.com/motorola-android-17-beta-3644315/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-02-25 20:16",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/2025_MOTOROLA_EDGE_LIFESTYLE_6_optimized.jpg",
+      "title_translated": "摩托罗拉 Android 17 测试版即将开始——注册方法如下",
+      "summary_translated": "在美国，您需要有 Motorola Edge 2025 才能参与。"
+    },
     {
       "id": "a51a02f9a23a",
       "title": "iOS 26.4 beta 2 changes and features: hints at upcoming upgrades [Video]",
@@ -33,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-age-verification-in-iOS-26-4-beta-2-took-less-than-30-seconds.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 beta 2 中的 Apple 年龄验证耗时不到 30 秒",
       "summary_translated": "iOS 26.4 的最新测试版为英国的 iPhone 用户提供了一个额外的步骤。安装后，“设置”应用程序将提示您确认您已年满 18 岁。\n如果 Apple 不确定您的年龄，您可能需要扫描信用卡或带照片的身份证件以确认您是成年人。就我而言，这很复杂"
+    },
+    {
+      "id": "ea2463010bad",
+      "title": "macOS 27: All the Rumors So Far",
+      "summary": "macOS 27 is still months away, but there are already a handful of rumors about the upcoming software update, as outlined below.\n\n\n\n\nWe expect the first beta of macOS 27 to be seeded to developers during WWDC 2026 in June, and a public beta to follow in July. Following beta testing, the update should",
+      "url": "https://www.macrumors.com/2026/02/25/macos-27-all-the-rumors-so-far/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-25 12:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/macOS-27-Feature-Blue.jpg",
+      "title_translated": "macOS 27：迄今为止的所有谣言",
+      "summary_translated": "距离 macOS 27 发布还有几个月的时间，但已经有一些关于即将发布的软件更新的传言，如下所述。\n\n\n\n\n我们预计 macOS 27 的第一个 Beta 版将在 6 月的 WWDC 2026 期间向开发者发布，随后将在 7 月发布公开测试版。 Beta 测试之后，更新应该"
     },
     {
       "id": "89a2c793b6f9",
