@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-25 21:47:05",
-  "total_count": 164,
-  "news_count": 159,
+  "last_updated": "2026-02-25 22:49:11",
+  "total_count": 165,
+  "news_count": 160,
   "android_count": 45,
-  "ios_count": 114,
+  "ios_count": 115,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "95ebd4603ca6",
+      "title": "iOS 26 has made Apple Passwords the only password manager I need",
+      "summary": "iOS 26 is packed with big and small changes, three of which have enabled me to make Apple’s Passwords app my one and only password manager.\nmore…",
+      "url": "https://9to5mac.com/2026/02/25/ios-26-has-made-apple-passwords-the-only-password-manager-i-need/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-25 21:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/passwords-app-ios-26-dark.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 使 Apple Passwords 成为我唯一需要的密码管理器",
+      "summary_translated": "iOS 26 充满了大大小小的变化，其中三项使我能够将 Apple 的密码应用程序变成我唯一的密码管理器。\n更多的…"
+    },
     {
       "id": "a1a8e2c53f90",
       "title": "Google teases ‘amazing things’ in Android 17",
