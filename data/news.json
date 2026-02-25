@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-25 20:51:39",
-  "total_count": 163,
-  "news_count": 158,
-  "android_count": 44,
+  "last_updated": "2026-02-25 21:47:05",
+  "total_count": 164,
+  "news_count": 159,
+  "android_count": 45,
   "ios_count": 114,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a1a8e2c53f90",
+      "title": "Google teases ‘amazing things’ in Android 17",
+      "summary": "Google’s Sameer Samat took the stage at Galaxy Unpacked today and teased “amazing things” coming to Android 17.\nmore…",
+      "url": "https://9to5google.com/2026/02/25/android-17-tease-unpacked-2026/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-25 20:59",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Google-Samsung-Unpacked-2026-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌在 Android 17 中调侃“令人惊奇的事情”",
+      "summary_translated": "谷歌的 Sameer Samat 今天在 Galaxy Unpacked 上登台，并调侃 Android 17 即将推出“令人惊奇的东西”。\n更多…"
+    },
     {
       "id": "2c77834263f4",
       "title": "Motorola Android 17 betas are getting started — here’s how to sign up",
