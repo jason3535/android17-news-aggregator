@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-24 23:44:44",
-  "total_count": 158,
-  "news_count": 153,
+  "last_updated": "2026-02-25 03:12:11",
+  "total_count": 159,
+  "news_count": 154,
   "android_count": 43,
-  "ios_count": 110,
+  "ios_count": 111,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "89a2c793b6f9",
+      "title": "9to5Mac Daily: February 24, 2026 – Apple US manufacturing, iOS 26.4 beta 2",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by BenQ: Check out BenQ’s smarter displays made for how Mac ",
+      "url": "https://9to5mac.com/2026/02/24/daily-february-24-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-25 00:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 2 月 24 日 – Apple 美国制造，iOS 26.4 beta 2",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 BenQ 赞助：了解 BenQ 专为 Mac 打造的智能显示器"
+    },
     {
       "id": "ce9d5be54ff1",
       "title": "iOS 27’s most fascinating change might stay secret until September",
@@ -2155,7 +2169,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -2166,7 +2180,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -2177,7 +2191,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -2188,7 +2202,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -2199,7 +2213,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-02-24",
+      "date": "2026-02-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
