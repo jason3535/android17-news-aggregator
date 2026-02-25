@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-25 15:05:47",
-  "total_count": 160,
-  "news_count": 155,
+  "last_updated": "2026-02-25 17:17:08",
+  "total_count": 161,
+  "news_count": 156,
   "android_count": 43,
-  "ios_count": 112,
+  "ios_count": 113,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a51a02f9a23a",
+      "title": "iOS 26.4 beta 2 changes and features: hints at upcoming upgrades [Video]",
+      "summary": "Although it lacked the much-anticipated new Google Gemini-powered Siri features, the initial iOS 26.4 beta release was still jam-packed with new changes. As a result, we showcased over 40 new updates in our iOS 26.4 Beta 1 walkthrough.\nThe second iOS 26.4 Beta doesn’t include nearly as many changes,",
+      "url": "https://9to5mac.com/2026/02/25/ios-26-4-beta-2-changes-and-features-hints-at-upcoming-upgrades-video/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-25 15:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-beta-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 beta 2 的变化和功能：即将升级的提示 [视频]",
+      "summary_translated": "尽管缺少备受期待的 Google Gemini 支持的 Siri 新功能，最初的 iOS 26.4 Beta 版本仍然充满了新的变化。因此，我们在 iOS 26.4 Beta 1 演练中展示了 40 多个新更新。\n第二个 iOS 26.4 Beta 并没有包含那么多的变化，"
+    },
     {
       "id": "d8b7fb0d9bb5",
       "title": "Apple age verification in iOS 26.4 beta 2 took less than 30 seconds",
