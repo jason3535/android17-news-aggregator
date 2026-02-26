@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-02-26 21:43:46",
-  "total_count": 175,
-  "news_count": 170,
-  "android_count": 50,
+  "last_updated": "2026-02-26 22:49:30",
+  "total_count": 177,
+  "news_count": 172,
+  "android_count": 52,
   "ios_count": 120,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7e9503161984",
+      "title": "Android 17 Beta 2 refreshes location and camera access indicators, ditches wide design",
+      "summary": "This is the second time Google has adjusted how privacy icons appear in the status bar recently. This time, Android 17 Beta 2 simplifies the privacy icons with more instantly recognizable designs.\nmore…",
+      "url": "https://9to5google.com/2026/02/26/android-17-beta-2-privacy-icon-changed/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-26 22:22",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 Beta 2 刷新了位置和相机访问指示器，放弃了宽设计",
+      "summary_translated": "这是谷歌近期第二次调整隐私图标在状态栏中的显示方式。这次，Android 17 Beta 2 以更容易识别的设计简化了隐私图标。\n更多的…"
+    },
+    {
+      "id": "412b3a329bb0",
+      "title": "How to install the Android 17 Beta on Google Pixel",
+      "summary": "Google has released Android 17 in beta for Pixel devices, skipping the usual Developer Preview given the arrival of new Canary builds, and you can install it now. Here’s how.\nmore…",
+      "url": "https://9to5google.com/2026/02/26/how-to-install-the-android-17-beta-on-google-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-02-26 21:55",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "如何在 Google Pixel 上安装 Android 17 Beta",
+      "summary_translated": "谷歌已经发布了适用于 Pixel 设备的 Android 17 测试版，鉴于新的 Canary 版本的到来，跳过了通常的开发者预览版，您现在就可以安装它。方法如下。\n更多的…"
+    },
     {
       "id": "07b0fc4a670f",
       "title": "iOS 26’s Apple Maps feature can save you from traffic, here’s how to set it up",
