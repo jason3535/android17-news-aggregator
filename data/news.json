@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-26 19:06:50",
-  "total_count": 168,
-  "news_count": 163,
+  "last_updated": "2026-02-26 20:51:49",
+  "total_count": 169,
+  "news_count": 164,
   "android_count": 45,
-  "ios_count": 118,
+  "ios_count": 119,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2d6dca721b48",
+      "title": "Touchscreen MacBook Pro details, deep red iPhone 18, US Mac mini production",
+      "summary": "Benjamin and Chance are back, with a news-packed episode just before an exciting week of Apple hardware launches. But first, iOS 26.4 beta is here, a deep red color is rumored for the iPhone 18 Pro, and Bloomberg details some of the software affordances coming to macOS to support the touch screen Ma",
+      "url": "https://9to5mac.com/2026/02/26/happy-hour-579/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-26 20:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "触摸屏MacBook Pro细节，深红色iPhone 18，美国Mac mini生产",
+      "summary_translated": "本杰明和钱斯回来了，在令人兴奋的苹果硬件发布周之前，他们带来了新闻丰富的一集。但首先，iOS 26.4 测试版已经到来，据传 iPhone 18 Pro 将采用深红色，彭博社详细介绍了 macOS 上支持触摸屏的一些软件功能。"
+    },
     {
       "id": "ce804d5bf1d7",
       "title": "iPhone and iPad approved to handle classified NATO information without any third-party add-on solutions",
