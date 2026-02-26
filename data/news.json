@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-26 13:40:26",
-  "total_count": 165,
-  "news_count": 160,
+  "last_updated": "2026-02-26 15:01:29",
+  "total_count": 166,
+  "news_count": 161,
   "android_count": 45,
-  "ios_count": 115,
+  "ios_count": 116,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b2564e4f436b",
+      "title": "Samsung’s equivalent of Apple Intelligence in the Galaxy S26 seems very underwhelming",
+      "summary": "Samsung loves to launch new features before Apple, and it has partly done so with the new AI capabilities in the Galaxy S26. The latest version of Galaxy AI seeks to perform many of the same functions as Apple Intelligence.\nAs our sister site 9to5Google notes, however, the experience seems set to pr",
+      "url": "https://9to5mac.com/2026/02/26/samsungs-equivalent-of-apple-intelligence-in-the-galaxy-s26-seems-very-underwhelming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-26 13:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Samsungs-equivalent-of-Apple-Intelligence-in-the-Galaxy-S26-seems-very-underwhelming.webp?w=1500",
+      "title_translated": "三星 Galaxy S26 中的 Apple Intelligence 功能似乎非常平庸",
+      "summary_translated": "三星喜欢先于苹果推出新功能，Galaxy S26 中的新人工智能功能在一定程度上做到了这一点。最新版本的 Galaxy AI 旨在执行许多与 Apple Intelligence 相同的功能。\n然而，正如我们的姊妹网站 9to5Google 所指出的那样，这种体验似乎注定要"
+    },
     {
       "id": "95ebd4603ca6",
       "title": "iOS 26 has made Apple Passwords the only password manager I need",
