@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-26 17:15:45",
-  "total_count": 167,
-  "news_count": 162,
+  "last_updated": "2026-02-26 19:06:50",
+  "total_count": 168,
+  "news_count": 163,
   "android_count": 45,
-  "ios_count": 117,
+  "ios_count": 118,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ce804d5bf1d7",
+      "title": "iPhone and iPad approved to handle classified NATO information without any third-party add-on solutions",
+      "summary": "Today, Apple announced that the iPhone and iPad have become the first consumer devices approved for use on classified NATO networks. This means an off-the-shelf iPhone running iOS 26 can access restricted NATO data without requiring any specialized security software or custom hardware modifications.",
+      "url": "https://9to5mac.com/2026/02/26/iphone-and-ipad-approved-to-handle-classified-nato-information-without-any-third-party-add-on-solutions/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-26 18:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/nato-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iPhone 和 iPad 获准处理北约机密信息，无需任何第三方附加解决方案",
+      "summary_translated": "今天，苹果公司宣布 iPhone 和 iPad 成为首款获准在北约机密网络上使用的消费类设备。这意味着运行 iOS 26 的现成 iPhone 可以访问受限的北约数据，而无需任何专门的安全软件或自定义硬件修改。"
+    },
     {
       "id": "ea1ad6563c35",
       "title": "iOS 26.4 adds new features in six iPhone apps, details here",
