@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-26 22:49:30",
-  "total_count": 177,
-  "news_count": 172,
+  "last_updated": "2026-02-26 23:41:10",
+  "total_count": 178,
+  "news_count": 173,
   "android_count": 52,
-  "ios_count": 120,
+  "ios_count": 121,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d9c05876840d",
+      "title": "Apple asks court to dismiss proposed class action over Siri AI fraud claims",
+      "summary": "The lawsuit accuses Apple of having misled investors about the timeline and readiness of its Apple Intelligence and Siri features, as well as in relation to the Epic Games case. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/02/26/apple-asks-court-to-dismiss-proposed-class-action-over-siri-ai-fraud-claims/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-26 23:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-liquid-glass-shattered.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果要求法院驳回针对 Siri AI 欺诈指控提出的集体诉讼",
+      "summary_translated": "该诉讼指控苹果在 Apple Intelligence 和 Siri 功能的时间表和准备情况以及与 Epic Games 案件相关的问题上误导了投资者。以下是详细信息。\n更多的…"
+    },
     {
       "id": "7e9503161984",
       "title": "Android 17 Beta 2 refreshes location and camera access indicators, ditches wide design",
