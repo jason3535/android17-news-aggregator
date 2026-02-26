@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-26 16:03:39",
-  "total_count": 166,
-  "news_count": 161,
+  "last_updated": "2026-02-26 17:15:45",
+  "total_count": 167,
+  "news_count": 162,
   "android_count": 45,
-  "ios_count": 116,
+  "ios_count": 117,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ea1ad6563c35",
+      "title": "iOS 26.4 adds new features in six iPhone apps, details here",
+      "summary": "iOS 26.4 is currently available in beta, and packed with a lot of new features. Here’s everything new coming to six iPhone apps in iOS 26.4.\nmore…",
+      "url": "https://9to5mac.com/2026/02/26/ios-26-4-adds-new-features-in-six-iphone-apps-details-here/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-26 16:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-app-icons.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 在六款 iPhone 应用中添加了新功能，详细信息请参见此处",
+      "summary_translated": "iOS 26.4 目前已推出测试版，并包含许多新功能。以下是 iOS 26.4 中六款 iPhone 应用程序的所有新增功能。\n更多的…"
+    },
     {
       "id": "b2564e4f436b",
       "title": "Samsung’s equivalent of Apple Intelligence in the Galaxy S26 seems very underwhelming",
