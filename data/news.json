@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-27 19:00:06",
-  "total_count": 182,
-  "news_count": 177,
+  "last_updated": "2026-02-27 19:43:00",
+  "total_count": 183,
+  "news_count": 178,
   "android_count": 53,
-  "ios_count": 124,
+  "ios_count": 125,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6d5d3ad630c6",
+      "title": "9to5Mac Overtime 061: One of those innovations that I hope Apple copies",
+      "summary": "A recap of iOS 26.4 Beta 2, the upcoming touchscreen MacBook Pro, Jeff and Fernando are impressed by the Samsung Galaxy S26 Ultra’s new Privacy Display feature, 1Password vs. Apple Passwords, and the subscriptions we can’t live without.\n9to5Mac Overtime is a weekly video-first podcast exploring fun ",
+      "url": "https://9to5mac.com/2026/02/27/9to5mac-overtime-061-one-of-those-innovations-that-i-hope-apple-copies/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-27 19:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/9to5Mac-Overtime-061.png?w=1600",
+      "title_translated": "9to5Mac Overtime 061：我希望苹果复制的创新之一",
+      "summary_translated": "回顾 iOS 26.4 Beta 2、即将推出的触摸屏 MacBook Pro，Jeff 和 Fernando 对三星 Galaxy S26 Ultra 的新隐私显示功能、1Password 与 Apple 密码以及我们离不开的订阅印象深刻。\n9to5Mac Overtime 是每周一次的视频优先播客，探索乐趣"
+    },
     {
       "id": "18720f8ca5e5",
       "title": "Android 17 wants to solve the biggest headache with using SIM PIN locks",
