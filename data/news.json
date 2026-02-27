@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-27 16:54:00",
-  "total_count": 179,
-  "news_count": 174,
+  "last_updated": "2026-02-27 17:50:08",
+  "total_count": 180,
+  "news_count": 175,
   "android_count": 52,
-  "ios_count": 122,
+  "ios_count": 123,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "da0931d450a5",
+      "title": "iOS 26.4 gives Reminders’ best new feature the one thing it was missing",
+      "summary": "Apple’s Reminders app recently got my favorite new feature in a long time: ‘Urgent’ reminders. And in iOS 26.4, the feature’s getting upgraded with the one thing it was missing: a dedicated smart list.\nmore…",
+      "url": "https://9to5mac.com/2026/02/27/ios-26-4-gives-reminders-best-new-feature-the-one-thing-it-was-missing/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-27 17:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/reminders-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为提醒功能提供了它所缺少的一项最佳新功能",
+      "summary_translated": "苹果的提醒应用程序最近获得了我长期以来最喜欢的新功能：“紧急”提醒。在 iOS 26.4 中，该功能得到了升级，但缺少了一个功能：专用的智能列表。\n更多的…"
+    },
     {
       "id": "2e0e1073a7c5",
       "title": "Apple Asks Judge to Toss Fraud Claims Over Siri AI, Epic Compliance",
