@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-27 11:42:26",
-  "total_count": 178,
-  "news_count": 173,
+  "last_updated": "2026-02-27 13:20:44",
+  "total_count": 179,
+  "news_count": 174,
   "android_count": 52,
-  "ios_count": 121,
+  "ios_count": 122,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2e0e1073a7c5",
+      "title": "Apple Asks Judge to Toss Fraud Claims Over Siri AI, Epic Compliance",
+      "summary": "Apple has asked a federal judge to dismiss a proposed class action lawsuit accusing the company of defrauding shareholders by overstating Siri's Apple Intelligence capabilities and misrepresenting its compliance with the Epic Games App Store injunction.\n\n\n\n\nAt WWDC in June 2024, Apple previewed two ",
+      "url": "https://www.macrumors.com/2026/02/27/apple-asks-judge-toss-fraud-claims-siri-epic/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-02-27 04:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/Apple-More-Personal-Siri-Ad.jpg",
+      "title_translated": "苹果要求法官驳回对 Siri AI 的欺诈指控，史诗般的合规性",
+      "summary_translated": "苹果已要求联邦法官驳回一项拟议的集体诉讼，该诉讼指控该公司夸大 Siri 的 Apple Intelligence 功能并歪曲其遵守 Epic Games App Store 禁令的情况，从而欺骗股东。\n\n\n\n\n在 2024 年 6 月的 WWDC 上，苹果预览了两款"
+    },
     {
       "id": "d9c05876840d",
       "title": "Apple asks court to dismiss proposed class action over Siri AI fraud claims",
