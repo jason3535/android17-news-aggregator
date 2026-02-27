@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-02-27 19:43:00",
-  "total_count": 183,
-  "news_count": 178,
+  "last_updated": "2026-02-27 20:41:20",
+  "total_count": 184,
+  "news_count": 179,
   "android_count": 53,
-  "ios_count": 125,
+  "ios_count": 126,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0ab30dc34523",
+      "title": "Apple says UK age verification message in iOS 26.4 beta 2 was a bug",
+      "summary": "Some users in the UK began seeing an age verification prompt after installing iOS 26.4 beta 2. Apple now says the message appeared in error. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/02/27/apple-says-uk-age-verification-message-in-ios-26-4-beta-2-was-a-bug/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-02-27 20:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-age-verification-in-iOS-26-4-beta-2-took-less-than-30-seconds.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果表示 iOS 26.4 beta 2 中的英国年龄验证消息是一个错误",
+      "summary_translated": "英国的一些用户在安装 iOS 26.4 beta 2 后开始看到年龄验证提示。苹果现在表示该消息出现错误。以下是详细信息。\n更多的…"
+    },
     {
       "id": "6d5d3ad630c6",
       "title": "9to5Mac Overtime 061: One of those innovations that I hope Apple copies",
