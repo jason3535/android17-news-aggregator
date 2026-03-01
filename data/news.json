@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-01 15:35:29",
-  "total_count": 184,
-  "news_count": 179,
+  "last_updated": "2026-03-01 16:41:47",
+  "total_count": 185,
+  "news_count": 180,
   "android_count": 53,
-  "ios_count": 126,
+  "ios_count": 127,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3e49c49354d0",
+      "title": "Apple replacing Core ML with modernized Core AI framework for iOS 27 at WWDC",
+      "summary": "A new report says that Apple will replace Core ML with a modernized Core AI framework at WWDC, helping developers better leverage modern AI capabilities with their apps in iOS 27.\nmore…",
+      "url": "https://9to5mac.com/2026/03/01/apple-replacing-core-ml-with-modernized-core-ai-framework-for-ios-27-at-wwdc/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-01 16:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/siri-gemini.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果在 WWDC 上为 iOS 27 用现代化的 Core AI 框架替换了 Core ML",
+      "summary_translated": "一份新报告称，苹果将在 WWDC 上用现代化的 Core AI 框架取代 Core ML，帮助开发者在 iOS 27 中更好地利用现代 AI 功能。\n更多…"
+    },
     {
       "id": "0ab30dc34523",
       "title": "Apple says UK age verification message in iOS 26.4 beta 2 was a bug",
