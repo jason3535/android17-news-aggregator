@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-02 13:22:07",
-  "total_count": 185,
-  "news_count": 180,
+  "last_updated": "2026-03-02 14:56:27",
+  "total_count": 186,
+  "news_count": 181,
   "android_count": 53,
-  "ios_count": 127,
+  "ios_count": 128,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a1fdc56a92fd",
+      "title": "Some Apple AI servers are reportedly sitting unused on warehouse shelves, due to low Apple Intelligence usage",
+      "summary": "Earlier this year, Bloomberg reported that Apple was looking to host the much-delayed new Siri models on Google servers, rather than Apple’s Private Cloud Compute. The Information is reporting a similar story this morning, saying that Google has been tasked with running Siri servers inside its data ",
+      "url": "https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-02 14:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，由于 Apple Intelligence 使用率较低，一些 Apple AI 服务器闲置在仓库货架上",
+      "summary_translated": "今年早些时候，彭博社报道称，苹果希望在谷歌服务器上托管拖延已久的新 Siri 模型，而不是在苹果的私有云计算上。 The Information 今天早上报道了一个类似的故事，称谷歌的任务是在其数据中运行 Siri 服务器"
+    },
     {
       "id": "3e49c49354d0",
       "title": "Apple replacing Core ML with modernized Core AI framework for iOS 27 at WWDC",
