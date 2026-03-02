@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-02 17:58:06",
-  "total_count": 186,
-  "news_count": 181,
+  "last_updated": "2026-03-02 19:03:35",
+  "total_count": 188,
+  "news_count": 183,
   "android_count": 53,
-  "ios_count": 128,
+  "ios_count": 130,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "139985e63e36",
+      "title": "Apple releases iOS 26.4 beta 3 for iPhone with upcoming features",
+      "summary": "Apple has released the third iOS 26.4 beta version for iPhone. iOS 26.4 includes a number of exciting new features and changes, including AI-powered Apple Music updates.\nmore…",
+      "url": "https://9to5mac.com/2026/03/02/apple-releases-ios-26-4-beta-3-for-iphone-with-upcoming-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-02 18:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-b3.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 发布了适用于 iPhone 的 iOS 26.4 beta 3 以及即将推出的功能",
+      "summary_translated": "苹果发布了 iPhone 的第三个 iOS 26.4 测试版。 iOS 26.4 包含许多令人兴奋的新功能和变化，包括人工智能驱动的 Apple Music 更新。\n更多的…"
+    },
     {
       "id": "a1fdc56a92fd",
       "title": "Some Apple AI servers are reportedly sitting unused on warehouse shelves, due to low Apple Intelligence usage",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&strip=all&w=1600",
       "title_translated": "据报道，由于 Apple Intelligence 使用率较低，一些 Apple AI 服务器闲置在仓库货架上",
       "summary_translated": "今年早些时候，彭博社报道称，苹果希望在谷歌服务器上托管拖延已久的新 Siri 模型，而不是在苹果的私有云计算上。 The Information 今天早上报道了一个类似的故事，称谷歌的任务是在其数据中运行 Siri 服务器"
+    },
+    {
+      "id": "18cd42a44cd4",
+      "title": "Apple Seeds Third Betas of iOS 26.4 and iPadOS 26.4 to Developers",
+      "summary": "Apple today seeded the third betas of upcoming iOS 26.4 and iPadOS 26.4 updates to developers for testing purposes, with the software coming a week after Apple provided the beta to developers.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to th",
+      "url": "https://www.macrumors.com/2026/03/02/apple-seeds-ios-26-4-beta-3/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-02 10:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-pastel.jpg",
+      "title_translated": "Apple 向开发者发布 iOS 26.4 和 iPadOS 26.4 第三个测试版",
+      "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.4 和 iPadOS 26.4 更新的第三个测试版，以进行测试，该软件是在苹果向开发者提供测试版一周后发布的。\n\n\n\n\n注册开发者可以通过 iPhone 或 iPad 上的“设置”应用程序下载 Beta 版，方法是访问"
     },
     {
       "id": "3e49c49354d0",
