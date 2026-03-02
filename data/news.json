@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-02 21:47:20",
-  "total_count": 188,
-  "news_count": 183,
+  "last_updated": "2026-03-02 22:42:06",
+  "total_count": 189,
+  "news_count": 184,
   "android_count": 53,
-  "ios_count": 130,
+  "ios_count": 131,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c523f643b351",
+      "title": "iOS 26 tweaks iPhone Always On Display in a way you might not like",
+      "summary": "Apple’s Always On Display has been fairly consistent since it debuted on iPhone 14 Pro. With iOS 26, Apple quietly changed how it works in a way that may not be obvious.\nmore…",
+      "url": "https://9to5mac.com/2026/03/02/ios-26-iphone-always-on-display-wallpaper-blur/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-02 19:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-clock-lock-screen-b6.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 以一种你可能不喜欢的方式调整 iPhone Always On Display",
+      "summary_translated": "自 iPhone 14 Pro 上首次推出以来，Apple 的 Always On Display 功能一直相当稳定。通过 iOS 26，苹果以一种可能不明显的方式悄然改变了它的工作方式。\n更多的…"
+    },
     {
       "id": "139985e63e36",
       "title": "Apple releases iOS 26.4 beta 3 for iPhone with upcoming features",
