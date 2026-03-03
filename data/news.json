@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-03 19:07:34",
-  "total_count": 194,
-  "news_count": 189,
-  "android_count": 56,
+  "last_updated": "2026-03-03 20:46:28",
+  "total_count": 196,
+  "news_count": 191,
+  "android_count": 58,
   "ios_count": 133,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "61add34bf079",
+      "title": "Pixel March 2026 update fixes 16 issues: Pixel 10 GPU, battery, more",
+      "summary": "Besides the new features introduced with Android 16 QPR3, the March 2026 Pixel update includes several bug fixes across Audio, Camera, Display & Graphics, Framework, Telephony, and User Interface.\nmore…",
+      "url": "https://9to5google.com/2026/03/03/pixel-march-2026-update/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-03 19:35",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-10-pro-xl-colors.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixel 2026 年 3 月更新修复了 16 个问题：Pixel 10 GPU、电池等",
+      "summary_translated": "除了 Android 16 QPR3 引入的新功能之外，2026 年 3 月的 Pixel 更新还包括音频、相机、显示和图形、框架、电话和用户界面的多个错误修复。\n更多的…"
+    },
+    {
+      "id": "dc9913ad5c52",
+      "title": "Is your Pixel getting Google’s big Android 16 QPR3 update? Here’s every supported phone",
+      "summary": "QPR! QPR! QPR!",
+      "url": "https://www.androidauthority.com/android-16-qpr3-update-supported-pixel-models-3645552/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-03 19:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-16-qpr3-logo-hero-photo-2-scaled.jpg",
+      "title_translated": "您的 Pixel 获得了 Google 的 Android 16 QPR3 大更新吗？这是每部受支持的手机",
+      "summary_translated": "QPR！ QPR！ QPR！"
+    },
     {
       "id": "fd5484d73b8f",
       "title": "March 2026 Feature Drop: Pixel 10 ‘Comfort’ view, custom AI icons, At a Glance ‘My commute,’ & more",
