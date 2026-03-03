@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-03 11:44:45",
-  "total_count": 189,
-  "news_count": 184,
-  "android_count": 53,
+  "last_updated": "2026-03-03 13:20:43",
+  "total_count": 190,
+  "news_count": 185,
+  "android_count": 54,
   "ios_count": 131,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fb87a9c2fc5a",
+      "title": "16KB page sizes return with the Android 17 beta, but what does it mean?",
+      "summary": "Google is pushing developers to 16KB page apps for a future switch.",
+      "url": "https://www.androidauthority.com/android-page-sizes-explained-3644598/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-03 13:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/16KB-Page-File-Setting-Menu.jpg",
+      "title_translated": "Android 17 Beta 版回归 16KB 页面大小，但这意味着什么？",
+      "summary_translated": "Google 正在推动开发人员使用 16KB 页面应用程序，以便将来进行切换。"
+    },
     {
       "id": "c523f643b351",
       "title": "iOS 26 tweaks iPhone Always On Display in a way you might not like",
