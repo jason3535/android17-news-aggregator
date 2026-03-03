@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-03 17:57:59",
-  "total_count": 192,
-  "news_count": 187,
-  "android_count": 54,
+  "last_updated": "2026-03-03 19:07:34",
+  "total_count": 194,
+  "news_count": 189,
+  "android_count": 56,
   "ios_count": 133,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fd5484d73b8f",
+      "title": "March 2026 Feature Drop: Pixel 10 ‘Comfort’ view, custom AI icons, At a Glance ‘My commute,’ & more",
+      "summary": "With the Android 16 QPR3 update, Google today announced the March 2026 Feature Drop and this is a pretty sizable release.\nmore…",
+      "url": "https://9to5google.com/2026/03/03/march-pixel-2026-feature-drop/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-03 19:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/PIxel-Drop-9to5Google-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "2026 年 3 月功能发布：Pixel 10“舒适”视图、自定义 AI 图标、“我的通勤”概览等",
+      "summary_translated": "随着 Android 16 QPR3 更新，Google 今天宣布了 2026 年 3 月功能下降，这是一个相当大的版本。\n更多的…"
+    },
+    {
+      "id": "f7db0476c8be",
+      "title": "Android 16 QPR3 rolling out with March 2026 security update",
+      "summary": "Android 16 QPR3 is rolling out today with the March 2026 security patch for the Pixel 6, 6 Pro, 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a. We also have the latest Pixel Feature Drop.\nmor",
+      "url": "https://9to5google.com/2026/03/03/android-16-march-update-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-03 19:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-6.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 16 QPR3 随 2026 年 3 月安全更新一起推出",
+      "summary_translated": "Android 16 QPR3 现已推出，适用于 Pixel 6、6 Pro、6a、7、7 Pro、7a、平板电脑、Fold、8、8 Pro、8a、9、9 Pro、9 Pro XL、9 Pro Fold、9a、Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold 和 Pixel 10a 的 2026 年 3 月安全补丁。我们还推出了最新的 Pixel Feature Drop。\n摩尔"
+    },
     {
       "id": "15e606a1383a",
       "title": "macOS and iPadOS 26.3.1 software releases coming before new iOS 26.4 iPhone update",
