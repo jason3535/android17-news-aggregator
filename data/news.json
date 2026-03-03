@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-03 13:20:43",
-  "total_count": 190,
-  "news_count": 185,
+  "last_updated": "2026-03-03 15:00:10",
+  "total_count": 191,
+  "news_count": 186,
   "android_count": 54,
-  "ios_count": 131,
+  "ios_count": 132,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "15e606a1383a",
+      "title": "macOS and iPadOS 26.3.1 software releases coming before new iOS 26.4 iPhone update",
+      "summary": "Apple confirms on its website that both iPadOS 26.3.1 and macOS 26.3.1 software releases are coming before the new iOS 26.4 iPhone update is released. This likely means that iOS 26.3.1 for iPhone is also confirmed.\nmore…",
+      "url": "https://9to5mac.com/2026/03/03/macos-and-ipados-26-3-1-software-releases-coming-before-new-ios-26-4-iphone-update/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-03 14:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/ios-26-3-logo.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "macOS 和 iPadOS 26.3.1 软件在新的 iOS 26.4 iPhone 更新之前发布",
+      "summary_translated": "苹果在其网站上确认，iPadOS 26.3.1 和 macOS 26.3.1 软件版本将在新的 iOS 26.4 iPhone 更新发布之前发布。这可能意味着 iPhone 的 iOS 26.3.1 也已得到确认。\n更多的…"
+    },
     {
       "id": "fb87a9c2fc5a",
       "title": "16KB page sizes return with the Android 17 beta, but what does it mean?",
