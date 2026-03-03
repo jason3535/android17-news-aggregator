@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-03 21:46:23",
-  "total_count": 196,
-  "news_count": 191,
+  "last_updated": "2026-03-03 22:45:13",
+  "total_count": 197,
+  "news_count": 192,
   "android_count": 58,
-  "ios_count": 133,
+  "ios_count": 134,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9d71d876a4e9",
+      "title": "iOS 26 adds new ‘Preview’ app on iPhone, here’s how I’m using it",
+      "summary": "iOS 26 brought two brand new apps to the iPhone’s Home Screen, here’s how I’m using one of them: the Preview app.\nmore…",
+      "url": "https://9to5mac.com/2026/03/03/ios-26-adds-new-preview-app-on-iphone-heres-how-im-using-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-03 22:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/preview-ios-26-icon.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 在 iPhone 上添加了新的“预览”应用程序，以下是我的使用方式",
+      "summary_translated": "iOS 26 为 iPhone 主屏幕带来了两款全新应用程序，以下是我使用其中一款应用程序的方式：预览应用程序。\n更多的…"
+    },
     {
       "id": "61add34bf079",
       "title": "Pixel March 2026 update fixes 16 issues: Pixel 10 GPU, battery, more",
