@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-04 17:54:04",
-  "total_count": 200,
-  "news_count": 195,
+  "last_updated": "2026-03-04 19:04:50",
+  "total_count": 202,
+  "news_count": 197,
   "android_count": 60,
-  "ios_count": 135,
+  "ios_count": 137,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b733f8182969",
+      "title": "Apple releases iOS 26.3.1 for iPhone",
+      "summary": "Apple has released iOS 26.3.1 for iPhone users today. The update likely includes bug fixes and performance improvements.\nmore…",
+      "url": "https://9to5mac.com/2026/03/04/apple-releases-ios-26-3-1-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-04 18:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.3.1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iPhone 版 iOS 26.3.1",
+      "summary_translated": "Apple 今天为 iPhone 用户发布了 iOS 26.3.1。此次更新可能包括错误修复和性能改进。\n更多的…"
+    },
     {
       "id": "c727012fce6d",
       "title": "Pixel Now Playing starts rolling out a song-specific visual upgrade",
@@ -33,6 +47,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-16-qpr3-logo-hero-photo-1-scaled.jpg",
       "title_translated": "我一直在测试 Android 16 QPR3，这些是您需要尽快尝试的 7 个功能",
       "summary_translated": "概览升级、显示舒适功能、人工智能生成的图标——这是一次巨大的升级！"
+    },
+    {
+      "id": "ebb650d78556",
+      "title": "Apple Releases iOS 26.3.1 and iPadOS 26.3.1 With Bug Fixes and Studio Display Support",
+      "summary": "Apple today released iOS 26.3.1 and iPadOS 26.3.1, minor updates to the iOS 26 and iPadOS 26 operating systems. The software comes three weeks after Apple released iOS 26.3 and iPadOS 26.3.\n\n\n\n\nThe new software can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > Gener",
+      "url": "https://www.macrumors.com/2026/03/04/apple-releases-ios-26-3-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-04 10:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26.3.1-Feature.jpg",
+      "title_translated": "Apple 发布 iOS 26.3.1 和 iPadOS 26.3.1，修复了错误并支持 Studio Display",
+      "summary_translated": "Apple 今天发布了 iOS 26.3.1 和 iPadOS 26.3.1，这是对 iOS 26 和 iPadOS 26 操作系统的小幅更新。该软件是在苹果发布 iOS 26.3 和 iPadOS 26.3 三周后发布的。\n\n\n\n\n新软件可以通过转至“设置”>“通用”以无线方式下载到符合条件的 iPhone 和 iPad 上"
     },
     {
       "id": "25c2853c3f43",
