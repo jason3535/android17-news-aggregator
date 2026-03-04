@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-04 11:40:34",
-  "total_count": 197,
-  "news_count": 192,
-  "android_count": 58,
+  "last_updated": "2026-03-04 13:20:00",
+  "total_count": 198,
+  "news_count": 193,
+  "android_count": 59,
   "ios_count": 134,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "91514cb6997e",
+      "title": "I’ve been testing Android 16 QPR3, and these are the 7 features you need to try ASAP",
+      "summary": "At A Glance upgrades, display comfort features, AI-generated icons — this is a massive upgrade!",
+      "url": "https://www.androidauthority.com/android-16-qpr3-massive-upgrade-7-must-try-features-3646158/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-04 12:12",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-16-qpr3-logo-hero-photo-1-scaled.jpg",
+      "title_translated": "我一直在测试 Android 16 QPR3，这些是您需要尽快尝试的 7 个功能",
+      "summary_translated": "概览升级、显示舒适功能、人工智能生成的图标——这是一次巨大的升级！"
+    },
     {
       "id": "9d71d876a4e9",
       "title": "iOS 26 adds new ‘Preview’ app on iPhone, here’s how I’m using it",
