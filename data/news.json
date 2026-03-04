@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-04 14:52:32",
-  "total_count": 199,
-  "news_count": 194,
-  "android_count": 59,
+  "last_updated": "2026-03-04 15:55:45",
+  "total_count": 200,
+  "news_count": 195,
+  "android_count": 60,
   "ios_count": 135,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c727012fce6d",
+      "title": "Pixel Now Playing starts rolling out a song-specific visual upgrade",
+      "summary": "Android 16 QPR3 is bringing album art to the Pixel lock screen song detection feature.",
+      "url": "https://www.androidauthority.com/pixel-now-playing-album-art-rollout-3646619/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-04 15:51",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Pixel-Now-Playing-Album-Art-Rollout-Feature.jpg",
+      "title_translated": "Pixel Now Playing 开始推出特定于歌曲的视觉升级",
+      "summary_translated": "Android 16 QPR3 将专辑封面引入 Pixel 锁屏歌曲检测功能。"
+    },
     {
       "id": "91514cb6997e",
       "title": "I’ve been testing Android 16 QPR3, and these are the 7 features you need to try ASAP",
