@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-04 13:20:00",
-  "total_count": 198,
-  "news_count": 193,
+  "last_updated": "2026-03-04 14:52:32",
+  "total_count": 199,
+  "news_count": 194,
   "android_count": 59,
-  "ios_count": 134,
+  "ios_count": 135,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-16-qpr3-logo-hero-photo-1-scaled.jpg",
       "title_translated": "我一直在测试 Android 16 QPR3，这些是您需要尽快尝试的 7 个功能",
       "summary_translated": "概览升级、显示舒适功能、人工智能生成的图标——这是一次巨大的升级！"
+    },
+    {
+      "id": "25c2853c3f43",
+      "title": "Hello, MacBook Neo: Apple Showcases All-New $599 MacBook in Video",
+      "summary": "Apple today unveiled the colorful new MacBook Neo, which has a \"breakthrough\" starting price of just $599 in the United States. MacBook Neo features a 13-inch display, an A18 Pro chip with Apple Intelligence support, 256GB and 512GB storage options, dual speakers on the left and right sides of the l",
+      "url": "https://www.macrumors.com/2026/03/04/hello-macbook-neo/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-04 06:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/f2RtnBD37w4PcSfSXvvpvKybxFQ=/1920x/article-new/2026/03/Hello-MacBook-Neo.jpg",
+      "title_translated": "你好，MacBook Neo：Apple 在视频中展示全新 599 美元 MacBook",
+      "summary_translated": "苹果今天推出了色彩缤纷的新款 MacBook Neo，它在美国的“突破性”起售价仅为 599 美元。 MacBook Neo 配备 13 英寸显示屏、支持 Apple Intelligence 的 A18 Pro 芯片、256GB 和 512GB 存储选项、左右两侧双扬声器"
     },
     {
       "id": "9d71d876a4e9",
