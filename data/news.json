@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-05 20:50:55",
-  "total_count": 207,
-  "news_count": 202,
+  "last_updated": "2026-03-05 21:48:27",
+  "total_count": 208,
+  "news_count": 203,
   "android_count": 61,
-  "ios_count": 141,
+  "ios_count": 142,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9248966e630e",
+      "title": "iOS 26 gave Apple’s Calendar app a convenient new advantage",
+      "summary": "iOS 26 is a big update for many system apps, such as Wallet, Messages, and Music. One popular app—Apple Calendar—is mostly light on changes, but it did gain one unique new advantage: event creation via screenshots.\nmore…",
+      "url": "https://9to5mac.com/2026/03/05/ios-26-gives-apples-calendar-app-a-convenient-new-advantage/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-05 21:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-calendar-ios-26-icon.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 为苹果日历应用带来了便捷的新优势",
+      "summary_translated": "iOS 26 对许多系统应用程序来说都是一次重大更新，例如钱包、消息和音乐。 Apple 日历是一款流行的应用程序，虽然变化不大，但它确实获得了一项独特的新优势：通过屏幕截图创建活动。\n更多的…"
+    },
     {
       "id": "d19af1fd7573",
       "title": "Apple releases second version of iOS 26.4 beta 3 for iPhone",
