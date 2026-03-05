@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-05 19:58:22",
-  "total_count": 205,
-  "news_count": 200,
+  "last_updated": "2026-03-05 20:50:55",
+  "total_count": 207,
+  "news_count": 202,
   "android_count": 61,
-  "ios_count": 139,
+  "ios_count": 141,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d19af1fd7573",
+      "title": "Apple releases second version of iOS 26.4 beta 3 for iPhone",
+      "summary": "Apple has released a second version of iOS 26.4 beta 3 for developers. The update comes three days after the first version. It’s unclear what the new build address, but it’s available as an over-the-air update now.\nmore…",
+      "url": "https://9to5mac.com/2026/03/05/apple-releases-second-version-of-ios-26-4-beta-3-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-05 19:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-b3.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iPhone 版 iOS 26.4 beta 3 第二版",
+      "summary_translated": "苹果已经为开发者发布了第二个版本的 iOS 26.4 beta 3。该更新在第一个版本发布三天后发布。目前尚不清楚新版本的地址是什么，但现在可以通过无线更新的形式获得。\n更多的…"
+    },
     {
       "id": "6f8c7ddecf35",
       "title": "Survey confirms it: Your favorite Android 17 Beta 1 change is exactly what we expected",
@@ -19,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-2-watermark-scaled.jpg",
       "title_translated": "调查证实：您最喜欢的 Android 17 Beta 1 更改正是我们所期望的",
       "summary_translated": "你们所有人都在座位边缘等待新的概览控件。"
+    },
+    {
+      "id": "98447666aa26",
+      "title": "Apple Seeds Revised Third Betas of iOS 26.4 and iPadOS 26.4 to Developers, New Public Betas",
+      "summary": "Apple today seeded revised third betas of the upcoming iOS 26.4 and iPadOS 26.4 updates to developers for testing purposes, with the software coming three days after Apple provided the initial beta to developers. Apple has also released a new version of iOS 26.4 and iPadOS 26.4 for public beta teste",
+      "url": "https://www.macrumors.com/2026/03/05/apple-seeds-revised-ios-26-4-beta-3/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-05 12:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-pastel.jpg",
+      "title_translated": "Apple Seeds 向开发者发布了修订后的 iOS 26.4 和 iPadOS 26.4 第三个 Beta 版、新的公开 Beta 版",
+      "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.4 和 iPadOS 26.4 更新的修订版第三个测试版，用于测试目的，该软件是在苹果向开发者提供初始测试版三天后发布的。苹果还发布了新版iOS 26.4和iPadOS 26.4进行公测"
     },
     {
       "id": "824f1507947c",
