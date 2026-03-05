@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-05 15:00:27",
-  "total_count": 203,
-  "news_count": 198,
-  "android_count": 60,
+  "last_updated": "2026-03-05 15:59:03",
+  "total_count": 204,
+  "news_count": 199,
+  "android_count": 61,
   "ios_count": 138,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6f8c7ddecf35",
+      "title": "Survey confirms it: Your favorite Android 17 Beta 1 change is exactly what we expected",
+      "summary": "All of you were just on the edge of your seats waiting for new At a Glance controls.",
+      "url": "https://www.androidauthority.com/android-17-beta-1-favorite-3646757/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-05 15:29",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-2-watermark-scaled.jpg",
+      "title_translated": "调查证实：您最喜欢的 Android 17 Beta 1 更改正是我们所期望的",
+      "summary_translated": "你们所有人都在座位边缘等待新的概览控件。"
+    },
     {
       "id": "785a86675432",
       "title": "iOS 26 has new Home Screen setting for app icons, here’s how to use it",
