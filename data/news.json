@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-06 10:52:08",
-  "total_count": 208,
-  "news_count": 203,
-  "android_count": 61,
+  "last_updated": "2026-03-06 11:39:32",
+  "total_count": 209,
+  "news_count": 204,
+  "android_count": 62,
   "ios_count": 142,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5dfcb309a0c2",
+      "title": "After you download Android 16 QPR3, here are 3 hidden settings you need to try",
+      "summary": "There's more to QPR3 than you realize.",
+      "url": "https://www.androidauthority.com/android-16-qpr3-hidden-settings-need-try-3646084/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-06 11:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-10a-berry-hands-on-joe-3-scaled.jpg",
+      "title_translated": "下载 Android 16 QPR3 后，您需要尝试以下 3 个隐藏设置",
+      "summary_translated": "QPR3 的功能超乎您的想​​象。"
+    },
     {
       "id": "9248966e630e",
       "title": "iOS 26 gave Apple’s Calendar app a convenient new advantage",
