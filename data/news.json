@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-06 15:51:21",
-  "total_count": 209,
-  "news_count": 204,
+  "last_updated": "2026-03-06 16:57:05",
+  "total_count": 210,
+  "news_count": 205,
   "android_count": 62,
-  "ios_count": 142,
+  "ios_count": 143,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cdd7a08312df",
+      "title": "iOS 26.4: Here are all the new features for your iPhone",
+      "summary": "iOS 26.4 is currently in beta testing with developers and public beta users. The update adds a range of new features to iPhone, including upgrades to Apple Music, Apple Podcasts, Messages, and more.\nHere are all of the new iPhone features in iOS 26.4, plus everything else you need to know.\nmore…",
+      "url": "https://9to5mac.com/2026/03/06/ios-26-4-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-06 16:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4：以下是 iPhone 的所有新功能",
+      "summary_translated": "iOS 26.4 目前正在与开发者和公共 Beta 用户进行 Beta 测试。此次更新为 iPhone 增加了一系列新功能，包括 Apple Music、Apple Podcasts、Messages 等的升级。\n以下是 iOS 26.4 中的所有 iPhone 新功能，以及您需要了解的所有其他信息。\n更多的…"
+    },
     {
       "id": "5dfcb309a0c2",
       "title": "After you download Android 16 QPR3, here are 3 hidden settings you need to try",
