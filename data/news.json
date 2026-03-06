@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-06 20:46:58",
-  "total_count": 212,
-  "news_count": 207,
-  "android_count": 63,
+  "last_updated": "2026-03-06 21:39:41",
+  "total_count": 213,
+  "news_count": 208,
+  "android_count": 64,
   "ios_count": 144,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "87bd003633f1",
+      "title": "Pixelated 091: Android 17, now with even more bubbles",
+      "summary": "Welcome to episode 91 of Pixelated, a podcast by 9to5Google. This week, with Abner and Damien out at MWC, Will invites Andrew Romero to join him on a whirlwind tour of two new OS upgrades from Google: Android 16 QPR3, and Android 17 Beta 2. The two discuss AI-generated wallpapers, that new Now Playi",
+      "url": "https://9to5google.com/2026/03/06/pixelated-091-android-17-now-with-even-more-bubbles/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-06 21:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixelated 091：Android 17，现在有更多气泡",
+      "summary_translated": "欢迎收看 9to5Google 的播客 Pixelated 第 91 集。 本周，Abner 和 Damien 出席 MWC，Will 邀请 Andrew Romero 与他一起旋风浏览 Google 的两款新操作系统升级：Android 16 QPR3 和 Android 17 Beta 2。两人讨论了人工智能生成的壁纸，即新的 Now Playi"
+    },
     {
       "id": "01da210f3faf",
       "title": "iOS 26’s Messages app got a big upgrade for an essential feature",
