@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-06 16:57:05",
-  "total_count": 210,
-  "news_count": 205,
-  "android_count": 62,
+  "last_updated": "2026-03-06 17:49:35",
+  "total_count": 211,
+  "news_count": 206,
+  "android_count": 63,
   "ios_count": 143,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e2260f7abc1b",
+      "title": "Android 16 QPR3: Pixel Launcher search bar loses M3 Expressive redesign",
+      "summary": "In December, Pixel Launcher search was replaced by the Google app. The Android 16 QPR3 March update compounds this design regression by removing the M3 Expressive search bar from the homescreen. \nmore…",
+      "url": "https://9to5google.com/2026/03/06/android-16-qpr3-pixel-launcher-search/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-06 17:24",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-10a-review-14.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 16 QPR3：Pixel Launcher 搜索栏失去 M3 Expressive 重新设计",
+      "summary_translated": "12 月，Pixel Launcher 搜索被 Google 应用取代。 Android 16 QPR3 三月更新通过从主屏幕删除 M3 Expressive 搜索栏来加剧这种设计回归。 \n更多的…"
+    },
     {
       "id": "cdd7a08312df",
       "title": "iOS 26.4: Here are all the new features for your iPhone",
