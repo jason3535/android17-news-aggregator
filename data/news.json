@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-06 17:49:35",
-  "total_count": 211,
-  "news_count": 206,
+  "last_updated": "2026-03-06 19:01:01",
+  "total_count": 212,
+  "news_count": 207,
   "android_count": 63,
-  "ios_count": 143,
+  "ios_count": 144,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "01da210f3faf",
+      "title": "iOS 26’s Messages app got a big upgrade for an essential feature",
+      "summary": "iOS 26 adds a lot to the Messages app, like new group chat features, spam prevention tools, and more. Joining those improvements, Messages also got a big AI upgrade in iOS 26 for an essential feature: search.\nmore…",
+      "url": "https://9to5mac.com/2026/03/06/ios-26s-messages-app-got-a-big-upgrade-for-an-essential-feature/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-06 18:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的消息应用程序对一项基本功能进行了重大升级",
+      "summary_translated": "iOS 26 为消息应用程序添加了很多功能，例如新的群聊功能、垃圾邮件防护工具等等。除了这些改进之外，iOS 26 中的“消息”功能还针对一项基本功能进行了重大人工智能升级：搜索。\n更多的…"
+    },
     {
       "id": "e2260f7abc1b",
       "title": "Android 16 QPR3: Pixel Launcher search bar loses M3 Expressive redesign",
