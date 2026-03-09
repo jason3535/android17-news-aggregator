@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-09 19:06:07",
-  "total_count": 219,
-  "news_count": 214,
+  "last_updated": "2026-03-09 20:49:19",
+  "total_count": 220,
+  "news_count": 215,
   "android_count": 65,
-  "ios_count": 149,
+  "ios_count": 150,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7eeb8981029b",
+      "title": "iOS 26.4’s new setting lets you disable another Liquid Glass effect",
+      "summary": "iOS 26.4 beta 4 arrived today, and with it a new ’Reduce Bright Effects’ setting that lets you disable various flashing elements common in Liquid Glass.\nmore…",
+      "url": "https://9to5mac.com/2026/03/09/ios-26-4s-new-setting-lets-you-disable-another-liquid-glass-effect/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-09 19:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/design-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 的新设置可让您禁用另一种液体玻璃效果",
+      "summary_translated": "iOS 26.4 beta 4 今天发布，其中包含新的“减少明亮效果”设置，可让您禁用 Liquid Glass 中常见的各种闪烁元素。\n更多的…"
+    },
     {
       "id": "8859cdcec1df",
       "title": "Apple reportedly targeting smart home display release around iOS 27",
