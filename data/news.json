@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-09 15:05:38",
-  "total_count": 213,
-  "news_count": 208,
-  "android_count": 64,
+  "last_updated": "2026-03-09 17:05:34",
+  "total_count": 214,
+  "news_count": 209,
+  "android_count": 65,
   "ios_count": 144,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3df3cc590f3f",
+      "title": "Android 17 Beta 2 shows Google borrowing security features from Chrome OS",
+      "summary": "Developers are beefing up support for Thunderbolt and USB4 accessories.",
+      "url": "https://www.androidauthority.com/android-17-beta-2-chrome-os-3647559/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-09 16:08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Advanced-Protection-in-Android-16-hero-image-scaled.jpg",
+      "title_translated": "Android 17 Beta 2 显示谷歌借用了 Chrome OS 的安全功能",
+      "summary_translated": "开发人员正在加强对 Thunderbolt 和 USB4 配件的支持。"
+    },
     {
       "id": "87bd003633f1",
       "title": "Pixelated 091: Android 17, now with even more bubbles",
