@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-09 22:43:24",
-  "total_count": 220,
-  "news_count": 215,
+  "last_updated": "2026-03-09 23:38:22",
+  "total_count": 221,
+  "news_count": 216,
   "android_count": 65,
-  "ios_count": 150,
+  "ios_count": 151,
   "leaker_count": 5,
   "items": [
     {
@@ -75,6 +75,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Advanced-Protection-in-Android-16-hero-image-scaled.jpg",
       "title_translated": "Android 17 Beta 2 显示谷歌借用了 Chrome OS 的安全功能",
       "summary_translated": "开发人员正在加强对 Thunderbolt 和 USB4 配件的支持。"
+    },
+    {
+      "id": "a4ab94d59219",
+      "title": "Everything New in iOS 26.4 Beta 4",
+      "summary": "Apple is continuing to test the iOS 26.4 beta, and the latest update is now available for developers and public beta testers. As testing goes on, there are fewer new features in each beta, but today’s release adds new emoji characters and a few other changes.\n\n\n\n\nNew Emoji\n\nApple added new emoji cha",
+      "url": "https://www.macrumors.com/2026/03/09/ios-26-4-beta-4-everything-new/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-09 15:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-yellow.jpg",
+      "title_translated": "iOS 26.4 Beta 4 中的所有新功能",
+      "summary_translated": "苹果正在继续测试 iOS 26.4 Beta，最新更新现已可供开发者和公共 Beta 测试人员使用。随着测试的继续，每个测试版中的新功能越来越少，但今天的版本添加了新的表情符号字符和其他一些更改。\n\n\n\n\n新表情符号\n\n苹果添加了新的表情符号"
     },
     {
       "id": "8fa41df69295",
