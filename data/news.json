@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-10 19:50:43",
-  "total_count": 222,
-  "news_count": 217,
+  "last_updated": "2026-03-10 20:47:57",
+  "total_count": 223,
+  "news_count": 218,
   "android_count": 65,
-  "ios_count": 152,
+  "ios_count": 153,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e83d1df902a1",
+      "title": "These single-step Apple Shortcuts are favorites I use almost daily",
+      "summary": "Apple’s Shortcuts app lets you set up complex shortcuts, including with the 25+ new actions available in iOS 26. But my two favorite and most used shortcuts in Apple’s app involve just a single step each.\nmore…",
+      "url": "https://9to5mac.com/2026/03/10/these-single-step-apple-shortcuts-are-favorites-i-use-almost-daily/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-10 20:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/shortcuts-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这些单步 Apple 快捷方式是我几乎每天都使用的最爱",
+      "summary_translated": "Apple 的快捷方式应用程序可让您设置复杂的快捷方式，包括 iOS 26 中提供的 25 多个新操作。但 Apple 应用程序中我最喜欢和最常用的两个快捷方式每个只涉及一个步骤。\n更多的…"
+    },
     {
       "id": "30d5b49e918a",
       "title": "iOS 26.4 is coming: Here are my four favorite new features",
