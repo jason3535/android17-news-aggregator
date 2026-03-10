@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-10 20:47:57",
-  "total_count": 223,
-  "news_count": 218,
-  "android_count": 65,
+  "last_updated": "2026-03-10 21:38:30",
+  "total_count": 224,
+  "news_count": 219,
+  "android_count": 66,
   "ios_count": 153,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "805ccbd08421",
+      "title": "Google Pixel’s AI icons are a poor substitute for real personalization on Android",
+      "summary": "With this month’s rollout of Android 16 QPR3 and its associated Pixel Drop, anyone rocking one of Google’s growing collection of Pixels is finally getting access to something we’ve waited on for a long time: custom app icons. Unfortunately, using this feature is locked behind a basic set of generati",
+      "url": "https://9to5google.com/2026/03/10/google-pixels-ai-icons-are-a-poor-substitute-for-real-personalization-on-android/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-10 21:10",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-ai-generated-icons-5.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Google Pixel 的 AI 图标无法替代 Android 上的真正个性化",
+      "summary_translated": "随着本月 Android 16 QPR3 及其相关 Pixel Drop 的推出，任何使用 Google 不断增长的 Pixel 系列之一的人终于可以访问我们等待已久的东西：自定义应用程序图标。不幸的是，使用此功能被锁定在一组基本的生成器后面"
+    },
     {
       "id": "e83d1df902a1",
       "title": "These single-step Apple Shortcuts are favorites I use almost daily",
