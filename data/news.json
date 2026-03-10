@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-10 13:24:15",
-  "total_count": 221,
-  "news_count": 216,
+  "last_updated": "2026-03-10 15:04:56",
+  "total_count": 222,
+  "news_count": 217,
   "android_count": 65,
-  "ios_count": 151,
+  "ios_count": 152,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "30d5b49e918a",
+      "title": "iOS 26.4 is coming: Here are my four favorite new features",
+      "summary": "iOS 26.4 launches later this month, and it’s a big update for new iPhone features. Here are my four favorite iOS 26.4 features that are coming soon.\nmore…",
+      "url": "https://9to5mac.com/2026/03/10/ios-26-4-is-coming-here-are-my-four-favorite-new-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-10 14:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-4-favorite-iphone-features.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 即将到来：这是我最喜欢的四个新功能",
+      "summary_translated": "iOS 26.4 将于本月晚些时候发布，这是 iPhone 新功能的一次重大更新。以下是我最喜欢的四项即将推出的 iOS 26.4 功能。\n更多的…"
+    },
     {
       "id": "7eeb8981029b",
       "title": "iOS 26.4’s new setting lets you disable another Liquid Glass effect",
