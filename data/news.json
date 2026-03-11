@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-11 08:57:08",
-  "total_count": 224,
-  "news_count": 219,
-  "android_count": 66,
+  "last_updated": "2026-03-11 09:58:03",
+  "total_count": 225,
+  "news_count": 220,
+  "android_count": 67,
   "ios_count": 153,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5653527ca87e",
+      "title": "Google’s Android boss talks Android 17, sideloading drama, and why he hates phone cases",
+      "summary": "At MWC 2026, Android ecosystem president Sameer Samat spoke with Android Authority about the platform's next chapter.",
+      "url": "https://www.androidauthority.com/google-android-17-sideloading-interview-sameer-samat-3647478/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-11 09:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Sameer-Samat-Google-Headshot.jpg",
+      "title_translated": "谷歌 Android 老板谈论 Android 17、侧载戏剧以及他讨厌手机壳的原因",
+      "summary_translated": "在 MWC 2026 上，Android 生态系统总裁 Sameer Samat 与 Android Authority 讨论了该平台的下一章。"
+    },
     {
       "id": "805ccbd08421",
       "title": "Google Pixel’s AI icons are a poor substitute for real personalization on Android",
