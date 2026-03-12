@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-12 19:07:49",
-  "total_count": 225,
-  "news_count": 220,
+  "last_updated": "2026-03-12 20:50:21",
+  "total_count": 226,
+  "news_count": 221,
   "android_count": 67,
-  "ios_count": 153,
+  "ios_count": 154,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7a32e79af51e",
+      "title": "iOS 26 added four new features I’ve been using almost every day",
+      "summary": "Major iPhone updates like iOS 26 typically come with hundreds of new features and changes, but a much smaller subset that become daily go-tos. Here are four new iOS 26 features I’ve found myself using just about every day.\nmore…",
+      "url": "https://9to5mac.com/2026/03/12/ios-26-added-four-new-features-ive-been-using-almost-every-day/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-12 20:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-beta-3-new-wallpaper.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 添加了四个我几乎每天都在使用的新功能",
+      "summary_translated": "像 iOS 26 这样的主要 iPhone 更新通常会带来数百个新功能和变化，但只有一小部分成为日常首选。以下是我几乎每天都会使用的四项 iOS 26 新功能。\n更多的…"
+    },
     {
       "id": "5653527ca87e",
       "title": "Google’s Android boss talks Android 17, sideloading drama, and why he hates phone cases",
