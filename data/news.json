@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-13 15:55:18",
-  "total_count": 229,
-  "news_count": 224,
-  "android_count": 68,
+  "last_updated": "2026-03-13 16:55:01",
+  "total_count": 230,
+  "news_count": 225,
+  "android_count": 69,
   "ios_count": 156,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2d252b416db8",
+      "title": "Latest Google Pixel update makes it harder to select images from the Recents menu",
+      "summary": "For over five years now, Pixel users have had a powerful tool built into their Recents menu: the ability to select text and images for quick copying, sharing, and more. With Android 16 QPR3, however, the images side of things is getting a pretty massive downgrade, and it’s not exactly clear as to wh",
+      "url": "https://9to5google.com/2026/03/13/latest-google-pixel-update-makes-it-harder-to-select-images-from-the-recents-menu/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-13 16:06",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/Anroid-16-QPR1-Recents-menu-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "最新的 Google Pixel 更新使得从“最近”菜单中选择图像变得更加困难",
+      "summary_translated": "五年多来，Pixel 用户的“最近”菜单中内置了一个强大的工具：能够选择文本和图像以进行快速复制、共享等。然而，在 Android 16 QPR3 中，图像方面出现了相当大的降级，而且目前还不清楚到底是什么"
+    },
     {
       "id": "7c248367ada6",
       "title": "iOS 26.4 adds three new ways to customize your iPhone",
