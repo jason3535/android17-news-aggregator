@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-13 06:00:04",
-  "total_count": 226,
-  "news_count": 221,
-  "android_count": 67,
+  "last_updated": "2026-03-13 07:09:27",
+  "total_count": 227,
+  "news_count": 222,
+  "android_count": 68,
   "ios_count": 154,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "939b3b687bd0",
+      "title": "Android 17 Beta 2 starts clamping down on apps that misuse accessibility services",
+      "summary": "But these could include your favorite automation tools, launchers, or customization apps.",
+      "url": "https://www.androidauthority.com/android-17-beta-2-advanced-protection-mode-accessibility-apps-3648860/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-13 06:53",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Advanced-Protection-mode-in-Android-16-based-One-UI-8-hero-mode-scaled.jpg",
+      "title_translated": "Android 17 Beta 2 开始打击滥用无障碍服务的应用",
+      "summary_translated": "但这些可能包括您最喜欢的自动化工具、启动器或自定义应用程序。"
+    },
     {
       "id": "7a32e79af51e",
       "title": "iOS 26 added four new features I’ve been using almost every day",
