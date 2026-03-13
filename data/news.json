@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-13 20:50:58",
-  "total_count": 230,
-  "news_count": 225,
+  "last_updated": "2026-03-13 21:46:11",
+  "total_count": 231,
+  "news_count": 226,
   "android_count": 69,
-  "ios_count": 156,
+  "ios_count": 157,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/passwords-app-ios-26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26 的密码应用程序有一个新功能可以让你省去麻烦",
       "summary_translated": "由于 iOS 26 的多项更改，Apple 的密码应用程序已成为我的全职密码管理器。我最近发现了一项受欢迎的新功能，可以防止忘记密码循环带来的麻烦。\n更多的…"
+    },
+    {
+      "id": "a22fc925176a",
+      "title": "10+ New Features Coming in iOS 27",
+      "summary": "We're only three months away from Apple's WWDC 2026 event, which will see the company unveil iOS 27. With the fully revamped version of Siri possibly delayed until September, iOS 27 is shaping up to be the update we wanted iOS 26 to be.\n\n\n\n\nThere will be new Apple Intelligence features, updates for ",
+      "url": "https://www.macrumors.com/2026/03/13/10-new-features-coming-in-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-13 14:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "iOS 27 即将推出 10 多项新功能",
+      "summary_translated": "距离苹果 WWDC 2026 活动只剩三个月了，该公司将在会上发布 iOS 27。由于 Siri 的全面改进版本可能会推迟到 9 月，iOS 27 即将成为我们希望的 iOS 26 更新。\n\n\n\n\n将会有新的 Apple Intelligence 功能、更新"
     },
     {
       "id": "939b3b687bd0",
