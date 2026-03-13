@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-13 14:57:18",
-  "total_count": 227,
-  "news_count": 222,
+  "last_updated": "2026-03-13 15:55:18",
+  "total_count": 229,
+  "news_count": 224,
   "android_count": 68,
-  "ios_count": 154,
+  "ios_count": 156,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7c248367ada6",
+      "title": "iOS 26.4 adds three new ways to customize your iPhone",
+      "summary": "iOS 26.4 is launching soon and bringing a lot of new features, including three new ways to customize your iPhone. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/03/13/ios-26-4-adds-three-new-ways-to-customize-your-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-13 15:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-settings.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 增加了三种自定义 iPhone 的新方法",
+      "summary_translated": "iOS 26.4 即将发布，带来了许多新功能，包括三种自定义 iPhone 的新方法。这是新内容。\n更多的…"
+    },
+    {
+      "id": "07ed8e4d4c5b",
+      "title": "iOS 26’s Passwords app has a new feature that can save you a headache",
+      "summary": "Apple’s Passwords app has become my full-time password manager thanks to several iOS 26 changes. And there’s one welcome new feature I recently discovered that can prevent the headache of a forgotten password loop.\nmore…",
+      "url": "https://9to5mac.com/2026/03/13/ios-26s-passwords-app-has-a-new-feature-that-can-save-you-a-headache/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-13 15:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/passwords-app-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的密码应用程序有一个新功能可以让你省去麻烦",
+      "summary_translated": "由于 iOS 26 的多项更改，Apple 的密码应用程序已成为我的全职密码管理器。我最近发现了一项受欢迎的新功能，可以防止忘记密码循环带来的麻烦。\n更多的…"
+    },
     {
       "id": "939b3b687bd0",
       "title": "Android 17 Beta 2 starts clamping down on apps that misuse accessibility services",
