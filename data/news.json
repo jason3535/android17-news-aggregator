@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-15 15:39:52",
-  "total_count": 233,
-  "news_count": 228,
+  "last_updated": "2026-03-15 16:47:15",
+  "total_count": 235,
+  "news_count": 230,
   "android_count": 69,
-  "ios_count": 159,
+  "ios_count": 161,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 可能不会对 Liquid Glass 进行任何重大更改：报告",
       "summary_translated": "在短短几个月内，苹果预计将推出最新一轮操作系统：iOS 27、macOS 27、watchOS 27 等。之前有关 iOS 27 的报告主要关注今年的操作系统应如何更加关注性能改进和整体稳定性。\n在今天的力量中"
+    },
+    {
+      "id": "b6ce728d9c13",
+      "title": "iOS 27 Will Reportedly Be Like Mac OS X Snow Leopard",
+      "summary": "In his Power On newsletter today, Bloomberg's Mark Gurman reiterated that iOS 27 will be similar to 2009's Mac OS X Snow Leopard, in the sense that one of Apple's biggest priorities is bug fixes for improved performance and stability.\n\n\n\n\nAt WWDC 2008, Apple showed a presentation that said Mac OS X ",
+      "url": "https://www.macrumors.com/2026/03/15/ios-27-will-reportedly-be-like-mac-os-x-snow-leopard/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-15 09:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "据报道，iOS 27 将像 Mac OS X Snow Leopard 一样",
+      "summary_translated": "彭博社的 Mark Gurman 在今天的 Power On 时事通讯中重申，iOS 27 将类似于 2009 年的 Mac OS X Snow Leopard，从某种意义上说，苹果最重要的优先事项之一是修复错误以提高性能和稳定性。\n\n\n\n\n在 WWDC 2008 上，Apple 展示了 Mac OS X"
+    },
+    {
+      "id": "7b9fb64599c1",
+      "title": "Apple is 'Trying' to Add a Useful New Setting to iOS 27",
+      "summary": "In his Power On newsletter today, Bloomberg's Mark Gurman said the latest internal version of iOS 27 does not have major Liquid Glass design changes, but there might be a new system-wide setting for precisely adjusting the look of the interface.\n\n\n\n\niOS 26.1 lets you choose between \"Clear\" and \"Tint",
+      "url": "https://www.macrumors.com/2026/03/15/ios-27-may-add-a-useful-setting/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-15 09:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-27-Glass-Slider-Feature.jpg",
+      "title_translated": "苹果正在“尝试”为 iOS 27 添加有用的新设置",
+      "summary_translated": "彭博社的 Mark Gurman 在今天的 Power On 时事通讯中表示，最新的 iOS 27 内部版本没有重大的 Liquid Glass 设计变化，但可能会有一个新的系统范围设置，用于精确调整界面的外观。\n\n\n\n\niOS 26.1 允许您在“清晰”和“色调”之间进行选择"
     },
     {
       "id": "479db90801c8",
