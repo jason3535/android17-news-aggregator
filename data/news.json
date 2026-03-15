@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-15 11:36:18",
-  "total_count": 231,
-  "news_count": 226,
+  "last_updated": "2026-03-15 13:14:54",
+  "total_count": 232,
+  "news_count": 227,
   "android_count": 69,
-  "ios_count": 157,
+  "ios_count": 158,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "14ee9277d6e6",
+      "title": "iOS 27 likely won’t include any major changes to Liquid Glass: report",
+      "summary": "In just a few months, Apple is expected to unveil its latest round of operating systems: iOS 27, macOS 27, watchOS 27, and so on. Previous reports on iOS 27 have heavily focused on how this years operating systems should focus more on performance improvements and overall stability.\nIn today’s Power ",
+      "url": "https://9to5mac.com/2026/03/15/ios-27-likely-wont-include-any-major-changes-to-liquid-glass-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-15 12:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可能不会对 Liquid Glass 进行任何重大更改：报告",
+      "summary_translated": "在短短几个月内，苹果预计将推出最新一轮操作系统：iOS 27、macOS 27、watchOS 27 等。之前有关 iOS 27 的报告主要关注今年的操作系统应如何更加关注性能改进和整体稳定性。\n在今天的力量中"
+    },
     {
       "id": "2d252b416db8",
       "title": "Latest Google Pixel update makes it harder to select images from the Recents menu",
