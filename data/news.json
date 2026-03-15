@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-15 13:14:54",
-  "total_count": 232,
-  "news_count": 227,
+  "last_updated": "2026-03-15 14:46:16",
+  "total_count": 233,
+  "news_count": 228,
   "android_count": 69,
-  "ios_count": 158,
+  "ios_count": 159,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 可能不会对 Liquid Glass 进行任何重大更改：报告",
       "summary_translated": "在短短几个月内，苹果预计将推出最新一轮操作系统：iOS 27、macOS 27、watchOS 27 等。之前有关 iOS 27 的报告主要关注今年的操作系统应如何更加关注性能改进和整体稳定性。\n在今天的力量中"
+    },
+    {
+      "id": "479db90801c8",
+      "title": "No Major Changes to Liquid Glass Expected Across iOS 27 and macOS 27",
+      "summary": "Apple's new Liquid Glass interface introduced across iOS 26, macOS Tahoe, and its other latest software platforms is apparently here to stay.\n\n\n\n\nIn his Power On newsletter today, Bloomberg's Mark Gurman said the latest internal versions of iOS 27 and macOS 27 do not have major Liquid Glass design c",
+      "url": "https://www.macrumors.com/2026/03/15/ios-27-macos-27-no-major-liquid-glass-changes/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-15 07:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/iOS-26-on-Three-iPhones.jpg",
+      "title_translated": "iOS 27 和 macOS 27 预计液体玻璃不会有重大变化",
+      "summary_translated": "Apple 在 iOS 26、macOS Tahoe 及其其他最新软件平台上推出的新 Liquid Glass 界面显然将继续存在。\n\n\n\n\n彭博社的 Mark Gurman 在今天的 Power On 时事通讯中表示，iOS 27 和 macOS 27 的最新内部版本没有主要的液态玻璃设计 c"
     },
     {
       "id": "2d252b416db8",
