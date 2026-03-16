@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-16 20:54:00",
-  "total_count": 238,
-  "news_count": 233,
+  "last_updated": "2026-03-16 21:51:55",
+  "total_count": 239,
+  "news_count": 234,
   "android_count": 70,
-  "ios_count": 163,
+  "ios_count": 164,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a12f5448cde9",
+      "title": "iOS 26’s new Phone app has a feature I don’t ever want to go without",
+      "summary": "Apple overhauled the Phone app in iOS 26 with a new design and added several powerful features, including a new call screening option that I don’t ever want to go without.\nmore…",
+      "url": "https://9to5mac.com/2026/03/16/ios-26s-new-phone-app-has-a-feature-i-dont-ever-want-to-go-without/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-16 20:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-phone-app.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的新电话应用程序有一个我不想没有的功能",
+      "summary_translated": "Apple 采用全新设计对 iOS 26 中的“电话”应用进行了彻底改造，并添加了多项强大的功能，包括我永远不想没有的新呼叫筛选选项。\n更多的…"
+    },
     {
       "id": "afec3484b8e0",
       "title": "iOS 27 might include a Liquid Glass slider, but should it?",
