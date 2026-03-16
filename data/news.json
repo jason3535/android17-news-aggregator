@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-16 15:15:03",
-  "total_count": 237,
-  "news_count": 232,
+  "last_updated": "2026-03-16 17:15:29",
+  "total_count": 238,
+  "news_count": 233,
   "android_count": 70,
-  "ios_count": 162,
+  "ios_count": 163,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Home-Screen-with-Finder-Shortcut.jpg",
       "title_translated": "三星已在全新 Galaxy S26 上测试基于 Android 17 的 One UI 9",
       "summary_translated": "第一个 Galaxy S26 Android 17 版本已经在三星的服务器上上线。"
+    },
+    {
+      "id": "9fbd30b34ee9",
+      "title": "AirPods Max 2 Reveal iOS 26.4 Launch Date",
+      "summary": "Apple today introduced the second-generation version of its over-ear AirPods Max headphones, and some of the software requirements in the fine print give us some insight into when Apple's iOS 26.4 update will be released to the public.\n\n\n\n\nTo use several of the added features like Live Translation, ",
+      "url": "https://www.macrumors.com/2026/03/16/airpods-max-ios-26-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-16 09:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/07/airpods-max-orange.jpeg",
+      "title_translated": "AirPods Max 2 公布 iOS 26.4 发布日期",
+      "summary_translated": "苹果今天推出了第二代版本的耳罩式 AirPods Max 耳机，细则中的一些软件要求让我们可以了解苹果的 iOS 26.4 更新何时向公众发布。\n\n\n\n\n要使用一些附加功能（例如实时翻译），"
     },
     {
       "id": "14ee9277d6e6",
