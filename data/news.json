@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-17 17:15:54",
-  "total_count": 240,
-  "news_count": 235,
+  "last_updated": "2026-03-17 19:17:57",
+  "total_count": 242,
+  "news_count": 237,
   "android_count": 70,
-  "ios_count": 165,
+  "ios_count": 167,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/wwdc26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果扩大影响力，为 WWDC 2026 和 iOS 27 做准备",
       "summary_translated": "在 6 月 WWDC 2026 上发布 iOS 27 之前，苹果扩大了其开发者覆盖范围，特别是在中国。本周，Apple Developer 加入了中国视频共享平台 bilibili，该平台已经发布了 32 个以开发者为中心的视频。\n更多的…"
+    },
+    {
+      "id": "e75a923f0587",
+      "title": "Apple Releases Background Security Improvement Update for macOS Tahoe 26.3.1, iOS 26.3.1, and iPadOS 26.3.1",
+      "summary": "Apple today released the first Background Security Improvement (BSI) update, replacing the rapid security updates that it used to seed out a few years ago. The first BSI updates address a WebKit vulnerability that could allow maliciously crafted web content to bypass Same Origin Policy. There's a ma",
+      "url": "https://www.macrumors.com/2026/03/17/security-update-ios-26-3-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-17 11:52",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title_translated": "Apple 发布了 macOS Tahoe 26.3.1、iOS 26.3.1 和 iPadOS 26.3.1 的后台安全改进更新",
+      "summary_translated": "Apple 今天发布了第一个后台安全改进 (BSI) 更新，取代了几年前推出的快速安全更新。第一个 BSI 更新解决了一个 WebKit 漏洞，该漏洞可能允许恶意制作的 Web 内容绕过同源策略。有一个妈"
+    },
+    {
+      "id": "c1bcf6a7e631",
+      "title": "Apple Opens Developer Accounts on bilibili and LinkedIn Before WWDC 2026",
+      "summary": "As Apple gears up to connect with developers at the 2026 Worldwide Developers Conference in June, it has created new Apple Developer accounts on two new social networks. Apple Developer can be found on bilibili in China and LinkedIn.\n\n\n\n\nApple says that its developer accounts will provide the latest",
+      "url": "https://www.macrumors.com/2026/03/17/apple-developer-accounts-linkedin-bilibili/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-17 10:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-50-Years-Hello-Feature.jpg",
+      "title_translated": "Apple 在 WWDC 2026 之前在 bilibili 和 LinkedIn 上开设开发者帐户",
+      "summary_translated": "随着 Apple 准备在 6 月举行的 2026 年全球开发者大会上与开发者建立联系，它在两个新的社交网络上创建了新的 Apple 开发者帐户。 Apple Developer可以在中国的bilibili和LinkedIn上找到。\n\n\n\n\n苹果表示其开发者帐户将提供最新的"
     },
     {
       "id": "a12f5448cde9",
