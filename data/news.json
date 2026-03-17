@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-17 15:13:04",
-  "total_count": 239,
-  "news_count": 234,
+  "last_updated": "2026-03-17 17:15:54",
+  "total_count": 240,
+  "news_count": 235,
   "android_count": 70,
-  "ios_count": 164,
+  "ios_count": 165,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9da535321464",
+      "title": "Apple prepares for WWDC 2026 and iOS 27 by expanding its reach",
+      "summary": "Apple has expanded its developer reach, specifically in China, ahead of iOS 27’s unveiling at WWDC 2026 in June. This week, Apple Developer joined bilibili, the Chinese video sharing platform, where it has already published 32 developer-focused videos.\nmore…",
+      "url": "https://9to5mac.com/2026/03/17/apple-prepares-for-wwdc-2026-and-ios-27-by-expanding-its-reach/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-17 15:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/wwdc26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果扩大影响力，为 WWDC 2026 和 iOS 27 做准备",
+      "summary_translated": "在 6 月 WWDC 2026 上发布 iOS 27 之前，苹果扩大了其开发者覆盖范围，特别是在中国。本周，Apple Developer 加入了中国视频共享平台 bilibili，该平台已经发布了 32 个以开发者为中心的视频。\n更多的…"
+    },
     {
       "id": "a12f5448cde9",
       "title": "iOS 26’s new Phone app has a feature I don’t ever want to go without",
