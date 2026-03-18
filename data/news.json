@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-18 15:20:31",
-  "total_count": 242,
-  "news_count": 237,
+  "last_updated": "2026-03-18 17:15:48",
+  "total_count": 244,
+  "news_count": 239,
   "android_count": 70,
-  "ios_count": 167,
+  "ios_count": 169,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3d8e26d2d5ff",
+      "title": "Apple releases iOS 26.4 RC for iPhone with upcoming features",
+      "summary": "The first iOS 26.4 release candidate is now available. iOS 26.4 includes a number of exciting new features and changes, including new emoji and AI-powered Apple Music updates.\nmore…",
+      "url": "https://9to5mac.com/2026/03/18/apple-releases-ios-26-4-rc-for-iphone-with-upcoming-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-18 17:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-rc.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 发布了适用于 iPhone 的 iOS 26.4 RC 以及即将推出的功能",
+      "summary_translated": "第一个 iOS 26.4 候选版本现已发布。 iOS 26.4 包含许多令人兴奋的新功能和变化，包括新的表情符号和人工智能支持的 Apple Music 更新。\n更多的…"
+    },
+    {
+      "id": "24c55a9ddffe",
+      "title": "Apple Seeds iOS 26.4 and iPadOS 26.4 Release Candidates",
+      "summary": "Apple today seeded the release candidate version of upcoming iOS 26.4 and iPadOS 26.4 updates to developers and public beta testers, with the software coming a week after Apple provided the fourth betas. The release candidate represents the final version of iOS 26.4 that will be provided to the publ",
+      "url": "https://www.macrumors.com/2026/03/18/apple-seeds-ios-26-4-release-candidate/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-18 10:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-pastel.jpg",
+      "title_translated": "Apple 种子 iOS 26.4 和 iPadOS 26.4 候选版本",
+      "summary_translated": "苹果今天向开发者和公共 Beta 测试人员发布了即将推出的 iOS 26.4 和 iPadOS 26.4 更新的候选版本，该软件是在苹果提供第四个 Beta 一周后发布的。候选版本代表将提供给公众的 iOS 26.4 最终版本"
+    },
     {
       "id": "9da535321464",
       "title": "Apple prepares for WWDC 2026 and iOS 27 by expanding its reach",
