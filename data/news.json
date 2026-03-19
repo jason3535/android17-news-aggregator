@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-19 13:39:56",
-  "total_count": 255,
-  "news_count": 250,
+  "last_updated": "2026-03-19 15:02:42",
+  "total_count": 256,
+  "news_count": 251,
   "android_count": 70,
-  "ios_count": 180,
+  "ios_count": 181,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "01a66c979435",
+      "title": "iOS 26 made one of iPhone’s wildest, most unique features a lot better",
+      "summary": "Did you know that your iPhone can replicate your voice, letting you enter text prompts that are spoken aloud in a voice that sounds eerily like you? The feature is called Personal Voice, and in iOS 26 it got a lot better.\nmore…",
+      "url": "https://9to5mac.com/2026/03/19/ios-26-made-one-of-iphones-wildest-most-unique-features-a-lot-better/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-19 14:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-wallpapers.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 让 iPhone 最疯狂、最独特的功能之一变得更好",
+      "summary_translated": "您是否知道您的 iPhone 可以复制您的声音，让您输入文本提示，这些提示的声音听起来与您的声音极其相似？该功能称为“个人语音”，在 iOS 26 中它变得更好了。\n更多的…"
+    },
     {
       "id": "343f02f5223f",
       "title": "When is WWDC 2026? Here’s what to expect",
