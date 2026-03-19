@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-19 19:11:53",
-  "total_count": 260,
-  "news_count": 255,
-  "android_count": 71,
+  "last_updated": "2026-03-19 20:52:49",
+  "total_count": 261,
+  "news_count": 256,
+  "android_count": 72,
   "ios_count": 184,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3a26d364e565",
+      "title": "Android Canary 2603 introduces redesigned pill-shaped screen recording menu",
+      "summary": "Google just pushed a new version of Android Canary out to its most cutting-edge beta testers, and alongside a bunch of the features we expect to launch with Android 17, we’re also getting an all-new UI for capturing whatever’s happening on your display.\nmore…",
+      "url": "https://9to5google.com/2026/03/19/android-canary-2603-introduces-redesigned-pill-shaped-screen-recording-menu/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-19 19:21",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/Screen-recording-chip.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android Canary 2603引入重新设计的药丸状屏幕录制菜单",
+      "summary_translated": "谷歌刚刚向其最前沿的 Beta 测试者推出了新版本的 Android Canary，除了我们预计将在 Android 17 中推出的一系列功能之外，我们还获得了一个全新的 UI，用于捕获显示屏上发生的任何情况。\n更多的…"
+    },
     {
       "id": "72f06587cb5b",
       "title": "iOS 26’s new Apple Maps feature has quickly become a favorite",
