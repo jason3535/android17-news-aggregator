@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-19 15:02:42",
-  "total_count": 256,
-  "news_count": 251,
+  "last_updated": "2026-03-19 16:05:37",
+  "total_count": 257,
+  "news_count": 252,
   "android_count": 70,
-  "ios_count": 181,
+  "ios_count": 182,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "77456b45c52f",
+      "title": "9to5Mac Daily: March 19, 2026 – Apple acquisition, iOS 26.4 features",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/03/19/daily-march-19-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-19 15:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 3 月 19 日 – Apple 收购，iOS 26.4 功能",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "01a66c979435",
       "title": "iOS 26 made one of iPhone’s wildest, most unique features a lot better",
