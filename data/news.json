@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-19 16:05:37",
-  "total_count": 257,
-  "news_count": 252,
+  "last_updated": "2026-03-19 17:59:33",
+  "total_count": 258,
+  "news_count": 253,
   "android_count": 70,
-  "ios_count": 182,
+  "ios_count": 183,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fba7c487a03a",
+      "title": "AirPods Pro now have 10+ hidden controls in iOS 26, here’s the full list",
+      "summary": "AirPods have long supported touch controls via the earbuds’ stems, but the list of supported actions and gestures has grown substantially over time—including in iOS 26. Here are all of the 10+ hidden controls now offered by AirPods Pro.\nmore…",
+      "url": "https://9to5mac.com/2026/03/19/airpods-pro-now-have-10-hidden-controls-in-ios-26-heres-the-full-list/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-19 17:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "AirPods Pro 现在在 iOS 26 中拥有 10 多个隐藏控件，这是完整列表",
+      "summary_translated": "AirPods 长期以来一直支持通过耳塞柄进行触摸控制，但随着时间的推移，支持的操作和手势列表大幅增加 - 包括在 iOS 26 中。以下是 AirPods Pro 现在提供的所有 10 多个隐藏控件。\n更多的…"
+    },
     {
       "id": "77456b45c52f",
       "title": "9to5Mac Daily: March 19, 2026 – Apple acquisition, iOS 26.4 features",
