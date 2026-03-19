@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-19 11:48:09",
-  "total_count": 254,
-  "news_count": 249,
+  "last_updated": "2026-03-19 13:39:56",
+  "total_count": 255,
+  "news_count": 250,
   "android_count": 70,
-  "ios_count": 179,
+  "ios_count": 180,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "343f02f5223f",
+      "title": "When is WWDC 2026? Here’s what to expect",
+      "summary": "One of the most exciting times of the year for Apple fans is coming soon. WWDC is held every June, and this year will mark the launch of iOS 27 and much more.\nWhen will Apple announce and hold WWDC this year? Head below for our expectations.\nmore…",
+      "url": "https://9to5mac.com/2026/03/19/when-is-wwdc-2026-heres-what-to-expect/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-19 13:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/wwdc26-02-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "WWDC 2026 是什么时候？这是值得期待的",
+      "summary_translated": "对于苹果粉丝来说，一年中最激动人心的时刻之一即将到来。 WWDC 每年 6 月举行，今年将标志着 iOS 27 等的发布。\n苹果今年什么时候宣布并举办 WWDC？请往下看我们的期望。\n更多的…"
+    },
     {
       "id": "aeb54733fb16",
       "title": "Apple named in AI lawsuit over data set it says doesn’t power Apple Intelligence",
