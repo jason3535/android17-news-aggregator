@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-20 15:55:17",
-  "total_count": 263,
-  "news_count": 258,
+  "last_updated": "2026-03-20 16:58:39",
+  "total_count": 264,
+  "news_count": 259,
   "android_count": 72,
-  "ios_count": 186,
+  "ios_count": 187,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "148841c48ba4",
+      "title": "iOS 27: New features, release date, and more",
+      "summary": "We’re less than three months away from the debut of iOS 27 at WWDC, and rumors are waiting a clear picture of what to expect. \nThe update will reportedly bring a focus on stability improvements and bug fixes, with some big new Apple Intelligence features sprinkled in. Here’s everything we know so fa",
+      "url": "https://9to5mac.com/2026/03/20/ios-27-new-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-20 16:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27：新功能、发布日期等",
+      "summary_translated": "距离 iOS 27 在 WWDC 上首次亮相还有不到三个月的时间，谣言正在等待我们的期待。 \n据报道，此次更新将重点关注稳定性改进和错误修复，并加入了一些重要的新 Apple Intelligence 功能。以下是我们目前所知的所有内容"
+    },
     {
       "id": "ad02b1c52c1e",
       "title": "iOS 26.4 adds brand new widgets for your iPhone’s Home Screen",
