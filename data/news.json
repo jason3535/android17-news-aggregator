@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-20 19:48:05",
-  "total_count": 265,
-  "news_count": 260,
+  "last_updated": "2026-03-20 20:48:29",
+  "total_count": 266,
+  "news_count": 261,
   "android_count": 72,
-  "ios_count": 188,
+  "ios_count": 189,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a2a8bf4fba1b",
+      "title": "iOS 26.4 will automatically turn on strict security feature for all iPhones",
+      "summary": "iOS 26.4 is coming very soon as the next big iPhone update, and Apple plans to enable a key security feature by default in the release.\nmore…",
+      "url": "https://9to5mac.com/2026/03/20/ios-26-4-will-activate-key-theft-prevention-feature-on-all-iphones/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-20 20:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 将自动为所有 iPhone 开启严格的安全功能",
+      "summary_translated": "iOS 26.4 即将作为 iPhone 的下一个重大更新推出，苹果计划在该版本中默认启用一项关键安全功能。\n更多的…"
+    },
     {
       "id": "54203efde497",
       "title": "Apple’s Gemini-powered Siri upgrade could still arrive this month",
