@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-20 14:57:39",
-  "total_count": 261,
-  "news_count": 256,
+  "last_updated": "2026-03-20 15:55:17",
+  "total_count": 263,
+  "news_count": 258,
   "android_count": 72,
-  "ios_count": 184,
+  "ios_count": 186,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ad02b1c52c1e",
+      "title": "iOS 26.4 adds brand new widgets for your iPhone’s Home Screen",
+      "summary": "iOS 26.4 comes packed with many new features, including brand new Ambient Music widgets that can be added to the iPhone’s Home Screen. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/03/20/ios-26-4-adds-brand-new-widgets-for-your-iphones-home-screen/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-20 15:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-4-homescreen-ambient-music-widget.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为 iPhone 主屏幕添加了全新的小部件",
+      "summary_translated": "iOS 26.4 包含许多新功能，包括可以添加到 iPhone 主屏幕的全新环境音乐小部件。以下是详细信息。\n更多的…"
+    },
+    {
+      "id": "c351d23b76a0",
+      "title": "iOS 26.4 has three new features you might use every day",
+      "summary": "iOS 26.4 is almost here, with a launch likely just days away. The update is packed with a lot of new features, including three that have a good chance of becoming daily go-tos for users.\nmore…",
+      "url": "https://9to5mac.com/2026/03/20/ios-26-4-has-three-new-features-you-might-use-every-day/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-20 15:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 具有您每天可能会使用的三项新功能",
+      "summary_translated": "iOS 26.4 即将发布，几天后就会发布。此次更新包含许多新功能，其中三个很有可能成为用户日常使用的功能。\n更多的…"
+    },
     {
       "id": "3a26d364e565",
       "title": "Android Canary 2603 introduces redesigned pill-shaped screen recording menu",
