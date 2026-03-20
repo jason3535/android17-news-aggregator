@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-20 21:41:40",
-  "total_count": 266,
-  "news_count": 261,
+  "last_updated": "2026-03-20 22:44:14",
+  "total_count": 267,
+  "news_count": 262,
   "android_count": 72,
-  "ios_count": 189,
+  "ios_count": 190,
   "leaker_count": 5,
   "items": [
     {
@@ -75,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.4 具有您每天可能会使用的三项新功能",
       "summary_translated": "iOS 26.4 即将发布，几天后就会发布。此次更新包含许多新功能，其中三个很有可能成为用户日常使用的功能。\n更多的…"
+    },
+    {
+      "id": "bec950672ab3",
+      "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone",
+      "summary": "iOS 26.4 isn't the major update with new Siri features that we hoped for, but there are some useful quality of life improvements, and a little bit of fun with an AI playlist generator and new emoji characters.\n\n\n\n\n\n\nPlaylist Playground - Apple Music has a Playlist Playground option that lets you gen",
+      "url": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-20 14:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-pastel.jpg",
+      "title_translated": "iOS 26.4：iPhone 即将推出的 10 大新功能",
+      "summary_translated": "iOS 26.4 并不是我们所希望的 Siri 新功能的重大更新，但它带来了一些有用的生活质量改进，并且人工智能播放列表生成器和新的表情符号字符带来了一些乐趣。\n\n\n\n\n\n\nPlaylist Playground - Apple Music 有一个 Playlist Playground 选项，可让您生成"
     },
     {
       "id": "3a26d364e565",
