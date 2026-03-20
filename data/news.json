@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-20 17:49:58",
-  "total_count": 264,
-  "news_count": 259,
+  "last_updated": "2026-03-20 19:04:21",
+  "total_count": 265,
+  "news_count": 260,
   "android_count": 72,
-  "ios_count": 187,
+  "ios_count": 188,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "54203efde497",
+      "title": "Apple’s Gemini-powered Siri upgrade could still arrive this month",
+      "summary": "Apple has had a jam-packed March after just three weeks. The company announced eight new products, broke a Mac launch record, and highlighted 13 enhancements coming to iPhone. Next, one of the most overdue Apple releases in years could follow: Personal Intelligence for Siri and Apple Intelligence.\nm",
+      "url": "https://9to5mac.com/2026/03/20/apples-gemini-powered-siri-upgrade-could-still-arrive-this-month/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-20 18:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/siri-gemini.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果由 Gemini 驱动的 Siri 升级版仍可能在本月推出",
+      "summary_translated": "仅仅三周后，苹果公司就迎来了一个拥挤的三月。该公司发布了 8 款新产品，打破了 Mac 发布记录，并重点介绍了 iPhone 的 13 项增强功能。接下来，苹果公司多年来最迟发布的版本之一可能随之而来：Siri 的个人智能和苹果智能。\n米"
+    },
     {
       "id": "148841c48ba4",
       "title": "iOS 27: New features, release date, and more",
