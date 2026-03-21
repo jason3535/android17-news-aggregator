@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-21 10:41:44",
-  "total_count": 267,
-  "news_count": 262,
+  "last_updated": "2026-03-21 11:33:41",
+  "total_count": 268,
+  "news_count": 263,
   "android_count": 72,
-  "ios_count": 190,
+  "ios_count": 191,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ab5c8291c3ea",
+      "title": "Top stories: AirPods Max 2, iOS 26.4 RC, and more",
+      "summary": "Welcome to 9to5Mac’s top stories of the week, where we recap the biggest news in the Apple world every Saturday. This week, we have the launch of AirPods Max 2, new iPhone Fold rumors, and the MacBook Neo is a hit. Plus, our usual slate of new podcast episodes, opinion pieces, and much more. Read on",
+      "url": "https://9to5mac.com/2026/03/21/top-stories-airpods-max-2-ios-26-4-rc-and-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-21 11:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "热门故事：AirPods Max 2、iOS 26.4 RC 等",
+      "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，我们发布了 AirPods Max 2、新款 iPhone Fold 的传闻，以及 MacBook Neo 的热销。另外，还有我们通常的新播客剧集、观点文章等等。继续阅读"
+    },
     {
       "id": "a2a8bf4fba1b",
       "title": "iOS 26.4 will automatically turn on strict security feature for all iPhones",
