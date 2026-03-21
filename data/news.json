@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-21 11:33:41",
-  "total_count": 268,
-  "news_count": 263,
+  "last_updated": "2026-03-21 13:10:50",
+  "total_count": 270,
+  "news_count": 265,
   "android_count": 72,
-  "ios_count": 191,
+  "ios_count": 193,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
       "title_translated": "热门故事：AirPods Max 2、iOS 26.4 RC 等",
       "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，我们发布了 AirPods Max 2、新款 iPhone Fold 的传闻，以及 MacBook Neo 的热销。另外，还有我们通常的新播客剧集、观点文章等等。继续阅读"
+    },
+    {
+      "id": "ed246a39bf5c",
+      "title": "Apple highlights 13 enhancements coming to iPhone with iOS 26.4",
+      "summary": "Apple has released the first iOS 26.4 RC build, highlighting 13 enhancements coming to your iPhone, and that means three things.\nmore…",
+      "url": "https://9to5mac.com/2026/03/21/apple-highlights-13-enhancements-coming-to-iphone-with-ios-26-4/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-21 10:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 重点介绍了 iOS 26.4 中 iPhone 的 13 项增强功能",
+      "summary_translated": "Apple 发布了第一个 iOS 26.4 RC 版本，重点介绍了 iPhone 的 13 项增强功能，这意味着三件事。\n更多的…"
     },
     {
       "id": "a2a8bf4fba1b",
@@ -103,6 +117,20 @@
       "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-pastel.jpg",
       "title_translated": "iOS 26.4：iPhone 即将推出的 10 大新功能",
       "summary_translated": "iOS 26.4 并不是我们所希望的 Siri 新功能的重大更新，但它带来了一些有用的生活质量改进，并且人工智能播放列表生成器和新的表情符号字符带来了一些乐趣。\n\n\n\n\n\n\nPlaylist Playground - Apple Music 有一个 Playlist Playground 选项，可让您生成"
+    },
+    {
+      "id": "431867ef21b8",
+      "title": "Top Stories: AirPods Max 2, iOS 27 and iPhone Fold Rumors, and More",
+      "summary": "Just when you thought Apple was done with product announcements for a little while, this week saw one last drop with the AirPods Max 2 making their appearance.\n\n\n\n\nThis week also saw fresh rumors about iOS 27 coming later this year while an iOS 26.4 release looks to be right around the corner, and A",
+      "url": "https://www.macrumors.com/2026/03/21/top-stories-airpods-max-2-announced/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-20 11:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/top-stories-2026-03-21.jpg",
+      "title_translated": "头条新闻：AirPods Max 2、iOS 27 和 iPhone Fold 传闻等",
+      "summary_translated": "正当你以为苹果已经结束了产品发布一段时间时，本周最后一次发布的产品是 AirPods Max 2。\n\n\n\n\n本周还出现了有关 iOS 27 将于今年晚些时候发布的新传言，而 iOS 26.4 版本似乎即将发布，并且"
     },
     {
       "id": "3a26d364e565",
