@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-22 13:12:44",
-  "total_count": 270,
-  "news_count": 265,
+  "last_updated": "2026-03-22 14:41:32",
+  "total_count": 271,
+  "news_count": 266,
   "android_count": 72,
-  "ios_count": 193,
+  "ios_count": 194,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2d8d76d114d1",
+      "title": "iPad 12 With A18 Chip for Apple Intelligence is 'Still Coming This Year'",
+      "summary": "Apple has updated a wide range of products and accessories this month, but there is still no entry-level iPad 12 with Apple Intelligence support.\n\n\n\n\nFortunately, Bloomberg's Mark Gurman today said an iPad with an A18 chip for Apple Intelligence is \"ready to go\" and \"still coming this year.\"\n\n\nAn ea",
+      "url": "https://www.macrumors.com/2026/03/22/ipad-12-with-a18-chip-this-year/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-22 06:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/iPad-A16-Colors.jpg",
+      "title_translated": "搭载 Apple Intelligence A18 芯片的 iPad 12“今年仍将推出”",
+      "summary_translated": "苹果本月更新了多种产品和配件，但仍然没有支持 Apple Intelligence 的入门级 iPad 12。\n\n\n\n\n幸运的是，彭博社的马克·古尔曼 (Mark Gurman) 今天表示，配备 Apple Intelligence A18 芯片的 iPad 已经“准备就绪”，并且“今年仍将上市”。\n\n\n埃亚"
+    },
     {
       "id": "ab5c8291c3ea",
       "title": "Top stories: AirPods Max 2, iOS 26.4 RC, and more",
