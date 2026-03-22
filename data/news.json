@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-22 21:37:10",
-  "total_count": 271,
-  "news_count": 266,
+  "last_updated": "2026-03-22 22:39:48",
+  "total_count": 272,
+  "news_count": 267,
   "android_count": 72,
-  "ios_count": 194,
+  "ios_count": 195,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "08adb2227f1e",
+      "title": "Apple already has the perfect platform for deploying conversational AI",
+      "summary": "When Apple initially rolled out Apple Intelligence, the company was pretty openly against the idea of creating a Siri chatbot. Now, things have changed a little – and the company is rumored to be deploying a Siri app in iOS 27, so users can chat with the next generation of Apple Foundation Models. W",
+      "url": "https://9to5mac.com/2026/03/22/apple-already-has-the-perfect-platform-for-deploying-conversational-ai/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-22 22:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果已经拥有部署对话式人工智能的完美平台",
+      "summary_translated": "当苹果最初推出 Apple Intelligence 时，该公司相当公开地反对创建 Siri 聊天机器人的想法。现在，情况发生了一些变化——据传该公司将在 iOS 27 中部署 Siri 应用程序，以便用户可以与下一代 Apple Foundation Models 聊天。瓦"
+    },
     {
       "id": "2d8d76d114d1",
       "title": "iPad 12 With A18 Chip for Apple Intelligence is 'Still Coming This Year'",
