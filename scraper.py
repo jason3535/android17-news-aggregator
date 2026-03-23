@@ -1,6 +1,6 @@
 """
 Android 17 News Scraper
-爬取 Android Authority, 9to5Google 以及著名爆料人士的 Android 17 相关新闻
+爬取 Android Authority, 9to5Google, XDA, Droid-Life, Android Dev Blog 以及著名爆料人士的 Android 17 相关新闻
 """
 
 import requests
@@ -339,6 +339,78 @@ def fetch_xda_developers() -> list:
     return news
 
 
+def fetch_droid_life() -> list:
+    """爬取 Droid-Life 的 Android 新闻"""
+    news = []
+    try:
+        feed_url = 'https://www.droid-life.com/feed/'
+        feed = feedparser.parse(feed_url)
+
+        for entry in feed.entries[:30]:
+            title = entry.get('title', '')
+            summary = entry.get('summary', '')
+
+            if contains_keywords(title) or contains_keywords(summary):
+                pub_date = entry.get('published', '')
+                date_str = parse_news_date(pub_date, entry.link)
+
+                # 提取图片
+                image_url = extract_image_from_entry(entry)
+
+                news.append({
+                    'id': generate_id(entry.link),
+                    'title': title,
+                    'summary': BeautifulSoup(summary, 'html.parser').get_text()[:300],
+                    'url': entry.link,
+                    'source': 'Droid-Life',
+                    'source_icon': 'DL',
+                    'date': date_str,
+                    'type': 'news',
+                    'platform': detect_platform(title + ' ' + summary),
+                    'image': image_url
+                })
+    except Exception as e:
+        print(f"Error fetching Droid-Life: {e}")
+
+    return news
+
+
+def fetch_android_dev_blog() -> list:
+    """爬取 Android Developers Blog 的官方公告"""
+    news = []
+    try:
+        feed_url = 'https://android-developers.googleblog.com/feeds/posts/default?alt=rss'
+        feed = feedparser.parse(feed_url)
+
+        for entry in feed.entries[:30]:
+            title = entry.get('title', '')
+            summary = entry.get('summary', '')
+
+            if contains_keywords(title) or contains_keywords(summary):
+                pub_date = entry.get('published', '')
+                date_str = parse_news_date(pub_date, entry.link)
+
+                # 提取图片
+                image_url = extract_image_from_entry(entry)
+
+                news.append({
+                    'id': generate_id(entry.link),
+                    'title': title,
+                    'summary': BeautifulSoup(summary, 'html.parser').get_text()[:300],
+                    'url': entry.link,
+                    'source': 'Android Dev Blog',
+                    'source_icon': 'ADB',
+                    'date': date_str,
+                    'type': 'news',
+                    'platform': 'android',
+                    'image': image_url
+                })
+    except Exception as e:
+        print(f"Error fetching Android Dev Blog: {e}")
+
+    return news
+
+
 def fetch_9to5mac() -> list:
     """爬取 9to5Mac 的 iOS 新闻"""
     news = []
@@ -645,6 +717,75 @@ def search_9to5google(query: str = "android 17") -> list:
     return news
 
 
+def search_droid_life(query: str = "android 17") -> list:
+    """通过搜索页面爬取 Droid-Life 的文章"""
+    news = []
+    try:
+        search_url = f"https://www.droid-life.com/?s={query.replace(' ', '+')}"
+        response = requests.get(search_url, headers=HEADERS, timeout=15)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            articles = soup.find_all('article', limit=20)
+
+            for article in articles:
+                try:
+                    title_elem = article.find(['h2', 'h3'])
+                    if not title_elem:
+                        continue
+                    link_elem = title_elem.find('a') or article.find('a')
+                    if not link_elem:
+                        continue
+
+                    title = title_elem.get_text(strip=True)
+                    url = link_elem.get('href', '')
+
+                    if not url or not title:
+                        continue
+
+                    img = article.find('img')
+                    image_url = None
+                    if img:
+                        image_url = img.get('src') or img.get('data-src') or img.get('data-lazy-src')
+
+                    time_elem = article.find('time')
+                    date_str = ''
+                    if time_elem and time_elem.get('datetime'):
+                        try:
+                            parsed_date = date_parser.parse(time_elem['datetime'])
+                            date_str = parsed_date.strftime('%Y-%m-%d %H:%M')
+                        except:
+                            pass
+
+                    if not date_str and url:
+                        url_date = extract_date_from_url(url)
+                        if url_date:
+                            date_str = url_date
+
+                    summary_elem = article.find('p')
+                    summary = summary_elem.get_text(strip=True)[:300] if summary_elem else ''
+
+                    news.append({
+                        'id': generate_id(url),
+                        'title': title,
+                        'summary': summary,
+                        'url': url,
+                        'source': 'Droid-Life',
+                        'source_icon': 'DL',
+                        'date': date_str,
+                        'type': 'news',
+                        'platform': detect_platform(title + ' ' + summary),
+                        'image': image_url
+                    })
+                except Exception as e:
+                    continue
+
+        print(f"Droid-Life 搜索到 {len(news)} 篇文章")
+    except Exception as e:
+        print(f"搜索 Droid-Life 失败: {e}")
+
+    return news
+
+
 def get_leaker_info() -> list:
     """返回著名爆料人士信息（供前端显示）"""
     return [
@@ -679,6 +820,8 @@ def scrape_all() -> dict:
     new_news.extend(fetch_android_authority())
     new_news.extend(fetch_9to5google())
     new_news.extend(fetch_xda_developers())
+    new_news.extend(fetch_droid_life())
+    new_news.extend(fetch_android_dev_blog())
 
     # iOS RSS feeds
     print("爬取 iOS RSS feeds...")
@@ -699,6 +842,11 @@ def scrape_all() -> dict:
     new_news.extend(search_9to5google("android 16 qpr"))
     new_news.extend(search_android_authority("qpr"))
     new_news.extend(search_9to5google("qpr"))
+
+    # Droid-Life 搜索
+    print("搜索 Droid-Life 历史文章...")
+    new_news.extend(search_droid_life("android 17"))
+    new_news.extend(search_droid_life("android 17 beta"))
 
     # iOS 搜索
     print("搜索 iOS 历史文章...")
