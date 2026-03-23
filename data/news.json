@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-23 17:05:36",
-  "total_count": 287,
-  "news_count": 282,
+  "last_updated": "2026-03-23 18:03:01",
+  "total_count": 290,
+  "news_count": 285,
   "android_count": 85,
-  "ios_count": 197,
+  "ios_count": 200,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e97690606037",
+      "title": "Apple teases ‘AI advancements’ to be unveiled at WWDC this year",
+      "summary": "Today Apple announced the dates for WWDC 2026: June 8-12. And as part of the announcement press release, the company teased “AI advancements” are coming.\nmore…",
+      "url": "https://9to5mac.com/2026/03/23/apple-promises-ai-advancements-to-be-unveiled-at-wwdc-this-year/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-23 17:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果称将在今年的 WWDC 上公布“人工智能进步”",
+      "summary_translated": "今天，Apple 宣布了 WWDC 2026 的日期：6 月 8 日至 12 日。作为公告新闻稿的一部分，该公司嘲笑“人工智能进步”即将到来。\n更多的…"
+    },
     {
       "id": "cfb9d38b5b24",
       "title": "Apple announces WWDC 2026 for June 8, iOS 27 set to be revealed",
@@ -19,6 +33,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/wwdc26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果宣布 WWDC 2026 将于 6 月 8 日揭晓 iOS 27",
       "summary_translated": "Apple 已正式宣布 WWDC 2026，并确定了下一届全球开发者大会的日期。会议将于 6 月 8 日星期一举行主题演讲，我们预计 Apple 将在会上宣布 iOS 27、macOS 27 等。\n更多的…"
+    },
+    {
+      "id": "2cde3d1dfe4a",
+      "title": "Apple to Announce 2026 Swift Student Challenge Winners on March 26",
+      "summary": "As part of its WWDC 2026 announcement, Apple said that it plans to announce this year's Swift Student Challenge Winners on Thursday, March 26.\n\n\n\n\nApple's Swift Student Challenge tasks students with creating an original coding project using Swift Playgrounds or Xcode. This year's event began on Febr",
+      "url": "https://www.macrumors.com/2026/03/23/apple-swift-student-challenge-2026-march-26/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-23 10:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/2026-Swift-Student-Challenge.jpg",
+      "title_translated": "Apple 将于 3 月 26 日公布 2026 年 Swift 学生挑战赛获奖者",
+      "summary_translated": "作为 WWDC 2026 公告的一部分，Apple 表示计划于 3 月 26 日星期四公布今年 Swift 学生挑战赛的获奖者。\n\n\n\n\nApple 的 Swift 学生挑战赛要求学生使用 Swift Playgrounds 或 Xcode 创建原创编码项目。今年的活动于二月开始"
+    },
+    {
+      "id": "db923293a3fa",
+      "title": "WWDC 2026 to Showcase Apple's 'AI Advancements'",
+      "summary": "WWDC 2026 is set to begin on Monday, June 8, and the event will highlight Apple's \"AI advancements.\" Apple included the tidbit in its WWDC 2026 announcement.\n\n\nWWDC26 will spotlight incredible updates for Apple platforms, including AI advancements and exciting new software and developer tools.\n\n\n\nSi",
+      "url": "https://www.macrumors.com/2026/03/23/wwdc-2026-ai-advancements/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-23 10:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/WWDC26-Glowing-Ring-Feature.jpg",
+      "title_translated": "WWDC 2026 将展示苹果的“人工智能进步”",
+      "summary_translated": "WWDC 2026 将于 6 月 8 日星期一开始，该活动将重点介绍苹果的“人工智能进步”。 Apple 在其 WWDC 2026 公告中包含了这一花絮。\n\n\nWWDC26 将重点关注 Apple 平台的令人难以置信的更新，包括人工智能的进步以及令人兴奋的新软件和开发工具。\n\n\n\n硅"
     },
     {
       "id": "5f32da0b7a26",
