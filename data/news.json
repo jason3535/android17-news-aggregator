@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-23 20:51:11",
-  "total_count": 291,
-  "news_count": 286,
+  "last_updated": "2026-03-23 21:48:39",
+  "total_count": 292,
+  "news_count": 287,
   "android_count": 85,
-  "ios_count": 201,
+  "ios_count": 202,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "536b6617a605",
+      "title": "iOS 26.4 users can try the new Apple Podcasts video experience with these shows",
+      "summary": "Apple Podcasts has a brand new video podcast experience in iOS 26.4. iPhone users running the iOS 26.4 Release Candidate can now see it in action with these shows.\nmore…",
+      "url": "https://9to5mac.com/2026/03/23/ios-26-4-users-can-try-the-new-apple-podcasts-video-experience-with-these-shows/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-23 20:55",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/video-podcast.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 用户可以通过这些节目尝试新的 Apple Podcasts 视频体验",
+      "summary_translated": "Apple Podcasts 在 iOS 26.4 中拥有全新的视频播客体验。运行 iOS 26.4 候选版本的 iPhone 用户现在可以通过这些节目看到它的实际效果。\n更多的…"
+    },
     {
       "id": "cd3014715ddf",
       "title": "iOS 26.4 offers two Liquid Glass customization updates",
