@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-23 19:10:44",
-  "total_count": 290,
-  "news_count": 285,
+  "last_updated": "2026-03-23 20:51:11",
+  "total_count": 291,
+  "news_count": 286,
   "android_count": 85,
-  "ios_count": 200,
+  "ios_count": 201,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cd3014715ddf",
+      "title": "iOS 26.4 offers two Liquid Glass customization updates",
+      "summary": "iOS 26.4 is launching soon, and it will bring two updates for how you can customize the Liquid Glass design on your iPhone.\nmore…",
+      "url": "https://9to5mac.com/2026/03/23/ios-26-4-offers-two-liquid-glass-customization-updates/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-23 20:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 提供两项 Liquid Glass 定制更新",
+      "summary_translated": "iOS 26.4 即将发布，它将带来两项关于如何在 iPhone 上自定义液体玻璃设计的更新。\n更多的…"
+    },
     {
       "id": "e97690606037",
       "title": "Apple teases ‘AI advancements’ to be unveiled at WWDC this year",
