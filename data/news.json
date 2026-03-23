@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-03-23 05:44:51",
-  "total_count": 272,
-  "news_count": 267,
-  "android_count": 72,
+  "last_updated": "2026-03-23 06:59:36",
+  "total_count": 285,
+  "news_count": 280,
+  "android_count": 85,
   "ios_count": 195,
   "leaker_count": 5,
   "items": [
@@ -1127,6 +1127,20 @@
       "summary_translated": "Android 16 QPR3 现已推出，适用于 Pixel 6、6 Pro、6a、7、7 Pro、7a、平板电脑、Fold、8、8 Pro、8a、9、9 Pro、9 Pro XL、9 Pro Fold、9a、Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold 和 Pixel 10a 的 2026 年 3 月安全补丁。我们还推出了最新的 Pixel Feature Drop。\n摩尔"
     },
     {
+      "id": "a322c1c76169",
+      "title": "Android devices extend seamlessly to connected displays",
+      "summary": "\nPosted by Francesco Romano, Senior Developer Relations Engineer on Android We are excited to announce a major milestone in bringing mobile and desktop computing closer together on Android: connected display support has reached general availability with the Android 16 QPR3 release!As shown at Google",
+      "url": "https://android-developers.googleblog.com/2026/03/android-devices-extend-seamlessly-to.html",
+      "source": "Android Dev Blog",
+      "source_icon": "ADB",
+      "date": "2026-03-03 18:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQj6WqRvMuG1fbeZpi1dCTSrCC6E3MfpSX1gNw9M6MNbUFgsAJU3LRuwpEuXOHfTtjfXiEdn__Z99fqoZF003CS8_1-EwDHnRyqM0LuoEsWrjXwm1BLqxNulw0dth0Fo78UiXkqV-VKSY12AjULWKkknvUv_H7V_g2yzTIiTwua3OowwzFg8jgawT09aU/s72-c/Android%20Connected%20displays%20-%20Meta%20v02.png",
+      "title_translated": "Android 设备无缝扩展到连接的显示器",
+      "summary_translated": "作者：Francesco Romano，Android 高级开发者关系工程师 我们很高兴地宣布，在 Android 上将移动和桌面计算紧密结合在一起的一个重要里程碑：随着 Android 16 QPR3 版本的发布，联网显示支持已全面可用！如 Google 所示"
+    },
+    {
       "id": "15e606a1383a",
       "title": "macOS and iPadOS 26.3.1 software releases coming before new iOS 26.4 iPhone update",
       "summary": "Apple confirms on its website that both iPadOS 26.3.1 and macOS 26.3.1 software releases are coming before the new iOS 26.4 iPhone update is released. This likely means that iOS 26.3.1 for iPhone is also confirmed.\nmore…",
@@ -1435,6 +1449,20 @@
       "summary_translated": "谷歌今天发布了适用于 Pixel 设备的 Android 17 Beta 2。这是在首次发布后不到两周的时间。\n更多的…"
     },
     {
+      "id": "7a644c639357",
+      "title": "The Second Beta of Android 17",
+      "summary": "\nPosted by Matthew McCullough, VP Product Management, Android Developer\nToday we're releasing the second beta of Android 17, continuing our work to build a platform that prioritizes privacy, security, and refined performance. This update delivers a range of new capabilities, including the EyeDropper",
+      "url": "https://android-developers.googleblog.com/2026/02/the-second-beta-of-android-17.html",
+      "source": "Android Dev Blog",
+      "source_icon": "ADB",
+      "date": "2026-02-26 21:08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvAWzUDf-9b2pw-fuqR8566QCiIbx_or66Dm4VwsKCaNdt1ids-40mTs7l-LtWcs08Q3MeA1jZV6qn45jvfUQmXSNeVnz6lGgrWWJshGzWvvffbW6anqvLxKFFcChiJzlD6jXorHkY5dNVfQAYoodi9u9I_dGkRepRqWP_e0dthZwGhJSIBy5CyeEleo/s72-c/android-17-stage2-something@2x.png",
+      "title_translated": "Android 17 第二个 Beta 版",
+      "summary_translated": "发布者：Android 开发人员产品管理副总裁 Matthew McCullough\n今天，我们发布了 Android 17 的第二个测试版，继续致力于构建一个优先考虑隐私、安全和精致性能的平台。此更新提供了一系列新功能，包括 EyeDropper"
+    },
+    {
       "id": "efa1e1bea333",
       "title": "Google is now rolling out Android 17 Beta 2 for Pixel",
       "summary": "Less than two weeks after the inaugural release, Android 17 Beta 2 is already rolling out to Pixel devices.\nmore…",
@@ -1503,6 +1531,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Samsungs-equivalent-of-Apple-Intelligence-in-the-Galaxy-S26-seems-very-underwhelming.webp?w=1500",
       "title_translated": "三星 Galaxy S26 中的 Apple Intelligence 功能似乎非常平庸",
       "summary_translated": "三星喜欢先于苹果推出新功能，Galaxy S26 中的新人工智能功能在一定程度上做到了这一点。最新版本的 Galaxy AI 旨在执行许多与 Apple Intelligence 相同的功能。\n然而，正如我们的姊妹网站 9to5Google 所指出的那样，这种体验似乎注定要"
+    },
+    {
+      "id": "2c2144b94836",
+      "title": "Android 17 Beta 2 Released for Pixel Devices!",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/26/android-17-beta-2-released-for-pixel-devices/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-26 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-5-768x512.jpg",
+      "title_translated": "适用于 Pixel 设备的 Android 17 Beta 2 发布！",
+      "summary_translated": ""
     },
     {
       "id": "95ebd4603ca6",
@@ -2107,6 +2149,20 @@
       "summary_translated": "iOS 26.4 Beta 中有一长串新功能，我们昨天重点介绍了其中许多功能，但此后我们发现了苹果在该软件中所做的其他一些较小的更改。\n\n\n\n\n\n健康应用程序\n\niOS 26.4 为健康应用程序的睡眠部分提供了一个新的平均就寝时间指标，提供"
     },
     {
+      "id": "116ceaa7a478",
+      "title": "Under the hood: Android 17’s lock-free MessageQueue",
+      "summary": "\nPosted by Shai Barack, Android Platform Performance Lead and Charles Munger, Principal Software EngineerIn Android 17, apps targeting SDK 37 or higher will receive a new implementation of MessageQueue where the implementation is lock-free. The new implementation improves performance and reduces mis",
+      "url": "https://android-developers.googleblog.com/2026/02/under-hood-android-17s-lock-free.html",
+      "source": "Android Dev Blog",
+      "source_icon": "ADB",
+      "date": "2026-02-17 16:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbF0aLhQt_qbYhTnODAOPjkVe_oX0gD1YcEGWy8oxv2dE705ei3plig3iKmoOZf6sd8c4x5VmrMNIOyIEy-dmFlaepcN-rz3B6_SSBqa_7VyEJ5FHR2eYcm-QDuYLOormMWbifm2x_X9_4-loSbaW1EQ4H8PKwDLBiIdvcfNNtNp1JeHacykoeTsS0TUk/s72-c/Android%2017's%20Lock-Free%20Message%20Queue%20_Blog.png",
+      "title_translated": "底层：Android 17 的无锁 MessageQueue",
+      "summary_translated": "由 Android 平台性能主管 Shai Barack 和首席软件工程师 Charles Munger 发布 在 Android 17 中，面向 SDK 37 或更高版本的应用程序将收到 MessageQueue 的新实现，其中该实现是无锁的。新的实施提高了性能并减少了错误"
+    },
+    {
       "id": "fc53dd724266",
       "title": "Apple plans M5-based Private Cloud Compute architecture for Apple Intelligence",
       "summary": "According to a new Private Cloud Compute software release this week, Apple is starting to use M5 chips in Apple Private Cloud Compute servers. This is the infrastructure that powers Apple Intelligence’s cloud-based features.\nmore…",
@@ -2499,6 +2555,20 @@
       "summary_translated": "在今天的 Power On 时事通讯中，彭博社的 Mark Gurman 分享了有关苹果即将发布的软件 iOS 27 的一些新细节。该公司的目标是“整理”其代码库、升级旧应用程序并调整 Liquid Glass，从而有望改善电池寿命。\n莫"
     },
     {
+      "id": "6963b5679094",
+      "title": "Everything New in Android 17 Beta",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/15/everything-new-in-android-17-beta/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-15 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-6-768x512.jpg",
+      "title_translated": "Android 17 Beta 中的所有新功能",
+      "summary_translated": ""
+    },
+    {
       "id": "9358ff623dc0",
       "title": "Google sets accelerated Android 17 release schedule",
       "summary": "Besides replacing Developer Previews, the Android 17 Beta cycle is operating on a faster release schedule.\nmore…",
@@ -2723,6 +2793,20 @@
       "summary_translated": "谷歌的第一个 Android 17 Beta 版重点关注大屏幕应用程序适应性、底层性能改进等。"
     },
     {
+      "id": "04865d1f7f42",
+      "title": "Prepare your app for the resizability and orientation changes in Android 17",
+      "summary": "Posted by Miguel Montemayor, Developer Relations Engineer, Android With the release of Android 16 in 2025, we shared our vision for a device ecosystem where apps adapt seamlessly to any screen—whether it’s a phone, foldable, tablet, desktop, car display, or XR. Users expect their apps to work everyw",
+      "url": "https://android-developers.googleblog.com/2026/02/prepare-your-app-for-resizability-and.html",
+      "source": "Android Dev Blog",
+      "source_icon": "ADB",
+      "date": "2026-02-13 19:34",
+      "type": "news",
+      "platform": "android",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikDKkmApg8RWitmL4i9a2Qu7sLGHQVTXkbaYcf494F7oVyFQ_VU0ogIbtc_HvduJax-kfpPgUld9ui1dQv6SG7IjJG0q0hmr-QpKcRdW49-MwDM4SDVyCm8nlH5Rhake4RUSElO4wRwNd7F6xy1Ers861Pv40MEAC_hwQ9fs76MsNMg0029dXwx4LTsWM/s72-c/Android%20%2017%20KILO%20Beta%20Blog.png",
+      "title_translated": "让您的应用做好准备，适应 Android 17 中的大小调整和方向变化",
+      "summary_translated": "发布人：Android 开发者关系工程师 Miguel Montemayor 随着 2025 年 Android 16 的发布，我们分享了对设备生态系统的愿景，即应用程序可以无缝适应任何屏幕，无论是手机、可折叠设备、平板电脑、台式机、车载显示屏还是 XR。用户希望他们的应用程序能够在任何地方运行"
+    },
+    {
       "id": "ce9c23d4a170",
       "title": "How to download Android 17 Beta 1 on your Pixel right now (Updated)",
       "summary": "The first Android 17 beta is out now, and here's how to download and install it.",
@@ -2735,6 +2819,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Android-17-featured-image.jpg",
       "title_translated": "如何立即在 Pixel 上下载 Android 17 Beta 1（已更新）",
       "summary_translated": "第一个 Android 17 测试版现已发布，以下是下载和安装的方法。"
+    },
+    {
+      "id": "f2a09471fde4",
+      "title": "The First Beta of Android 17",
+      "summary": "\nPosted by Matthew McCullough, VP of Product Management, Android Developer\nToday we're releasing the first beta of Android 17, continuing our work to build a platform that prioritizes privacy, security, and refined performance. This build continues our work for more adaptable Android apps, introduce",
+      "url": "https://android-developers.googleblog.com/2026/02/the-first-beta-of-android-17.html",
+      "source": "Android Dev Blog",
+      "source_icon": "ADB",
+      "date": "2026-02-13 19:23",
+      "type": "news",
+      "platform": "android",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDYVIPcSHC3ZeYbTu-FSxsYdp1PDK62bN18DL-VuLlWbmEG9L7vPfW6CA6SfA0iaUiZ-V79edfaGQ7DWsaMH7i9zQlTNbYlKZlsEgMb6IQAIJdxMb7NXcqtETxMk2T3X1uY2U7Ok4xq1-52gDN_yH5LOUEAr6xb3wBx0XJJKBnvmKHt8JNfo7Bfp9n_0g/s72-w1000-h1000-c/heptadecagraph-rounded-calm@2x.png",
+      "title_translated": "Android 17 的第一个 Beta 版",
+      "summary_translated": "发布人：Android 开发人员产品管理副总裁 Matthew McCullough\n今天，我们发布了 Android 17 的第一个测试版，继续致力于构建一个优先考虑隐私、安全和精致性能的平台。此版本继续我们为更具适应性的 Android 应用程序所做的工作，介绍"
     },
     {
       "id": "9c1ad0473304",
@@ -2821,6 +2919,20 @@
       "summary_translated": "Apple 本周向各地 iPhone 用户发布了这款产品。此次更新主要关注 iPhone 和 Android 设备之间的互操作性、隐私等。以下是 iOS 26.3 中的所有新功能。 \n更多的…"
     },
     {
+      "id": "61ff07d081eb",
+      "title": "Android 17 Beta 1 is Actually Here for Your Pixel",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/13/android-17-beta-early-release/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-13 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-5-768x512.jpg",
+      "title_translated": "Android 17 Beta 1 现已为您的 Pixel 推出",
+      "summary_translated": ""
+    },
+    {
       "id": "3e33cd5a56b5",
       "title": "Apple says it is still on track to launch new Siri this year, as promised",
       "summary": "Bloomberg’s Mark Gurman yesterday reported that Apple’s new Siri initiative was facing internal delays, having originally been planned to start rolling out with iOS 26.4. Gurman suggested features may start appearing in iOS 26.5, or later releases in the year.\nThat report has seemingly rocked invest",
@@ -2833,6 +2945,48 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/siri-iphone.jpeg?quality=82&strip=all&w=1600",
       "title_translated": "苹果表示，仍将如承诺的那样，在今年推出新的 Siri",
       "summary_translated": "彭博社的 Mark Gurman 昨天报道称，苹果新的 Siri 计划正面临内部延迟，原本计划在 iOS 26.4 中开始推出。 Gurman 建议功能可能会开始出现在 iOS 26.5 或今年晚些时候的版本中。\n该报告似乎震动了投资"
+    },
+    {
+      "id": "62a1eb0d0426",
+      "title": "Android 17 Beta 1 Not Releasing Today",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/11/android-17-beta-1-not-releasing-today/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-11 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-6-768x512.jpg",
+      "title_translated": "Android 17 Beta 1 今天不会发布",
+      "summary_translated": ""
+    },
+    {
+      "id": "8e06a848470a",
+      "title": "Here’s Why There is No Android 17 Developer Preview",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/11/android-17-developer-preview/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-11 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-7-768x512.jpg",
+      "title_translated": "这就是为什么没有 Android 17 开发者预览版",
+      "summary_translated": ""
+    },
+    {
+      "id": "4c8dbae96289",
+      "title": "Android 17 Release Calendar Published, Platform Stability Scheduled for March",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/11/android-17-release-calendar/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-11 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-1-768x512.jpg",
+      "title_translated": "Android 17 发布日历已发布，平台稳定性计划于 3 月实现",
+      "summary_translated": ""
     },
     {
       "id": "7e9fbd37922a",
@@ -2861,6 +3015,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&strip=all&w=350",
       "title_translated": "据报道，苹果将推迟 iOS 26.4 之后由 Gemini 驱动的 Siri 功能",
       "summary_translated": "尽管与谷歌达成协议，使用 Gemini AI 作为升级 Siri 的大脑，但据报道，苹果仍面临着……"
+    },
+    {
+      "id": "ab0be4b4d646",
+      "title": "Android 17 Beta 1 is Releasing “Soon”",
+      "summary": "",
+      "url": "https://www.droid-life.com/2026/02/10/android-17-is-releasing-soon/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-02-10 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Google-Pixel-10-Pro-Android-17-768x491.jpg",
+      "title_translated": "Android 17 Beta 1 即将发布",
+      "summary_translated": ""
     },
     {
       "id": "8b53cbe75e92",
@@ -3743,6 +3911,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-3.jpg?quality=82&strip=all&w=350",
       "title_translated": "Android 16 QPR3 Beta 1 面向 Google Pixel 推出",
       "summary_translated": "The preview cycle continues today with Android 16 QPR3 Beta 1 now available for Google Pixel devices.这遵循..."
+    },
+    {
+      "id": "2b74c7ec93ef",
+      "title": "Android 17 Tastes Like Cinnamon Buns",
+      "summary": "",
+      "url": "https://www.droid-life.com/2025/11/17/android-17-tastes-like-cinnamon-buns/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2025-11-17 00:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2025/08/Cinnamon-Bun-768x512.jpg",
+      "title_translated": "Android 17 尝起来像肉桂面包",
+      "summary_translated": ""
     },
     {
       "id": "leaker_0",
