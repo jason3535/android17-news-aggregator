@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-23 15:11:57",
-  "total_count": 285,
-  "news_count": 280,
+  "last_updated": "2026-03-23 17:05:36",
+  "total_count": 287,
+  "news_count": 282,
   "android_count": 85,
-  "ios_count": 195,
+  "ios_count": 197,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cfb9d38b5b24",
+      "title": "Apple announces WWDC 2026 for June 8, iOS 27 set to be revealed",
+      "summary": "Apple has officially announced WWDC 2026, confirming dates for its next Worldwide Developers Conference. The conference kicks off with a keynote on Monday, June 8, where we expect Apple to announce iOS 27, macOS 27, and much more.\nmore…",
+      "url": "https://9to5mac.com/2026/03/23/apple-announces-wwdc-2026-for-june-8-ios-27-set-to-be-revealed/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-23 16:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/wwdc26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果宣布 WWDC 2026 将于 6 月 8 日揭晓 iOS 27",
+      "summary_translated": "Apple 已正式宣布 WWDC 2026，并确定了下一届全球开发者大会的日期。会议将于 6 月 8 日星期一举行主题演讲，我们预计 Apple 将在会上宣布 iOS 27、macOS 27 等。\n更多的…"
+    },
+    {
+      "id": "5f32da0b7a26",
+      "title": "Apple Announces WWDC 2026 Will Take Place June 8 to 12",
+      "summary": "Apple today said that its 37th annual Worldwide Developers Conference is set to begin on Monday, June 8 and end on Friday, June 12. Like WWDC 2025, WWDC 2026 will be a primarily online event open to all developers, with no associated cost.\n\n\n\n\nWWDC always begins with a keynote that happens on the fi",
+      "url": "https://www.macrumors.com/2026/03/23/apple-announces-wwdc-2026-dates/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-23 09:55",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/wwdc-2026.jpg",
+      "title_translated": "Apple 宣布 WWDC 2026 将于 6 月 8 日至 12 日举行",
+      "summary_translated": "Apple 今天表示，第 37 届年度全球开发者大会将于 6 月 8 日星期一开始，并于 6 月 12 日星期五结束。与 WWDC 2025 一样，WWDC 2026 将主要是向所有开发者开放的在线活动，无需支付相关费用。\n\n\n\n\nWWDC 总是以网络上发生的主题演讲开始"
+    },
     {
       "id": "08adb2227f1e",
       "title": "Apple already has the perfect platform for deploying conversational AI",
