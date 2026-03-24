@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-24 20:54:49",
-  "total_count": 303,
-  "news_count": 298,
+  "last_updated": "2026-03-24 21:50:08",
+  "total_count": 306,
+  "news_count": 301,
   "android_count": 85,
-  "ios_count": 213,
+  "ios_count": 216,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bafb08289cbb",
+      "title": "Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign [U]",
+      "summary": "Following the first iOS 26.4 preview, Apple Music 5.2 entered beta earlier this week with three new features.\nmore…",
+      "url": "https://9to5google.com/2026/03/24/apple-music-5-2-android/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-24 21:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Apple-Music-iOS-26-icon.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 版 Apple Music 5.2 添加了 iOS 26.4 Playlist Playground，专辑重新设计 [U]",
+      "summary_translated": "继首次 iOS 26.4 预览版之后，Apple Music 5.2 于本周早些时候进入测试版，推出了三项新功能。\n更多的…"
+    },
+    {
+      "id": "ffc296220cd2",
+      "title": "9to5Mac Daily: March 24, 2026 – WWDC26 officially announced",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/03/24/daily-march-24-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-24 20:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 3 月 24 日 – WWDC26 正式宣布",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "a4e7e386b948",
       "title": "iOS 26.4 adds new emoji to your iPhone, here’s the full list",
@@ -103,6 +131,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-hero_1404d9.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布 iOS 26.4，其中包含 8 个新表情符号，并对 iPhone 进行了 12 项更改",
       "summary_translated": "Apple 发布了 iOS 26.4，为您的 iPhone 带来了 13 项增强功能。新的软件更新包括 8 个新的表情符号字符、Apple Music 的更改、键盘准确性的改进等等。\n更多的…"
+    },
+    {
+      "id": "8684c75e2f06",
+      "title": "iOS 26.4 Adds Two New Features to CarPlay",
+      "summary": "iOS 26.4 was released today, and it includes a couple of new features for CarPlay: an Ambient Music widget and support for voice-based chatbot apps.\n\n\n\n\nTo update your iPhone 11 or newer to iOS 26.4, open the Settings app and tap on General → Software Update. CarPlay will automatically offer the new",
+      "url": "https://www.macrumors.com/2026/03/24/ios-26-4-adds-two-carplay-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-24 13:55",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/01/iOS-26.4-Feature.jpg",
+      "title_translated": "iOS 26.4 为 CarPlay 添加两项新功能",
+      "summary_translated": "iOS 26.4 今天发布，它包括 CarPlay 的几个新功能：环境音乐小部件和对基于语音的聊天机器人应用程序的支持。\n\n\n\n\n要将您的 iPhone 11 或更新版本更新到 iOS 26.4，请打开“设置”应用程序，然后点击“常规”→“软件更新”。 CarPlay 将自动提供新的"
     },
     {
       "id": "49a7cba93521",
