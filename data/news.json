@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-03-24 19:18:31",
-  "total_count": 299,
-  "news_count": 294,
+  "last_updated": "2026-03-24 20:54:49",
+  "total_count": 303,
+  "news_count": 298,
   "android_count": 85,
-  "ios_count": 209,
+  "ios_count": 213,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a4e7e386b948",
+      "title": "iOS 26.4 adds new emoji to your iPhone, here’s the full list",
+      "summary": "iOS 26.4 launched today as the latest iPhone update, and it includes eight brand new emoji for users. Here are all the new emoji in iOS 26.4.\nmore…",
+      "url": "https://9to5mac.com/2026/03/24/ios-26-4-adds-new-emoji-to-your-iphone-full-list/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-24 20:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/new-emoji-ios-26-4-distorted.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为你的 iPhone 添加了新的表情符号，这是完整列表",
+      "summary_translated": "iOS 26.4 今天作为最新的 iPhone 更新发布，它为用户提供了八个全新的表情符号。以下是 iOS 26.4 中的所有新表情符号。\n更多的…"
+    },
+    {
+      "id": "6d1d1c0f2e9e",
+      "title": "iOS 26.4 gives CarPlay two new features, with another big one coming",
+      "summary": "iOS 26.4 was released today, and with the update CarPlay adds two new features for users, while also laying the groundwork for another big upgrade soon.\nmore…",
+      "url": "https://9to5mac.com/2026/03/24/ios-26-4-gives-carplay-two-new-features-with-another-big-one-coming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-24 19:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/carplay-ios-26-dev-video-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为 CarPlay 提供了两项新功能，还有另一项重要功能即将到来",
+      "summary_translated": "iOS 26.4 今日发布，此次更新 CarPlay 为用户增加了两项新功能，同时也为即将到来的另一次重大升级奠定了基础。\n更多的…"
+    },
+    {
+      "id": "4ee90c9041a7",
+      "title": "Apple just released new AirPods Pro 3 firmware, plus more",
+      "summary": "Apple launched iOS 26.4, iPadOS 26.4, macOS 26.4, and more software updates today, and now the company has also debuted new firmware for AirPods Pro 3, AirPods Pro 2, and more.\nmore…",
+      "url": "https://9to5mac.com/2026/03/24/apple-just-released-new-airpods-pro-3-firmware-plus-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-24 19:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 刚刚发布了新的 AirPods Pro 3 固件以及更多内容",
+      "summary_translated": "Apple 今天推出了 iOS 26.4、iPadOS 26.4、macOS 26.4 和更多软件更新，现在该公司还推出了 AirPods Pro 3、AirPods Pro 2 等的新固件。\n更多的…"
+    },
     {
       "id": "1f3cb3ffcb04",
       "title": "Apple planning standalone Siri app for iOS 27 and macOS 27, per report",
@@ -61,6 +103,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-hero_1404d9.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布 iOS 26.4，其中包含 8 个新表情符号，并对 iPhone 进行了 12 项更改",
       "summary_translated": "Apple 发布了 iOS 26.4，为您的 iPhone 带来了 13 项增强功能。新的软件更新包括 8 个新的表情符号字符、Apple Music 的更改、键盘准确性的改进等等。\n更多的…"
+    },
+    {
+      "id": "49a7cba93521",
+      "title": "iOS 27 Siri Overhaul: Standalone App, New Design, Dynamic Island Integration and Ask Siri Button",
+      "summary": "Apple is testing a standalone Siri chatbot app for iOS 27, reports Bloomberg's Mark Gurman. Apple plans to debut a chatbot version of ‌Siri‌ that will compete with Claude and ChatGPT, and the new ‌Siri‌ could be accessible through a dedicated app.\n\n\n\n\nGurman previously said that Apple was not going ",
+      "url": "https://www.macrumors.com/2026/03/24/ios-27-siri-overhaul/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-24 12:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/Finder-Siri-Feature.jpg",
+      "title_translated": "iOS 27 Siri 大改：独立应用程序、新设计、动态岛集成和询问 Siri 按钮",
+      "summary_translated": "据彭博社的 Mark Gurman 报道，苹果正在测​​试适用于 iOS 27 的独立 Siri 聊天机器人应用程序。苹果计划推出聊天机器人版本的 Siri，它将与 Claude 和 ChatGPT 竞争，并且可以通过专用应用程序访问新的 Siri。\n\n\n\n\n古尔曼此前曾表示，苹果不会"
     },
     {
       "id": "c9d260e4e3ff",
