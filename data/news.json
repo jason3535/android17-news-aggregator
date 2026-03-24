@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-24 22:46:59",
-  "total_count": 306,
-  "news_count": 301,
+  "last_updated": "2026-03-24 23:43:20",
+  "total_count": 307,
+  "news_count": 302,
   "android_count": 85,
-  "ios_count": 216,
+  "ios_count": 217,
   "leaker_count": 5,
   "items": [
     {
@@ -131,6 +131,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-hero_1404d9.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布 iOS 26.4，其中包含 8 个新表情符号，并对 iPhone 进行了 12 项更改",
       "summary_translated": "Apple 发布了 iOS 26.4，为您的 iPhone 带来了 13 项增强功能。新的软件更新包括 8 个新的表情符号字符、Apple Music 的更改、键盘准确性的改进等等。\n更多的…"
+    },
+    {
+      "id": "9de914dd08b9",
+      "title": "iOS 26.4 Features: Everything New in iOS 26.4",
+      "summary": "The latest version of iOS 26, iOS 26.4, is now available for download. The update doesn't have the Siri feature set we were hoping for, but there are quite a few new additions like new emoji and an AI music feature.\n\n\n\n\nPlaylist Playground\n\nApple Music has a new Playlist Playground feature that lets",
+      "url": "https://www.macrumors.com/guide/ios-26-4-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-24 14:39",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-yellow.jpg",
+      "title_translated": "iOS 26.4 功能：iOS 26.4 中的一切新功能",
+      "summary_translated": "iOS 26 的最新版本 iOS 26.4 现已可供下载。该更新没有我们希望的 Siri 功能集，但有很多新功能，例如新的表情符号和人工智能音乐功能。\n\n\n\n\n播放列表游乐场\n\nApple Music 有一个新的 Playlist Playground 功能，可以让"
     },
     {
       "id": "8684c75e2f06",
