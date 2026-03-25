@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-25 19:09:39",
-  "total_count": 314,
-  "news_count": 309,
+  "last_updated": "2026-03-25 20:53:37",
+  "total_count": 315,
+  "news_count": 310,
   "android_count": 87,
-  "ios_count": 222,
+  "ios_count": 223,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2c93f5f2739c",
+      "title": "iOS 26.4 adds new features in six iPhone apps, details here",
+      "summary": "iOS 26.4 just launched, and it’s packed with a lot of new features. Here’s everything new available across six iPhone apps in iOS 26.4.\nmore…",
+      "url": "https://9to5mac.com/2026/03/25/ios-26-4-adds-new-features-in-six-iphone-apps-details-here/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-25 19:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-app-icons.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 在六款 iPhone 应用中添加了新功能，详细信息请参见此处",
+      "summary_translated": "iOS 26.4 刚刚发布，其中包含许多新功能。以下是 iOS 26.4 中六款 iPhone 应用程序的所有新增功能。\n更多的…"
+    },
     {
       "id": "fb8f8dbef83f",
       "title": "iOS 26.4 now available: Here are all the new features for your iPhone",
