@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-25 21:51:44",
-  "total_count": 315,
-  "news_count": 310,
-  "android_count": 87,
+  "last_updated": "2026-03-25 22:52:29",
+  "total_count": 316,
+  "news_count": 311,
+  "android_count": 88,
   "ios_count": 223,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e28bc6f1ac3d",
+      "title": "Here’s how Android 17 is keeping your contacts private",
+      "summary": "Android 17's Contact Picker will improve contact privacy and better support user profiles.",
+      "url": "https://www.androidauthority.com/android-17-contact-picker-explained-3652035/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-25 22:28",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
+      "title_translated": "Android 17 如何保护您的联系人隐私",
+      "summary_translated": "Android 17 的联系人选择器将改善联系人隐私并更好地支持用户配置文件。"
+    },
     {
       "id": "2c93f5f2739c",
       "title": "iOS 26.4 adds new features in six iPhone apps, details here",
