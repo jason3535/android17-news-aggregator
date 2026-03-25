@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-25 15:17:12",
-  "total_count": 312,
-  "news_count": 307,
+  "last_updated": "2026-03-25 17:15:53",
+  "total_count": 314,
+  "news_count": 309,
   "android_count": 87,
-  "ios_count": 220,
+  "ios_count": 222,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fb8f8dbef83f",
+      "title": "iOS 26.4 now available: Here are all the new features for your iPhone",
+      "summary": "iOS 26.4 is now available for everyone. The update adds a range of new features to iPhone, including upgrades to Apple Music, Apple Podcasts, Messages, and more.\nHere are all of the new iPhone features in iOS 26.4, plus everything else you need to know.\nmore…",
+      "url": "https://9to5mac.com/2026/03/25/ios-26-4-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-25 16:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26.4-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 现已推出：以下是适用于 iPhone 的所有新功能",
+      "summary_translated": "iOS 26.4 现已可供所有人使用。此次更新为 iPhone 增加了一系列新功能，包括 Apple Music、Apple Podcasts、Messages 等的升级。\n以下是 iOS 26.4 中的所有 iPhone 新功能，以及您需要了解的所有其他信息。\n更多的…"
+    },
+    {
+      "id": "be6ecff15994",
+      "title": "iOS 26.4 has fixes for 35+ security issues on iPhone, details here",
+      "summary": "iOS 26.4 launched yesterday with new emoji and plenty of new features. Additionally, iOS 26.4 brings over 35 key security fixes for your iPhone per Apple’s detailed release notes.\nmore…",
+      "url": "https://9to5mac.com/2026/03/25/ios-26-4-has-fixes-for-35-security-issues-on-iphone-details-here/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-25 15:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 修复了 iPhone 上的 35 多个安全问题，详细信息请参见此处",
+      "summary_translated": "iOS 26.4 昨天发布，带来了新的表情符号和大量新功能。此外，根据 Apple 的详细发行说明，iOS 26.4 为您的 iPhone 带来了超过 35 个关键安全修复程序。\n更多的…"
+    },
     {
       "id": "05fea815e3b3",
       "title": "Apple Music in iOS 26.4 has new design for albums, playlists, and more",
