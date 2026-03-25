@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-25 10:07:26",
-  "total_count": 307,
-  "news_count": 302,
-  "android_count": 85,
+  "last_updated": "2026-03-25 11:52:49",
+  "total_count": 308,
+  "news_count": 303,
+  "android_count": 86,
   "ios_count": 217,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "260558b2a48b",
+      "title": "Android 17 Beta 2 is no longer a Pixel exclusive",
+      "summary": "The OnePlus 15 and OPPO Find X9 Pro are the first third-party devices to join the testing phase for the next Android release.",
+      "url": "https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-25 10:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Android-17-Beta-2-for-OnePlus-15.jpg",
+      "title_translated": "Android 17 Beta 2 不再是 Pixel 独占",
+      "summary_translated": "OnePlus 15 和 OPPO Find X9 Pro 是首批加入下一 Android 版本测试阶段的第三方设备。"
+    },
     {
       "id": "bafb08289cbb",
       "title": "Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign [U]",
