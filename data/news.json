@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-25 11:52:49",
-  "total_count": 308,
-  "news_count": 303,
+  "last_updated": "2026-03-25 13:46:05",
+  "total_count": 309,
+  "news_count": 304,
   "android_count": 86,
-  "ios_count": 217,
+  "ios_count": 218,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d2573b99e6f2",
+      "title": "UK regulator Ofcom welcomes Apple age verification in iOS 26.4",
+      "summary": "Apple yesterday released iOS 26.4, with the company highlighting 13 new features and enhancements. The software update added functionality to Apple Music, made accessibility improvements, and introduced a number of other worthwhile enhancements.\nThere was one change the company didn’t mention, and t",
+      "url": "https://9to5mac.com/2026/03/25/uk-regulator-ofcom-welcomes-apple-age-verification-in-ios-26-4/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-25 12:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-age-verification-in-iOS-26-4-beta-2-took-less-than-30-seconds.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "英国监管机构 Ofcom 欢迎 Apple 在 iOS 26.4 中进行年龄验证",
+      "summary_translated": "苹果昨天发布了 iOS 26.4，该公司重点介绍了 13 项新功能和增强功能。该软件更新为 Apple Music 添加了功能，改进了辅助功能，并引入了许多其他有价值的增强功能。\n该公司没有提及一项变化，并且"
+    },
     {
       "id": "260558b2a48b",
       "title": "Android 17 Beta 2 is no longer a Pixel exclusive",
