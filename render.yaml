@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: android17-news-aggregator
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --workers=2 --threads=4 --worker-class=gthread --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.18
+      - key: IS_MAIN_PROCESS
+        value: "true"
