@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-25 23:48:22",
-  "total_count": 316,
-  "news_count": 311,
+  "last_updated": "2026-03-26 03:24:15",
+  "total_count": 317,
+  "news_count": 312,
   "android_count": 88,
-  "ios_count": 223,
+  "ios_count": 224,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "58c76a661498",
+      "title": "Security Bite: What stands out in the iOS 26.4 security release notes",
+      "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
+      "url": "https://9to5mac.com/2026/03/25/security-bite-what-stands-out-in-the-ios-26-4-security-release-notes/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-26 01:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "安全要点：iOS 26.4 安全发行说明中的​​突出内容",
+      "summary_translated": "9to5Mac Security Bite 由唯一的 Apple 统一平台 Mosyle 独家为您提供。 我们所做的就是让 Apple 设备做好工作准备并确保企业安全。我们独特的管理和安全集成方法结合了最先进的 Apple 特定安全解决方案，可实现完全自动化"
+    },
     {
       "id": "e28bc6f1ac3d",
       "title": "Here’s how Android 17 is keeping your contacts private",
@@ -4367,7 +4381,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -4378,7 +4392,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -4389,7 +4403,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -4400,7 +4414,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -4411,7 +4425,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
