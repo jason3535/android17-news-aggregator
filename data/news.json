@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-26 13:54:25",
-  "total_count": 318,
-  "news_count": 313,
+  "last_updated": "2026-03-26 15:22:40",
+  "total_count": 320,
+  "news_count": 315,
   "android_count": 88,
-  "ios_count": 225,
+  "ios_count": 227,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "36d7ff188b7c",
+      "title": "Apple’s plans for Siri in iOS 27 sound like exactly what I want",
+      "summary": "Earlier this week, a Bloomberg report outlined Apple’s big plans for a Siri overhaul in iOS 27. And if it proves accurate, I’m very excited for the direction Apple’s taking with Siri.\nmore…",
+      "url": "https://9to5mac.com/2026/03/26/apples-plans-for-siri-in-ios-27-sound-like-exactly-what-i-want/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-26 14:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Apple-commenter-John-Gruber-launches-blistering-attack-on-rotton-Apple-over-Siri-vaporware.webp?w=1500",
+      "title_translated": "苹果在 iOS 27 中针对 Siri 的计划听起来正是我想要的",
+      "summary_translated": "本周早些时候，彭博社的一篇报道概述了苹果在 iOS 27 中对 Siri 进行彻底改革的宏伟计划。如果事实证明是准确的，我对苹果在 Siri 上的发展方向感到非常兴奋。\n更多的…"
+    },
+    {
+      "id": "af03cc1955a7",
+      "title": "WhatsApp joins the appalling trend for AI-written replies to messages",
+      "summary": "If there’s one aspect of Apple Intelligence I really detest, it’s the suggested replies to iMessages. Meta is now emulating this with a new update to its Writing Help feature in WhatsApp.\nThe idea is that instead of actually replying to our friends with, you know, genuine human communication, we can",
+      "url": "https://9to5mac.com/2026/03/26/whatsapp-joins-the-appalling-trend-for-ai-written-replies-to-messages/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-26 13:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/WhatsApp-joins-the-appalling-trend-for-AI-written-replies-to-messages.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "WhatsApp 加入人工智能回复消息的可怕趋势",
+      "summary_translated": "如果说 Apple Intelligence 的某个方面是我真正讨厌的，那就是对 iMessages 的建议回复。 Meta 现在正在模仿这一点，对 WhatsApp 中的写作帮助功能进行了新的更新。\n我们的想法是，我们不必用真正的人际交流来回复我们的朋友，而是可以"
+    },
     {
       "id": "3a61f8b184a4",
       "title": "Apple age verification failing for some – here’s what to try",
