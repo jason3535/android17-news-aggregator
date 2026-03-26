@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-26 11:09:31",
-  "total_count": 317,
-  "news_count": 312,
+  "last_updated": "2026-03-26 13:54:25",
+  "total_count": 318,
+  "news_count": 313,
   "android_count": 88,
-  "ios_count": 224,
+  "ios_count": 225,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3a61f8b184a4",
+      "title": "Apple age verification failing for some – here’s what to try",
+      "summary": "Apple age verification went live in the UK in iOS 26.4 after a previous accidental release in the developer beta. While it was straightforward for me, some on the Apple Support forums and Reddit are reporting major problems with the process.\nSome of the issues appear to be based on misunderstandings",
+      "url": "https://9to5mac.com/2026/03/26/apple-age-verification-failing-for-some-heres-what-to-try/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-26 11:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Apple-age-verification-failing-for-some-–-heres-what-you-need-to-know.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果年龄验证对某些人来说失败 – 以下是尝试的方法",
+      "summary_translated": "继之前在开发者测试版中意外发布后，Apple 年龄验证功能在 iOS 26.4 中在英国上线。虽然这对我来说很简单，但 Apple 支持论坛和 Reddit 上的一些人报告了该过程的重大问题。\n有些问题似乎是基于误解"
+    },
     {
       "id": "58c76a661498",
       "title": "Security Bite: What stands out in the iOS 26.4 security release notes",
