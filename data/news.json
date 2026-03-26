@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-26 22:48:22",
-  "total_count": 336,
-  "news_count": 331,
-  "android_count": 99,
+  "last_updated": "2026-03-26 23:45:01",
+  "total_count": 337,
+  "news_count": 332,
+  "android_count": 100,
   "ios_count": 232,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "01650ee277ce",
+      "title": "Redefining Location Privacy: New Tools and Improvements for Android 17",
+      "summary": "Posted by Robert Clifford, Developer Relations Engineer and  Manjeet Rulhania, Software EngineerA pillar of the Android ecosystem is our shared commitment to user trust. As the mobile landscape has evolved, so does our approach to protecting sensitive information. In Android 17, we’re introducing  a",
+      "url": "https://android-developers.googleblog.com/2026/03/location-privacy.html",
+      "source": "Android Dev Blog",
+      "source_icon": "ADB",
+      "date": "2026-03-26 23:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmGKr9rzm4KELLhXbwcETVZvdbAGmgg-BGoXQI9unaa4nLIDJLMHRMRM7qKki8FBjCryLSoBIemWQh7RTsz46JpP78apo66KaFG9sHkGKZn6fMNoUBfM7bO8rn51NUzxcEl9-LCf-iw0ALOCm8NMNV_nQMXNKx0fiZLjrL-xS0C9ETswqA1ZgSLHaBLm0/s72-c/Android%2017%20location%20%20-%20Meta-2%20(1).png",
+      "title_translated": "重新定义位置隐私：Android 17 的新工具和改进",
+      "summary_translated": "由开发者关系工程师 Robert Clifford 和软件工程师 Manjeet Rulhania 发布 Android 生态系统的支柱是我们对用户信任的共同承诺。随着移动领域的发展，我们保护敏感信息的方法也在不断发展。在 Android 17 中，我们引入了"
+    },
     {
       "id": "1bb4d7b1ce20",
       "title": "Android 17 Beta 3 lets you control which apps are forced into dark theme",
