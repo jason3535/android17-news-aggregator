@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-27 10:06:18",
-  "total_count": 343,
-  "news_count": 338,
-  "android_count": 106,
+  "last_updated": "2026-03-27 11:52:06",
+  "total_count": 344,
+  "news_count": 339,
+  "android_count": 107,
   "ios_count": 232,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "aabd10953330",
+      "title": "Android 17 Beta 3 brings a significant upgrade for hearing aid users",
+      "summary": "No more loud alerts inside the ear.",
+      "url": "https://www.androidauthority.com/android-17-beta-3-hearing-aids-3652599/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-27 11:40",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Android-17-stock-image.jpg",
+      "title_translated": "Android 17 Beta 3为助听器用户带来重大升级",
+      "summary_translated": "耳内不再有响亮的警报声。"
+    },
     {
       "id": "bfc686a29a53",
       "title": "6 ways I’m already using Android 17’s app bubbles to multitask better",
