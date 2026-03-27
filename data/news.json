@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-27 21:49:29",
-  "total_count": 360,
-  "news_count": 355,
+  "last_updated": "2026-03-27 22:49:27",
+  "total_count": 361,
+  "news_count": 356,
   "android_count": 117,
-  "ios_count": 238,
+  "ios_count": 239,
   "leaker_count": 5,
   "items": [
     {
@@ -173,6 +173,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-17-logo-easter-egg-beta-3.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Android 17 的徽标随着每个新测试版的变化而变化 [视频]",
       "summary_translated": "Android 总是有一个复活节彩蛋，每个新版本都埋在“设置”菜单中，但今年发生了一些不同的事情，每个新的 Beta 版本都会稍微调整 Android 17 徽标，也许暗示正在酝酿更大的东西。\n更多的…"
+    },
+    {
+      "id": "31465b4188db",
+      "title": "5+ Things to Know About the Siri Chatbot Coming in iOS 27",
+      "summary": "We're less than three months away from our first look at Apple's smarter, redesigned version of Siri. iOS 27, iPadOS 27, and macOS 27 will focus on ‌Siri‌ updates, and rumors about what we can expect are picking up.\n\n\n\n\nThere's a full chatbot version of ‌Siri‌ in the works, which will change the way",
+      "url": "https://www.macrumors.com/2026/03/27/ios-27-siri-chatbot-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-27 15:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/Finder-Siri-Feature.jpg",
+      "title_translated": "关于 iOS 27 中即将推出的 Siri 聊天机器人，您需要了解的 5 件事以上",
+      "summary_translated": "距离我们首次看到 Apple 更智能、重新设计的 Siri 版本还有不到三个月的时间。 iOS 27、iPadOS 27 和 macOS 27 将重点关注 Siri 更新，有关我们可以期待的内容的传言也越来越多。\n\n\n\n\nSiri 的完整聊天机器人版本正在开发中，这将改变方式"
     },
     {
       "id": "7be583ac2004",
