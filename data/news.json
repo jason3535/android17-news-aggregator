@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-27 11:52:06",
-  "total_count": 344,
-  "news_count": 339,
-  "android_count": 107,
+  "last_updated": "2026-03-27 13:40:00",
+  "total_count": 345,
+  "news_count": 340,
+  "android_count": 108,
   "ios_count": 232,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "55f7e2458fe6",
+      "title": "Android 17 Beta 3 finally restores the single tap Wi-Fi toggle",
+      "summary": "Google has finally decided to restore the ability to quickly enable and disable your Wi-Fi connection with a single tap of the QS toggle in Android 17 Beta 3.\nmore…",
+      "url": "https://9to5google.com/2026/03/27/android-17-beta-3-finally-restores-the-single-tap-wi-fi-toggle/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-27 12:39",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Wi-Fi-toggle-in-Android-17-v1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 Beta 3 终于恢复了单击 Wi-Fi 切换",
+      "summary_translated": "谷歌最终决定在 Android 17 Beta 3 中恢复通过单击 QS 开关快速启用和禁用 Wi-Fi 连接的功能。\n更多…"
+    },
     {
       "id": "aabd10953330",
       "title": "Android 17 Beta 3 brings a significant upgrade for hearing aid users",
