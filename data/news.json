@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-27 09:05:32",
-  "total_count": 342,
-  "news_count": 337,
-  "android_count": 105,
+  "last_updated": "2026-03-27 10:06:18",
+  "total_count": 343,
+  "news_count": 338,
+  "android_count": 106,
   "ios_count": 232,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bfc686a29a53",
+      "title": "6 ways I’m already using Android 17’s app bubbles to multitask better",
+      "summary": "Android 17's app bubbles have turned my phone into a multitasking machine.",
+      "url": "https://www.androidauthority.com/how-to-use-android-17-app-bubbles-3652521/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-27 09:17",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Android-17-App-Bubbles.jpg",
+      "title_translated": "我已经使用 Android 17 的应用程序气泡来更好地执行多任务的 6 种方法",
+      "summary_translated": "Android 17 的应用程序气泡将我的手机变成了多任务机器。"
+    },
     {
       "id": "3f7cab57cc2a",
       "title": "Android 17 Beta 3 can keep virtual assistants from getting too loud",
