@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-27 07:22:27",
-  "total_count": 341,
-  "news_count": 336,
-  "android_count": 104,
+  "last_updated": "2026-03-27 09:05:32",
+  "total_count": 342,
+  "news_count": 337,
+  "android_count": 105,
   "ios_count": 232,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3f7cab57cc2a",
+      "title": "Android 17 Beta 3 can keep virtual assistants from getting too loud",
+      "summary": "And prevent sudden loudness from startling you.",
+      "url": "https://www.androidauthority.com/android-17-beta-3-assistant-volume-3652526/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-27 07:57",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-9-scaled.jpg",
+      "title_translated": "Android 17 Beta 3 可以防止虚拟助手声音太大",
+      "summary_translated": "并防止突然的响度吓到您。"
+    },
     {
       "id": "02d69aa7b31b",
       "title": "Android 17 could make your phone’s best camera features work in every app",
