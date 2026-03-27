@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-27 15:05:18",
-  "total_count": 347,
-  "news_count": 342,
-  "android_count": 108,
+  "last_updated": "2026-03-27 16:04:23",
+  "total_count": 349,
+  "news_count": 344,
+  "android_count": 110,
   "ios_count": 234,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e33c9c095232",
+      "title": "Finally! Single-tap Wi-Fi control returns to Quick Settings in Android 17 Beta 3",
+      "summary": "Android 17 Beta 3 just made managing your Wi-Fi connection one tap simpler.",
+      "url": "https://www.androidauthority.com/android-17-beta-3-single-tap-wifi-3652669/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-27 15:45",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Image-of-a-Pixel-phone-with-WiFi-and-mobile-data-tiles.jpeg",
+      "title_translated": "最后！ Android 17 Beta 3 中单击 Wi-Fi 控制返回“快速设置”",
+      "summary_translated": "Android 17 Beta 3 让管理 Wi-Fi 连接变得更加简单。"
+    },
+    {
+      "id": "e38399f55cb6",
+      "title": "Android 17’s logo has been changing with each new beta [Video]",
+      "summary": "Android always has an Easter egg with each new version buried in the Settings menu, but something different is happening this year, with each new beta release tweaking the Android 17 logo just a little bit, and maybe hinting at something bigger in the pipeline.\nmore…",
+      "url": "https://9to5google.com/2026/03/27/android-17-has-a-mysterious-easter-egg-thats-changing-with-each-new-beta-video/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-27 15:35",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-17-logo-easter-egg-beta-3.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 的徽标随着每个新测试版的变化而变化 [视频]",
+      "summary_translated": "Android 总是有一个复活节彩蛋，每个新版本都埋在“设置”菜单中，但今年发生了一些不同的事情，每个新的 Beta 版本都会稍微调整 Android 17 徽标，也许暗示正在酝酿更大的东西。\n更多的…"
+    },
     {
       "id": "7be583ac2004",
       "title": "Apple Music in iOS 26.4: Five brand new features available now",
