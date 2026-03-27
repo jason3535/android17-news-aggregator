@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-27 13:40:00",
-  "total_count": 345,
-  "news_count": 340,
+  "last_updated": "2026-03-27 15:05:18",
+  "total_count": 347,
+  "news_count": 342,
   "android_count": 108,
-  "ios_count": 232,
+  "ios_count": 234,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7be583ac2004",
+      "title": "Apple Music in iOS 26.4: Five brand new features available now",
+      "summary": "iOS 26.4 is available now, and it packs five new features for the Music app. Here’s everything new for Apple Music in iOS 26.4.\nmore…",
+      "url": "https://9to5mac.com/2026/03/27/apple-music-in-ios-26-4-five-brand-new-features-available-now/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-27 14:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-apple-music-new-features.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 中的 Apple Music：现已推出五项全新功能",
+      "summary_translated": "iOS 26.4 现已发布，它为音乐应用程序提供了五项新功能。以下是 iOS 26.4 中 Apple Music 的所有新功能。\n更多的…"
+    },
+    {
+      "id": "580804c083b9",
+      "title": "iOS 26.5: When will Apple release the first beta?",
+      "summary": "Apple released iOS 26.4 to everyone this week, bringing new emojis, updates to Apple Music, and more to iPhone users everywhere.\nNow, attention is shifting to iOS 26.5 among loyal 9to5Mac readers. We’ve received a lot of questions about when the first iOS 26.5 beta will be released, so here’s what w",
+      "url": "https://9to5mac.com/2026/03/27/ios-26-5-when-will-apple-release-the-first-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-27 14:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-hero.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5：苹果什么时候发布第一个测试版？",
+      "summary_translated": "Apple 本周向所有人发布了 iOS 26.4，为世界各地的 iPhone 用户带来了新的表情符号、Apple Music 更新等。\n现在，忠实的 9to5Mac 读者的注意力正在转向 iOS 26.5。我们收到了很多关于第一个 iOS 26.5 Beta 何时发布的问题，所以这里是我们的问题"
+    },
     {
       "id": "55f7e2458fe6",
       "title": "Android 17 Beta 3 finally restores the single tap Wi-Fi toggle",
