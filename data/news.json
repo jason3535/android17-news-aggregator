@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-26 23:45:01",
-  "total_count": 337,
-  "news_count": 332,
-  "android_count": 100,
+  "last_updated": "2026-03-27 03:27:14",
+  "total_count": 338,
+  "news_count": 333,
+  "android_count": 101,
   "ios_count": 232,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fbc19b9d87c1",
+      "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery]",
+      "summary": "Android 16 introduced translucency to the notification shade and Quick Settings last year. As rumored, Android 17 Beta 3 continues that blur trend.\nmore…",
+      "url": "https://9to5google.com/2026/03/26/android-17-background-blur/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-03-26 23:50",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 Beta 3 开始为系统 UI 添加更多模糊效果 [图库]",
+      "summary_translated": "Android 16 去年为通知栏和快速设置引入了半透明功能。正如传闻所述，Android 17 Beta 3 延续了这种模糊趋势。\n更多的…"
+    },
     {
       "id": "01650ee277ce",
       "title": "Redefining Location Privacy: New Tools and Improvements for Android 17",
@@ -4661,7 +4675,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -4672,7 +4686,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -4683,7 +4697,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -4694,7 +4708,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -4705,7 +4719,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
