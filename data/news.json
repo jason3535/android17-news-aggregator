@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-28 11:38:16",
-  "total_count": 361,
-  "news_count": 356,
+  "last_updated": "2026-03-28 13:17:06",
+  "total_count": 363,
+  "news_count": 358,
   "android_count": 117,
-  "ios_count": 239,
+  "ios_count": 241,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1844805b713f",
+      "title": "Top stories: Mac Pro discontinued, iOS 26.4 now available, more",
+      "summary": "Welcome to 9to5Mac’s top stories of the week, where we recap the biggest news in the Apple world every Saturday. This week, Apple officially discontinued the Mac Pro, iOS 26.4 is now available, ads in Apple Maps are coming soon, WWDC26 has been announced, and more. Plus, our usual slate of new podca",
+      "url": "https://9to5mac.com/2026/03/28/top-stories-mac-pro-discontinued-ios-26-4-now-available-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-28 12:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "热门新闻：Mac Pro 停产、iOS 26.4 现已推出等等",
+      "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，Apple 正式停产 Mac Pro、iOS 26.4 现已推出、Apple 地图中的广告即将推出、WWDC26 已宣布等等。另外，我们常用的新 podca"
+    },
     {
       "id": "d6e132bc962b",
       "title": "Android 17 Could Introduce “Priority Charging” Feature",
@@ -215,6 +229,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-hero.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5：苹果什么时候发布第一个测试版？",
       "summary_translated": "Apple 本周向所有人发布了 iOS 26.4，为世界各地的 iPhone 用户带来了新的表情符号、Apple Music 更新等。\n现在，忠实的 9to5Mac 读者的注意力正在转向 iOS 26.5。我们收到了很多关于第一个 iOS 26.5 Beta 何时发布的问题，所以这里是我们的问题"
+    },
+    {
+      "id": "3489ccfa6a16",
+      "title": "Top Stories: Mac Pro Discontinued, iOS 26.4 Out Now, WWDC 2026 Announced, and More",
+      "summary": "It was a busy week in the Apple world, with Apple announcing the discontinuation of the Mac Pro, releasing iOS 26.4 and other updates, and officially announcing dates for this year's Worldwide Developers Conference.\n\n\n\n\nThis week also saw the AirPods Max 2 become available to order while we heard so",
+      "url": "https://www.macrumors.com/2026/03/28/top-stories-mac-pro-discontinued/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-27 12:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/top-stories-2026-03-28.jpg",
+      "title_translated": "头条新闻：Mac Pro 停产、iOS 26.4 现已推出、WWDC 2026 宣布等",
+      "summary_translated": "这是苹果世界忙碌的一周，苹果宣布停产 Mac Pro、发布 iOS 26.4 和其他更新，并正式宣布今年全球开发者大会的日期。\n\n\n\n\n本周，AirPods Max 2 也开始接受订购，我们听说如此"
     },
     {
       "id": "55f7e2458fe6",
