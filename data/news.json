@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-29 14:48:47",
-  "total_count": 363,
-  "news_count": 358,
+  "last_updated": "2026-03-29 15:43:59",
+  "total_count": 364,
+  "news_count": 359,
   "android_count": 117,
-  "ios_count": 241,
+  "ios_count": 242,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "caf7a46bddd9",
+      "title": "iOS 27 Rumored to Feature All-New Siri App With 'Extensions' Feature",
+      "summary": "In his Power On newsletter today, Bloomberg's Mark Gurman discussed Apple's upcoming AI plans in more detail. As he reported last week, this will apparently include a Siri app with a so-called \"Extensions\" feature across iOS 27, iPadOS 27, and macOS 27.\n\n\n\n\nWith the Siri app, the report said that iP",
+      "url": "https://www.macrumors.com/2026/03/29/ios-27-siri-app-with-extensions-rumor/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-29 08:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+      "title_translated": "据传 iOS 27 将推出全新 Siri 应用程序和“扩展”功能",
+      "summary_translated": "在今天的 Power On 时事通讯中，彭博社的马克·古尔曼 (Mark Gurman) 更详细地讨论了苹果即将推出的人工智能计划。正如他上周报道的那样，这显然将包括一个 Siri 应用程序，该应用程序具有跨 iOS 27、iPadOS 27 和 macOS 27 的所谓“扩展”功能。\n\n\n\n\n报道称，借助 Siri 应用程序，iP"
+    },
     {
       "id": "1844805b713f",
       "title": "Top stories: Mac Pro discontinued, iOS 26.4 now available, more",
