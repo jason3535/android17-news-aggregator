@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-30 20:58:39",
-  "total_count": 382,
-  "news_count": 377,
+  "last_updated": "2026-03-30 21:54:23",
+  "total_count": 383,
+  "news_count": 378,
   "android_count": 119,
-  "ios_count": 258,
+  "ios_count": 259,
   "leaker_count": 5,
   "items": [
     {
@@ -159,6 +159,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/S26-Ultra-camera.jpg?quality=82&strip=all&w=1600",
       "title_translated": "三星 Android 17 更新中用于快速共享的“点击共享”手势泄露",
       "summary_translated": "谷歌似乎正在为快速共享开发一种新的基于点击的手势，利用 NFC 触发文件共享，这项新功能已出现在三星 Android 17 更新 One UI 9 的泄露版本中。\n更多…"
+    },
+    {
+      "id": "99467c2c00a5",
+      "title": "Apple Lays Groundwork for Ads in Maps With iOS 26.5",
+      "summary": "Apple is planning to introduce ads to the Apple Maps app in the near future, and the iOS 26.5 beta lays the groundwork for the feature.\n\n\n\n\nCode in the update says the following: \"Maps may show local ads based on your approximate location, current search terms, or view of the map while you search.\"\n",
+      "url": "https://www.macrumors.com/2026/03/30/apple-ios-26-5-maps-ads-groundwork/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-30 14:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/Ads-Are-Coming-to-Apple-Maps-Feature.jpg",
+      "title_translated": "Apple 通过 iOS 26.5 为地图广告奠定基础",
+      "summary_translated": "苹果计划在不久的将来向苹果地图应用程序引入广告，iOS 26.5 beta 为该功能奠定了基础。\n\n\n\n\n更新中的代码如下：“地图可能会根据您的大致位置、当前搜索词或您搜索时的地图视图显示本地广告。”"
     },
     {
       "id": "ecbe62aa155e",
