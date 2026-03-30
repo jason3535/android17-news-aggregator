@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-30 21:54:23",
-  "total_count": 383,
-  "news_count": 378,
+  "last_updated": "2026-03-30 22:52:49",
+  "total_count": 384,
+  "news_count": 379,
   "android_count": 119,
-  "ios_count": 259,
+  "ios_count": 260,
   "leaker_count": 5,
   "items": [
     {
@@ -131,6 +131,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 可能会添加苹果迄今为止最受欢迎的 iPhone 应用程序之一",
       "summary_translated": "iOS 27 将在短短几个月内发布，有报道称它将添加一个全新的 Siri 应用程序，我认为它可能很快成为苹果最受欢迎的 iPhone 应用程序之一。\n更多的…"
+    },
+    {
+      "id": "1c9d3691f64b",
+      "title": "Everything New in iOS 26.5 Beta 1",
+      "summary": "iOS 26.5 is now available for developers, and while it doesn't include any new Siri capabilities, there are some major changes for the European Union, and smaller tweaks for features available worldwide.\n\n\n\n\nSuggested Places\n\nIn the Maps app, there's a new \"Suggested Places\" feature that recommends ",
+      "url": "https://www.macrumors.com/2026/03/30/everything-new-in-ios-26-5-beta-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-30 15:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Purple.jpg",
+      "title_translated": "iOS 26.5 Beta 1 中的所有新功能",
+      "summary_translated": "iOS 26.5 现已可供开发人员使用，虽然它不包含任何新的 Siri 功能，但欧盟进行了一些重大更改，并对全球可用的功能进行了较小的调整。\n\n\n\n\n推荐地点\n\n在地图应用中，有一个新的“建议地点”功能，可以推荐"
     },
     {
       "id": "a6295cd0b005",
