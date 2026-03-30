@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-30 15:19:54",
-  "total_count": 368,
-  "news_count": 363,
+  "last_updated": "2026-03-30 17:09:38",
+  "total_count": 369,
+  "news_count": 364,
   "android_count": 119,
-  "ios_count": 244,
+  "ios_count": 245,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2057bc6cb3e4",
+      "title": "iOS 27 could add one of Apple’s most popular iPhone apps yet",
+      "summary": "iOS 27 will be unveiled in just a few months, and reporting indicates it will add a brand new Siri app that I think could quickly become one of Apple’s most popular iPhone apps.\nmore…",
+      "url": "https://9to5mac.com/2026/03/30/ios-27-could-add-one-of-apples-most-popular-iphone-apps-yet/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-30 16:39",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可能会添加苹果迄今为止最受欢迎的 iPhone 应用程序之一",
+      "summary_translated": "iOS 27 将在短短几个月内发布，有报道称它将添加一个全新的 Siri 应用程序，我认为它可能很快成为苹果最受欢迎的 iPhone 应用程序之一。\n更多的…"
+    },
     {
       "id": "a6295cd0b005",
       "title": "iOS 26.4 adds convenient new iCloud feature, here’s how to enable it",
