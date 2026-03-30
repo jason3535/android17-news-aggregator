@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-30 03:35:15",
-  "total_count": 364,
-  "news_count": 359,
-  "android_count": 117,
+  "last_updated": "2026-03-30 06:05:30",
+  "total_count": 365,
+  "news_count": 360,
+  "android_count": 118,
   "ios_count": 242,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ef9f7b6246b5",
+      "title": "Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature",
+      "summary": "We've tracked the feature across Samsung's One UI 9, Google Play Services, and Android 17 system-level code.",
+      "url": "https://www.androidauthority.com/android-tap-to-share-quick-share-3652981/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-03-30 05:28",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/06/Apple-WWDC-2023-name-drop-3.jpg",
+      "title_translated": "独家：Android 可能很快就会拥有自己的 AirDrop 风格的“点击分享”功能",
+      "summary_translated": "我们已经在三星的 One UI 9、Google Play 服务和 Android 17 系统级代码中跟踪了该功能。"
+    },
     {
       "id": "caf7a46bddd9",
       "title": "iOS 27 Rumored to Feature All-New Siri App With 'Extensions' Feature",
