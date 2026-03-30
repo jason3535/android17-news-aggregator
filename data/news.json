@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-30 11:15:15",
-  "total_count": 365,
-  "news_count": 360,
+  "last_updated": "2026-03-30 13:59:52",
+  "total_count": 366,
+  "news_count": 361,
   "android_count": 118,
-  "ios_count": 242,
+  "ios_count": 243,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ecbe62aa155e",
+      "title": "watchOS 27 to reportedly offer two main Apple Watch upgrades",
+      "summary": "Apple will unveil iOS 27 and its companion software updates on June 8 at WWDC, and a recent Q&A with Bloomberg’s Mark Gurman revealed the two main upgrades coming with watchOS 27.\nmore…",
+      "url": "https://9to5mac.com/2026/03/30/watchos-27-to-reportedly-offer-two-main-apple-watch-upgrades/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-30 13:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/watchos-27-apple-watch-ultra-blue.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，watchOS 27 将提供两项主要的 Apple Watch 升级",
+      "summary_translated": "苹果将于 6 月 8 日在 WWDC 上推出 iOS 27 及其配套软件更新，最近彭博社 Mark Gurman 的问答透露了 watchOS 27 带来的两项主要升级。\n更多…"
+    },
     {
       "id": "ef9f7b6246b5",
       "title": "Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature",
