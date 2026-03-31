@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-31 19:17:02",
-  "total_count": 394,
-  "news_count": 389,
+  "last_updated": "2026-03-31 20:54:52",
+  "total_count": 397,
+  "news_count": 392,
   "android_count": 119,
-  "ios_count": 270,
+  "ios_count": 273,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7fede09b7b18",
+      "title": "iOS 26.4 has convenient change for iPhone personal hotspot users",
+      "summary": "iOS 26.4 launched last week, packing a wide array of new features, including a change for personal hotspot that makes it easy to see who’s using your data.\nmore…",
+      "url": "https://9to5mac.com/2026/03/31/ios-26-4-makes-it-easy-to-see-whos-using-your-personal-hotspot/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-31 20:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-wi-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4为iPhone个人热点用户带来便捷改变",
+      "summary_translated": "iOS 26.4 于上周发布，包含大量新功能，包括对个人热点的更改，可以轻松查看谁在使用您的数据。\n更多的…"
+    },
+    {
+      "id": "e14633caa04c",
+      "title": "9to5Mac Daily: March 31, 2026 – iOS 26.5 beta 1 changes, more",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/03/31/daily-march-31-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-31 20:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 3 月 31 日 – iOS 26.5 beta 1 更改等",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "c9c34f2dafde",
       "title": "ChatGPT app launches for CarPlay on iOS 26.4",
@@ -89,6 +117,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-music-adaptive-albums-dark-mode.jpg?quality=82&strip=all&w=1600",
       "title_translated": "新的自适应Apple Music设计引起了黑暗模式用户的抱怨",
       "summary_translated": "iOS 26.4 推出的新 Apple Music 专辑和播放列表设计拥有大量粉丝，但也引起了一些铁杆黑暗模式用户的愤怒。现在界面的颜色已经适应了专辑封面，如果您点击以白色为主的专辑，屏幕在晚上会非常明亮"
+    },
+    {
+      "id": "84c404ea8118",
+      "title": "OpenAI Brings ChatGPT to CarPlay for Hands-Free Voice Conversations",
+      "summary": "OpenAI has updated ChatGPT with support for CarPlay, which means ‌CarPlay‌ users can now ask ChatGPT questions and make requests directly from their vehicle dashboard.\n\n\n\n\nApple began allowing third-party voice-based conversational apps to interface with ‌CarPlay‌ in iOS 26.4, but apps need to imple",
+      "url": "https://www.macrumors.com/2026/03/31/openai-chatgpt-carplay/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-31 12:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/carplay-chatgpt-1.jpg",
+      "title_translated": "OpenAI 将 ChatGPT 引入 CarPlay，实现免提语音对话",
+      "summary_translated": "OpenAI 更新了 ChatGPT，支持 CarPlay，这意味着 CarPlay 用户现在可以询问 ChatGPT 问题并直接从车辆仪表板发出请求。\n\n\n\n\n苹果在 iOS 26.4 中开始允许第三方基于语音的对话应用程序与 CarPlay 交互，但应用程序需要实现"
     },
     {
       "id": "bfe410f12992",
