@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-31 17:11:46",
-  "total_count": 393,
-  "news_count": 388,
+  "last_updated": "2026-03-31 19:17:02",
+  "total_count": 394,
+  "news_count": 389,
   "android_count": 119,
-  "ios_count": 269,
+  "ios_count": 270,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c9c34f2dafde",
+      "title": "ChatGPT app launches for CarPlay on iOS 26.4",
+      "summary": "Last week, Apple released iOS 26.4, which enabled support for voice-based AI apps to CarPlay for the first time.\nJust a few days later, OpenAI has updated the ChatGPT app for iPhone to take advantage of this change. Now, ChatGPT is fully accessible via a dedicated CarPlay app.\nmore…",
+      "url": "https://9to5mac.com/2026/03/31/chatgpt-app-launches-for-carplay-on-ios-26-4/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-31 18:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/chatgpt-carplay.jpeg?quality=82&strip=all&w=1600",
+      "title_translated": "ChatGPT 应用程序在 iOS 26.4 上推出 CarPlay",
+      "summary_translated": "上周，苹果发布了 iOS 26.4，首次启用了 CarPlay 对基于语音的 AI 应用程序的支持。\n几天后，OpenAI 更新了 iPhone 版 ChatGPT 应用程序以利用这一变化。现在，ChatGPT 可以通过专用的 CarPlay 应用程序完全访问。\n更多的…"
+    },
     {
       "id": "1b5278f62c12",
       "title": "iOS 27 might give iPhone’s keyboard a new autocorrect feature",
