@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-03-31 13:58:23",
-  "total_count": 389,
-  "news_count": 384,
+  "last_updated": "2026-03-31 15:18:23",
+  "total_count": 390,
+  "news_count": 385,
   "android_count": 119,
-  "ios_count": 265,
+  "ios_count": 266,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d622fe177c44",
+      "title": "Fantastical can now trigger alarms for events and tasks",
+      "summary": "Apple introduced a new developer tool in iOS 26 called AlarmKit. The latest version of Fantastical for iPhone and iPad adopts it.\nmore…",
+      "url": "https://9to5mac.com/2026/03/31/fantastical-can-now-trigger-alarms-for-events-and-tasks/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-31 14:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/09/fantastical@0.5x.webp?w=1000",
+      "title_translated": "Fantastical 现在可以触发事件和任务的警报",
+      "summary_translated": "苹果在 iOS 26 中引入了一个名为 AlarmKit 的新开发者工具。 iPhone 和 iPad 版 Fantastical 的最新版本采用了它。\n更多的…"
+    },
     {
       "id": "0a891ffa0102",
       "title": "iOS 27 could give Apple’s Shortcuts app a powerful new capability",
