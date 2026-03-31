@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-03-31 15:18:23",
-  "total_count": 390,
-  "news_count": 385,
+  "last_updated": "2026-03-31 17:11:46",
+  "total_count": 393,
+  "news_count": 388,
   "android_count": 119,
-  "ios_count": 266,
+  "ios_count": 269,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1b5278f62c12",
+      "title": "iOS 27 might give iPhone’s keyboard a new autocorrect feature",
+      "summary": "iOS 27 is set to be packed with AI upgrades, headlined by the new Siri app. But a Bloomberg report today says iOS 27 might also upgrade the iPhone’s keyboard with a new autocorrect feature.\nmore…",
+      "url": "https://9to5mac.com/2026/03/31/ios-27-might-give-iphones-keyboard-a-new-autocorrect-feature/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-31 16:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/type-to-siri-iphone-17-pro.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可能会给 iPhone 键盘带来新的自动更正功能",
+      "summary_translated": "iOS 27 将包含人工智能升级，其中最重要的是新的 Siri 应用程序。但彭博社今天的一篇报道称，iOS 27 也可能会通过新的自动更正功能升级 iPhone 的键盘。\n更多的…"
+    },
+    {
+      "id": "d857988c5272",
+      "title": "New Siri multitasking upgrade detailed in latest iOS 27 report",
+      "summary": "Siri may not be any better in iOS 26.5 beta, but we’re continuing to learn a lot more about iOS 27’s version. Mark Gurman reports for Bloomberg that Apple is developing an upgrade to Siri that will improve its multitasking abilities.\nmore…",
+      "url": "https://9to5mac.com/2026/03/31/new-siri-multitasking-upgrade-detailed-in-latest-ios-27-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-03-31 16:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "最新的 iOS 27 报告详细介绍了新的 Siri 多任务处理升级",
+      "summary_translated": "Siri 在 iOS 26.5 Beta 中可能并没有更好，但我们正在继续了解有关 iOS 27 版本的更多信息。 Mark Gurman 向彭博社报道称，苹果正在开发 Siri 的升级版，以提高其多任务处理能力。\n更多的…"
+    },
     {
       "id": "d622fe177c44",
       "title": "Fantastical can now trigger alarms for events and tasks",
@@ -47,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-music-adaptive-albums-dark-mode.jpg?quality=82&strip=all&w=1600",
       "title_translated": "新的自适应Apple Music设计引起了黑暗模式用户的抱怨",
       "summary_translated": "iOS 26.4 推出的新 Apple Music 专辑和播放列表设计拥有大量粉丝，但也引起了一些铁杆黑暗模式用户的愤怒。现在界面的颜色已经适应了专辑封面，如果您点击以白色为主的专辑，屏幕在晚上会非常明亮"
+    },
+    {
+      "id": "bfe410f12992",
+      "title": "iOS 27 Siri Update Will Let Users Make Multiple Requests at Once",
+      "summary": "The updated version of Siri that Apple plans to release in iOS 27 may be able to handle multiple commands in a single query, reports Bloomberg. With the feature, users would be able to make multi-step requests that ‌Siri‌ would carry out, such as getting directions to a location and then sending tho",
+      "url": "https://www.macrumors.com/2026/03/31/siri-ios-27-multiple-requests/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-03-31 09:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/Finder-Siri-Feature.jpg",
+      "title_translated": "iOS 27 Siri 更新将允许用户同时发出多个请求",
+      "summary_translated": "据彭博社报道，苹果计划在 iOS 27 中发布的 Siri 更新版本可能能够在单个查询中处理多个命令。借助该功能，用户将能够发出 Siri 执行的多步骤请求，例如获取前往某个位置的路线，然后发送该信息"
     },
     {
       "id": "9bd61bf7efb4",
