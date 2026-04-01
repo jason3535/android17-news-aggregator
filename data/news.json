@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-01 14:00:28",
-  "total_count": 399,
-  "news_count": 394,
+  "last_updated": "2026-04-01 15:22:22",
+  "total_count": 400,
+  "news_count": 395,
   "android_count": 119,
-  "ios_count": 275,
+  "ios_count": 276,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "27a65d69da42",
+      "title": "iOS 27’s new Siri is coming, and sounds very much worth the wait",
+      "summary": "iOS 27’s biggest changes are reportedly going to focus on overhauling Siri with new features and expanding Apple’s assistant in key ways. And though the wait for an all-new Siri has been long, the coming changes sound very exciting.\nmore…",
+      "url": "https://9to5mac.com/2026/04/01/ios-27s-new-siri-is-coming-and-sounds-very-much-worth-the-wait/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-01 14:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen-close-angle.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 的新 Siri 即将到来，听起来非常值得等待",
+      "summary_translated": "据报道，iOS 27 最大的变化将集中在通过新功能彻底改造 Siri 并在关键方面扩展苹果助手。尽管人们等待全新 Siri 的时间已经很长，但即将到来的变化听起来非常令人兴奋。\n更多的…"
+    },
     {
       "id": "46ff7d19a04d",
       "title": "Apple confirms iOS 18 update to patch DarkSword exploit for users who haven’t upgraded to iOS 26",
