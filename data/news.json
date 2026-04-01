@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-01 15:22:22",
-  "total_count": 400,
-  "news_count": 395,
+  "last_updated": "2026-04-01 17:08:34",
+  "total_count": 401,
+  "news_count": 396,
   "android_count": 119,
-  "ios_count": 276,
+  "ios_count": 277,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9decfd440386",
+      "title": "CarPlay’s latest upgrades offer exciting glimpse of what’s coming in iOS 27",
+      "summary": "CarPlay in iOS 26.4 unlocked access to a new category of apps: third-party AI assistants like ChatGPT, which just shipped its new CarPlay app yesterday. Here’s why these new apps offer a glimpse at what to expect from iOS 27 and the new Siri.\nmore…",
+      "url": "https://9to5mac.com/2026/04/01/carplays-latest-upgrades-offer-exciting-glimpse-of-whats-coming-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-01 16:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/carplay-ultra-ios-26-aston.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "CarPlay 的最新升级让我们对 iOS 27 中的新功能一睹为快",
+      "summary_translated": "iOS 26.4 中的 CarPlay 解锁了对新类别应用程序的访问：ChatGPT 等第三方 AI 助手，ChatGPT 昨天刚刚发布了新的 CarPlay 应用程序。这就是为什么这些新应用程序让我们了解 iOS 27 和新 Siri 的预期。\n更多的…"
+    },
     {
       "id": "27a65d69da42",
       "title": "iOS 27’s new Siri is coming, and sounds very much worth the wait",
