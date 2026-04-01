@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-01 09:20:34",
-  "total_count": 398,
-  "news_count": 393,
+  "last_updated": "2026-04-01 11:11:40",
+  "total_count": 399,
+  "news_count": 394,
   "android_count": 119,
-  "ios_count": 274,
+  "ios_count": 275,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果确认 iOS 18 更新将为尚未升级到 iOS 26 的用户修复 DarkSword 漏洞",
       "summary_translated": "据《连线》报道，苹果将于周三上午发布 iOS 18 更新，以修复 DarkSword 黑客攻击所利用的漏洞。这就是这意味着什么。\n更多的…"
+    },
+    {
+      "id": "2459b78c81af",
+      "title": "Apple to Issue Rare iOS 18 Software Update for DarkSword Exploit",
+      "summary": "Apple on Wednesday will issue software updates to devices still running iOS 18 to protect them from an exploit called DarkSword, which can silently take over an iPhone if it visits a website infected with the malicious code.\n\n\n\n\nDevices on iOS 26 are already protected against DarkSword, but in a sur",
+      "url": "https://www.macrumors.com/2026/04/01/apple-ios-18-patch-darksword-exploit/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-01 03:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title_translated": "苹果将​​针对 DarkSword 漏洞发布罕见的 iOS 18 软件更新",
+      "summary_translated": "苹果周三将向仍在运行 iOS 18 的设备发布软件更新，以保护它们免受名为 DarkSword 的漏洞的影响，如果 iPhone 访问受恶意代码感染的网站，该漏洞可以悄悄地接管 iPhone。\n\n\n\n\niOS 26 上的设备已经受到了 DarkSword 的保护，但在 sur"
     },
     {
       "id": "7fede09b7b18",
