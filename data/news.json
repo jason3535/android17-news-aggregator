@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-01 20:58:49",
-  "total_count": 404,
-  "news_count": 399,
-  "android_count": 119,
+  "last_updated": "2026-04-01 21:54:57",
+  "total_count": 405,
+  "news_count": 400,
+  "android_count": 120,
   "ios_count": 280,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "90f93d8d1ace",
+      "title": "Google releases Wear OS 6.1 based on Android 16 QPR2",
+      "summary": "Google today quietly released Wear OS 6.1, but it’s not available on any watches just yet.\nmore…",
+      "url": "https://9to5google.com/2026/04/01/wear-os-6-1/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-01 21:14",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/xiaomi-watch-wear-os-logo-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌发布基于Android 16 QPR2的Wear OS 6.1",
+      "summary_translated": "谷歌今天悄悄发布了 Wear OS 6.1，但目前还没有在任何手表上使用。\n更多的…"
+    },
     {
       "id": "6ca374ffc91c",
       "title": "iOS 26.4 makes Apple’s best new Reminders feature easier to use",
