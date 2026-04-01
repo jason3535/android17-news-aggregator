@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-01 03:38:28",
-  "total_count": 397,
-  "news_count": 392,
+  "last_updated": "2026-04-01 06:02:45",
+  "total_count": 398,
+  "news_count": 393,
   "android_count": 119,
-  "ios_count": 273,
+  "ios_count": 274,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "46ff7d19a04d",
+      "title": "Apple confirms iOS 18 update to patch DarkSword exploit for users who haven’t upgraded to iOS 26",
+      "summary": "According to Wired, Apple will release an iOS 18 update on Wednesday morning to patch vulnerabilities exploited by the DarkSword hack. Here’s what that means.\nmore…",
+      "url": "https://9to5mac.com/2026/03/31/apple-confirms-ios-18-update-to-patch-darksword-exploit-for-users-who-havent-upgraded-to-ios-26/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-01 03:55",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果确认 iOS 18 更新将为尚未升级到 iOS 26 的用户修复 DarkSword 漏洞",
+      "summary_translated": "据《连线》报道，苹果将于周三上午发布 iOS 18 更新，以修复 DarkSword 黑客攻击所利用的漏洞。这就是这意味着什么。\n更多的…"
+    },
     {
       "id": "7fede09b7b18",
       "title": "iOS 26.4 has convenient change for iPhone personal hotspot users",
