@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-02 19:11:15",
-  "total_count": 409,
-  "news_count": 404,
+  "last_updated": "2026-04-02 20:50:00",
+  "total_count": 411,
+  "news_count": 406,
   "android_count": 122,
-  "ios_count": 282,
+  "ios_count": 284,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8ccfceb46774",
+      "title": "iOS 26.4 adds three new ways to customize your iPhone",
+      "summary": "iOS 26.4 is officially here and brings lots of additional features, including three new ways to customize your iPhone. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/04/02/ios-26-4-adds-three-new-ways-to-customize-your-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-02 20:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-settings.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 增加了三种自定义 iPhone 的新方法",
+      "summary_translated": "iOS 26.4 正式发布，带来了许多附加功能，包括三种自定义 iPhone 的新方法。这是新内容。\n更多的…"
+    },
+    {
+      "id": "3b3cbda8a720",
+      "title": "AirPods Max 2 review, Apple’s anniversary, Mac Pro discontinued",
+      "summary": "Benjamin and Chance discuss Apple’s 50th anniversary celebrations, and the same-day news that the Studio Display XDR got $400 cheaper (kinda). Also, Chance reviews the AirPods Max 2, Apple formally discontinues the Mac Pro, and Mark Gurman teases us with even more iOS 27 Siri details. \nAnd in Happy ",
+      "url": "https://9to5mac.com/2026/04/02/happy-hour-584/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-02 19:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "AirPods Max 2 评测、苹果周年纪念、Mac Pro 停产",
+      "summary_translated": "Benjamin 和 Chance 讨论了 Apple 50 周年庆典，以及当天 Studio Display XDR 便宜了 400 美元（有点）的消息。此外，Chance 评测了 AirPods Max 2，Apple 正式停产 Mac Pro，Mark Gurman 向我们透露了更多 iOS 27 Siri 细节。 \n而在快乐"
+    },
     {
       "id": "9c639c42df39",
       "title": "iOS 27: Three new features and changes coming besides Siri",
