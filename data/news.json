@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-02 11:06:31",
-  "total_count": 406,
-  "news_count": 401,
-  "android_count": 121,
+  "last_updated": "2026-04-02 13:51:53",
+  "total_count": 407,
+  "news_count": 402,
+  "android_count": 122,
   "ios_count": 280,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e0079575e6a9",
+      "title": "Android could extend its lead on notification management over iOS with Notification Rules",
+      "summary": "New code in Android 17 Beta 3 reveals granular controls for silencing or highlighting alerts from specific apps and people.",
+      "url": "https://www.androidauthority.com/android-notification-rules-apk-teardown-3654377/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-02 13:12",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Android-bots-standing-over-a-Pixel-phone-with-various-notifications.jpg",
+      "title_translated": "Android 可以通过通知规则扩大其在通知管理方面相对于 iOS 的领先优势",
+      "summary_translated": "Android 17 Beta 3 中的新代码揭示了用于静音或突出显示特定应用程序和人员的警报的精细控制。"
+    },
     {
       "id": "b96deee4a357",
       "title": "I’m testing Android 17’s app bubbles, and I’ve already found a big problem",
