@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-02 13:51:53",
-  "total_count": 407,
-  "news_count": 402,
+  "last_updated": "2026-04-02 15:11:59",
+  "total_count": 408,
+  "news_count": 403,
   "android_count": 122,
-  "ios_count": 280,
+  "ios_count": 281,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c69472b1f046",
+      "title": "iOS 26.5 release date: Here’s when to expect new iPhone features",
+      "summary": "iOS 26.5 arrived in beta this week packing new iPhone features, but a public launch isn’t too far away. Here’s the expected release date for all users.\nmore…",
+      "url": "https://9to5mac.com/2026/04/02/ios-26-5-release-date-heres-when-to-expect-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-02 14:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-when.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 发布日期：iPhone 新功能发布时间",
+      "summary_translated": "iOS 26.5 本周发布测试版，包含新的 iPhone 功能，但距离公开发布也不远了。这是所有用户的预计发布日期。\n更多的…"
+    },
     {
       "id": "e0079575e6a9",
       "title": "Android could extend its lead on notification management over iOS with Notification Rules",
