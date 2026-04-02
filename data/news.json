@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-02 20:50:00",
-  "total_count": 411,
-  "news_count": 406,
-  "android_count": 122,
-  "ios_count": 284,
+  "last_updated": "2026-04-02 21:51:07",
+  "total_count": 414,
+  "news_count": 409,
+  "android_count": 123,
+  "ios_count": 286,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9d43efccc8a9",
+      "title": "Pixelated 094: Whoop, there it is",
+      "summary": "Welcome to episode 94 of Pixelated, a podcast by 9to5Google. This week, Damien, Abner, and Will talk all about this week’s Pixel 11 leaks, granting everyone an early look at what appears to be a strikingly familiar smartphone launch on deck for later this year. After a brief dip into some Android 17",
+      "url": "https://9to5google.com/2026/04/02/pixelated-094-whoop-there-it-is/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-02 21:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "像素化 094：哎哟，就在那里",
+      "summary_translated": "欢迎收看 9to5Google 的播客 Pixelated 第 94 集。 本周，Damien、Abner 和 Will 全面讨论了本周的 Pixel 11 泄露事件，让每个人都能提前了解今年晚些时候即将推出的一款非常熟悉的智能手机。短暂了解 Android 17 后"
+    },
     {
       "id": "8ccfceb46774",
       "title": "iOS 26.4 adds three new ways to customize your iPhone",
@@ -61,6 +75,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-when.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5 发布日期：iPhone 新功能发布时间",
       "summary_translated": "iOS 26.5 本周发布测试版，包含新的 iPhone 功能，但距离公开发布也不远了。这是所有用户的预计发布日期。\n更多的…"
+    },
+    {
+      "id": "d04cd2cf6bce",
+      "title": "Apple Sending WWDC 2026 Invites to Special Event Lottery Winners",
+      "summary": "Students and developers who won the lottery to attend the WWDC 2026 Special Event at Apple Park on June 8 have started receiving their invites.\n\n\n\n\nApple is holding a WWDC keynote viewing at ‌Apple Park‌, but space is limited so invites were done on a lottery basis. Apple accepted submissions from t",
+      "url": "https://www.macrumors.com/2026/04/02/apple-wwdc-2026-invites-lottery-winners/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-02 14:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/WWDC26-Glowing-Ring-Feature.jpg",
+      "title_translated": "Apple 向特别活动彩票获奖者发送 WWDC 2026 邀请",
+      "summary_translated": "赢得抽奖参加 6 月 8 日在 Apple Park 举行的 WWDC 2026 特别活动的学生和开发者已经开始收到邀请。\n\n\n\n\n苹果正在 Apple Park 举办 WWDC 主题演讲，但空间有限，因此邀请是通过抽签的方式进行的。 Apple 接受了来自 t 的提交意见"
+    },
+    {
+      "id": "27593087b809",
+      "title": "Apple Fan Creates Unofficial WWDC 2026 and 50th Anniversary Enamel Pins",
+      "summary": "App developer Clément Sauvage has designed a set of enamel pins for Apple fans who want to commemorate WWDC 2026 and Apple's 50th anniversary. Sauvage is offering the pins on Kickstarter, and plans to start shipments in May ahead of WWDC.\n\n\n\n\nThe pins feature the Apple developer logo, the Apple Inte",
+      "url": "https://www.macrumors.com/2026/04/02/unofficial-wwdc-2026-pins/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-02 13:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/unofficial-wwdc-pins-1.jpg",
+      "title_translated": "Apple Fan 制作非官方 WWDC 2026 和 50 周年珐琅徽章",
+      "summary_translated": "应用程序开发人员 Clément Sauvage 为想要纪念 WWDC 2026 和 Apple 50 周年的苹果粉丝设计了一套珐琅别针。 Sauvage 正在 Kickstarter 上提供引脚，并计划在 WWDC 之前的 5 月份开始发货。\n\n\n\n\n这些引脚带有 Apple 开发者徽标、Apple Inte"
     },
     {
       "id": "e0079575e6a9",
