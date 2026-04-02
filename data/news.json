@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-02 09:12:22",
-  "total_count": 405,
-  "news_count": 400,
-  "android_count": 120,
+  "last_updated": "2026-04-02 11:06:31",
+  "total_count": 406,
+  "news_count": 401,
+  "android_count": 121,
   "ios_count": 280,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b96deee4a357",
+      "title": "I’m testing Android 17’s app bubbles, and I’ve already found a big problem",
+      "summary": "App bubbles are off to a good, but imperfect, start.",
+      "url": "https://www.androidauthority.com/android-17-app-bubbles-hands-on-problem-3653181/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-02 10:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/app-bubbles-android-17-beta-3-pixel-10-pro-fold-cover-screen-scaled.jpg",
+      "title_translated": "我正在测试Android 17的应用程序气泡，我已经发现了一个大问题",
+      "summary_translated": "应用程序泡沫已经有了一个良好但不完美的开始。"
+    },
     {
       "id": "90f93d8d1ace",
       "title": "Google releases Wear OS 6.1 based on Android 16 QPR2",
