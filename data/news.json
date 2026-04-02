@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-02 17:07:20",
-  "total_count": 408,
-  "news_count": 403,
+  "last_updated": "2026-04-02 19:11:15",
+  "total_count": 409,
+  "news_count": 404,
   "android_count": 122,
-  "ios_count": 281,
+  "ios_count": 282,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9c639c42df39",
+      "title": "iOS 27: Three new features and changes coming besides Siri",
+      "summary": "iOS 27 will be unveiled on June 8 at WWDC 2026, and while rumors point to a major focus on Siri and AI, here are three new features and changes besides Siri.\nmore…",
+      "url": "https://9to5mac.com/2026/04/02/ios-27-three-new-features-and-changes-coming-besides-siri/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-02 17:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-05.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27：除了 Siri 之外还有三项新功能和变化",
+      "summary_translated": "iOS 27 将于 6 月 8 日在 WWDC 2026 上发布，虽然有传言称主要关注点是 Siri 和 AI，但以下是除 Siri 之外的三项新功能和变化。\n更多的…"
+    },
     {
       "id": "c69472b1f046",
       "title": "iOS 26.5 release date: Here’s when to expect new iPhone features",
