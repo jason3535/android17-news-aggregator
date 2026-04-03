@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-03 16:55:24",
-  "total_count": 416,
-  "news_count": 411,
+  "last_updated": "2026-04-03 17:49:43",
+  "total_count": 417,
+  "news_count": 412,
   "android_count": 124,
-  "ios_count": 287,
+  "ios_count": 288,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-5-scaled.jpg",
       "title_translated": "我在 Pixel 上使用 Android 17 Beta 3 一周，这 4 个功能改变了一切",
       "summary_translated": "Android 17 看起来相当不错。"
+    },
+    {
+      "id": "86011f896e66",
+      "title": "This Music Selection Tweak in iOS 26.4 Will Save You Bags of Time",
+      "summary": "If you often find yourself adding a track to an Apple Music playlist, going back, and then adding it to other playlists, iOS 26.4 includes an option that could save you bags of time: You can now select multiple playlists when adding a song.\n\n\n\n\nPreviously, tapping Add to Playlist would take you to a",
+      "url": "https://www.macrumors.com/how-to/ios-add-songs-multiple-playlists-music/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-03 09:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-multiple-playlists.jpg",
+      "title_translated": "iOS 26.4 中的音乐选择调整将为您节省大量时间",
+      "summary_translated": "如果您经常发现自己将曲目添加到 Apple Music 播放列表，然后返回，然后将其添加到其他播放列表，iOS 26.4 包含一个可以节省您大量时间的选项：您现在可以在添加歌曲时选择多个播放列表。\n\n\n\n\n以前，点击添加到播放列表会将您带到"
     },
     {
       "id": "0a9d0ea4ca01",
