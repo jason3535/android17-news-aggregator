@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-03 17:49:43",
-  "total_count": 417,
-  "news_count": 412,
+  "last_updated": "2026-04-03 19:01:47",
+  "total_count": 419,
+  "news_count": 414,
   "android_count": 124,
-  "ios_count": 288,
+  "ios_count": 290,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "accf907cc3f8",
+      "title": "Apple releases new iOS 26.5 beta 1 build for iPhone",
+      "summary": "iOS 26.5 beta 1 arrived earlier this week for developers, but Apple has just shipped an updated beta 1 build for testing.\nmore…",
+      "url": "https://9to5mac.com/2026/04/03/apple-releases-new-ios-26-5-beta-1-build-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-03 17:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-hero.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 发布了适用于 iPhone 的新 iOS 26.5 beta 1 版本",
+      "summary_translated": "iOS 26.5 beta 1 已于本周早些时候向开发者发布，但苹果刚刚发布了更新的 beta 1 版本进行测试。\n更多的…"
+    },
+    {
+      "id": "4fd3b6e9ff6a",
+      "title": "Apple Seeds Revised iOS 26.5 and iPadOS 26.5 Betas to Developers",
+      "summary": "Apple today seeded revised first betas of upcoming iOS 26.5 and iPadOS 26.5 updates to developers for testing purposes, with the software coming four days after Apple seeded the initial betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to th",
+      "url": "https://www.macrumors.com/2026/04/03/apple-seeds-ios-26-5-revised-beta-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-03 10:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Warm.jpg",
+      "title_translated": "Apple Seeds 向开发者发布修订版 iOS 26.5 和 iPadOS 26.5 Beta",
+      "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.5 和 iPadOS 26.5 更新的修订版第一个测试版，以进行测试，该软件是在苹果发布初始测试版四天后发布的。\n\n\n\n\n注册开发者可以通过 iPhone 或 iPad 上的“设置”应用程序下载 Beta 版，方法是访问"
+    },
     {
       "id": "39ae8a66271c",
       "title": "I spent a week with Android 17 Beta 3 on my Pixel, and these 4 features change everything",
