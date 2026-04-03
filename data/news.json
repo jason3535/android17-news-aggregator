@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-03 19:49:58",
-  "total_count": 419,
-  "news_count": 414,
+  "last_updated": "2026-04-03 20:51:19",
+  "total_count": 421,
+  "news_count": 416,
   "android_count": 124,
-  "ios_count": 290,
+  "ios_count": 292,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "da9f65825331",
+      "title": "Apple releases first iOS 26.5 public beta",
+      "summary": "Apple has released the first iOS 26.5 public beta. The update follows the first developer beta release on Monday and a new revision earlier today.\nmore…",
+      "url": "https://9to5mac.com/2026/04/03/apple-releases-first-ios-26-5-public-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-03 20:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-public-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布首个 iOS 26.5 公测版",
+      "summary_translated": "苹果发布了第一个 iOS 26.5 公测版。此次更新是在周一发布第一个开发者测试版以及今天早些时候发布新版本之后进行的。\n更多的…"
+    },
     {
       "id": "accf907cc3f8",
       "title": "Apple releases new iOS 26.5 beta 1 build for iPhone",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-hero.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布了适用于 iPhone 的新 iOS 26.5 beta 1 版本",
       "summary_translated": "iOS 26.5 beta 1 已于本周早些时候向开发者发布，但苹果刚刚发布了更新的 beta 1 版本进行测试。\n更多的…"
+    },
+    {
+      "id": "f08e7d8ef626",
+      "title": "Apple Releases First iOS 26.5, iPadOS 26.5 and macOS Tahoe 26.5 Public Betas",
+      "summary": "Apple today provided public beta testers with the first releases of upcoming iOS 26.5, iPadOS 26.5, macOS Tahoe 26.5, watchOS 26.5, and tvOS 26.5 updates for testing purposes. The public betas come four days after Apple provided the betas to developers, though Apple seeded updated iOS 26.5 and iPadO",
+      "url": "https://www.macrumors.com/2026/04/03/apple-first-ios-26-5-public-beta/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-03 13:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Thumb.jpg",
+      "title_translated": "Apple 发布首个 iOS 26.5、iPadOS 26.5 和 macOS Tahoe 26.5 公共测试版",
+      "summary_translated": "Apple 今天向公共 Beta 测试人员提供了即将推出的 iOS 26.5、iPadOS 26.5、macOS Tahoe 26.5、watchOS 26.5 和 tvOS 26.5 更新的第一版，以进行测试。公开测试版是在苹果向开发者提供测试版四天后发布的，尽管苹果发布了更新的 iOS 26.5 和 iPadO"
     },
     {
       "id": "4fd3b6e9ff6a",
