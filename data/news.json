@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-03 13:36:41",
-  "total_count": 415,
-  "news_count": 410,
+  "last_updated": "2026-04-03 14:57:25",
+  "total_count": 416,
+  "news_count": 411,
   "android_count": 124,
-  "ios_count": 286,
+  "ios_count": 287,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-5-scaled.jpg",
       "title_translated": "我在 Pixel 上使用 Android 17 Beta 3 一周，这 4 个功能改变了一切",
       "summary_translated": "Android 17 看起来相当不错。"
+    },
+    {
+      "id": "0a9d0ea4ca01",
+      "title": "iOS 26.5 and iOS 27 Will Add These New Features to Your iPhone",
+      "summary": "Earlier this week, Apple seeded the first beta of iOS 26.5 to developers. The software update is relatively minor so far, which is not too surprising given that Apple is likely shifting its focus towards iOS 27. Apple is expected to unveil iOS 27 during its WWDC 2026 keynote on June 8, and the updat",
+      "url": "https://www.macrumors.com/2026/04/03/ios-26-5-and-ios-27-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-03 07:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/iOS-26.5-and-iOS-27-Feature-1.jpg",
+      "title_translated": "iOS 26.5 和 iOS 27 将为你的 iPhone 添加这些新功能",
+      "summary_translated": "本周早些时候，苹果向开发者发布了 iOS 26.5 的第一个测试版。到目前为止，软件更新相对较小，考虑到苹果可能会将重点转向 iOS 27，这并不奇怪。苹果预计将在 6 月 8 日的 WWDC 2026 主题演讲中发布 iOS 27，更新"
     },
     {
       "id": "9d43efccc8a9",
