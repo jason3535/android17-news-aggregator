@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-03 09:07:48",
-  "total_count": 414,
-  "news_count": 409,
-  "android_count": 123,
+  "last_updated": "2026-04-03 10:59:14",
+  "total_count": 415,
+  "news_count": 410,
+  "android_count": 124,
   "ios_count": 286,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "39ae8a66271c",
+      "title": "I spent a week with Android 17 Beta 3 on my Pixel, and these 4 features change everything",
+      "summary": "Android 17 is looking pretty darn good.",
+      "url": "https://www.androidauthority.com/android-17-beta-3-hands-on-3654106/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-03 10:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-5-scaled.jpg",
+      "title_translated": "我在 Pixel 上使用 Android 17 Beta 3 一周，这 4 个功能改变了一切",
+      "summary_translated": "Android 17 看起来相当不错。"
+    },
     {
       "id": "9d43efccc8a9",
       "title": "Pixelated 094: Whoop, there it is",
