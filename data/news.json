@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-06 18:02:00",
-  "total_count": 424,
-  "news_count": 419,
+  "last_updated": "2026-04-06 19:16:20",
+  "total_count": 425,
+  "news_count": 420,
   "android_count": 124,
-  "ios_count": 295,
+  "ios_count": 296,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "65493765a3b0",
+      "title": "Returning to iOS 18 after using iOS 26 might surprise you",
+      "summary": "iOS 26 brought a major new Liquid Glass design that, in some cases, led to user reports of slower iPhone performance. But Daring Fireball’s John Gruber recently went back to iOS 18 after a long time on iOS 26, and had a surprisingly different experience.\nmore…",
+      "url": "https://9to5mac.com/2026/04/06/returning-to-ios-18-after-using-ios-26-might-surprise-you/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-06 18:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/ios-18-26-icons.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "使用 iOS 26 之后返回 iOS 18 可能会让你感到惊讶",
+      "summary_translated": "iOS 26 带来了重要的新液态玻璃设计，在某些情况下，导致用户报告 iPhone 性能下降。但 Daring Fireball 的 John Gruber 在使用 iOS 26 很长时间后最近又回到了 iOS 18，并获得了令人惊讶的不同体验。\n更多的…"
+    },
     {
       "id": "6cdeaba8455a",
       "title": "Apple prepping iOS 26.4.1 update for iPhone",
