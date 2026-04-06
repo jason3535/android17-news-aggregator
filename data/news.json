@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-06 22:52:48",
-  "total_count": 426,
-  "news_count": 421,
+  "last_updated": "2026-04-06 23:48:55",
+  "total_count": 427,
+  "news_count": 422,
   "android_count": 124,
-  "ios_count": 297,
+  "ios_count": 298,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/26.4.1.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果正在为 iPhone 准备 iOS 26.4.1 更新",
       "summary_translated": "苹果上个月发布了 iPhone 版 iOS 26.4，其中包含新的表情符号、Apple Music 的更新等等。现在，该公司正在准备错误修复更新，看起来 iOS 26.4.1 即将推出。\n更多的…"
+    },
+    {
+      "id": "ed9f9522bcbb",
+      "title": "Apple Continues Promoting iOS 26 and macOS 26 Liquid Glass With Updated Design Gallery",
+      "summary": "Apple is continuing to highlight the Liquid Glass aesthetic that it introduced in iOS 26, iPadOS 26, and macOS 26. The company has shared an updated Liquid Glass Design Gallery that shows off Liquid Glass in third-party apps.\n\n\n\n\nThe visual gallery features several iPhone and iPad apps, with screens",
+      "url": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-06 16:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/apple-liquid-glass-design.jpg",
+      "title_translated": "苹果通过更新的设计图库继续推广 iOS 26 和 macOS 26 液态玻璃",
+      "summary_translated": "苹果继续强调其在 iOS 26、iPadOS 26 和 macOS 26 中引入的液态玻璃美学。该公司分享了更新的液态玻璃设计图库，在第三方应用程序中展示了液态玻璃。\n\n\n\n\n视觉画廊包含多个带有屏幕的 iPhone 和 iPad 应用程序"
     },
     {
       "id": "587a7ccab49f",
