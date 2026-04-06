@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-06 19:16:20",
-  "total_count": 425,
-  "news_count": 420,
+  "last_updated": "2026-04-06 20:51:49",
+  "total_count": 426,
+  "news_count": 421,
   "android_count": 124,
-  "ios_count": 296,
+  "ios_count": 297,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9fb131526ecb",
+      "title": "iOS 26.4 adds four iPhone features that I’ve been loving",
+      "summary": "iOS 26.4 recently launched, and it’s a big update for new iPhone features. Here are my four favorite new iOS 26.4 features.\nmore…",
+      "url": "https://9to5mac.com/2026/04/06/ios-26-4-is-coming-here-are-my-four-favorite-new-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-06 20:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-4-favorite-iphone-features.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 增加了四项我一直喜欢的 iPhone 功能",
+      "summary_translated": "iOS 26.4 最近发布，这是 iPhone 新功能的重大更新。以下是我最喜欢的四个 iOS 26.4 新功能。\n更多的…"
+    },
     {
       "id": "65493765a3b0",
       "title": "Returning to iOS 18 after using iOS 26 might surprise you",
