@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-07 19:19:49",
-  "total_count": 429,
-  "news_count": 424,
+  "last_updated": "2026-04-07 21:00:48",
+  "total_count": 430,
+  "news_count": 425,
   "android_count": 125,
-  "ios_count": 299,
+  "ios_count": 300,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3479b275a0b3",
+      "title": "iOS 26 added my favorite new iPhone ringtone, listen here",
+      "summary": "My iPhone stays on silent most of the time, but a new iOS 26 ringtone has strongly tempted me to rethink that choice because it’s such a pleasant tune. Here’s my new favorite iPhone ringtone.\nmore…",
+      "url": "https://9to5mac.com/2026/04/07/ios-26-added-my-favorite-new-iphone-ringtone-listen-here/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-07 20:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-phone-app.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 added my favorite new iPhone ringtone, listen here",
+      "summary_translated": "My iPhone stays on silent most of the time, but a new iOS 26 ringtone has strongly tempted me to rethink that choice because it’s such a pleasant tune.这是我最喜欢的 iPhone 铃声。\n更多的…"
+    },
     {
       "id": "e520fb917fd5",
       "title": "Android 16 April update rolling out: Pixel UI, app crash fixes",
