@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-07 17:13:45",
-  "total_count": 428,
-  "news_count": 423,
-  "android_count": 124,
+  "last_updated": "2026-04-07 19:19:49",
+  "total_count": 429,
+  "news_count": 424,
+  "android_count": 125,
   "ios_count": 299,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e520fb917fd5",
+      "title": "Android 16 April update rolling out: Pixel UI, app crash fixes",
+      "summary": "Google is rolling out the April 2026 security patch for Android 16 QPR3 on the Pixel 6, 6 Pro, 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a.\nmore…",
+      "url": "https://9to5google.com/2026/04/07/android-16-april-update-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-07 18:06",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-Obsidian-3.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 4 月 16 日更新推出：Pixel UI、应用程序崩溃修复",
+      "summary_translated": "Google 将在 Pixel 6、6 Pro、6a、7、7 Pro、7a、平板电脑、Fold、8、8 Pro、8a、9、9 Pro、9 Pro XL、9 Pro Fold、9a、Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold 和 Pixel 10a 上推出适用于 Android 16 QPR3 的 2026 年 4 月安全补丁。\n更多的…"
+    },
     {
       "id": "caaab5247a44",
       "title": "iOS 27 release date: Here’s when the next major iPhone update is coming",
