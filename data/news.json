@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-07 15:24:14",
-  "total_count": 427,
-  "news_count": 422,
+  "last_updated": "2026-04-07 17:13:45",
+  "total_count": 428,
+  "news_count": 423,
   "android_count": 124,
-  "ios_count": 298,
+  "ios_count": 299,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "caaab5247a44",
+      "title": "iOS 27 release date: Here’s when the next major iPhone update is coming",
+      "summary": "iOS 27 is the next major iPhone software version, here’s when to expect its release—including dates for the first betas and the public launch.\nmore…",
+      "url": "https://9to5mac.com/2026/04/07/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-07 16:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-release-date-when.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 发布日期：这是 iPhone 下一次重大更新的时间",
+      "summary_translated": "iOS 27 是下一个主要的 iPhone 软件版本，以下是预计其发布的时间，包括首次测试版和公开发布的日期。\n更多的…"
+    },
     {
       "id": "9fb131526ecb",
       "title": "iOS 26.4 adds four iPhone features that I’ve been loving",
