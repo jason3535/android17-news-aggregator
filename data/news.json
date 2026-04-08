@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-08 17:18:33",
-  "total_count": 432,
-  "news_count": 427,
+  "last_updated": "2026-04-08 19:38:16",
+  "total_count": 433,
+  "news_count": 428,
   "android_count": 126,
-  "ios_count": 301,
+  "ios_count": 302,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bb12958b625e",
+      "title": "CarPlay in iOS 26 has my top new Apple Music feature, here’s how to use it",
+      "summary": "CarPlay just got new features in iOS 26.4, plus some exciting new apps, but one of my favorite recent features is an Apple Music change in iOS 26 that’s perfect for the car. Here’s how to use it.\nmore…",
+      "url": "https://9to5mac.com/2026/04/08/carplay-in-ios-26-has-my-top-new-apple-music-feature-heres-how-to-use-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-08 17:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/carplay-apple-music-ios-26-now-playing.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 中的 CarPlay 拥有我最喜欢的新 Apple Music 功能，以下是如何使用它",
+      "summary_translated": "CarPlay 刚刚在 iOS 26.4 中获得了新功能，以及一些令人兴奋的新应用程序，但我最近最喜欢的功能之一是 iOS 26 中的 Apple Music 更改，它非常适合汽车。以下是如何使用它。\n更多的…"
+    },
     {
       "id": "ecdc7068a386",
       "title": "Car Keys in Wallet recently launched for two major vehicle brands, with more soon",
