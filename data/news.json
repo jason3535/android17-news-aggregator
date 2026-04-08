@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-08 13:59:05",
-  "total_count": 431,
-  "news_count": 426,
+  "last_updated": "2026-04-08 15:25:18",
+  "total_count": 432,
+  "news_count": 427,
   "android_count": 126,
-  "ios_count": 300,
+  "ios_count": 301,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ecdc7068a386",
+      "title": "Car Keys in Wallet recently launched for two major vehicle brands, with more soon",
+      "summary": "Apple Wallet got a lot of new features with iOS 26, but another key improvement is that car key support keeps expanding to more vehicle brands. Here are the recent and upcoming major car key launches.\nmore…",
+      "url": "https://9to5mac.com/2026/04/08/car-keys-in-wallet-recently-launched-for-two-major-vehicle-brands-with-more-soon/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-08 15:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-wallet-light-purple.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "最近为两大汽车品牌推出了“钱包中的汽车钥匙”，很快还会推出更多产品",
+      "summary_translated": "苹果钱包在 iOS 26 中获得了很多新功能，但另一个关键改进是汽车钥匙支持不断扩展到更多汽车品牌。以下是最近和即将推出的主要汽车钥匙。\n更多的…"
+    },
     {
       "id": "2b4755d8b412",
       "title": "Google finally adds a long-requested gaming feature to Android 17",
