@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-08 22:57:08",
-  "total_count": 437,
-  "news_count": 432,
+  "last_updated": "2026-04-08 23:50:49",
+  "total_count": 438,
+  "news_count": 433,
   "android_count": 126,
-  "ios_count": 306,
+  "ios_count": 307,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "18c967ed722a",
+      "title": "Stolen Device Protection now enabled by default for enterprise devices in iOS 26.4.1",
+      "summary": "Apple confirms that Stolen Device Protection will be enabled by default for enterprise devices updating from iOS 26.4 to iOS 26.4.1, and from iPadOS 26.4 to iPadOS 26.4.1. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/08/stolen-device-protection-now-enabled-by-default-for-enterprise-devices-in-ios-26-4-1/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-08 23:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4.1 中的企业设备现在默认启用被盗设备保护",
+      "summary_translated": "Apple 确认，从 iOS 26.4 更新到 iOS 26.4.1 以及从 iPadOS 26.4 更新到 iPadOS 26.4.1 的企业设备将默认启用被盗设备保护。以下是详细信息。\n更多的…"
+    },
     {
       "id": "a19d40e8c586",
       "title": "iOS 26.4.1 fixes iPhone bug that stopped iCloud data from syncing, including Apple Passwords",
