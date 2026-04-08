@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-04-08 19:38:16",
-  "total_count": 433,
-  "news_count": 428,
+  "last_updated": "2026-04-08 20:59:00",
+  "total_count": 437,
+  "news_count": 432,
   "android_count": 126,
-  "ios_count": 302,
+  "ios_count": 306,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a19d40e8c586",
+      "title": "iOS 26.4.1 fixes iPhone bug that stopped iCloud data from syncing, including Apple Passwords",
+      "summary": "iOS 26.4.1 is available today. While the official release notes were vague, a thread on the developer forums indicates it actually fixes a significant bug related to iCloud data syncing.\nDevelopers had noticed that iPhones running 26.4 would stop receiving iCloud change notifications, which impacted",
+      "url": "https://9to5mac.com/2026/04/08/iphone-icloud-sync-bug-apple-passwords-fixed/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-08 20:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4.1 修复了导致 iCloud 数据无法同步的 iPhone 错误，包括 Apple 密码",
+      "summary_translated": "iOS 26.4.1 现已发布。虽然官方发布说明含糊其辞，但开发者论坛上的一个帖子表明它实际上修复了与 iCloud 数据同步相关的重大错误。\n开发人员注意到运行 26.4 的 iPhone 将停止接收 iCloud 更改通知，这影响了"
+    },
+    {
+      "id": "a4aaf3a3f4cf",
+      "title": "iOS 26.4.1 now available for iPhone users, here’s what’s fixed",
+      "summary": "Update 4:51 p.m. ET: iOS 26.4.1 fixes an iCloud syncing bug that impacted Apple’s apps as well as many third-party apps. \n\nApple has released iOS 26.4.1 for iPhone users today alongside iPadOS 26.4.1 for iPad. The update comes just over two weeks after the release of iOS 26.4. \nmore…",
+      "url": "https://9to5mac.com/2026/04/08/ios-26-4-1-now-available-for-iphone-users/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-08 20:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/26.4.1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4.1 现已可供 iPhone 用户使用，以下是修复的内容",
+      "summary_translated": "下午 4:51 更新ET：iOS 26.4.1 修复了影响 Apple 应用程序以及许多第三方应用程序的 iCloud 同步错误。 \n\nApple 今天发布了适用于 iPhone 用户的 iOS 26.4.1，以及适用于 iPad 的 iPadOS 26.4.1。该更新是在 iOS 26.4 发布两周多后发布的。 \n更多的…"
+    },
+    {
+      "id": "39ca9edac10d",
+      "title": "iOS 26.5: New features, release date, more",
+      "summary": "Following last month’s release of iOS 26.4, Apple is now beta testing iOS 26.5. The update will likely be released to everyone next month. Here are all the details on new features and changes on the way for iPhone users with iOS 26.5.\nmore…",
+      "url": "https://9to5mac.com/2026/04/08/ios-26-5-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-08 20:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5：新功能、发布日期等",
+      "summary_translated": "继上个月发布 iOS 26.4 后，Apple 现在正在对 iOS 26.5 进行 Beta 测试。该更新可能会在下个月向所有人发布。以下是针对 iOS 26.5 的 iPhone 用户的新功能和变化的所有详细信息。\n更多的…"
+    },
     {
       "id": "bb12958b625e",
       "title": "CarPlay in iOS 26 has my top new Apple Music feature, here’s how to use it",
@@ -33,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-wallet-light-purple.jpg?quality=82&strip=all&w=1600",
       "title_translated": "最近为两大汽车品牌推出了“钱包中的汽车钥匙”，很快还会推出更多产品",
       "summary_translated": "苹果钱包在 iOS 26 中获得了很多新功能，但另一个关键改进是汽车钥匙支持不断扩展到更多汽车品牌。以下是最近和即将推出的主要汽车钥匙。\n更多的…"
+    },
+    {
+      "id": "348b7da1cf75",
+      "title": "Apple Releases iOS 26.4.1 and iPadOS 26.4.1 With Bug Fixes",
+      "summary": "Apple today released minor iOS 26.4.1 and iPadOS 26.4.1 software updates for the iPhone and iPad, respectively. The updates have a build number of 23E254, and they arrive a little more than two weeks after Apple released iOS 26.4 and iPadOS 26.4.\n\n\n\n\nAccording to Apple's release notes, the software ",
+      "url": "https://www.macrumors.com/2026/04/08/apple-releases-ios-26-4-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-08 13:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/iOS-26.4.1-Feature-1.jpg",
+      "title_translated": "Apple 发布 iOS 26.4.1 和 iPadOS 26.4.1 并修复了错误",
+      "summary_translated": "Apple 今天分别为 iPhone 和 iPad 发布了 iOS 26.4.1 和 iPadOS 26.4.1 小软件更新。这些更新的内部版本号为 23E254，它们是在 Apple 发布 iOS 26.4 和 iPadOS 26.4 两周多后发布的。\n\n\n\n\n根据苹果公司的发行说明，该软件"
     },
     {
       "id": "2b4755d8b412",
