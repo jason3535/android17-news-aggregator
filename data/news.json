@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-08 23:50:49",
-  "total_count": 438,
-  "news_count": 433,
+  "last_updated": "2026-04-09 03:27:05",
+  "total_count": 439,
+  "news_count": 434,
   "android_count": 126,
-  "ios_count": 307,
+  "ios_count": 308,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-guide.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5：新功能、发布日期等",
       "summary_translated": "继上个月发布 iOS 26.4 后，Apple 现在正在对 iOS 26.5 进行 Beta 测试。该更新可能会在下个月向所有人发布。以下是针对 iOS 26.5 的 iPhone 用户的新功能和变化的所有详细信息。\n更多的…"
+    },
+    {
+      "id": "20991319cd6f",
+      "title": "iOS 26.4.1 Includes These Two Changes for iPhones",
+      "summary": "Apple today released a minor iOS 26.4.1 update for the iPhone 11 and newer. While the release notes for the update only mention unspecified \"bug fixes,\" we have since learned about two specific changes that are included in it.\n\n\n\n\nFirst, 9to5Mac spotted an Apple Developer Forums thread suggesting th",
+      "url": "https://www.macrumors.com/2026/04/08/ios-26-4-1-has-two-changes-for-iphones/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-08 19:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/iOS-26.4.1-Feature-1.jpg",
+      "title_translated": "iOS 26.4.1 包括针对 iPhone 的这两项更改",
+      "summary_translated": "Apple 今天发布了针对 iPhone 11 及更新机型的 iOS 26.4.1 小更新。虽然更新的发行说明仅提到了未指定的“错误修复”，但我们已经了解到其中包含的两个具体更改。\n\n\n\n\n首先，9to5Mac 发现苹果开发者论坛的一个帖子建议"
     },
     {
       "id": "bb12958b625e",
@@ -6075,7 +6089,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -6086,7 +6100,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -6097,7 +6111,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -6108,7 +6122,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -6119,7 +6133,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
