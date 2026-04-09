@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-09 18:07:22",
-  "total_count": 440,
-  "news_count": 435,
+  "last_updated": "2026-04-09 20:06:25",
+  "total_count": 441,
+  "news_count": 436,
   "android_count": 126,
-  "ios_count": 309,
+  "ios_count": 310,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bb31b83589d8",
+      "title": "iOS 26’s Messages app got a big upgrade for an essential feature",
+      "summary": "iOS 26 brought a lot of changes to the Messages app, like new group chat features, spam prevention tools, and more. Joining those improvements, Messages also got a big AI upgrade in iOS 26 for an essential feature: search.\nmore…",
+      "url": "https://9to5mac.com/2026/04/09/ios-26s-messages-app-got-a-big-upgrade-for-an-essential-feature/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-09 19:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的消息应用程序对一项基本功能进行了重大升级",
+      "summary_translated": "iOS 26 给消息应用带来了很多变化，比如新的群聊功能、垃圾邮件防护工具等等。除了这些改进之外，iOS 26 中的“消息”功能还针对一项基本功能进行了重大人工智能升级：搜索。\n更多的…"
+    },
     {
       "id": "a1cde83fc069",
       "title": "9to5Mac Daily: April 9, 2026 – iOS 26.4.1 released, more",
