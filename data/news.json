@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-09 20:06:25",
-  "total_count": 441,
-  "news_count": 436,
+  "last_updated": "2026-04-09 21:55:08",
+  "total_count": 442,
+  "news_count": 437,
   "android_count": 126,
-  "ios_count": 310,
+  "ios_count": 311,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "587504169fbe",
+      "title": "Researchers detail how a prompt injection attack bypassed Apple Intelligence protections",
+      "summary": "A now corrected issue allowed researchers to circumvent Apple’s restrictions and force the on-device LLM to execute attacker-controlled actions. Here’s how they did it.\nmore…",
+      "url": "https://9to5mac.com/2026/04/09/researchers-detail-how-a-prompt-injection-attack-bypassed-apple-intelligence-protections/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-09 20:39",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-liquid-glass-shattered.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "研究人员详细介绍了即时注入攻击如何绕过苹果情报保护",
+      "summary_translated": "现已纠正的问题允许研究人员绕过苹果的限制并强制设备上的法学硕士执行攻击者控制的操作。他们是这样做的。\n更多的…"
+    },
     {
       "id": "bb31b83589d8",
       "title": "iOS 26’s Messages app got a big upgrade for an essential feature",
