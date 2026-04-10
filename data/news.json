@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-10 15:02:27",
-  "total_count": 442,
-  "news_count": 437,
+  "last_updated": "2026-04-10 16:05:12",
+  "total_count": 443,
+  "news_count": 438,
   "android_count": 126,
-  "ios_count": 311,
+  "ios_count": 312,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e6a3c6568dd4",
+      "title": "iOS 27 adding new ‘Siri’ app to Home Screen: Here are the rumored features",
+      "summary": "Third-party chatbot apps consistently dominate the App Store top charts, and in iOS 27, Apple reportedly has a first-party Siri app coming for your iPhone Home Screen to compete. Here are the rumored features.\nmore…",
+      "url": "https://9to5mac.com/2026/04/10/ios-27-adding-new-siri-app-to-home-screen-here-are-the-rumored-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-10 15:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen-angle.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 在主屏幕上添加了新的“Siri”应用程序：以下是传闻中的功能",
+      "summary_translated": "第三方聊天机器人应用程序一直在 App Store 排行榜上占据主导地位，据报道，在 iOS 27 中，苹果将在 iPhone 主屏幕上推出第一方 Siri 应用程序来与之竞争。以下是传闻中的功能。\n更多的…"
+    },
     {
       "id": "587504169fbe",
       "title": "Researchers detail how a prompt injection attack bypassed Apple Intelligence protections",
