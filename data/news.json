@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-10 17:06:06",
-  "total_count": 443,
-  "news_count": 438,
+  "last_updated": "2026-04-10 19:09:06",
+  "total_count": 445,
+  "news_count": 440,
   "android_count": 126,
-  "ios_count": 312,
+  "ios_count": 314,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "da5174b9c1ca",
+      "title": "iOS 26.4 adds setting to let you change new Liquid Glass effect",
+      "summary": "iOS 26.4 brings with it a new ’Reduce Bright Effects’ setting that lets you disable various flashing elements common in Liquid Glass. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/10/ios-26-4-adds-setting-to-let-you-change-new-liquid-glass-effect/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-10 18:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/liquid-glass-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 添加了设置，让您可以更改新的液体玻璃效果",
+      "summary_translated": "iOS 26.4 带来了新的“减少明亮效果”设置，可让您禁用液体玻璃中常见的各种闪烁元素。以下是详细信息。\n更多的…"
+    },
+    {
+      "id": "518b6f45d764",
+      "title": "iOS 26 adds fun way to customize your iPhone wallpaper, here’s how to use it",
+      "summary": "iOS 26 keeps adding a lot of new ways to customize your iPhone, but one of my favorites was there in the first 26.0 release: 3D spatial wallpapers. Here’s how to use the feature.\nmore…",
+      "url": "https://9to5mac.com/2026/04/10/ios-26-adds-fun-way-to-customize-your-iphone-wallpaper-heres-how-to-use-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-10 17:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-13.15.36.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 增加了自定义 iPhone 壁纸的有趣方式，以下是如何使用它",
+      "summary_translated": "iOS 26 不断添加许多自定义 iPhone 的新方法，但我最喜欢的方法之一是第一个 26.0 版本中的方法：3D 空间壁纸。以下是如何使用该功能。\n更多的…"
+    },
     {
       "id": "e6a3c6568dd4",
       "title": "iOS 27 adding new ‘Siri’ app to Home Screen: Here are the rumored features",
