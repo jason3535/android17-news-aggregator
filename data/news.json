@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-13 19:36:25",
-  "total_count": 451,
-  "news_count": 446,
+  "last_updated": "2026-04-13 21:09:28",
+  "total_count": 452,
+  "news_count": 447,
   "android_count": 126,
-  "ios_count": 320,
+  "ios_count": 321,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-b2.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.5 beta 2",
       "summary_translated": "苹果已经为开发者发布了第二个 iOS 26.5 测试版。 iOS 26.5 beta 2 遵循第一个 beta 的两个版本。第二个版本成为第一个 iOS 26.5 公开测试版。\n更多的…"
+    },
+    {
+      "id": "3b79caa98f37",
+      "title": "American Airlines Now Supports iOS 26's Revamped Wallet Boarding Passes",
+      "summary": "American Airlines is now supporting the enhanced boarding pass feature that Apple added in iOS 26. The app's latest update says boarding passes in the Wallet app feature an updated look with Apple Maps integration, destination guides, and luggage tracking capabilities.\n\n\n\n\nApple revamped boarding pa",
+      "url": "https://www.macrumors.com/2026/04/13/american-airlines-ios-26-boarding-passes/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-13 12:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/ios-26-wallet-boarding-pass.jpg",
+      "title_translated": "美国航空现支持 iOS 26 改进后的钱包登机牌",
+      "summary_translated": "美国航空现在支持苹果在 iOS 26 中添加的增强登机牌功能。该应用程序的最新更新称，钱包应用程序中的登机牌具有更新的外观，集成了苹果地图、目的地指南和行李跟踪功能。\n\n\n\n\nApple 改进登机牌"
     },
     {
       "id": "14709437965b",
