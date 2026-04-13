@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-04-13 17:17:01",
-  "total_count": 447,
-  "news_count": 442,
+  "last_updated": "2026-04-13 19:36:25",
+  "total_count": 451,
+  "news_count": 446,
   "android_count": 126,
-  "ios_count": 316,
+  "ios_count": 320,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "763cf510e57e",
+      "title": "iOS 26.4 upgraded one of my most-used Control Center features in a big way",
+      "summary": "iOS 26.4 is the latest iPhone update, headlined by many new features in Apple Music. There’s also a music-related improvement to Control Center in iOS 26.4: Shazam song recognition will now work even when you’re offline.\nmore…",
+      "url": "https://9to5mac.com/2026/04/13/ios-26-4-upgraded-one-of-my-most-used-control-center-features-in-a-big-way/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-13 19:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/control-center-shazam-ios-26-4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 大幅升级了我最常用的控制中心功能之一",
+      "summary_translated": "iOS 26.4 是最新的 iPhone 更新，其中包括 Apple Music 中的许多新功能。 iOS 26.4 中的控制中心还进行了与音乐相关的改进：即使您处于离线状态，Shazam 歌曲识别现在也能正常工作。\n更多的…"
+    },
+    {
+      "id": "ddbdfa4955f1",
+      "title": "iOS 26.5 beta 2 gives Apple Maps a new ads popup",
+      "summary": "iOS 26.5 beta 2 arrived today, and with it Apple Maps has gained a new popup regarding the forthcoming rollout of ads. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/13/ios-26-5-beta-2-gives-apple-maps-a-new-ads-popup/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-13 18:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-maps-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 beta 2 为苹果地图提供了新的广告弹出窗口",
+      "summary_translated": "iOS 26.5 beta 2 今天发布，Apple 地图增加了一个关于即将推出的广告的新弹出窗口。以下是详细信息。\n更多的…"
+    },
+    {
+      "id": "4acc95957293",
+      "title": "Biggest US airline adds support for iOS 26 boarding passes in Wallet",
+      "summary": "As part of iOS 26, Apple launched a revamped experience for airline boarding passes in Apple Wallet. As of today, this feature is now supported by all four of the biggest airlines in the United States.\nUnited and Southwest all rolled out support for the new iOS 26 boarding pass experience last year.",
+      "url": "https://9to5mac.com/2026/04/13/apple-wallet-boarding-passes-american-airlines-ios-26/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-13 17:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/aa.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "美国最大的航空公司在电子钱包中增加了对 iOS 26 登机牌的支持",
+      "summary_translated": "作为 iOS 26 的一部分，Apple 在 Apple Wallet 中推出了改进的航空公司登机牌体验。截至今天，美国四大航空公司均支持此功能。\n美联航和西南航空去年均推出了对新 iOS 26 登机牌体验的支持。"
+    },
     {
       "id": "f414548efff5",
       "title": "Apple releases iOS 26.5 beta 2 for iPhone",
@@ -19,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-b2.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.5 beta 2",
       "summary_translated": "苹果已经为开发者发布了第二个 iOS 26.5 测试版。 iOS 26.5 beta 2 遵循第一个 beta 的两个版本。第二个版本成为第一个 iOS 26.5 公开测试版。\n更多的…"
+    },
+    {
+      "id": "14709437965b",
+      "title": "Apple Maps Ads Move Closer to Launch With iOS 26.5 Beta 2",
+      "summary": "With the second beta of iOS 26.5, Apple is continuing to prepare for ads in the Apple Maps app. There's a new splash screen in the app that says it will display ads based on approximate location, current search terms, or a view of the map when searching. Ads will also be shown in the \"Suggested Plac",
+      "url": "https://www.macrumors.com/2026/04/13/ios-26-2-beta-2-apple-maps-ads/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-13 11:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/ios-26-2-ads-maps-app.jpg",
+      "title_translated": "Apple 地图广告即将推出 iOS 26.5 Beta 2",
+      "summary_translated": "在 iOS 26.5 的第二个测试版中，苹果正在继续为苹果地图应用程序中的广告做准备。该应用程序中有一个新的启动屏幕，表示它将根据大致位置、当前搜索词或搜索时的地图视图显示广告。广告也会展示在“推荐地点”"
     },
     {
       "id": "b7bdbbc43df9",
