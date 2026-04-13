@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-13 15:43:36",
-  "total_count": 445,
-  "news_count": 440,
+  "last_updated": "2026-04-13 17:17:01",
+  "total_count": 447,
+  "news_count": 442,
   "android_count": 126,
-  "ios_count": 314,
+  "ios_count": 316,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f414548efff5",
+      "title": "Apple releases iOS 26.5 beta 2 for iPhone",
+      "summary": "Apple has released the second iOS 26.5 beta for developers. iOS 26.5 beta 2 follows two versions of the first beta. The second version became the first iOS 26.5 public beta.\nmore…",
+      "url": "https://9to5mac.com/2026/04/13/apple-releases-ios-26-5-beta-2-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-13 17:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-b2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iPhone 版 iOS 26.5 beta 2",
+      "summary_translated": "苹果已经为开发者发布了第二个 iOS 26.5 测试版。 iOS 26.5 beta 2 遵循第一个 beta 的两个版本。第二个版本成为第一个 iOS 26.5 公开测试版。\n更多的…"
+    },
+    {
+      "id": "b7bdbbc43df9",
+      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Betas to Developers",
+      "summary": "Apple today seeded the second betas of upcoming iOS 26.5 and iPadOS 26.5 updates to developers for testing purposes, with the software coming two weeks after Apple released updated first betas. \n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to ",
+      "url": "https://www.macrumors.com/2026/04/13/apple-seeds-ios-26-5-beta-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-13 10:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Warm.jpg",
+      "title_translated": "Apple 向开发者发布第二个 iOS 26.5 和 iPadOS 26.5 Beta",
+      "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.5 和 iPadOS 26.5 更新的第二个测试版，以进行测试，该软件是在苹果发布更新的第一个测试版两周后发布的。 \n\n\n\n\n注册开发者可以从 iPhone 或 iPad 上的“设置”应用程序下载测试版，方法是："
+    },
     {
       "id": "da5174b9c1ca",
       "title": "iOS 26.4 adds setting to let you change new Liquid Glass effect",
