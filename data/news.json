@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-14 16:19:19",
-  "total_count": 453,
-  "news_count": 448,
+  "last_updated": "2026-04-14 18:15:47",
+  "total_count": 455,
+  "news_count": 450,
   "android_count": 126,
-  "ios_count": 322,
+  "ios_count": 324,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0437973d2757",
+      "title": "Apple releases iOS 26.5 public beta 2",
+      "summary": "Apple has released the second iOS 26.5 public beta. The release follows iOS 26.5 beta 2 for developers, which added an Apple Maps ads explainer.\nmore…",
+      "url": "https://9to5mac.com/2026/04/14/apple-releases-ios-26-5-public-beta-2/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-14 17:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-public-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iOS 26.5 公开测试版 2",
+      "summary_translated": "苹果发布了第二个 iOS 26.5 公测版。该版本是在针对开发者的 iOS 26.5 beta 2 发布之后发布的，其中添加了 Apple 地图广告解释器。\n更多的…"
+    },
+    {
+      "id": "a0b09f20a550",
+      "title": "Apple Releases Second iOS 26.5, iPadOS 26.5, tvOS 26.5 and watchOS 26.5 Public Betas",
+      "summary": "Apple today provided public beta testers with the second releases of upcoming iOS 26.5, iPadOS 26.5, watchOS 26.5, and tvOS 26.5 updates for testing purposes. The public betas come a day after Apple provided the betas to developers.\n\n\n\n\nAfter signing up for beta testing on Apple's beta site, public ",
+      "url": "https://www.macrumors.com/2026/04/14/apple-seeds-ios-26-5-public-beta-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-14 10:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Purple.jpg",
+      "title_translated": "Apple 发布第二个 iOS 26.5、iPadOS 26.5、tvOS 26.5 和 watchOS 26.5 公共测试版",
+      "summary_translated": "Apple 今天向公共 Beta 测试人员提供了即将推出的 iOS 26.5、iPadOS 26.5、watchOS 26.5 和 tvOS 26.5 更新的第二个版本，以进行测试。公开测试版是在苹果向开发者提供测试版的第二天发布的。\n\n\n\n\n在苹果测试版网站上注册测试版后，公开"
+    },
     {
       "id": "3b39df675d03",
       "title": "Jon Prosser Still Not Fully Cooperating in Apple's iOS 26 Trade Secrets Lawsuit",
