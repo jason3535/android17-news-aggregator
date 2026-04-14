@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-14 18:15:47",
-  "total_count": 455,
-  "news_count": 450,
+  "last_updated": "2026-04-14 20:13:47",
+  "total_count": 456,
+  "news_count": 451,
   "android_count": 126,
-  "ios_count": 324,
+  "ios_count": 325,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "37b256cf37b8",
+      "title": "iOS 26 has new Home Screen setting for app icons, here’s how to use it",
+      "summary": "Apple has added a lot of new ways to customize your iPhone in recent years. One of my favorites is a Home Screen setting in iOS 26 for your app icons that tints the icon color to match that of your iPhone or its case. Here’s how to use it.\nmore…",
+      "url": "https://9to5mac.com/2026/04/14/ios-26-has-new-home-screen-setting-for-app-icons-heres-how-to-use-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-14 19:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-home-screen-iphone-new-apps.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 为应用程序图标提供了新的主屏幕设置，以下是如何使用它",
+      "summary_translated": "近年来，Apple 增加了许多定制 iPhone 的新方法。我最喜欢的一项是 iOS 26 中应用程序图标的主屏幕设置，该设置可以将图标颜色着色以匹配 iPhone 或其外壳的颜色。以下是如何使用它。\n更多的…"
+    },
     {
       "id": "0437973d2757",
       "title": "Apple releases iOS 26.5 public beta 2",
