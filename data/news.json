@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-14 12:06:28",
-  "total_count": 452,
-  "news_count": 447,
+  "last_updated": "2026-04-14 14:55:57",
+  "total_count": 453,
+  "news_count": 448,
   "android_count": 126,
-  "ios_count": 321,
+  "ios_count": 322,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3b39df675d03",
+      "title": "Jon Prosser Still Not Fully Cooperating in Apple's iOS 26 Trade Secrets Lawsuit",
+      "summary": "A joint status report filed yesterday in Apple's trade secrets lawsuit against YouTuber Jon Prosser and Michael Ramacciotti shows Prosser is still failing to comply with discovery, prompting Apple to seek a court order to compel him.\n\n\n\n\nThe latest filing, submitted to the U.S. District Court for th",
+      "url": "https://www.macrumors.com/2026/04/14/prosser-still-not-cooperating-in-lawsuit/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-14 06:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/10/Jon-Prosser-Rainbow.jpg",
+      "title_translated": "Jon Prosser 仍未在苹果 iOS 26 商业秘密诉讼中全力配合",
+      "summary_translated": "昨天，苹果针对 YouTube 用户乔恩·普罗瑟 (Jon Prosser) 和迈克尔·拉马乔蒂 (Michael Ramacciotti) 提起的商业秘密诉讼中提交的一份联合状态报告显示，普罗瑟仍未遵守证据披露要求，促使苹果寻求法院命令来强制他这样做。\n\n\n\n\n最新的文件已提交给美国地方法院"
+    },
     {
       "id": "763cf510e57e",
       "title": "iOS 26.4 upgraded one of my most-used Control Center features in a big way",
