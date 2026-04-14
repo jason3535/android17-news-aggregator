@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-14 20:13:47",
-  "total_count": 456,
-  "news_count": 451,
+  "last_updated": "2026-04-14 22:01:24",
+  "total_count": 457,
+  "news_count": 452,
   "android_count": 126,
-  "ios_count": 325,
+  "ios_count": 326,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cd43430a1ffc",
+      "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case",
+      "summary": "In a joint status report, attorneys for Apple and Michael Ramacciotti updated the court on the latest developments in the trade secrets lawsuit over the leak of iOS 26 design details. Here’s what’s new with the case.\nmore…",
+      "url": "https://9to5mac.com/2026/04/14/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-14 20:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果称 Jon Prosser 仅部分遵守了 iOS 26 泄露案件中的传票",
+      "summary_translated": "在一份联合状态报告中，苹果和 Michael Ramacciotti 的律师向法庭通报了有关 iOS 26 设计细节泄露的商业秘密诉讼的最新进展。这是此案的新情况。\n更多的…"
+    },
     {
       "id": "37b256cf37b8",
       "title": "iOS 26 has new Home Screen setting for app icons, here’s how to use it",
