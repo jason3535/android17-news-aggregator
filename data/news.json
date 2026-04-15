@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-15 12:03:45",
-  "total_count": 457,
-  "news_count": 452,
-  "android_count": 126,
+  "last_updated": "2026-04-15 14:02:54",
+  "total_count": 458,
+  "news_count": 453,
+  "android_count": 127,
   "ios_count": 326,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2fa93f97edb7",
+      "title": "Here are all the Galaxy devices that could get One UI 9, Samsung’s next big update",
+      "summary": "One UI 9 will be based on Android 17.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-one-ui-9-eligible-devices-3657712/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-15 13:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-showing-One-UI-home-screen.jpg",
+      "title_translated": "以下是所有可以获得 One UI 9（三星的下一个重大更新）的 Galaxy 设备",
+      "summary_translated": "One UI 9 将基于 Android 17。"
+    },
     {
       "id": "cd43430a1ffc",
       "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case",
