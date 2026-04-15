@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-15 22:58:30",
-  "total_count": 461,
-  "news_count": 456,
+  "last_updated": "2026-04-15 23:58:18",
+  "total_count": 462,
+  "news_count": 457,
   "android_count": 127,
-  "ios_count": 329,
+  "ios_count": 330,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果称 Jon Prosser 仅部分遵守了 iOS 26 泄露案件中的传票 [U]",
       "summary_translated": "更新，4 月 15 日下午 2:41 ET：乔恩·普罗瑟（Jon Prosser）提交了一份单独的状态报告。详细信息如下。\n在一份联合状态报告中，苹果和 Michael Ramacciotti 的律师向法庭通报了有关 iOS 26 设计细节泄露的商业秘密诉讼的最新进展。这是新的智慧"
+    },
+    {
+      "id": "db0907f3d31c",
+      "title": "iOS 26.4 No Longer Signed by Apple, Blocking Downgrades From iOS 26.4.1",
+      "summary": "Apple today stopped signing iOS 26.4, so iPhone users who have updated to iOS 26.4.1 are no longer able to downgrade to the earlier version of iOS. iOS 26.4.1 came out a week ago.\n\n\n\n\nWhen software is \"signed,\" it means it can pass the server-side verification check that Apple does when a user downl",
+      "url": "https://www.macrumors.com/2026/04/15/apple-stops-signing-ios-26-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-15 16:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/ios-26-4-yellow.jpg",
+      "title_translated": "iOS 26.4 不再由 Apple 签名，阻止从 iOS 26.4.1 降级",
+      "summary_translated": "Apple 今天停止签署 iOS 26.4，因此已更新到 iOS 26.4.1 的 iPhone 用户不再能够降级到早期版本的 iOS。 iOS 26.4.1 一周前发布。\n\n\n\n\n当软件被“签名”时，这意味着它可以通过苹果公司在用户下载时所做的服务器端验证检查。"
     },
     {
       "id": "da294d9baba9",
