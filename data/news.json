@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-15 15:20:56",
-  "total_count": 458,
-  "news_count": 453,
+  "last_updated": "2026-04-15 17:17:26",
+  "total_count": 459,
+  "news_count": 454,
   "android_count": 127,
-  "ios_count": 326,
+  "ios_count": 327,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "da294d9baba9",
+      "title": "iOS 26.4 moves App Store updates, here’s how to open them fast",
+      "summary": "iOS 26.4 made some changes to where app updates are located in the App Store. But there’s a shortcut available to find them just as quickly as before.\nmore…",
+      "url": "https://9to5mac.com/2026/04/15/ios-26-4-moves-app-store-updates-heres-how-to-open-them-fast/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-15 16:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26-4-app-store-icon-updates-home-screen.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4移动App Store更新，以下是快速打开它们的方法",
+      "summary_translated": "iOS 26.4 对应用程序更新在 App Store 中的位置进行了一些更改。但有一个捷径可以像以前一样快速找到它们。\n更多的…"
+    },
     {
       "id": "2fa93f97edb7",
       "title": "Here are all the Galaxy devices that could get One UI 9, Samsung’s next big update",
