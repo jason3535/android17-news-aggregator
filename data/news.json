@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-15 19:41:10",
-  "total_count": 459,
-  "news_count": 454,
+  "last_updated": "2026-04-15 21:03:37",
+  "total_count": 461,
+  "news_count": 456,
   "android_count": 127,
-  "ios_count": 327,
+  "ios_count": 329,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b8b465d89339",
+      "title": "iOS 26.4 adds brand new widgets for your iPhone’s Home Screen",
+      "summary": "iOS 26.4 comes packed with many new features, including brand new Ambient Music widgets that can be added to the iPhone’s Home Screen. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/15/ios-26-4-adds-brand-new-widgets-for-your-iphones-home-screen/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-15 20:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-4-homescreen-ambient-music-widget.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为 iPhone 主屏幕添加了全新的小部件",
+      "summary_translated": "iOS 26.4 包含许多新功能，包括可以添加到 iPhone 主屏幕的全新环境音乐小部件。以下是详细信息。\n更多的…"
+    },
+    {
+      "id": "03d3cc596e36",
+      "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case [U]",
+      "summary": "Update, April 15, 2:41 p.m. ET: Jon Prosser has filed a separate status report. Details below.\nIn a joint status report, attorneys for Apple and Michael Ramacciotti updated the court on the latest developments in the trade secrets lawsuit over the leak of iOS 26 design details. Here’s what’s new wit",
+      "url": "https://9to5mac.com/2026/04/15/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-15 19:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果称 Jon Prosser 仅部分遵守了 iOS 26 泄露案件中的传票 [U]",
+      "summary_translated": "更新，4 月 15 日下午 2:41 ET：乔恩·普罗瑟（Jon Prosser）提交了一份单独的状态报告。详细信息如下。\n在一份联合状态报告中，苹果和 Michael Ramacciotti 的律师向法庭通报了有关 iOS 26 设计细节泄露的商业秘密诉讼的最新进展。这是新的智慧"
+    },
     {
       "id": "da294d9baba9",
       "title": "iOS 26.4 moves App Store updates, here’s how to open them fast",
