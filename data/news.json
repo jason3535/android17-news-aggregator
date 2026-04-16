@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-15 23:58:18",
-  "total_count": 462,
-  "news_count": 457,
+  "last_updated": "2026-04-16 03:43:00",
+  "total_count": 463,
+  "news_count": 458,
   "android_count": 127,
-  "ios_count": 330,
+  "ios_count": 331,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "82a98a50d780",
+      "title": "iPhone users no longer able to downgrade to iOS 26.4",
+      "summary": "Following last week’s release of iOS 26.4.1, Apple today stopped signing iOS 26.4. Here’s what that means.\nmore…",
+      "url": "https://9to5mac.com/2026/04/15/iphone-users-no-longer-able-to-downgrade-to-ios-26-4/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-16 00:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iPhone 用户不再能够降级到 iOS 26.4",
+      "summary_translated": "继上周发布 iOS 26.4.1 后，Apple 今天停止了 iOS 26.4 的签名。这就是这意味着什么。\n更多的…"
+    },
     {
       "id": "b8b465d89339",
       "title": "iOS 26.4 adds brand new widgets for your iPhone’s Home Screen",
@@ -6411,7 +6425,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -6422,7 +6436,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -6433,7 +6447,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -6444,7 +6458,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -6455,7 +6469,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
