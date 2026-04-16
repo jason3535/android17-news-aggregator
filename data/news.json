@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-16 21:57:11",
-  "total_count": 478,
-  "news_count": 473,
-  "android_count": 136,
+  "last_updated": "2026-04-16 22:58:20",
+  "total_count": 479,
+  "news_count": 474,
+  "android_count": 137,
   "ios_count": 337,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e7efb5bf8278",
+      "title": "Google working on Pixel ‘laptop’ and ‘Pixel Glow’ lights that are also coming to phones",
+      "summary": "Based on the latest Android Canary and Android 17 Beta releases, Google is working on a Pixel “laptop” of some sort that will feature a “Pixel Glow” hardware feature.\nmore…",
+      "url": "https://9to5google.com/2026/04/16/pixel-glow-laptop/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-16 22:52",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Chromebook-Pixel-light-bar.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌正在开发 Pixel“笔记本电脑”和“Pixel Glow”灯，这些灯也将用于手机",
+      "summary_translated": "基于最新的 Android Canary 和 Android 17 Beta 版本，谷歌正在开发一款 Pixel“笔记本电脑”，它将具有“Pixel Glow”硬件功能。\n更多的…"
+    },
     {
       "id": "5e52e10a3068",
       "title": "Android 17 brings a bit of Pixel Watch whimsy to your notification shade",
