@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-16 10:24:28",
-  "total_count": 463,
-  "news_count": 458,
+  "last_updated": "2026-04-16 12:07:20",
+  "total_count": 465,
+  "news_count": 460,
   "android_count": 127,
-  "ios_count": 331,
+  "ios_count": 333,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "364eb3be978e",
+      "title": "Apple leaks four iOS 27 features, including overdue Wallet upgrade",
+      "summary": "As we approach WWDC kicking off in June, we’re learning more about what to expect from iOS 27. A new leak today details four features likely destined for iOS 27, including Apple Intelligence, Wallet, and more.\nmore…",
+      "url": "https://9to5mac.com/2026/04/16/apple-leaks-four-ios-27-features-including-overdue-wallet-upgrade/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-16 11:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-wallet-app-icon.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果泄露了 iOS 27 的四项功能，包括逾期的钱包升级",
+      "summary_translated": "随着 WWDC 于 6 月开幕，我们正在更多地了解 iOS 27 的功能。今天的新泄露详细介绍了 iOS 27 可能的四项功能，包括 Apple Intelligence、钱包等。\n更多的…"
+    },
+    {
+      "id": "1f29c8fc0d2f",
+      "title": "4 New Apple Intelligence Features Found in Apple Code, Likely in iOS 27",
+      "summary": "iOS 27 is likely to introduce at least four new Apple Intelligence features that function within system apps, based on backend code discovered by Nicolás Alvarez and confirmed by MacRumors.\n\n\n\n\nFirst up, Apple is expected to lean more heavily into Visual Intelligence in iOS 27, since the company is ",
+      "url": "https://www.macrumors.com/2026/04/16/4-new-apple-intelligence-features-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-16 04:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/10/Apple-Visual-Intelligence.jpg",
+      "title_translated": "Apple 代码中发现 4 个新的 Apple Intelligence 功能，可能会出现在 iOS 27 中",
+      "summary_translated": "iOS 27 可能会引入至少四项在系统应用程序中运行的新 Apple Intelligence 功能，这些功能基于 Nicolás Alvarez 发现并经 MacRumors 确认的后端代码。\n\n\n\n\n首先，苹果预计将在 iOS 27 中更加倾向于视觉智能，因为该公司"
+    },
     {
       "id": "82a98a50d780",
       "title": "iPhone users no longer able to downgrade to iOS 26.4",
