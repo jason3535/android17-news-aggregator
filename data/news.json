@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-16 15:04:36",
-  "total_count": 465,
-  "news_count": 460,
+  "last_updated": "2026-04-16 16:48:14",
+  "total_count": 466,
+  "news_count": 461,
   "android_count": 127,
-  "ios_count": 333,
+  "ios_count": 334,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "52b17f7fedf9",
+      "title": "Reddit’s iOS app is adding Liquid Glass soon, here’s how it looks",
+      "summary": "Apple’s new Liquid Glass design launched last fall in iOS 26, but third-party apps continue to roll out support, and Reddit’s iOS app will do that very soon. Here’s what Liquid Glass in the Reddit app looks like.\nmore…",
+      "url": "https://9to5mac.com/2026/04/16/reddits-ios-app-is-adding-liquid-glass-soon-heres-how-it-looks/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-16 15:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/reddit-ios-26-liquid-glass-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Reddit 的 iOS 应用程序即将添加 Liquid Glass，如下所示",
+      "summary_translated": "苹果去年秋天在 iOS 26 中推出了新的液体玻璃设计，但第三方应用程序继续推出支持，Reddit 的 iOS 应用程序很快就会做到这一点。 Reddit 应用程序中的 Liquid Glass 如下所示。\n更多的…"
+    },
     {
       "id": "364eb3be978e",
       "title": "Apple leaks four iOS 27 features, including overdue Wallet upgrade",
