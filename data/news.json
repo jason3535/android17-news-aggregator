@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-16 21:02:23",
-  "total_count": 475,
-  "news_count": 470,
-  "android_count": 134,
-  "ios_count": 336,
+  "last_updated": "2026-04-16 21:57:11",
+  "total_count": 478,
+  "news_count": 473,
+  "android_count": 136,
+  "ios_count": 337,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5e52e10a3068",
+      "title": "Android 17 brings a bit of Pixel Watch whimsy to your notification shade",
+      "summary": "Google is porting over a tidbit from its Pixel Watch to the notification shade on Pixel phones with its Android 17 update, now live in the latest beta.\nmore…",
+      "url": "https://9to5google.com/2026/04/16/android-17-brings-a-bit-of-pixel-watch-whimsy-to-your-notification-shade/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-16 21:10",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/android-17-notifications-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 为您的通知栏带来了一点 Pixel Watch 的奇思妙想",
+      "summary_translated": "谷歌正在通过其 Android 17 更新将 Pixel Watch 中的一个花絮移植到 Pixel 手机的通知栏上，该更新现已推出最新的测试版。\n更多的…"
+    },
+    {
+      "id": "0b7a8b6bc31d",
+      "title": "Android 17’s new Easter egg is a quick game of connect-the-dots [Video]",
+      "summary": "Google has released Android 17 Beta 4, the last beta update ahead of the full release, and it introduces a fun new Easter egg that has a little connect-the-dots puzzle to start up a new animation.\nmore…",
+      "url": "https://9to5google.com/2026/04/16/android-17-easter-egg-beta/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-16 21:05",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/android-17-easter-egg.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 的新复活节彩蛋是一款快速连线游戏 [视频]",
+      "summary_translated": "谷歌发布了 Android 17 Beta 4，这是全面发布之前的最后一个测试版更新，它引入了一个有趣的新复活节彩蛋，其中有一个小连点拼图来启动新动画。\n更多的…"
+    },
     {
       "id": "8ab23e0fc8fe",
       "title": "Android 17 Beta 4 finally reveals Google’s new Easter egg",
@@ -145,6 +173,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/reddit-ios-26-liquid-glass-beta.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Reddit 的 iOS 应用程序即将添加 Liquid Glass，如下所示",
       "summary_translated": "苹果去年秋天在 iOS 26 中推出了新的液体玻璃设计，但第三方应用程序继续推出支持，Reddit 的 iOS 应用程序很快就会做到这一点。 Reddit 应用程序中的 Liquid Glass 如下所示。\n更多的…"
+    },
+    {
+      "id": "6b50fe18603c",
+      "title": "iOS 26.2 expanded one of iPhone’s most important safety features",
+      "summary": "iOS 26.2 introduced a key new feature that the average user hopefully won’t have to use very often: Enhanced Safety Alerts for emergency situations. Here’s how they work.\nmore…",
+      "url": "https://9to5mac.com/2026/04/16/apples-overhauled-one-of-its-most-important-safety-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-16 13:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-weather-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.2 扩展了 iPhone 最重要的安全功能之一",
+      "summary_translated": "iOS 26.2 引入了一项普通用户不必经常使用的关键新功能：针对紧急情况的增强安全警报。以下是它们的工作原理。\n更多的…"
     },
     {
       "id": "364eb3be978e",
