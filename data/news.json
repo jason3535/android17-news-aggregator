@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-16 18:15:50",
-  "total_count": 466,
-  "news_count": 461,
+  "last_updated": "2026-04-16 20:04:58",
+  "total_count": 468,
+  "news_count": 463,
   "android_count": 127,
-  "ios_count": 334,
+  "ios_count": 336,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0a7a7db51562",
+      "title": "Apple Glasses design, iOS 27 features, Creator Studio updates",
+      "summary": "Benjamin and Chance follow up with increasingly worsening availability of Mac mini and Mac Studio, as well as some interesting iOS 27 tidbits and the first feature updates to the Creator Studio suite. Also, Bloomberg reports on the design of the upcoming Apple smart glasses, and Apple shutters three",
+      "url": "https://9to5mac.com/2026/04/16/happy-hour-586/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-16 19:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Glasses 设计、iOS 27 功能、Creator Studio 更新",
+      "summary_translated": "Benjamin 和 Chance 跟进了 Mac mini 和 Mac Studio 的可用性日益恶化的情况，以及一些有趣的 iOS 27 花絮和 Creator Studio 套件的首次功能更新。此外，彭博社报道了即将推出的苹果智能眼镜的设计，苹果关闭了三款"
+    },
+    {
+      "id": "bd5f31d654e4",
+      "title": "9to5Mac Daily: April 16, 2026 – iOS 27 leaks, Siri bootcamp",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by CardPointers: The best way to maximize your credit card r",
+      "url": "https://9to5mac.com/2026/04/16/daily-april-16-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-16 18:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 4 月 16 日 – iOS 27 泄露，Siri 训练营",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 CardPointers 赞助：最大化您的信用卡 r 的最佳方式"
+    },
     {
       "id": "52b17f7fedf9",
       "title": "Reddit’s iOS app is adding Liquid Glass soon, here’s how it looks",
