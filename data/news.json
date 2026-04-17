@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-17 08:50:54",
-  "total_count": 479,
-  "news_count": 474,
-  "android_count": 137,
+  "last_updated": "2026-04-17 10:21:49",
+  "total_count": 480,
+  "news_count": 475,
+  "android_count": 138,
   "ios_count": 337,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b8e283eee0ac",
+      "title": "I hated this Android texting feature for seven years — but Android 17 finally fixed it",
+      "summary": "I can stop panicking every time I accidentally tap a suggested reply.",
+      "url": "https://www.androidauthority.com/android-17-smart-replies-biggest-gripe-fixed-3657784/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-17 10:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
+      "title_translated": "我讨厌这个 Android 短信功能七年了——但 Android 17 终于修复了它",
+      "summary_translated": "每次我不小心点击建议的回复时，我都可以不再惊慌。"
+    },
     {
       "id": "e7efb5bf8278",
       "title": "Google working on Pixel ‘laptop’ and ‘Pixel Glow’ lights that are also coming to phones",
