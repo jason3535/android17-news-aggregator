@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-17 15:10:10",
-  "total_count": 483,
-  "news_count": 478,
+  "last_updated": "2026-04-17 17:03:55",
+  "total_count": 484,
+  "news_count": 479,
   "android_count": 139,
-  "ios_count": 339,
+  "ios_count": 340,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "48631379a9bd",
+      "title": "iOS 26.4 revamps Apple Account pages inside apps with new design",
+      "summary": "iOS 26.4 brought a variety of new features and changes when it launched last month, including a design overhaul for Apple Account screens in several system apps. Here’s what’s changed.\nmore…",
+      "url": "https://9to5mac.com/2026/04/17/ios-26-4-revamps-apple-account-pages-inside-apps-with-new-design/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-17 15:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 采用新设计改进了应用程序内的 Apple 帐户页面",
+      "summary_translated": "iOS 26.4 上个月推出时带来了各种新功能和变化，包括对多个系统应用程序中 Apple 帐户屏幕的设计进行了彻底修改。这是更改的内容。\n更多的…"
+    },
     {
       "id": "5f5122f40e97",
       "title": "Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhone",
