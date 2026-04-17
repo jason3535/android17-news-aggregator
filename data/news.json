@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-17 19:18:04",
-  "total_count": 485,
-  "news_count": 480,
+  "last_updated": "2026-04-17 20:59:30",
+  "total_count": 486,
+  "news_count": 481,
   "android_count": 140,
-  "ios_count": 340,
+  "ios_count": 341,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8837382bf472",
+      "title": "Apple Maps is quickly improving, and iOS 26.5 brings useful new addition",
+      "summary": "Apple Maps got several great new features in iOS 26, but another useful improvement is coming soon in iOS 26.5. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/17/apple-maps-is-quickly-improving-and-ios-26-5-brings-useful-new-addition/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-17 19:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-maps-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 地图正在快速改进，iOS 26.5 带来了有用的新功能",
+      "summary_translated": "Apple 地图在 iOS 26 中获得了多项出色的新功能，而另一个有用的改进也即将在 iOS 26.5 中推出。以下是详细信息。\n更多的…"
+    },
     {
       "id": "9f48f4d7cc73",
       "title": "Pixel 11 Series Could Launch With New ‘Pixel Glow’ Light Feature",
