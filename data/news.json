@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-17 18:02:03",
-  "total_count": 484,
-  "news_count": 479,
-  "android_count": 139,
+  "last_updated": "2026-04-17 19:18:04",
+  "total_count": 485,
+  "news_count": 480,
+  "android_count": 140,
   "ios_count": 340,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9f48f4d7cc73",
+      "title": "Pixel 11 Series Could Launch With New ‘Pixel Glow’ Light Feature",
+      "summary": "A fresh Android 17 beta launch means folks are tearing into the code, looking for potentially new and exciting features that Google is working on. After lifting the hood on Android 17 Beta 4, which released only yesterday, we’re learning of Pixel Glow and the potential for a new laptop from Google. ",
+      "url": "https://www.droid-life.com/2026/04/17/pixel-11-pixel-glow-code/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-04-17 18:14",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-6-1200x800.jpg",
+      "title_translated": "Pixel 11系列可能会推出新的“Pixel Glow”灯光功能",
+      "summary_translated": "全新的 Android 17 测试版发布意味着人们正在深入研究代码，寻找谷歌正在开发的潜在新的、令人兴奋的功能。在昨天刚刚发布的 Android 17 Beta 4 揭开面纱后，我们正在了解 Pixel Glow 以及谷歌新笔记本电脑的潜力。"
+    },
     {
       "id": "48631379a9bd",
       "title": "iOS 26.4 revamps Apple Account pages inside apps with new design",
