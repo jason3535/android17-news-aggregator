@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-17 13:55:20",
-  "total_count": 482,
-  "news_count": 477,
+  "last_updated": "2026-04-17 15:10:10",
+  "total_count": 483,
+  "news_count": 478,
   "android_count": 139,
-  "ios_count": 338,
+  "ios_count": 339,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5f5122f40e97",
+      "title": "Apple’s CarPlay feature now supports multiple AI chatbot apps from iPhone",
+      "summary": "Starting with iOS 26.4, Apple supports using AI chatbot apps on the iPhone through CarPlay.\nChatGPT was the first AI app to arrive shortly after iOS 26.4’s release. Now a second AI chatbot has added support: Perplexity.\nmore…",
+      "url": "https://9to5mac.com/2026/04/17/apples-carplay-feature-now-supports-multiple-ai-chatbot-apps-from-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-17 14:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/perplexity-carplay.webp?w=1600",
+      "title_translated": "Apple 的 CarPlay 功能现在支持 iPhone 上的多个 AI 聊天机器人应用程序",
+      "summary_translated": "从 iOS 26.4 开始，Apple 支持通过 CarPlay 在 iPhone 上使用 AI 聊天机器人应用程序。\nChatGPT 是 iOS 26.4 发布后不久推出的第一个人工智能应用程序。现在，第二个人工智能聊天机器人添加了支持：Perplexity。\n更多的…"
+    },
     {
       "id": "71bfadd679de",
       "title": "iOS 27 rumored to bring new design changes in two key areas",
