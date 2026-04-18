@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-18 10:56:36",
-  "total_count": 486,
-  "news_count": 481,
+  "last_updated": "2026-04-18 11:47:19",
+  "total_count": 487,
+  "news_count": 482,
   "android_count": 140,
-  "ios_count": 341,
+  "ios_count": 342,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5b7c2a3667ef",
+      "title": "Top Stories: iOS 27 rumors, Apple Glasses design, more",
+      "summary": "Welcome to 9to5Mac’s top stories of the week, where we recap the biggest news in the Apple world every Saturday. This week, we have iOS 26.4.1, more iOS 27 leaks, Apple Glasses rumors, and more Apple news. Plus, our usual slate of new podcast episodes, opinion pieces, and much more. Read on for all ",
+      "url": "https://9to5mac.com/2026/04/18/top-stories-ios-27-rumors-apple-glasses-design-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-18 11:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/9to5Mac-Top-Stories-LG.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "热门新闻：iOS 27 传闻、Apple 眼镜设计等",
+      "summary_translated": "欢迎收看 9to5Mac 的本周头条新闻，我们每周六都会回顾 Apple 世界的重大新闻。本周，我们有 iOS 26.4.1、更多 iOS 27 泄露、Apple Glasses 传闻以及更多 Apple 新闻。另外，还有我们通常的新播客剧集、观点文章等等。为大家继续阅读"
+    },
     {
       "id": "8837382bf472",
       "title": "Apple Maps is quickly improving, and iOS 26.5 brings useful new addition",
