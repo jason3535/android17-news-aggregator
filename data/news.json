@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-19 21:48:52",
-  "total_count": 489,
-  "news_count": 484,
+  "last_updated": "2026-04-19 22:52:42",
+  "total_count": 491,
+  "news_count": 486,
   "android_count": 140,
-  "ios_count": 344,
+  "ios_count": 346,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-03.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 可以让你更轻松地切换主屏幕布局：报告",
       "summary_translated": "距离 WWDC26 大会还有不到 2 个月的时间，Apple 将在会上发布下一代 iOS、macOS、watchOS 等。到目前为止，有关 iOS 27 的传言表明，今年的发布将主要关注稳定性，除了苹果最终兑现其人工智能承诺之外，新功能有限。\n甚至"
+    },
+    {
+      "id": "5a7405e71e82",
+      "title": "Apple Testing Two Small Yet Useful iOS 27 Options",
+      "summary": "Apple is planning to add \"Undo\" and \"Redo\" options to the iPhone's Home Screen customization menu on iOS 27, according to Bloomberg's Mark Gurman.\n\n\n\n\nThese two options will make it easier to reverse or redo your Home Screen changes.\n\n\n\"Right now, when you long-press on the home screen, you get a bu",
+      "url": "https://www.macrumors.com/2026/04/19/apple-testing-two-small-yet-useful-ios-27-options/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-19 15:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/iOS-26-on-Three-iPhones.jpg",
+      "title_translated": "苹果测试两个小但有用的 iOS 27 选项",
+      "summary_translated": "据彭博社的 Mark Gurman 报道，苹果计划在 iOS 27 上的 iPhone 主屏幕自定义菜单中添加“撤消”和“重做”选项。\n\n\n\n\n这两个选项将使您更轻松地撤消或重做主屏幕更改。\n\n\n“现在，当您长按主屏幕时，您会看到一个按钮"
+    },
+    {
+      "id": "6145081be77b",
+      "title": "WWDC 2026 Graphic Teases Major iOS 27 Feature",
+      "summary": "Apple's WWDC 2026 graphic provides \"a glimpse of the revamped Siri interface coming in iOS 27,\" according to Bloomberg's Mark Gurman.\n\n\n\n\nIn his Power On newsletter today, Gurman said iOS 27 will include a new Siri interface in the Dynamic Island. When you trigger Siri, he said the Dynamic Island wi",
+      "url": "https://www.macrumors.com/2026/04/19/wwdc-2026-graphic-teases-ios-27-feature/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-19 14:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/wwdc-2026-horizontal.jpg",
+      "title_translated": "WWDC 2026 图形预告 iOS 27 主要功能",
+      "summary_translated": "据彭博社的 Mark Gurman 称，Apple 的 WWDC 2026 图片“让我们一睹 iOS 27 中改进的 Siri 界面”。\n\n\n\n\nGurman 在今天的 Power On 时事通讯中表示，iOS 27 将在动态岛中包含一个新的 Siri 界面。当你触发 Siri 时，他会说 Dynamic Island wi"
     },
     {
       "id": "4f24e991cd40",
