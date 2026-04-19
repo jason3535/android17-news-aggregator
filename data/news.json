@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-19 16:55:31",
-  "total_count": 488,
-  "news_count": 483,
+  "last_updated": "2026-04-19 17:50:15",
+  "total_count": 489,
+  "news_count": 484,
   "android_count": 140,
-  "ios_count": 343,
+  "ios_count": 344,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f76592d6a0ed",
+      "title": "iOS 27 could make it much easier to switch up your home screen layout: report",
+      "summary": "WWDC26 is just under 2 months away, where Apple will unveil its next generation of iOS, macOS, watchOS, and so on. Rumors for iOS 27 have so far indicated that this year’s release will mostly be focused on stability, with limited new features beyond Apple finally delivering on its AI promises.\nEven ",
+      "url": "https://9to5mac.com/2026/04/19/ios-27-new-customization-feature-on-home-screen/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-19 17:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-03.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可以让你更轻松地切换主屏幕布局：报告",
+      "summary_translated": "距离 WWDC26 大会还有不到 2 个月的时间，Apple 将在会上发布下一代 iOS、macOS、watchOS 等。到目前为止，有关 iOS 27 的传言表明，今年的发布将主要关注稳定性，除了苹果最终兑现其人工智能承诺之外，新功能有限。\n甚至"
+    },
     {
       "id": "4f24e991cd40",
       "title": "Apple has already teased Siri’s new design coming in iOS 27",
