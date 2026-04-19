@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-19 13:23:11",
-  "total_count": 487,
-  "news_count": 482,
+  "last_updated": "2026-04-19 14:54:59",
+  "total_count": 488,
+  "news_count": 483,
   "android_count": 140,
-  "ios_count": 342,
+  "ios_count": 343,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4f24e991cd40",
+      "title": "Apple has already teased Siri’s new design coming in iOS 27",
+      "summary": "Bloomberg’s Mark Gurman says that Apple’s WWDC26 artwork has already given us our first look at the new design for Siri coming as part of iOS 27. Apple’s voice assistant will finally be getting the revamp it deserves in iOS 27, with a bunch of new functionality and a new look.\nGurman says the new Si",
+      "url": "https://9to5mac.com/2026/04/19/apple-has-already-teased-siris-new-design-coming-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-19 14:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/new-siri-ui-wwdc-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果已经预告了 iOS 27 中 Siri 的新设计",
+      "summary_translated": "彭博社的 Mark Gurman 表示，苹果的 WWDC26 图稿已经让我们第一次看到了 Siri 作为 iOS 27 一部分的新设计。苹果的语音助手最终将在 iOS 27 中得到应有的改进，带来一系列新功能和新外观。\n古尔曼说新的Si"
+    },
     {
       "id": "5b7c2a3667ef",
       "title": "Top Stories: iOS 27 rumors, Apple Glasses design, more",
