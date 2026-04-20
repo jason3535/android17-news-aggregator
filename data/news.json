@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-20 11:39:38",
-  "total_count": 492,
-  "news_count": 487,
+  "last_updated": "2026-04-20 14:07:51",
+  "total_count": 493,
+  "news_count": 488,
   "android_count": 141,
-  "ios_count": 346,
+  "ios_count": 347,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "412538ed9136",
+      "title": "iOS 27 will drop support for four iPhone models, says leaker",
+      "summary": "iOS 27 will be unveiled on June 8 at WWDC, and a new leak indicates the software update could drop support for four iPhone models. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/20/ios-27-will-drop-support-for-four-iphone-models-says-leaker/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-20 13:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/iPhone-11-Pro-Top-Features-Midnight-Green-vs-Space-Gray.jpeg?quality=82&strip=all&w=1600",
+      "title_translated": "泄密者称 iOS 27 将放弃对四款 iPhone 机型的支持",
+      "summary_translated": "iOS 27 将于 6 月 8 日在 WWDC 上发布，新的泄漏表明该软件更新可能会放弃对四款 iPhone 机型的支持。以下是详细信息。\n更多的…"
+    },
     {
       "id": "74c2dab1beef",
       "title": "Motorola opens the floodgates for its Android 17 beta",
