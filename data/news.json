@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-20 06:25:20",
-  "total_count": 491,
-  "news_count": 486,
-  "android_count": 140,
+  "last_updated": "2026-04-20 09:16:39",
+  "total_count": 492,
+  "news_count": 487,
+  "android_count": 141,
   "ios_count": 346,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "74c2dab1beef",
+      "title": "Motorola opens the floodgates for its Android 17 beta",
+      "summary": "Motorola expands its Android 17 beta to more Razr and Edge phones.",
+      "url": "https://www.androidauthority.com/motorola-expands-android-17-beta-3658913/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-20 08:43",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Motorola-Razr-Plus-on-table.jpg",
+      "title_translated": "摩托罗拉开启 Android 17 测试版",
+      "summary_translated": "摩托罗拉将 Android 17 Beta 版扩展到更多 Razr 和 Edge 手机。"
+    },
     {
       "id": "f76592d6a0ed",
       "title": "iOS 27 could make it much easier to switch up your home screen layout: report",
