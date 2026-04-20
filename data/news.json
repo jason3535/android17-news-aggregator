@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-20 20:05:27",
-  "total_count": 501,
-  "news_count": 496,
+  "last_updated": "2026-04-20 21:00:44",
+  "total_count": 502,
+  "news_count": 497,
   "android_count": 142,
-  "ios_count": 354,
+  "ios_count": 355,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d710ede0715d",
+      "title": "iOS 26’s Wallet app has long-awaited order tracking fix, here’s how to use it",
+      "summary": "Among iOS 26’s many new features for Apple Wallet, one of my favorites has been the long-awaited fix for order tracking. Here’s how to use it.\nmore…",
+      "url": "https://9to5mac.com/2026/04/20/ios-26s-wallet-app-has-long-awaited-order-tracking-fix-heres-how-to-use-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-20 20:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-wallet-dark-purple.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的钱包应用程序有了期待已久的订单跟踪修复，以下是如何使用它",
+      "summary_translated": "在 iOS 26 为 Apple Wallet 提供的众多新功能中，我最喜欢的功能之一是期待已久的订单跟踪修复。以下是如何使用它。\n更多的…"
+    },
     {
       "id": "df563bc37fa2",
       "title": "Having trouble joining the Android 17 Beta? This might be why",
