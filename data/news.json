@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-21 10:40:36",
-  "total_count": 502,
-  "news_count": 497,
+  "last_updated": "2026-04-21 12:07:33",
+  "total_count": 503,
+  "news_count": 498,
   "android_count": 142,
-  "ios_count": 355,
+  "ios_count": 356,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6c225add7360",
+      "title": "Tim Cook retirement ‘leak’ worked perfectly in predicting reactions",
+      "summary": "A supposed Tim Cook retirement leak late last year indicated that hardware head John Ternus was Apple’s planned successor and that the announcement would be made ahead of WWDC 2026 in June.\nI wrote at the time that this was very clearly a trial balloon by the company in order to test reaction to the",
+      "url": "https://9to5mac.com/2026/04/21/tim-cook-retirement-leak-worked-perfectly-in-predicting-reactions/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-21 11:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Tim-Cook-retirement-leak-worked-perfectly-in-predicting-reactions.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "蒂姆·库克退休“泄密”在预测反应方面非常有效",
+      "summary_translated": "去年年底，蒂姆·库克 (Tim Cook) 退休的消息被泄露，硬件负责人 John Ternus 是苹果计划的继任者，这一消息将在 6 月 WWDC 2026 之前宣布。\n我当时写道，这显然是公司的一个试验气球，目的是测试对这一事件的反应。"
+    },
     {
       "id": "d710ede0715d",
       "title": "iOS 26’s Wallet app has long-awaited order tracking fix, here’s how to use it",
