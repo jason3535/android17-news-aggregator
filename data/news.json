@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-21 16:19:09",
-  "total_count": 503,
-  "news_count": 498,
+  "last_updated": "2026-04-21 18:10:43",
+  "total_count": 506,
+  "news_count": 501,
   "android_count": 142,
-  "ios_count": 356,
+  "ios_count": 359,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7d8f055ac50a",
+      "title": "Apple says iOS 27 and macOS 27 will have stricter security requirements for networks",
+      "summary": "Apple has just published a new support document that warns of a network security change coming in iOS 27, macOS 27, and more with action steps for IT administrators.\nmore…",
+      "url": "https://9to5mac.com/2026/04/21/apple-says-ios-27-and-macos-27-will-have-stricter-security-requirements-for-networks/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-21 17:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-logo-security.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果表示 iOS 27 和 macOS 27 将对网络有更严格的安全要求",
+      "summary_translated": "Apple 刚刚发布了一份新的支持文档，警告 iOS 27、macOS 27 等系统中将出现网络安全变更，并为 IT 管理员提供了操作步骤。\n更多的…"
+    },
+    {
+      "id": "ef427fd67aa7",
+      "title": "Apple releases iOS 26.5 public beta 3",
+      "summary": "Apple has released the third iOS 26.5 public beta. The previous public beta introduced a new splash screen that signaled the upcoming arrival of ads in Apple Maps.\nmore…",
+      "url": "https://9to5mac.com/2026/04/21/apple-releases-ios-26-5-public-beta-3/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-21 17:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-public-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布iOS 26.5公共测试版3",
+      "summary_translated": "苹果发布了第三个 iOS 26.5 公测版。之前的公开测试版引入了新的启动画面，标志着 Apple 地图中即将出现广告。\n更多的…"
+    },
     {
       "id": "6c225add7360",
       "title": "Tim Cook retirement ‘leak’ worked perfectly in predicting reactions",
@@ -19,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Tim-Cook-retirement-leak-worked-perfectly-in-predicting-reactions.jpg?quality=82&strip=all&w=1600",
       "title_translated": "蒂姆·库克退休“泄密”在预测反应方面非常有效",
       "summary_translated": "去年年底，蒂姆·库克 (Tim Cook) 退休的消息被泄露，硬件负责人 John Ternus 是苹果计划的继任者，这一消息将在 6 月 WWDC 2026 之前宣布。\n我当时写道，这显然是公司的一个试验气球，目的是测试对这一事件的反应。"
+    },
+    {
+      "id": "41ca912ce67a",
+      "title": "Apple Releases New iOS 26.5, iPadOS 26.5 and macOS Tahoe 26.5 Public Betas",
+      "summary": "Apple today provided public beta testers with new releases of upcoming iOS 26.5, iPadOS 26.5, macOS Tahoe 26.5, watchOS 26.5, and tvOS 26.5 updates for testing purposes. The public betas come a day after Apple provided the betas to developers. These are the third iOS 26.5 and iPadOS 26.5 betas, but ",
+      "url": "https://www.macrumors.com/2026/04/21/apple-releases-ios-26-5-public-beta-3/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-21 10:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Thumb.jpg",
+      "title_translated": "苹果发布新的 iOS 26.5、iPadOS 26.5 和 macOS Tahoe 26.5 公共测试版",
+      "summary_translated": "Apple 今天向公共 Beta 测试人员提供了即将推出的 iOS 26.5、iPadOS 26.5、macOS Tahoe 26.5、watchOS 26.5 和 tvOS 26.5 更新的新版本，以进行测试。公开测试版是在苹果向开发者提供测试版的第二天发布的。这是第三个 iOS 26.5 和 iPadOS 26.5 测试版，但是"
     },
     {
       "id": "d710ede0715d",
