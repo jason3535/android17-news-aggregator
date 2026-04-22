@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-22 20:13:00",
-  "total_count": 511,
-  "news_count": 506,
-  "android_count": 142,
+  "last_updated": "2026-04-22 22:00:26",
+  "total_count": 512,
+  "news_count": 507,
+  "android_count": 143,
   "ios_count": 364,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0b2f77f6df24",
+      "title": "Google releases Android 17 QPR1 Beta 1 for Pixel",
+      "summary": "With the final scheduled release for the Android 17 Beta coming last week, Google today is already moving on to Android 17 QPR1 Beta 1.\nmore…",
+      "url": "https://9to5google.com/2026/04/22/android-17-qpr1-beta-1-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-22 21:16",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/android-17-easter-egg.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌发布适用于 Pixel 的 Android 17 QPR1 Beta 1",
+      "summary_translated": "随着 Android 17 Beta 的最终版本于上周发布，Google 今天已经开始转向 Android 17 QPR1 Beta 1。\n更多…"
+    },
     {
       "id": "a3a795a2cacf",
       "title": "iOS 26.4 offers two Liquid Glass customization updates",
