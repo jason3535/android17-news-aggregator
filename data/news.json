@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-22 18:10:58",
-  "total_count": 508,
-  "news_count": 503,
+  "last_updated": "2026-04-22 20:13:00",
+  "total_count": 511,
+  "news_count": 506,
   "android_count": 142,
-  "ios_count": 361,
+  "ios_count": 364,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a3a795a2cacf",
+      "title": "iOS 26.4 offers two Liquid Glass customization updates",
+      "summary": "iOS 26.4 recently brought two new updates for how you can customize the Liquid Glass design on your iPhone.\nmore…",
+      "url": "https://9to5mac.com/2026/04/22/ios-26-4-offers-two-liquid-glass-customization-updates/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-22 19:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 提供两项 Liquid Glass 定制更新",
+      "summary_translated": "iOS 26.4 最近带来了两项新的更新，帮助您在 iPhone 上自定义液态玻璃设计。\n更多的…"
+    },
+    {
+      "id": "9e8874625b5c",
+      "title": "iOS 26.4.2 fixes bug that allowed deleted notifications to be retrieved",
+      "summary": "iOS 26.4.2 is available now as the latest iPhone update, and it includes a key security fix that ensures deleted notifications can’t be retrieved or restored later.\nmore…",
+      "url": "https://9to5mac.com/2026/04/22/ios-26-4-2-fixes-bug-that-allowed-deleted-notifications-to-be-retrieved/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-22 18:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/ios-26-now-available.webp?w=1600",
+      "title_translated": "iOS 26.4.2 修复了允许检索已删除通知的错误",
+      "summary_translated": "iOS 26.4.2 现已作为最新的 iPhone 更新发布，它包含一个关键的安全修复程序，可确保以后无法检索或恢复已删除的通知。\n更多的…"
+    },
     {
       "id": "7f6c54e710f2",
       "title": "Apple releases iOS 26.4.2 for iPhone, here’s what’s new",
@@ -19,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26-4-2-update.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布了 iPhone 版 iOS 26.4.2，以下是新功能",
       "summary_translated": "Apple 刚刚为 iPhone 用户发布了新的软件更新。 iOS 26.4.2 现已发布并准备安装，以下是新功能。\n更多的…"
+    },
+    {
+      "id": "24fdb4cf9705",
+      "title": "iOS 26.4.2 Patches Flaw That Let FBI Extract Deleted Signal Messages",
+      "summary": "The iOS 26.4.2, iPadOS 26.4.2, iOS 18.7.8, and iPadOS 18.7.8 updates that Apple released today address a security vulnerability that the FBI recently used to extract Signal message previews from an iPhone even after the app was deleted.\n\n\n\n\nA flaw with notification services allowed notifications tha",
+      "url": "https://www.macrumors.com/2026/04/22/ios-26-4-2-notification-database-security-fix/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-22 12:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/11/signal-logo.jpg",
+      "title_translated": "iOS 26.4.2 修复了 FBI 提取已删除信号消息的缺陷",
+      "summary_translated": "Apple 今天发布的 iOS 26.4.2、iPadOS 26.4.2、iOS 18.7.8 和 iPadOS 18.7.8 更新解决了 FBI 最近用来从 iPhone 中提取 Signal 消息预览的安全漏洞，即使该应用已被删除。\n\n\n\n\n通知服务的一个缺陷允许通知"
     },
     {
       "id": "de6c1c91e2b6",
