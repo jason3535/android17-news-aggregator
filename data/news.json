@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-23 15:20:48",
-  "total_count": 514,
-  "news_count": 509,
-  "android_count": 145,
+  "last_updated": "2026-04-23 17:42:44",
+  "total_count": 515,
+  "news_count": 510,
+  "android_count": 146,
   "ios_count": 364,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "51a340b1b869",
+      "title": "Here’s a preview of Pixel 11 Pro Fold’s wallpapers, hinting at colors [Gallery]",
+      "summary": "Google’s Pixel 11 series is in the pipeline and, in the latest Android 17 beta release, we spotted a quick preview of the wallpapers set to debut on the Pixel 11 Pro Fold.\nmore…",
+      "url": "https://9to5google.com/2026/04/23/pixel-11-pro-fold-wallpaper-leak/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-23 16:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-rvw-19.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这是 Pixel 11 Pro Fold 壁纸的预览，暗示了颜色 [图库]",
+      "summary_translated": "谷歌的 Pixel 11 系列正在酝酿之中，在最新的 Android 17 Beta 版本中，我们发现了将在 Pixel 11 Pro Fold 上首次亮相的壁纸的快速预览。\n更多的…"
+    },
     {
       "id": "dfb720b1fdbb",
       "title": "Android 17 QPR1 Beta 1 is already here with a sneak peek at September’s Feature Drop",
