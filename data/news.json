@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-22 23:57:22",
-  "total_count": 512,
-  "news_count": 507,
-  "android_count": 143,
+  "last_updated": "2026-04-23 03:42:08",
+  "total_count": 514,
+  "news_count": 509,
+  "android_count": 145,
   "ios_count": 364,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "dfb720b1fdbb",
+      "title": "Android 17 QPR1 Beta 1 is already here with a sneak peek at September’s Feature Drop",
+      "summary": "Available for Pixel 6 devices and newer.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-1-3660122/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-23 00:42",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Android-17-stock-image.jpg",
+      "title_translated": "Android 17 QPR1 Beta 1 已经发布，先睹为快 9 月份的功能发布",
+      "summary_translated": "适用于 Pixel 6 及更新机型。"
+    },
+    {
+      "id": "109d48858120",
+      "title": "Google Releases Android 17 QPR1 Beta 1 for Pixel",
+      "summary": "Google surprised us a bit this afternoon with the release of Android 17 QPR1 Beta 1 for its Pixel line-up. This update will come after the first stable build of Android 17 is released, which should happen soon now that we have received the final beta of that. For those not up-to-date on what the...\n",
+      "url": "https://www.droid-life.com/2026/04/22/google-releases-android-17-qpr1-beta-1-for-pixel/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-04-23 00:28",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-3-1200x800.jpg",
+      "title_translated": "谷歌发布适用于 Pixel 的 Android 17 QPR1 Beta 1",
+      "summary_translated": "今天下午，谷歌为其 Pixel 系列发布了 Android 17 QPR1 Beta 1，这让我们有点惊讶。此更新将在 Android 17 的第一个稳定版本发布后发布，既然我们已经收到了该版本的最终测试版，那么应该很快就会发生。对于那些不了解最新情况的人..."
+    },
     {
       "id": "0b2f77f6df24",
       "title": "Google releases Android 17 QPR1 Beta 1 for Pixel",
@@ -7111,7 +7139,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -7122,7 +7150,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -7133,7 +7161,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -7144,7 +7172,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -7155,7 +7183,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
