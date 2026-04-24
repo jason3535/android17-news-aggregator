@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-24 03:46:14",
-  "total_count": 517,
-  "news_count": 512,
-  "android_count": 147,
+  "last_updated": "2026-04-24 06:19:06",
+  "total_count": 518,
+  "news_count": 513,
+  "android_count": 148,
   "ios_count": 365,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "03552947d264",
+      "title": "Android 17 Beta 4 quietly improves system navigation for mouse and trackpad users",
+      "summary": "Android 17 Beta 4 introduces user-facing changes that could prove to be most useful with a mouse connected.",
+      "url": "https://www.androidauthority.com/android-17-beta-4-changes-3660567/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-24 04:10",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg",
+      "title_translated": "Android 17 Beta 4 悄然改进了鼠标和触控板用户的系统导航",
+      "summary_translated": "Android 17 Beta 4 引入了面向用户的更改，这些更改可能在连接鼠标时最有用。"
+    },
     {
       "id": "c9e121f2dbe9",
       "title": "Google accidentally shares Pixel 11 Pro Fold wallpapers in Android 17 preview",
