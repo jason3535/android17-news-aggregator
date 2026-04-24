@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-24 06:19:06",
-  "total_count": 518,
-  "news_count": 513,
-  "android_count": 148,
+  "last_updated": "2026-04-24 09:07:31",
+  "total_count": 519,
+  "news_count": 514,
+  "android_count": 149,
   "ios_count": 365,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c14f2592b405",
+      "title": "Android 17 has a second hidden Easter egg and here’s how to find it",
+      "summary": "You will need to trigger Landroid before it can show up as a screensaver.",
+      "url": "https://www.androidauthority.com/android-17-easter-egg-landroid-screensaver-3660604/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-24 07:47",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
+      "title_translated": "Android 17 还有第二个隐藏的复活节彩蛋，以下是找到它的方法",
+      "summary_translated": "您需要先触发 Landroid，然后它才能显示为屏幕保护程序。"
+    },
     {
       "id": "03552947d264",
       "title": "Android 17 Beta 4 quietly improves system navigation for mouse and trackpad users",
