@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-24 11:19:07",
-  "total_count": 519,
-  "news_count": 514,
-  "android_count": 149,
+  "last_updated": "2026-04-24 14:02:40",
+  "total_count": 521,
+  "news_count": 516,
+  "android_count": 151,
   "ios_count": 365,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a2252b62707d",
+      "title": "Android’s Linux Terminal now lets you max out performance, but at a cost",
+      "summary": "Android 17 QPR1 beta 1 brings new performance features to the Terminal app.",
+      "url": "https://www.androidauthority.com/androids-linux-terminal-performance-vs-quality-3660716/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-24 13:04",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Android_Linux_Terminal_with_tabs.jpg",
+      "title_translated": "Android 的 Linux 终端现在可以让您最大限度地发挥性能，但需要付出一定的代价",
+      "summary_translated": "Android 17 QPR1 beta 1 为终端应用带来了新的性能功能。"
+    },
+    {
+      "id": "e647394e1df1",
+      "title": "Android’s Linux Terminal app just got a lot more colorful with theme support",
+      "summary": "The latest Android 17 QPR1 Beta 1 adds a dedicated theme menu with support for custom Alacritty .toml imports.",
+      "url": "https://www.androidauthority.com/android-17-linux-terminal-themes-3660672/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-24 12:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Linux-Terminal-on-the-Galaxy-Z-Flip-7.jpg",
+      "title_translated": "Android 的 Linux 终端应用程序通过主题支持变得更加丰富多彩",
+      "summary_translated": "最新的 Android 17 QPR1 Beta 1 添加了专用主题菜单，支持自定义 Alacritty .toml 导入。"
+    },
     {
       "id": "c14f2592b405",
       "title": "Android 17 has a second hidden Easter egg and here’s how to find it",
