@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-24 19:09:48",
-  "total_count": 523,
-  "news_count": 518,
-  "android_count": 152,
-  "ios_count": 366,
+  "last_updated": "2026-04-24 21:01:34",
+  "total_count": 525,
+  "news_count": 520,
+  "android_count": 153,
+  "ios_count": 367,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2a9c4a87fa5c",
+      "title": "Pixelated 097: Lights and laptops",
+      "summary": "Welcome to episode 97 of Pixelated, a podcast by 9to5Google. This week, Damien and Will are joined by Andrew Romero to talk through a couple of Pixel hardware leaks coming out of Android 17 Beta 4. First, they discuss the growing possibility of a Pixel Laptop, and wonder what Google needs to do to s",
+      "url": "https://9to5google.com/2026/04/24/pixelated-097-lights-and-laptops/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-04-24 20:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "像素化 097：灯和笔记本电脑",
+      "summary_translated": "欢迎收看 9to5Google 的播客 Pixelated 第 97 集。 本周，达米安 (Damien) 和威尔 (Will) 与安德鲁·罗梅罗 (Andrew Romero) 一起讨论了 Android 17 Beta 4 中的一些 Pixel 硬件泄露事件。首先，他们讨论了 Pixel 笔记本电脑不断增长的可能性，并想知道 Google 需要采取哪些措施来解决这一问题。"
+    },
     {
       "id": "5149ce81b403",
       "title": "iOS 26.5 will add new features to three popular iPhone apps",
@@ -33,6 +47,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-1-scaled.jpg",
       "title_translated": "无法在您的 Pixel 上安装 Android 17 Beta？谷歌已经修复了",
       "summary_translated": "谷歌表示 Android 17 Beta 安装错误现已全部解决。"
+    },
+    {
+      "id": "6c92b7c58306",
+      "title": "Ads Are Coming to Apple Maps This Summer: Here's What to Expect",
+      "summary": "Apple is planning to start showing ads in the Apple Maps app this summer, and signs of ads have already shown up in the iOS 26.5 beta as Apple prepares to roll them out.\n\n\n\n\n\nWhere Ads Show Up\n\nAds will be displayed in the ‌Apple Maps‌ search interface. Depending on the search, relevant ads will be ",
+      "url": "https://www.macrumors.com/2026/04/24/apple-maps-ads-what-to-expect/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-24 13:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/Ads-Are-Coming-to-Apple-Maps-Feature.jpg",
+      "title_translated": "今年夏天苹果地图上将出现广告：以下是您的期待",
+      "summary_translated": "苹果计划今年夏天开始在苹果地图应用程序中展示广告，随着苹果准备推出广告，广告的迹象已经出现在 iOS 26.5 测试版中。\n\n\n\n\n\n广告出现的地方\n\n广告将显示在“Apple Maps”搜索界面中。根据搜索，相关广告将会出现"
     },
     {
       "id": "a2252b62707d",
