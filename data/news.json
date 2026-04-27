@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-27 18:16:50",
-  "total_count": 527,
-  "news_count": 522,
+  "last_updated": "2026-04-27 20:17:15",
+  "total_count": 528,
+  "news_count": 523,
   "android_count": 153,
-  "ios_count": 369,
+  "ios_count": 370,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fbcfd6629618",
+      "title": "WWDC 2026: Apple highlights community events in Cupertino during keynote week",
+      "summary": "WWDC 2026 is six weeks away, and we’re looking forward to Apple’s big iOS 27 reveal with a healthy side of AI-infused Siri. You don’t need a WWDC ticket to enjoy many of the developer events happening around Apple’s conference in June either.\nmore…",
+      "url": "https://9to5mac.com/2026/04/27/wwdc-2026-apple-highlights-community-events-in-california-during-keynote-week/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-27 19:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/WWDC-2026.webp?w=1600",
+      "title_translated": "WWDC 2026：Apple 在主题演讲周期间重点介绍库比蒂诺的社区活动",
+      "summary_translated": "距离 WWDC 2026 还有六周时间，我们期待 Apple 发布 iOS 27，其中包含人工智能 Siri 的健康一面。 您也不需要 WWDC 门票即可享受 6 月 Apple 大会期间举办的许多开发者活动。\n更多的…"
+    },
     {
       "id": "4d026efc2a6c",
       "title": "Apple releases iOS 26.5 beta 4 for iPhone",
