@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-27 22:03:55",
-  "total_count": 529,
-  "news_count": 524,
+  "last_updated": "2026-04-27 23:08:47",
+  "total_count": 530,
+  "news_count": 525,
   "android_count": 153,
-  "ios_count": 371,
+  "ios_count": 372,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "46cc9e042eb5",
+      "title": "9to5Mac Daily: April 27, 2026 – iOS 26.4.2, more on Ternus and Cook",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Bitwarden: Make your life easier with Bitwarden, featurin",
+      "url": "https://9to5mac.com/2026/04/27/april-27-2026-ios-26-4-2/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-27 23:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 4 月 27 日 – iOS 26.4.2，更多有关 Ternus 和 Cook 的信息",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Bitwarden 赞助：Bitwarden 让您的生活更轻松，特色"
+    },
     {
       "id": "4daa38160a6e",
       "title": "Apple introduces monthly subscriptions with a 12-month commitment on the App Store",
