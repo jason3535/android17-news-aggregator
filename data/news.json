@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-27 16:51:15",
-  "total_count": 525,
-  "news_count": 520,
+  "last_updated": "2026-04-27 18:16:50",
+  "total_count": 527,
+  "news_count": 522,
   "android_count": 153,
-  "ios_count": 367,
+  "ios_count": 369,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4d026efc2a6c",
+      "title": "Apple releases iOS 26.5 beta 4 for iPhone",
+      "summary": "Apple has released the fourth iOS 26.5 beta for developers. A previous beta introduced a splash screen that signaled the upcoming arrival of ads in Apple Maps.\nmore…",
+      "url": "https://9to5mac.com/2026/04/27/apple-releases-ios-26-5-beta-4-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-27 17:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iOS-26.5-b4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iPhone 版 iOS 26.5 beta 4",
+      "summary_translated": "苹果已经为开发者发布了第四个 iOS 26.5 测试版。 之前的测试版引入了一个闪屏，标志着苹果地图中即将出现广告。\n更多的…"
+    },
+    {
+      "id": "0145643c0fdd",
+      "title": "Apple Seeds Fourth iOS 26.5 and iPadOS 26.5 Betas to Developers",
+      "summary": "Apple today seeded the fourth betas of upcoming iOS 26.5 and iPadOS 26.5 updates to developers for testing purposes, with the software coming a week after Apple released the third betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the Gene",
+      "url": "https://www.macrumors.com/2026/04/27/apple-seeds-ios-26-5-beta-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-27 10:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Warm.jpg",
+      "title_translated": "Apple 向开发者发布第四个 iOS 26.5 和 iPadOS 26.5 Beta",
+      "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.5 和 iPadOS 26.5 更新的第四个测试版，用于测试目的，该软件是在苹果发布第三个测试版一周后发布的。\n\n\n\n\n注册开发者可以通过 iPhone 或 iPad 上的“设置”应用程序访问 Gene 下载 Beta 版"
+    },
     {
       "id": "2a9c4a87fa5c",
       "title": "Pixelated 097: Lights and laptops",
