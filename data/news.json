@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-27 20:17:15",
-  "total_count": 528,
-  "news_count": 523,
+  "last_updated": "2026-04-27 22:03:55",
+  "total_count": 529,
+  "news_count": 524,
   "android_count": 153,
-  "ios_count": 370,
+  "ios_count": 371,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4daa38160a6e",
+      "title": "Apple introduces monthly subscriptions with a 12-month commitment on the App Store",
+      "summary": "Last month, we reported that iOS 26.5 beta 1 hinted at new App Store subscription options. Today, Apple has made that official, with developers now able to set up and test monthly subscriptions with a 12-month commitment ahead of the public rollout. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/04/27/apple-introduces-monthly-subscriptions-with-a-12-month-commitment-on-the-app-store/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-27 21:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?w=1600",
+      "title_translated": "Apple 在 App Store 推出包月订阅服务并承诺 12 个月",
+      "summary_translated": "上个月，我们报道称 iOS 26.5 beta 1 暗示了新的 App Store 订阅选项。今天，Apple 正式宣布了这一点，开发者现在可以在公开推出之前设置和测试每月订阅，并承诺 12 个月。以下是详细信息。\n更多的…"
+    },
     {
       "id": "fbcfd6629618",
       "title": "WWDC 2026: Apple highlights community events in Cupertino during keynote week",
