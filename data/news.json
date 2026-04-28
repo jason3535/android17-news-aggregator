@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-28 18:47:37",
-  "total_count": 534,
-  "news_count": 529,
+  "last_updated": "2026-04-28 20:24:58",
+  "total_count": 536,
+  "news_count": 531,
   "android_count": 153,
-  "ios_count": 376,
+  "ios_count": 378,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f70961209f41",
+      "title": "iOS 26.4 gave CarPlay two new features, with another big one coming",
+      "summary": "iOS 26.4 recently gave CarPlay two new features, while also laying the groundwork for another big upgrade coming soon.\nmore…",
+      "url": "https://9to5mac.com/2026/04/28/ios-26-4-gave-carplay-two-new-features-with-another-big-one-coming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-28 20:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/carplay-ios-26-dev-video-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为 CarPlay 带来了两项新功能，另一项重大功能即将到来",
+      "summary_translated": "iOS 26.4 最近为 CarPlay 提供了两项新功能，同时也为即将到来的另一次重大升级奠定了基础。\n更多的…"
+    },
+    {
+      "id": "0d423490c275",
+      "title": "iOS 27 could make your AirPods a lot more powerful, here’s why",
+      "summary": "iOS 27’s unveiling is a little over one month away, and Siri’s major overhaul is set to make not only the iPhone feel far more powerful, but AirPods too.\nmore…",
+      "url": "https://9to5mac.com/2026/04/28/ios-27-could-make-your-airpods-a-lot-more-powerful-heres-why/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-28 19:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/airpods-apple-intelligence.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可以让你的 AirPods 变得更强大，原因如下",
+      "summary_translated": "距离 iOS 27 的发布还有一个多月的时间，Siri 的重大改进不仅会让 iPhone 感觉更强大，也会让 AirPods 感觉更强大。\n更多的…"
+    },
     {
       "id": "a183b3f1d9aa",
       "title": "iOS 27 will add three new features to Apple’s Photos app, per report",
