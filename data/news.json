@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-28 14:38:43",
-  "total_count": 530,
-  "news_count": 525,
+  "last_updated": "2026-04-28 17:01:20",
+  "total_count": 532,
+  "news_count": 527,
   "android_count": 153,
-  "ios_count": 372,
+  "ios_count": 374,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bbc16f7c7424",
+      "title": "iOS 26.4 gave your iPhone an alarm feature that’s long been missing",
+      "summary": "iOS 26.4 is packed with a bunch of new features for Apple Music, Apple Podcasts, and more, plus new ways to customize your iPhone. Apple also added a new alarm feature in iOS 26.4 that’s built specifically for Apple Watch owners.\nmore…",
+      "url": "https://9to5mac.com/2026/04/28/ios-26-4-gave-your-iphone-an-alarm-feature-thats-long-been-missing/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-28 16:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26-1-alarms-slide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 为你的 iPhone 提供了长期缺失的闹钟功能",
+      "summary_translated": "iOS 26.4 包含了一系列 Apple Music、Apple Podcasts 等新功能，以及自定义 iPhone 的新方法。苹果还在 iOS 26.4 中添加了专为 Apple Watch 用户打造的新闹钟功能。\n更多的…"
+    },
+    {
+      "id": "935e85b8cdb7",
+      "title": "iOS 26.5: New features, release date, more",
+      "summary": "Following last month’s release of iOS 26.4, Apple is now beta testing iOS 26.5. Here are all the details on new features and changes on the way for iPhone users with iOS 26.5, which will be released next month. \nmore…",
+      "url": "https://9to5mac.com/2026/04/28/ios-26-5-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-28 15:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5：新功能、发布日期等",
+      "summary_translated": "继上个月发布 iOS 26.4 后，Apple 现在正在对 iOS 26.5 进行 Beta 测试。以下是即将于下个月发布的 iOS 26.5 为 iPhone 用户提供的新功能和变化的所有详细信息。 \n更多的…"
+    },
     {
       "id": "46cc9e042eb5",
       "title": "9to5Mac Daily: April 27, 2026 – iOS 26.4.2, more on Ternus and Cook",
