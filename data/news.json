@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-28 17:01:20",
-  "total_count": 532,
-  "news_count": 527,
+  "last_updated": "2026-04-28 18:47:37",
+  "total_count": 534,
+  "news_count": 529,
   "android_count": 153,
-  "ios_count": 374,
+  "ios_count": 376,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a183b3f1d9aa",
+      "title": "iOS 27 will add three new features to Apple’s Photos app, per report",
+      "summary": "iOS 27 will include multiple new AI-powered photo editing features, according to a new report. These features will let you quickly improve, expand, and reframe your images. \nmore…",
+      "url": "https://9to5mac.com/2026/04/28/ios-27-will-add-three-new-features-to-apples-photos-app-per-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-28 18:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-02.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，iOS 27 将为苹果照片应用添加三项新功能",
+      "summary_translated": "据一份新报告称，iOS 27 将包含多种新的人工智能照片编辑功能。这些功能可让您快速改进、扩展和重新构建图像。 \n更多的…"
+    },
     {
       "id": "bbc16f7c7424",
       "title": "iOS 26.4 gave your iPhone an alarm feature that’s long been missing",
@@ -33,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-guide.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5：新功能、发布日期等",
       "summary_translated": "继上个月发布 iOS 26.4 后，Apple 现在正在对 iOS 26.5 进行 Beta 测试。以下是即将于下个月发布的 iOS 26.5 为 iPhone 用户提供的新功能和变化的所有详细信息。 \n更多的…"
+    },
+    {
+      "id": "62c253ec5dfc",
+      "title": "iOS 27 to Add New Apple Intelligence Photo Editing Tools",
+      "summary": "Apple will add new Apple Intelligence photo editing tools to the Photos app in iOS 27, iPadOS 27, and macOS 27, reports Bloomberg.\n\n\n\n\nOn-device ‌Apple Intelligence‌ will be able to make subtle changes to image quality, positioning, and focus, with the new capabilities joining Clean Up, the sole AI ",
+      "url": "https://www.macrumors.com/2026/04/28/ios-27-apple-intelligence-photo-editing-tools/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-28 11:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+      "title_translated": "iOS 27 添加新的 Apple Intelligence 照片编辑工具",
+      "summary_translated": "据彭博社报道，苹果将在 iOS 27、iPadOS 27 和 macOS 27 中的照片应用程序中添加新的 Apple Intelligence 照片编辑工具。\n\n\n\n\n设备上的“Apple Intelligence”将能够对图像质量、定位和焦点进行微妙的改变，新功能加入了 Clean Up（唯一的人工智能）"
     },
     {
       "id": "46cc9e042eb5",
