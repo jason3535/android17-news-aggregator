@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-29 11:51:29",
-  "total_count": 536,
-  "news_count": 531,
-  "android_count": 153,
+  "last_updated": "2026-04-29 14:27:08",
+  "total_count": 537,
+  "news_count": 532,
+  "android_count": 154,
   "ios_count": 378,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0d391bf828d5",
+      "title": "Android 17 beta grows as one more brand joins early access program",
+      "summary": "Android 17 beta lands on these four smartphones.",
+      "url": "https://www.androidauthority.com/xiaomi-android-17-beta-3661923/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-04-29 13:42",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-easter-egg-hero.jpg",
+      "title_translated": "随着又有一个品牌加入抢先体验计划，Android 17 Beta 版不断壮大",
+      "summary_translated": "Android 17 Beta 登陆这四款智能手机。"
+    },
     {
       "id": "f70961209f41",
       "title": "iOS 26.4 gave CarPlay two new features, with another big one coming",
