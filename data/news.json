@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-04-29 20:18:54",
-  "total_count": 540,
-  "news_count": 535,
+  "last_updated": "2026-04-29 22:09:35",
+  "total_count": 542,
+  "news_count": 537,
   "android_count": 154,
-  "ios_count": 381,
+  "ios_count": 383,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3d0f3c1180fc",
+      "title": "9to5Mac Daily: April 29, 2026 – iOS 27 rumors, App Store changes",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Bitwarden: Make your life easier with Bitwarden, featurin",
+      "url": "https://9to5mac.com/2026/04/29/daily-april-29-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-29 21:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 4 月 29 日 – iOS 27 传闻、App Store 变化",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Bitwarden 赞助：Bitwarden 让您的生活更轻松，特色"
+    },
+    {
+      "id": "64fa84b77a05",
+      "title": "Apple Home recently got better in three ways, here’s what’s new",
+      "summary": "Apple is expected to launch a wave of new Home products later this year, after iOS 27 brings Siri’s long-awaited overhaul. But there are three ways Apple Home has recently gotten better during the iOS 26 cycle too. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/04/29/apple-home-recently-got-better-in-three-ways-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-29 20:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Home 最近在三个方面取得了进步，以下是新内容",
+      "summary_translated": "在 iOS 27 带来了人们期待已久的 Siri 改革之后，苹果预计将在今年晚些时候推出一波新的家庭产品。但 Apple Home 最近在 iOS 26 周期中也在三个方面取得了进步。这是新内容。\n更多的…"
+    },
     {
       "id": "3a1a34c974f7",
       "title": "iOS 26.4 adds convenient new iCloud feature, here’s how to enable it",
