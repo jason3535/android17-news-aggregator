@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-29 18:22:36",
-  "total_count": 539,
-  "news_count": 534,
+  "last_updated": "2026-04-29 20:18:54",
+  "total_count": 540,
+  "news_count": 535,
   "android_count": 154,
-  "ios_count": 380,
+  "ios_count": 381,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3a1a34c974f7",
+      "title": "iOS 26.4 adds convenient new iCloud feature, here’s how to enable it",
+      "summary": "iOS 26.4 launched last month with new features for Apple Music, Podcasts, and a lot more. There’s also a new iOS 26.4 feature that makes iCloud on the web more useful than before thanks to the addition of search. Here’s how to enable it.\nmore…",
+      "url": "https://9to5mac.com/2026/04/29/ios-26-4-adds-convenient-new-icloud-feature-heres-how-to-enable-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-29 19:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-search-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 添加了方便的新 iCloud 功能，以下是如何启用它",
+      "summary_translated": "iOS 26.4 于上个月发布，其中包含 Apple Music、播客等新功能。 iOS 26.4 还新增了一项新功能，由于添加了搜索功能，网络版 iCloud 比以前更加有用。以下是启用它的方法。\n更多的…"
+    },
     {
       "id": "e99c8bd66ff7",
       "title": "Camera in iOS 27 to feature Siri mode with enhanced Visual Intelligence, per report",
