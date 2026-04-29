@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-29 16:50:18",
-  "total_count": 537,
-  "news_count": 532,
+  "last_updated": "2026-04-29 18:22:36",
+  "total_count": 539,
+  "news_count": 534,
   "android_count": 154,
-  "ios_count": 378,
+  "ios_count": 380,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e99c8bd66ff7",
+      "title": "Camera in iOS 27 to feature Siri mode with enhanced Visual Intelligence, per report",
+      "summary": "Apple is saving its big Siri upgrade for iOS 27’s reveal in June, and it sounds like one of the biggest iPhone apps will benefit. A new report details Siri features coming to the Camera, better Visual Intelligence features, and more.\nmore…",
+      "url": "https://9to5mac.com/2026/04/29/camera-in-ios-27-to-feature-siri-mode-with-enhanced-visual-intelligence-per-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-29 16:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/new-siri-ui-wwdc-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，iOS 27 中的相机将采用具有增强视觉智能的 Siri 模式",
+      "summary_translated": "苹果将​​在 6 月份发布 iOS 27 时保留对 Siri 的重大升级，听起来最大的 iPhone 应用程序之一将会受益。一份新报告详细介绍了相机中的 Siri 功能、更好的视觉智能功能等等。\n更多的…"
+    },
     {
       "id": "0d391bf828d5",
       "title": "Android 17 beta grows as one more brand joins early access program",
@@ -19,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-easter-egg-hero.jpg",
       "title_translated": "随着又有一个品牌加入抢先体验计划，Android 17 Beta 版不断壮大",
       "summary_translated": "Android 17 Beta 登陆这四款智能手机。"
+    },
+    {
+      "id": "3a0b50839d1b",
+      "title": "iOS 27 Camera App to Get 'Siri' Mode With Nutrition Label Scanning",
+      "summary": "Apple is planning to integrate Apple Intelligence and Siri into more of its apps in iOS 27, including the Camera app, reports Bloomberg. The ‌iOS 27‌ Camera app will have a dedicated ‌Siri‌ mode that will be available alongside the existing Photo, Video, Portrait, and Panorama modes. When in ‌Siri‌ ",
+      "url": "https://www.macrumors.com/2026/04/29/ios-27-camera-app-siri-mode/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-04-29 09:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "title_translated": "iOS 27 相机应用程序将获得支持营养标签扫描的“Siri”模式",
+      "summary_translated": "据彭博社报道，苹果计划将 Apple Intelligence 和 Siri 集成到 iOS 27 中的更多应用程序中，包括相机应用程序。 iOS 27 相机应用程序将具有专用的 Siri 模式，该模式将与现有的照片、视频、肖像和全景模式一起使用。在 Siri 时"
     },
     {
       "id": "f70961209f41",
