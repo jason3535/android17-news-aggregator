@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-30 20:17:22",
-  "total_count": 544,
-  "news_count": 539,
+  "last_updated": "2026-04-30 22:06:27",
+  "total_count": 545,
+  "news_count": 540,
   "android_count": 154,
-  "ios_count": 385,
+  "ios_count": 386,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9f64fa626e3b",
+      "title": "iOS 27 to bring AI inside the Camera app, Tim Cook’s biggest mistake, iPhone shutdown problem",
+      "summary": "Benjamin and Chance discuss whether bringing visual intelligence inside the Camera app is a good idea, as rumored for iOS 27 by Bloomberg. Also, Tim Cook shares his personal highs and lows across his career, Mayo’s iPhone refuses to turn on after running out of battery, and the App Store launches a ",
+      "url": "https://9to5mac.com/2026/04/30/happy-hour-588/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-30 20:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 将人工智能引入相机应用程序，蒂姆·库克最大的错误，iPhone 关机问题",
+      "summary_translated": "Benjamin 和 Chance 讨论了在相机应用程序中引入视觉智能是否是​​一个好主意，正如彭博社关于 iOS 27 的传闻那样。此外，蒂姆·库克 (Tim Cook) 分享了他个人职业生涯的高潮和低谷、梅奥 (Mayo) 的 iPhone 在电池耗尽后拒绝开机、App Store 推出了"
+    },
     {
       "id": "58c9146ff454",
       "title": "iOS 26 upgraded one of Apple’s best Home Screen widgets in two ways",
