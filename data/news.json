@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-30 14:21:29",
-  "total_count": 542,
-  "news_count": 537,
+  "last_updated": "2026-04-30 16:43:18",
+  "total_count": 543,
+  "news_count": 538,
   "android_count": 154,
-  "ios_count": 383,
+  "ios_count": 384,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3f377d4a9151",
+      "title": "iOS 26.4 improved Apple’s Health app, and bigger upgrades are coming soon",
+      "summary": "Apple’s Health app got a pair of welcome improvements in iOS 26.4, and rumors indicate Apple has major upgrades coming soon in iOS 27.\nmore…",
+      "url": "https://9to5mac.com/2026/04/30/ios-26-4-improved-apples-health-app-and-bigger-upgrades-are-coming-soon/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-30 15:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-health-features.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.4 改进了苹果的健康应用程序，更大的升级即将推出",
+      "summary_translated": "苹果的健康应用程序在 iOS 26.4 中获得了两项受欢迎的改进，有传言称苹果即将在 iOS 27 中进行重大升级。\n更多…"
+    },
     {
       "id": "3d0f3c1180fc",
       "title": "9to5Mac Daily: April 29, 2026 – iOS 27 rumors, App Store changes",
