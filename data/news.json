@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-30 18:21:35",
-  "total_count": 543,
-  "news_count": 538,
+  "last_updated": "2026-04-30 20:17:22",
+  "total_count": 544,
+  "news_count": 539,
   "android_count": 154,
-  "ios_count": 384,
+  "ios_count": 385,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "58c9146ff454",
+      "title": "iOS 26 upgraded one of Apple’s best Home Screen widgets in two ways",
+      "summary": "iOS 26.4 added brand new widgets for the iPhone’s Home Screen, but you might not know that fairly recently, Apple also upgraded its popular Photos widget in two ways.\nmore…",
+      "url": "https://9to5mac.com/2026/04/30/ios-26-upgraded-one-of-apples-best-home-screen-widgets-in-two-ways/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-04-30 18:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-home-screen-widgets-photos.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 通过两种方式升级了苹果最好的主屏幕小部件之一",
+      "summary_translated": "iOS 26.4 为 iPhone 主屏幕添加了全新的小部件，但你可能不知道，最近，苹果还通过两种方式升级了其流行的照片小部件。\n更多的…"
+    },
     {
       "id": "3f377d4a9151",
       "title": "iOS 26.4 improved Apple’s Health app, and bigger upgrades are coming soon",
