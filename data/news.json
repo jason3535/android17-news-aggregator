@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-01 17:10:09",
-  "total_count": 546,
-  "news_count": 541,
+  "last_updated": "2026-05-01 19:35:34",
+  "total_count": 547,
+  "news_count": 542,
   "android_count": 154,
-  "ios_count": 387,
+  "ios_count": 388,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a9fcc8aa9638",
+      "title": "iOS 26.5 release date: Here’s when new iPhone features are coming",
+      "summary": "iOS 26.5 is coming soon, complete with new iPhone features. Here’s when iOS 26.5 is expected to launch to all users.\nmore…",
+      "url": "https://9to5mac.com/2026/05/01/ios-26-5-release-date-heres-when-new-iphone-features-are-coming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-01 17:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-when.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 发布日期：iPhone 新功能即将推出",
+      "summary_translated": "iOS 26.5 即将推出，其中包含新的 iPhone 功能。 iOS 26.5 预计将于此时向所有用户发布。\n更多的…"
+    },
     {
       "id": "d513a3382f0a",
       "title": "Here's When to Expect an iPad 12 With Apple Intelligence",
