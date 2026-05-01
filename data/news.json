@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-01 15:10:58",
-  "total_count": 545,
-  "news_count": 540,
+  "last_updated": "2026-05-01 17:10:09",
+  "total_count": 546,
+  "news_count": 541,
   "android_count": 154,
-  "ios_count": 386,
+  "ios_count": 387,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d513a3382f0a",
+      "title": "Here's When to Expect an iPad 12 With Apple Intelligence",
+      "summary": "A new entry-level iPad 12 with Apple Intelligence support likely remains months away, based on a comment shared by an Apple executive this week.\n\n\n\n\nOn an earnings call on Thursday, Apple's CFO Kevan Parekh said that the company's iPad revenue in the March-June quarter will face a \"difficult compare",
+      "url": "https://www.macrumors.com/2026/05/01/ipad-12-with-apple-intelligence-timing/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-01 08:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/iPad-A16-Colors.jpg",
+      "title_translated": "搭载 Apple Intelligence 的 iPad 12 何时上市",
+      "summary_translated": "根据苹果高管本周分享的评论，带有 Apple Intelligence 支持的新入门级 iPad 12 可能还需要几个月的时间才能推出。\n\n\n\n\n在周四的财报电话会议上，苹果首席财务官 Kevan Parekh 表示，该公司 3 月至 6 月季度的 iPad 收入将面临“艰难的比较”。"
+    },
     {
       "id": "9f64fa626e3b",
       "title": "iOS 27 to bring AI inside the Camera app, Tim Cook’s biggest mistake, iPhone shutdown problem",
