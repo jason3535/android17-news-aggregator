@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-01 19:35:34",
-  "total_count": 547,
-  "news_count": 542,
+  "last_updated": "2026-05-01 21:05:10",
+  "total_count": 549,
+  "news_count": 544,
   "android_count": 154,
-  "ios_count": 388,
+  "ios_count": 390,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3606f289d8ac",
+      "title": "iOS 26’s new Phone app won me over with two excellent features",
+      "summary": "iOS 26 overhauled one of the iPhone’s original and most iconic apps: the Phone app. While I’ve never enjoyed phone calls, two excellent new features make them a lot better in iOS 26—and have made me a big fan of the app.\nmore…",
+      "url": "https://9to5mac.com/2026/05/01/ios-26s-new-phone-app-won-me-over-with-two-excellent-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-01 19:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-phone-app.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 的新手机应用程序以两个出色的功能赢得了我的青睐",
+      "summary_translated": "iOS 26 彻底改变了 iPhone 最初且最具标志性的应用程序之一：电话应用程序。虽然我从来不喜欢打电话，但 iOS 26 中的两个出色的新功能让打电话变得更好，并且让我成为了这款应用的忠实粉丝。\n更多的…"
+    },
     {
       "id": "a9fcc8aa9638",
       "title": "iOS 26.5 release date: Here’s when new iPhone features are coming",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-when.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5 发布日期：iPhone 新功能即将推出",
       "summary_translated": "iOS 26.5 即将推出，其中包含新的 iPhone 功能。 iOS 26.5 预计将于此时向所有用户发布。\n更多的…"
+    },
+    {
+      "id": "177413fe3e85",
+      "title": "Apple to Unveil macOS 27 Next Month With These New Features",
+      "summary": "Apple will unveil its latest software platforms during its WWDC 2026 keynote on Monday, June 8, and one of them will be macOS 27 for the Mac.\n\n\n\n\nThe first developer beta of macOS 27 will likely be available immediately following the keynote, and a public beta typically follows in July. Following be",
+      "url": "https://www.macrumors.com/2026/05/01/macos-27-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-01 13:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/macOS-27-on-MacBook-Pro.jpg",
+      "title_translated": "Apple 将于下个月推出具有这些新功能的 macOS 27",
+      "summary_translated": "苹果将​​在 6 月 8 日星期一的 WWDC 2026 主题演讲中推出其最新的软件平台，其中之一就是 Mac 版 macOS 27。\n\n\n\n\nmacOS 27 的第一个开发者测试版可能会在主题演讲结束后立即发布，而公开测试版通常会在 7 月发布。以下是"
     },
     {
       "id": "d513a3382f0a",
