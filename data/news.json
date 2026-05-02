@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-02 15:02:04",
-  "total_count": 549,
-  "news_count": 544,
+  "last_updated": "2026-05-02 15:57:53",
+  "total_count": 550,
+  "news_count": 545,
   "android_count": 154,
-  "ios_count": 390,
+  "ios_count": 391,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "93b2f076ca64",
+      "title": "iOS 27 Will Add These New Features to Your iPhone",
+      "summary": "Apple is expected to unveil iOS 27 during its WWDC 2026 keynote on June 8, and there are already many rumored features and changes for iPhones.\n\n\n\n\nThe first developer beta of iOS 27 will likely be available immediately following the keynote, and a public beta typically follows in July. Following be",
+      "url": "https://www.macrumors.com/2026/05/02/ios-27-will-add-these-new-iphone-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-02 08:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+      "title_translated": "iOS 27 将为你的 iPhone 添加这些新功能",
+      "summary_translated": "苹果预计将在 6 月 8 日的 WWDC 2026 主题演讲中发布 iOS 27，目前已经有很多关于 iPhone 的功能和变化的传闻。\n\n\n\n\niOS 27 的第一个开发者测试版可能会在主题演讲结束后立即发布，而公开测试版通常会在 7 月发布。以下是"
+    },
     {
       "id": "3606f289d8ac",
       "title": "iOS 26’s new Phone app won me over with two excellent features",
