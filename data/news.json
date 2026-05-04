@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-04 14:27:32",
-  "total_count": 552,
-  "news_count": 547,
+  "last_updated": "2026-05-04 16:58:04",
+  "total_count": 553,
+  "news_count": 548,
   "android_count": 154,
-  "ios_count": 393,
+  "ios_count": 394,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-pride-wallpaper.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5 的新 Pride 壁纸揭晓，以及 Apple Watch 表盘",
       "summary_translated": "Apple 刚刚宣布了 2026 年新的 Pride Collection，包括 iOS 和 iPadOS 26.5 中的新壁纸以及 watchOS 26.5 中的新表盘。还有一款新的 Apple Watch 表带可供选择。以下是详细信息。\n更多的…"
+    },
+    {
+      "id": "2a290b9e400b",
+      "title": "iOS 26.5 Coming Soon With These New Features",
+      "summary": "iOS 26.5 is expected to be released this May, following more than a month of beta testing. The update is relatively minor so far, which is not too surprising given that Apple is starting to shift its focus towards iOS 27.\n\n\n\n\niOS 26.5 lays the groundwork for end-to-end encryption for RCS in the Mess",
+      "url": "https://www.macrumors.com/2026/05/04/ios-26-5-coming-soon-with-these-new-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-04 08:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Green.jpg",
+      "title_translated": "iOS 26.5 即将推出这些新功能",
+      "summary_translated": "经过一个多月的 Beta 测试后，iOS 26.5 预计将于今年 5 月发布。到目前为止，更新相对较小，考虑到苹果开始将重点转向 iOS 27，这并不奇怪。\n\n\n\n\niOS 26.5 为 Mess 中的 RCS 端到端加密奠定了基础"
     },
     {
       "id": "93b2f076ca64",
