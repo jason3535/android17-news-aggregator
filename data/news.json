@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-04 12:02:41",
-  "total_count": 550,
-  "news_count": 545,
+  "last_updated": "2026-05-04 14:27:32",
+  "total_count": 552,
+  "news_count": 547,
   "android_count": 154,
-  "ios_count": 391,
+  "ios_count": 393,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "eb574e5e0153",
+      "title": "New iPhone redesign is coming next year, inspired by Liquid Glass: report",
+      "summary": "Apple has a unique iPhone redesign coming next year for the product’s 20th anniversary, and it reportedly was created to blend seamlessly with iOS 26’s Liquid Glass design.\nmore…",
+      "url": "https://9to5mac.com/2026/05/04/new-iphone-redesign-is-coming-next-year-inspired-by-liquid-glass-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-04 14:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/ios-26-2-liquid-glass-lock-screen-clock.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "受液态玻璃启发，新款 iPhone 将于明年重新设计：报告",
+      "summary_translated": "苹果将​​在明年庆祝该产品 20 周年之际对 iPhone 进行独特的重新设计，据报道，它的设计目的是与 iOS 26 的液态玻璃设计无缝融合。\n更多的…"
+    },
+    {
+      "id": "8be8c2d8238e",
+      "title": "iOS 26.5’s new Pride wallpaper revealed, plus Apple Watch face",
+      "summary": "Apple has just announced its new Pride Collection for 2026, including a new wallpaper in iOS and iPadOS 26.5 and a new watch face in watchOS 26.5. There’s a new Apple Watch band available too. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/05/04/ios-26-5s-new-pride-wallpaper-revealed-plus-apple-watch-face/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-04 13:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-pride-wallpaper.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 的新 Pride 壁纸揭晓，以及 Apple Watch 表盘",
+      "summary_translated": "Apple 刚刚宣布了 2026 年新的 Pride Collection，包括 iOS 和 iPadOS 26.5 中的新壁纸以及 watchOS 26.5 中的新表盘。还有一款新的 Apple Watch 表带可供选择。以下是详细信息。\n更多的…"
+    },
     {
       "id": "93b2f076ca64",
       "title": "iOS 27 Will Add These New Features to Your iPhone",
