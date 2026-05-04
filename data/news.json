@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-04 18:48:58",
-  "total_count": 562,
-  "news_count": 557,
+  "last_updated": "2026-05-04 20:38:56",
+  "total_count": 563,
+  "news_count": 558,
   "android_count": 154,
-  "ios_count": 403,
+  "ios_count": 404,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "dd741ccb943e",
+      "title": "iOS 26.5 RC sets up support for app sideloading in Brazil",
+      "summary": "Following a decision from Brazil’s competition watchdog last year, Apple is now gearing up to allow app sideloading in the country. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/05/04/ios-26-5-rc-sets-up-support-for-app-sideloading-in-brazil/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-04 19:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 RC 在巴西设置对应用侧载的支持",
+      "summary_translated": "继巴西竞争监管机构去年做出决定后，苹果现在正准备允许在该国进行应用侧载。以下是详细信息。\n更多的…"
+    },
     {
       "id": "b9c6db2acdff",
       "title": "Encrypted RCS between Android and iPhone launching with iOS 26.5",
