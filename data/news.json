@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-05 20:15:19",
-  "total_count": 572,
-  "news_count": 567,
+  "last_updated": "2026-05-05 22:10:07",
+  "total_count": 574,
+  "news_count": 569,
   "android_count": 156,
-  "ios_count": 411,
+  "ios_count": 413,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a9922fe334c6",
+      "title": "9to5Mac Daily: May 5, 2026 – iOS 26.5 RC, Apple chip partners",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Bitwarden: Make your life easier with Bitwarden, featurin",
+      "url": "https://9to5mac.com/2026/05/05/daily-may-5-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-05 21:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 5 月 5 日 – iOS 26.5 RC，Apple 芯片合作伙伴",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Bitwarden 赞助：Bitwarden 让您的生活更轻松，特色"
+    },
     {
       "id": "7f1d6094f64e",
       "title": "2026 May Pixel Update Available for Your Pixel Phone",
@@ -103,6 +117,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27：下个月将宣布七项新功能",
       "summary_translated": "苹果将​​于下个月 6 月 8 日 WWDC 开幕期间发布 iOS 27。以下是传闻中 iOS 27 中将出现的七项 iPhone 新功能。\n更多…"
+    },
+    {
+      "id": "e38b42c306fd",
+      "title": "Apple to Pay $250 Million to Settle Class Action Over Delayed Siri Features",
+      "summary": "Apple will pay $250 million to settle a class action lawsuit accusing it of false advertising and unfair competition after the personalized Siri features it promoted when launching the iPhone 16 were delayed.\n\n\n\n\nA smarter, Apple Intelligence version of ‌Siri‌ was shown off at WWDC 2024, and then pr",
+      "url": "https://www.macrumors.com/2026/05/05/apple-class-action-siri-lawsuit-settlement/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-05 14:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/Apple-More-Personal-Siri-Ad.jpg",
+      "title_translated": "苹果将​​支付 2.5 亿美元和解因 Siri 功能延迟而引发的集体诉讼",
+      "summary_translated": "苹果公司将支付 2.5 亿美元来和解一项集体诉讼，该诉讼指控该公司在推出 iPhone 16 时宣传的个性化 Siri 功能被推迟，该公司涉嫌虚假广告和不公平竞争。\n\n\n\n\n更智能的 Apple Intelligence 版本‌Siri‌ 在 WWDC 2024 上展示，然后发布"
     },
     {
       "id": "844c05f9486d",
