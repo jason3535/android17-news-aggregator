@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-06 14:41:56",
-  "total_count": 574,
-  "news_count": 569,
+  "last_updated": "2026-05-06 16:51:33",
+  "total_count": 575,
+  "news_count": 570,
   "android_count": 156,
-  "ios_count": 413,
+  "ios_count": 414,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5f6f6909e09d",
+      "title": "CarPlay in iOS 26 promises video playback feature, here’s the latest",
+      "summary": "Apple made a major U-turn with CarPlay after a decade of not allowing video playback. Starting with iOS 26, Apple technically allows apps to display video through the CarPlay screen while parked. Here’s the latest on where things stand for the feature.\nmore…",
+      "url": "https://9to5mac.com/2026/05/06/carplay-video-ios-26/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-06 15:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/Apple-WWDC25-iOS-26-CarPlay-Dark-mode-250609_big.jpg.large_2x.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 中的 CarPlay 承诺视频播放功能，这是最新的",
+      "summary_translated": "在不允许视频播放十年之后，苹果公司在 CarPlay 上做出了重大转变。从 iOS 26 开始，苹果在技术上允许应用程序在停车时通过 CarPlay 屏幕显示视频。以下是该功能的最新情况。\n更多的…"
+    },
     {
       "id": "a9922fe334c6",
       "title": "9to5Mac Daily: May 5, 2026 – iOS 26.5 RC, Apple chip partners",
