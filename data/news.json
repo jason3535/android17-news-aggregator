@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-07 18:56:04",
-  "total_count": 583,
-  "news_count": 578,
+  "last_updated": "2026-05-07 20:23:44",
+  "total_count": 584,
+  "news_count": 579,
   "android_count": 160,
-  "ios_count": 418,
+  "ios_count": 419,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "16b8d4bb3bc7",
+      "title": "Apple Notes is a killer app, and iOS 27’s rumored upgrade excites me for more",
+      "summary": "Apple Notes has long been one of my most-used apps, and iOS 27 is rumored to add a powerful new capability that I know will quickly become a go-to feature for me.\nmore…",
+      "url": "https://9to5mac.com/2026/05/07/apple-notes-is-a-killer-app-and-ios-27s-rumored-upgrade-excites-me-for-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-07 19:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-notes-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Notes 是一款杀手级应用，传闻中的 iOS 27 升级让我兴奋不已",
+      "summary_translated": "Apple Notes 长期以来一直是我最常用的应用程序之一，据传 iOS 27 添加了一项强大的新功能，我知道它很快就会成为我的首选功能。\n更多的…"
+    },
     {
       "id": "5fa6cc31ab68",
       "title": "iOS 26.5: Five new iPhone features are coming next week",
