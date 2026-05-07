@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-07 14:44:26",
-  "total_count": 582,
-  "news_count": 577,
+  "last_updated": "2026-05-07 17:01:19",
+  "total_count": 583,
+  "news_count": 578,
   "android_count": 160,
-  "ios_count": 417,
+  "ios_count": 418,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5fa6cc31ab68",
+      "title": "iOS 26.5: Five new iPhone features are coming next week",
+      "summary": "We’re just weeks away from iOS 27’s unveiling, but Apple has another iPhone update arriving first. iOS 26.5 is coming next week, here are five new features it will bring.\nmore…",
+      "url": "https://9to5mac.com/2026/05/07/ios-26-5-five-new-iphone-features-are-coming-next-week/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-07 15:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-iphone-angle.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5：五项新 iPhone 功能将于下周推出",
+      "summary_translated": "距离 iOS 27 发布仅几周时间，但苹果公司已经率先发布了另一款 iPhone 更新。 iOS 26.5 将于下周发布，以下是它将带来的五项新功能。\n更多的…"
+    },
     {
       "id": "309e3cd22d37",
       "title": "John Ternus on AI said exactly what I wanted to hear",
