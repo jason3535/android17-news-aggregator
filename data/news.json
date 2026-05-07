@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-07 20:23:44",
-  "total_count": 584,
-  "news_count": 579,
+  "last_updated": "2026-05-07 22:12:32",
+  "total_count": 585,
+  "news_count": 580,
   "android_count": 160,
-  "ios_count": 419,
+  "ios_count": 420,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "044e7f4ce605",
+      "title": "This single-step Apple Shortcut might quickly become your new favorite",
+      "summary": "Apple’s Shortcuts app offers tremendous power, especially with iOS 26’s additions around AI. But my own most-used shortcuts tend to be extremely simple, including one shared by Quinn Nelson for opening an app’s settings.\nmore…",
+      "url": "https://9to5mac.com/2026/05/07/this-single-step-apple-shortcut-might-quickly-become-your-new-favorite/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-07 20:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/shortcuts-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这个单步苹果快捷方式可能很快就会成为你的新宠",
+      "summary_translated": "Apple 的 Shortcuts 应用程序提供了巨大的功能，尤其是 iOS 26 中围绕 AI 的新增功能。但我自己最常用的快捷方式往往非常简单，包括 Quinn Nelson 分享的用于打开应用程序设置的快捷方式。\n更多的…"
+    },
     {
       "id": "16b8d4bb3bc7",
       "title": "Apple Notes is a killer app, and iOS 27’s rumored upgrade excites me for more",
