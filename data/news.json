@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-06 22:06:18",
-  "total_count": 578,
-  "news_count": 573,
-  "android_count": 159,
+  "last_updated": "2026-05-07 00:00:21",
+  "total_count": 579,
+  "news_count": 574,
+  "android_count": 160,
   "ios_count": 414,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8c1d1d6984b6",
+      "title": "Here’s everything new in Android 17 QPR1 Beta 2 [Gallery]",
+      "summary": "Like the first preview, Android 17 QPR1 Beta 2 today does not contain many user-facing changes that would explain the fast two-week turnaround between builds. \nmore…",
+      "url": "https://9to5google.com/2026/05/06/android-17-qpr1-beta-2-everything-new/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-05-06 22:08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这是 Android 17 QPR1 Beta 2 中的所有新功能 [图库]",
+      "summary_translated": "与第一个预览版一样，今天的 Android 17 QPR1 Beta 2 并没有包含许多面向用户的更改，这些更改无法解释构建之间快速的两周周转时间。 \n更多的…"
+    },
     {
       "id": "0b02e6c131fb",
       "title": "Android 17 QPR1 Beta 2 arrives with a slew of bugfixes",
@@ -8035,7 +8049,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -8046,7 +8060,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -8057,7 +8071,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -8068,7 +8082,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -8079,7 +8093,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
