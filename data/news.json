@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-08 12:16:42",
-  "total_count": 585,
-  "news_count": 580,
+  "last_updated": "2026-05-08 15:01:22",
+  "total_count": 586,
+  "news_count": 581,
   "android_count": 160,
-  "ios_count": 420,
+  "ios_count": 421,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c9f98beb68a2",
+      "title": "iOS 27 has new features coming for two of iPhone’s most popular apps",
+      "summary": "iOS 27’s unveiling is only weeks away, and rumors for new features keep coming. Here are the rumored iOS 27 upgrades coming for two of iPhone’s most popular apps: Camera and Photos.\nmore…",
+      "url": "https://9to5mac.com/2026/05/08/ios-27-has-new-features-coming-for-two-of-iphones-most-popular-apps/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-08 14:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 为 iPhone 两款最受欢迎的应用程序带来了新功能",
+      "summary_translated": "距离 iOS 27 的发布只有几周时间了，关于新功能的传闻不断传来。据传，iOS 27 将针对 iPhone 最受欢迎的两款应用程序进行升级：相机和照片。\n更多的…"
+    },
     {
       "id": "044e7f4ce605",
       "title": "This single-step Apple Shortcut might quickly become your new favorite",
