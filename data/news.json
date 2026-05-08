@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-08 16:42:18",
-  "total_count": 586,
-  "news_count": 581,
+  "last_updated": "2026-05-08 18:20:50",
+  "total_count": 588,
+  "news_count": 583,
   "android_count": 160,
-  "ios_count": 421,
+  "ios_count": 423,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c6f807fa9910",
+      "title": "Apple releases iOS 26.5 RC 2 ahead of public launch",
+      "summary": "Apple has released a new RC (release candidate) build for iOS 26.5 and iPadOS 26.5 today, available now for developers and public beta testers.\nmore…",
+      "url": "https://9to5mac.com/2026/05/08/apple-releases-ios-26-5-rc-2-ahead-of-public-launch/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-08 17:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-rc.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果在公开发布之前发布了 iOS 26.5 RC 2",
+      "summary_translated": "Apple 今天发布了适用于 iOS 26.5 和 iPadOS 26.5 的新 RC（候选版本）版本，现已可供开发者和公共 Beta 测试人员使用。\n更多的…"
+    },
     {
       "id": "c9f98beb68a2",
       "title": "iOS 27 has new features coming for two of iPhone’s most popular apps",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 为 iPhone 两款最受欢迎的应用程序带来了新功能",
       "summary_translated": "距离 iOS 27 的发布只有几周时间了，关于新功能的传闻不断传来。据传，iOS 27 将针对 iPhone 最受欢迎的两款应用程序进行升级：相机和照片。\n更多的…"
+    },
+    {
+      "id": "e0dbfdc54600",
+      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
+      "summary": "Apple today seeded new release candidate versions of upcoming iOS 26.5 and iPadOS 26.5 updates to developers for testing purposes, with the software coming five days after the first RC. It's not clear what's changed in the second RC, but Apple typically sends out another candidate if there are bugs ",
+      "url": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-08 10:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Warm.jpg",
+      "title_translated": "Apple 向开发者发布第二个 iOS 26.5 和 iPadOS 26.5 候选版本",
+      "summary_translated": "Apple 今天向开发者发布了即将推出的 iOS 26.5 和 iPadOS 26.5 更新的新发布候选版本以进行测试，该软件在首次 RC 发布五天后发布。目前尚不清楚第二个 RC 中发生了什么变化，但如果存在错误，苹果通常会发送另一个候选者"
     },
     {
       "id": "044e7f4ce605",
