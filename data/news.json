@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-09 11:08:59",
-  "total_count": 590,
-  "news_count": 585,
-  "android_count": 160,
-  "ios_count": 425,
+  "last_updated": "2026-05-09 13:47:16",
+  "total_count": 592,
+  "news_count": 587,
+  "android_count": 161,
+  "ios_count": 426,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "df5052fe1506",
+      "title": "Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video]",
+      "summary": "A new leak showcases an incoming ability for Google Pixel phones to turn off the built-in search bar that has been a part of the Pixel Launcher for years.\nmore…",
+      "url": "https://9to5google.com/2026/05/09/google-pixel-search-bar-toggle-android-17-leak/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-05-09 12:25",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-10a-launcher-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Google Pixel 手机可能会让你在 Android 17 QPR1 中放弃搜索栏 [视频]",
+      "summary_translated": "一项新的泄密事件显示，谷歌 Pixel 手机将能够关闭多年来一直是 Pixel Launcher 一部分的内置搜索栏。\n更多的…"
+    },
     {
       "id": "b7322d8c8f2a",
       "title": "iOS 26 adds fun way to customize your iPhone wallpaper, here’s how to use it",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-13.15.36.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26 增加了自定义 iPhone 壁纸的有趣方式，以下是如何使用它",
       "summary_translated": "iOS 26 不断添加许多自定义 iPhone 的新方法，但我最喜欢的方法之一是第一个 26.0 版本中的方法：3D 空间壁纸。以下是如何使用该功能。\n更多的…"
+    },
+    {
+      "id": "f64f1a193b55",
+      "title": "Top Stories: iOS 26.5 Coming Soon, Goodbye $599 Mac Mini, and More",
+      "summary": "With Apple preparing to unveil iOS 27 and related updates at WWDC in just under a month, iOS 26.5 and friends are now right around the corner with some minor tweaks before we get our first look at the next major update.\n\n\n\n\nThis week also saw Apple making more changes to its Mac mini and Mac Studio ",
+      "url": "https://www.macrumors.com/2026/05/09/top-stories-ios-26-5-coming-soon/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-08 19:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/top-stories-2026-05-09.jpg",
+      "title_translated": "头条新闻：iOS 26.5 即将推出，再见 599 美元的 Mac Mini 等",
+      "summary_translated": "随着苹果准备在不到一个月的时间内在 WWDC 上发布 iOS 27 和相关更新，iOS 26.5 和其他版本即将推出，在我们第一次看到下一个重大更新之前，我们会进行一些细微的调整。\n\n\n\n\n本周，苹果还对其 Mac mini 和 Mac Studio 做出了更多改变"
     },
     {
       "id": "0ed1f1318e3b",
