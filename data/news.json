@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-09 15:07:15",
-  "total_count": 592,
-  "news_count": 587,
+  "last_updated": "2026-05-09 17:07:54",
+  "total_count": 593,
+  "news_count": 588,
   "android_count": 161,
-  "ios_count": 426,
+  "ios_count": 427,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e6c0ef4f55b4",
+      "title": "Here’s why I’m optimistic about iOS 27 and Apple’s renewed focus on stability",
+      "summary": "This year, Apple is rumored to be doing a code cleanup for iOS 27, as well as overall having a renewed focus for stability and performance – on top of a plethora of Apple Intelligence features. While this on its own sounds good, I think there’s a higher reason for why we should expect an impressivel",
+      "url": "https://9to5mac.com/2026/05/09/ios-27-focus-on-stability-why-im-optimistic/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-09 16:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-05.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这就是为什么我对 iOS 27 和苹果重新关注稳定性持乐观态度",
+      "summary_translated": "今年，有传言称苹果将对 iOS 27 进行代码清理，并在大量 Apple Intelligence 功能之外重新关注稳定性和性能。虽然这本身听起来不错，但我认为还有一个更重要的原因可以解释为什么我们应该期待一个令人印象深刻的结果"
+    },
     {
       "id": "df5052fe1506",
       "title": "Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video]",
