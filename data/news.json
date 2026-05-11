@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-11 19:06:50",
-  "total_count": 607,
-  "news_count": 602,
+  "last_updated": "2026-05-11 21:38:37",
+  "total_count": 610,
+  "news_count": 605,
   "android_count": 161,
-  "ios_count": 441,
+  "ios_count": 444,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8a93eac20bdb",
+      "title": "iOS 26.5: These carriers offer RCS end-to-end encrypted messaging",
+      "summary": "iOS 26.5 is here, and one of its tentpole features is RCS end-to-end encrypted messaging. Here’s the list of carriers that currently support the new RCS feature.\nmore…",
+      "url": "https://9to5mac.com/2026/05/11/ios-26-5-these-carriers-offer-rcs-end-to-end-encrypted-messaging/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-11 19:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/rcs-e2ee-messages-ios-26-5.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5：这些运营商提供 RCS 端到端加密消息传递",
+      "summary_translated": "iOS 26.5 现已发布，其主打功能之一是 RCS 端到端加密消息传递。以下是当前支持新 RCS 功能的运营商列表。\n更多的…"
+    },
     {
       "id": "865a80435fdf",
       "title": "iOS 26.5 has fixes for 50+ security issues on iPhone, details here",
@@ -105,6 +119,20 @@
       "summary_translated": "想在车内使用您最喜欢的人工智能聊天机器人应用程序吗？ iOS 26.4 及更高版本支持基于语音的对话应用程序，我们已经看到一些流行的 iPhone 应用程序针对 CarPlay 进行了更新。\n虽然并非每个 AI 聊天机器人都有专用的 CarPlay 应用程序，但小部件支持可以让您非常接近某些功能"
     },
     {
+      "id": "aab42bb42de7",
+      "title": "EU iPhone Users Get AirPods-Like Pairing and Notification Forwarding for Third-Party Wearables in iOS 26.5",
+      "summary": "iOS 26.5 introduces several interoperability changes for third-party wearables, which means European iPhone users have access to new capabilities when using non-Apple accessories.\n\n\n\n\nTo comply with the EU's Digital Markets Act, Apple is letting third-party wearables access some features that have h",
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-11 13:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/12/european-union-eu.jpg",
+      "title_translated": "欧盟 iPhone 用户在 iOS 26.5 中获得类似 AirPods 的第三方可穿戴设备配对和通知转发功能",
+      "summary_translated": "iOS 26.5 引入了针对第三方可穿戴设备的多项互操作性更改，这意味着欧洲 iPhone 用户在使用非 Apple 配件时可以使用新功能。\n\n\n\n\n为了遵守欧盟的数字市场法案，Apple 允许第三方可穿戴设备访问一些具有以下功能的功能："
+    },
+    {
       "id": "b40b4b26ef00",
       "title": "visionOS 27 will bring these new Vision Pro upgrades: report",
       "summary": "Apple’s next major software versions are being unveiled at WWDC 2026 on June 8, including the new Vision Pro update, visionOS 27. Here’s what to expect from visionOS 27, per Bloomberg.\nmore…",
@@ -131,6 +159,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-05.jpg?quality=82&strip=all&w=1600",
       "title_translated": "根据报告，iOS 27 添加了管理 Safari 选项卡的新方法",
       "summary_translated": "距离 Apple 在 WWDC 上宣布 iOS 27 还有不到一个月的时间。今天的一份新报告证实，Apple 正在向 Safari 添加一项新功能，以帮助您管理选项卡并保持井井有条……\n更多…"
+    },
+    {
+      "id": "b2b53ab859a3",
+      "title": "Apple's iOS 26.5 Update Patches More Than 50 Security Flaws",
+      "summary": "The iOS 26.5 and iPadOS 26.5 updates Apple released today address more than 50 security vulnerabilities, which means it's worth updating soon if you haven't done so already.\n\n\n\n\nApple's security support document outlines all of the security updates included in the new software. There were no known a",
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-security-fixes/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-11 12:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "title_translated": "Apple iOS 26.5 更新修补了 50 多个安全漏洞",
+      "summary_translated": "Apple 今天发布的 iOS 26.5 和 iPadOS 26.5 更新解决了 50 多个安全漏洞，这意味着如果您还没有更新，值得尽快更新。\n\n\n\n\n苹果的安全支持文档概述了新软件中包含的所有安全更新。没有已知的"
     },
     {
       "id": "b07f3428bb75",
