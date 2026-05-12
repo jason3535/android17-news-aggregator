@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11 23:07:59",
-  "total_count": 610,
-  "news_count": 605,
+  "last_updated": "2026-05-12 04:01:41",
+  "total_count": 611,
+  "news_count": 606,
   "android_count": 161,
-  "ios_count": 444,
+  "ios_count": 445,
   "leaker_count": 5,
   "items": [
     {
@@ -89,6 +89,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/rcs-lock.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26.5 为 RCS 消息传递添加了端到端加密，现已推出",
       "summary_translated": "经过六周的 Beta 测试后，iOS 26.5 现已向所有人开放。此次更新为 Apple 地图添加了新鲜的壁纸、新功能等等。\n也许最值得注意的是，iOS 26.5 增加了对 RCS 消息传递端到端加密的支持。苹果表示，该功能仍处于测试阶段，将逐步推出"
+    },
+    {
+      "id": "a1435984ce98",
+      "title": "iOS 26.5 Features: Everything New in iOS 26.5",
+      "summary": "Apple released iOS 26.5 after a few months of beta testing, and while it doesn't have the Siri features we were hoping for since those are being held until iOS 27, there are a handful of useful changes worth knowing about.\n\n\n\n\nEnd-to-End Encryption for RCS\n\nSupport for end-to-end encryption (E2EE) f",
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-11 17:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-26.5-Glass-Feature-Purple.jpg",
+      "title_translated": "iOS 26.5 功能：iOS 26.5 中的一切新功能",
+      "summary_translated": "经过几个月的 Beta 测试，苹果发布了 iOS 26.5，虽然它没有我们所希望的 Siri 功能，因为这些功能要保留到 iOS 27，但还是有一些有用的变化值得了解。\n\n\n\n\nRCS 端到端加密\n\n支持端到端加密 (E2EE) f"
     },
     {
       "id": "86f1c5c195bd",
@@ -8483,7 +8497,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -8494,7 +8508,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -8505,7 +8519,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -8516,7 +8530,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -8527,7 +8541,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-11",
+      "date": "2026-05-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
