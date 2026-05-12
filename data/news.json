@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-12 06:46:14",
-  "total_count": 611,
-  "news_count": 606,
-  "android_count": 161,
+  "last_updated": "2026-05-12 09:47:53",
+  "total_count": 612,
+  "news_count": 607,
+  "android_count": 162,
   "ios_count": 445,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "754270ebc34a",
+      "title": "Here’s how to watch The Android Show I/O Edition live today",
+      "summary": "Expect plenty of Android 17 and Gemini news, but we're also on the lookout for Aluminium OS and Android XR details.",
+      "url": "https://www.androidauthority.com/watch-android-show-io-2026-live-3665803/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-12 07:53",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
+      "title_translated": "以下是今天观看 Android Show I/O 版直播的方法",
+      "summary_translated": "预计会有大量 Android 17 和 Gemini 消息，但我们也在关注 Aluminium OS 和 Android XR 的详细信息。"
+    },
     {
       "id": "8a93eac20bdb",
       "title": "iOS 26.5: These carriers offer RCS end-to-end encrypted messaging",
