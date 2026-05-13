@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-12 22:21:02",
-  "total_count": 631,
-  "news_count": 626,
+  "last_updated": "2026-05-13 00:11:30",
+  "total_count": 633,
+  "news_count": 628,
   "android_count": 171,
-  "ios_count": 455,
+  "ios_count": 457,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0605e09d962f",
+      "title": "Your iPhone just got a brand new colorful wallpaper, here’s how to customize it",
+      "summary": "With the iOS 26.5 update, Apple has added a new Pride Luminance wallpaper to your iPhone. The wallpaper features strips of colors that transition as you swipe up from the lock screen to the home screen. By default, the wallpaper uses a rich, vibrant color palette that celebrates the LGBTQ+ community",
+      "url": "https://9to5mac.com/2026/05/12/your-iphone-just-got-a-brand-new-colorful-wallpaper-heres-how-to-customize-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-12 22:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-colorful-wallpaper-customize.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "您的 iPhone 刚刚获得了全新的彩色壁纸，以下是自定义它的方法",
+      "summary_translated": "通过 iOS 26.5 更新，Apple 为您的 iPhone 添加了新的 Pride Luminance 壁纸。壁纸具有颜色条，当您从锁定屏幕向上滑动到主屏幕时，颜色条会发生过渡。默认情况下，壁纸使用丰富、充满活力的调色板，庆祝 LGBTQ+ 社区"
+    },
+    {
+      "id": "a11965373d13",
+      "title": "Apple notified in Brazil over allegedly misleading Apple Intelligence ads",
+      "summary": "After agreeing to a $250 million settlement in the U.S. over claims that it misled customers about delayed Apple Intelligence and Siri features, Apple is now facing similar scrutiny in Brazil. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/05/12/apple-notified-in-brazil-over-allegedly-misleading-apple-intelligence-ads/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-12 22:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-slash.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果因涉嫌误导性 Apple Intelligence 广告而在巴西收到通知",
+      "summary_translated": "在美国同意以 2.5 亿美元和解，指控其在 Apple Intelligence 和 Siri 功能延迟上误导客户，现在苹果在巴西也面临着类似的审查。以下是详细信息。\n更多的…"
+    },
     {
       "id": "527064c01f83",
       "title": "iOS 27’s ‘completely rebuilt’ Siri will include a new system-wide search gesture: report",
@@ -8777,7 +8805,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -8788,7 +8816,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -8799,7 +8827,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -8810,7 +8838,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -8821,7 +8849,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
