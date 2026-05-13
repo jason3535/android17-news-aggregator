@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-13 04:57:31",
-  "total_count": 633,
-  "news_count": 628,
-  "android_count": 171,
+  "last_updated": "2026-05-13 08:08:34",
+  "total_count": 634,
+  "news_count": 629,
+  "android_count": 172,
   "ios_count": 457,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a0d1586180d6",
+      "title": "Samsung confirms a second wave of One UI 9 beta rollouts is coming soon",
+      "summary": "Galaxy S26 owners in more countries will get access to the Android 17-based beta software later this month.",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-second-wave-3666427/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-13 06:17",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-Galaxy-AI-Now-Brief-scaled.jpg",
+      "title_translated": "三星确认 One UI 9 Beta 版第二波发布即将推出",
+      "summary_translated": "更多国家/地区的 Galaxy S26 用户将在本月晚些时候获得基于 Android 17 的测试版软件。"
+    },
     {
       "id": "0605e09d962f",
       "title": "Your iPhone just got a brand new colorful wallpaper, here’s how to customize it",
