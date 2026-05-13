@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-13 08:08:34",
-  "total_count": 634,
-  "news_count": 629,
-  "android_count": 172,
+  "last_updated": "2026-05-13 11:35:35",
+  "total_count": 635,
+  "news_count": 630,
+  "android_count": 173,
   "ios_count": 457,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a6e8ce958128",
+      "title": "Samsung kicks off One UI 9 beta: Here’s what’s new on your Galaxy S26",
+      "summary": "The update brings along Android 17 and changes like a redesigned Quick Panel, DeX upgrades, and new privacy tools.",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-galaxy-s26-changelog-3666500/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-13 09:48",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg",
+      "title_translated": "三星启动 One UI 9 测试版：以下是 Galaxy S26 的新功能",
+      "summary_translated": "此次更新带来了 Android 17 和重新设计的快速面板、DeX 升级和新的隐私工具等变化。"
+    },
     {
       "id": "a0d1586180d6",
       "title": "Samsung confirms a second wave of One UI 9 beta rollouts is coming soon",
