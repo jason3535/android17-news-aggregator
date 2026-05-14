@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-14 18:05:22",
-  "total_count": 650,
-  "news_count": 645,
+  "last_updated": "2026-05-14 20:01:05",
+  "total_count": 651,
+  "news_count": 646,
   "android_count": 178,
-  "ios_count": 467,
+  "ios_count": 468,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7caab9c052f9",
+      "title": "iOS 27 design changes, AirPods with cameras, Apple education store changes",
+      "summary": "Benjamin and Chance discuss changes to the Apple education store, the cool new Apple Developer icon, rumors about some design changes for iOS 27 and macOS 27, and whether we can think of anything compelling AirPods with cameras could be used for. \nAnd in Happy Hour Plus, we discuss the state of iOS ",
+      "url": "https://9to5mac.com/2026/05/14/happy-hour-590/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-14 19:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 设计变更、带摄像头的 AirPods、苹果教育商店变更",
+      "summary_translated": "Benjamin 和 Chance 讨论了 Apple 教育商店的变化、酷炫的新 Apple Developer 图标、有关 iOS 27 和 macOS 27 的一些设计变化的传言，以及我们是否能想到带有摄像头的 AirPods 的任何引人注目的用途。 \n在 Happy Hour Plus 中，我们讨论了 iOS 的现状"
+    },
     {
       "id": "de9d4f52f29c",
       "title": "Here’s Even More Android 17 Features You Need to Know",
