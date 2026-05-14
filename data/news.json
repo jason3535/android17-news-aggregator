@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13 22:22:23",
-  "total_count": 646,
-  "news_count": 641,
+  "last_updated": "2026-05-14 00:12:22",
+  "total_count": 647,
+  "news_count": 642,
   "android_count": 177,
-  "ios_count": 464,
+  "ios_count": 465,
   "leaker_count": 5,
   "items": [
     {
@@ -75,6 +75,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/android-17-3d-emoji-edit.jpg?quality=82&strip=all&w=1500",
       "title_translated": "不，Android 17 的新 3D 表情符号不是 AI 生成的",
       "summary_translated": "谷歌更新的表情符号设计让许多人怀疑是否涉及人工智能生成，但 Android 17 的 3D 表情符号实际上是“手工建模的”。\n更多的…"
+    },
+    {
+      "id": "1580d3cb85ae",
+      "title": "Ads Aren't in the Apple Maps App Yet, But They're Coming Soon",
+      "summary": "Apple released iOS 26.5 yesterday with a new Suggested Places feature in the Apple Maps app, which is a precursor to the ads that Apple plans to start showing later this year. There was some confusion over whether ads are live, but as of now, the ‌Apple Maps‌ app still doesn't have ads.\n\n\n\n\nApple di",
+      "url": "https://www.macrumors.com/2026/05/13/apple-maps-app-ads-summer-2026/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-13 16:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/Ads-Are-Coming-to-Apple-Maps-Feature.jpg",
+      "title_translated": "Apple 地图应用中尚未出现广告，但很快就会推出",
+      "summary_translated": "苹果昨天发布了 iOS 26.5，在苹果地图应用中新增了“建议地点”功能，这是苹果计划在今年晚些时候开始展示的广告的前身。对于广告是否存在存在一些困惑，但截至目前，Apple Maps 应用程序仍然没有广告。\n\n\n\n\n苹果迪"
     },
     {
       "id": "c75cfa65378e",
@@ -8987,7 +9001,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -8998,7 +9012,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -9009,7 +9023,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -9020,7 +9034,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -9031,7 +9045,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
