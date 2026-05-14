@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-14 13:02:00",
-  "total_count": 647,
-  "news_count": 642,
+  "last_updated": "2026-05-14 15:29:11",
+  "total_count": 649,
+  "news_count": 644,
   "android_count": 177,
-  "ios_count": 465,
+  "ios_count": 467,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c194c24ab133",
+      "title": "CarPlay just gained two new audio apps to keep you entertained on your next trip",
+      "summary": "CarPlay continues to improve in two ways. iOS 26 gives the in-car experience new features like widgets and upgraded Music and Messages apps.\nMeanwhile, new third-party CarPlay apps are regularly added that enhance the platform. This week, two new audio apps arrive on CarPlay in time for your next su",
+      "url": "https://9to5mac.com/2026/05/14/carplay-just-gained-two-new-audio-apps-to-keep-you-entertained-on-your-next-trip/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-14 14:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-ios-26-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "CarPlay 刚刚获得了两款新的音频应用程序，让您在下一次旅行中保持娱乐",
+      "summary_translated": "CarPlay 在两个方面不断改进。 iOS 26 为车内体验提供了新功能，例如小部件以及升级的音乐和消息应用程序。\n与此同时，定期添加新的第三方 CarPlay 应用程序以增强该平台。本周，两款新的音频应用程序及时登陆 CarPlay，供您下次使用"
+    },
+    {
+      "id": "474d1af0ace6",
+      "title": "Apple has won a prestigious award for iOS 26’s Liquid Glass design",
+      "summary": "Apple was just recognized with a prestigious award for its Liquid Glass design in iOS 26. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/05/14/apple-has-won-a-prestigious-award-for-ios-26s-liquid-glass-design/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-14 14:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-wallpapers.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 凭借 iOS 26 的液态玻璃设计荣获著名奖项",
+      "summary_translated": "Apple 刚刚因其 iOS 26 中的液态玻璃设计获得了一项享有盛誉的奖项。以下是详细信息。\n更多的…"
+    },
     {
       "id": "50f0cf36088a",
       "title": "Android 17 Theme Color Slider Brings Real Customization",
