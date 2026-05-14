@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-14 15:29:11",
-  "total_count": 649,
-  "news_count": 644,
-  "android_count": 177,
+  "last_updated": "2026-05-14 18:05:22",
+  "total_count": 650,
+  "news_count": 645,
+  "android_count": 178,
   "ios_count": 467,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "de9d4f52f29c",
+      "title": "Here’s Even More Android 17 Features You Need to Know",
+      "summary": "Google may have revealed a bunch of major feature changes for Android 17 earlier this week through the latest edition of “The Android Show,” but they weren’t done. Today, the Android team dropped a new video that dives into other Android 17 changes you might love even more. As a bit of a spoiler, mo",
+      "url": "https://www.droid-life.com/2026/05/14/heres-even-more-android-17-features-you-need-to-know/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-05-14 17:07",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Android-17-New-Features-Everything-980x546.jpg",
+      "title_translated": "您需要了解更多 Android 17 功能",
+      "summary_translated": "谷歌可能在本周早些时候通过最新一期的“Android Show”透露了 Android 17 的一系列主要功能变化，但尚未完成。今天，Android 团队发布了一个新视频，深入介绍了您可能更喜欢的其他 Android 17 更改。作为一点剧透，莫"
+    },
     {
       "id": "c194c24ab133",
       "title": "CarPlay just gained two new audio apps to keep you entertained on your next trip",
