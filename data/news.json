@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-15 18:48:34",
-  "total_count": 655,
-  "news_count": 650,
-  "android_count": 180,
+  "last_updated": "2026-05-15 20:21:19",
+  "total_count": 656,
+  "news_count": 651,
+  "android_count": 181,
   "ios_count": 470,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8ed2e71abc44",
+      "title": "Gemini Intelligence on Your Pixel or Galaxy Phone Looking Doubtful",
+      "summary": "This week’s Android announcements were big, just as Google said they would be. We got a preview of some of Android 17’s biggest upcoming features, plus Google announced Gemini Intelligence, the next big move for Gemini onto flagship devices. This next step for Gemini on your Android phone will proac",
+      "url": "https://www.droid-life.com/2026/05/15/gemini-intelligence-on-your-pixel-or-galaxy-phone-looking-doubtful/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-05-15 19:03",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Android-17-Gemini-Intelligence-3-980x653.jpg",
+      "title_translated": "Pixel 或 Galaxy 手机上的 Gemini Intelligence 看起来令人怀疑",
+      "summary_translated": "正如谷歌所说，本周的 Android 公告非常重要。我们预览了 Android 17 即将推出的一些最大功能，此外，谷歌还宣布了 Gemini Intelligence，这是 Gemini 在旗舰设备上的下一个重大举措。 Gemini 在 Android 手机上的下一步将是"
+    },
     {
       "id": "7174fd028b3b",
       "title": "CarPlay in iOS 26 adds five new ways to customize your setup",
