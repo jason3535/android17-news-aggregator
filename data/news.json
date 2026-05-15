@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14 23:08:58",
-  "total_count": 651,
-  "news_count": 646,
+  "last_updated": "2026-05-15 04:14:09",
+  "total_count": 652,
+  "news_count": 647,
   "android_count": 178,
-  "ios_count": 468,
+  "ios_count": 469,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ios-26-wallpapers.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 凭借 iOS 26 的液态玻璃设计荣获著名奖项",
       "summary_translated": "Apple 刚刚因其 iOS 26 中的液态玻璃设计获得了一项享有盛誉的奖项。以下是详细信息。\n更多的…"
+    },
+    {
+      "id": "23d75bb14e69",
+      "title": "Apple's iPhone 18 Modem Switch Comes With a Quiet Privacy Benefit",
+      "summary": "Rumors suggest Apple plans to expand Apple-designed modems to the entire iPhone 18 lineup, ending support for Qualcomm modems. The transition will bring speed and efficiency improvements, along with a little-known privacy benefit.\n\n\n\n\nIn iOS 26.3, Apple added a Limit Precise Location setting that cu",
+      "url": "https://www.macrumors.com/2026/05/14/iphone-18-pro-modem-benefits/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-14 13:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/02/Apple-Wi-Fi-Chip-Feature-Navy.jpg",
+      "title_translated": "Apple 的 iPhone 18 调制解调器开关具有安静的隐私优势",
+      "summary_translated": "有传言称，苹果计划将苹果设计的调制解调器扩展到整个 iPhone 18 系列，并终止对高通调制解调器的支持。这一转变将带来速度和效率的提高，以及鲜为人知的隐私优势。\n\n\n\n\n在 iOS 26.3 中，Apple 添加了“限制精确位置”设置"
     },
     {
       "id": "50f0cf36088a",
@@ -9057,7 +9071,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -9068,7 +9082,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -9079,7 +9093,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -9090,7 +9104,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -9101,7 +9115,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
