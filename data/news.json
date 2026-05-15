@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-15 04:14:09",
-  "total_count": 652,
-  "news_count": 647,
-  "android_count": 178,
+  "last_updated": "2026-05-15 08:12:22",
+  "total_count": 653,
+  "news_count": 648,
+  "android_count": 179,
   "ios_count": 469,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "79431d7caf25",
+      "title": "Android 17 deep dive reveals Google’s most practical update in years",
+      "summary": "Google has released a new video about Android 17 showcasing features users will actually notice.",
+      "url": "https://www.androidauthority.com/android-17-deep-dive-3667344/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-15 08:08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-easter-egg-hero.jpg",
+      "title_translated": "Android 17 深入剖析揭示谷歌多年来最实用的更新",
+      "summary_translated": "谷歌发布了一段有关 Android 17 的新视频，展示了用户实际上会注意到的功能。"
+    },
     {
       "id": "7caab9c052f9",
       "title": "iOS 27 design changes, AirPods with cameras, Apple education store changes",
