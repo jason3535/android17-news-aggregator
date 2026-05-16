@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15 22:09:43",
-  "total_count": 656,
-  "news_count": 651,
+  "last_updated": "2026-05-16 00:03:26",
+  "total_count": 657,
+  "news_count": 652,
   "android_count": 181,
-  "ios_count": 470,
+  "ios_count": 471,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Android-17-Gemini-Intelligence-3-980x653.jpg",
       "title_translated": "Pixel 或 Galaxy 手机上的 Gemini Intelligence 看起来令人怀疑",
       "summary_translated": "正如谷歌所说，本周的 Android 公告非常重要。我们预览了 Android 17 即将推出的一些最大功能，此外，谷歌还宣布了 Gemini Intelligence，这是 Gemini 在旗舰设备上的下一个重大举措。 Gemini 在 Android 手机上的下一步将是"
+    },
+    {
+      "id": "f94944b22b7d",
+      "title": "10 Useful iPhone Tips and Tricks You Might Not Know About",
+      "summary": "Over the years, the iPhone's operating system has gotten complicated. Apple adds new features with every version of iOS, and many of them aren't always obvious, leading to hidden iPhone capabilities you might not be aware of.\n\n\n\n\nThe tips below assume that you have iOS 26 or later installed.\n\n\nTurn ",
+      "url": "https://www.macrumors.com/guide/useful-iphone-tricks-2026/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-15 16:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/10-Useful-iPhone-Tips-and-Tricks-Feature-2.jpg",
+      "title_translated": "您可能不知道的 10 个有用的 iPhone 提示和技巧",
+      "summary_translated": "多年来，iPhone 的操作系统变得越来越复杂。 Apple 在每个版本的 iOS 中都添加了新功能，其中许多功能并不总是显而易见，导致您可能没有意识到隐藏的 iPhone 功能。\n\n\n\n\n以下提示假设您安装了 iOS 26 或更高版本。\n\n\n转动"
     },
     {
       "id": "7174fd028b3b",
@@ -9127,7 +9141,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -9138,7 +9152,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -9149,7 +9163,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -9160,7 +9174,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -9171,7 +9185,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
