@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-17 13:53:53",
-  "total_count": 658,
-  "news_count": 653,
+  "last_updated": "2026-05-17 15:12:20",
+  "total_count": 660,
+  "news_count": 655,
   "android_count": 181,
-  "ios_count": 472,
+  "ios_count": 474,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "acad7094ece3",
+      "title": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions",
+      "summary": "According to the Power On newsletter from Mark Gurman, Apple is planning an interesting new Genmoji feature in iOS 27 to bolster its usage: suggested Genmoji’s based on your photo library and keyboard history.\nmore…",
+      "url": "https://9to5mac.com/2026/05/17/report-apple-to-upgrade-genmoji-in-ios-27-with-new-automatic-suggestions/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-17 14:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/genmoji-ios-26-sloth.jpg.webp?w=1500",
+      "title_translated": "报告：苹果将在 iOS 27 中升级 Genmoji 并提供新的自动建议",
+      "summary_translated": "根据 Mark Gurman 的 Power On 时事通讯，苹果计划在 iOS 27 中推出一项有趣的新 Genmoji 功能，以增强其使用率：根据您的照片库和键盘历史记录建议 Genmoji。\n更多的…"
+    },
+    {
+      "id": "43310d5fdb2f",
+      "title": "Standalone Siri app to offer auto-deleting chat history, launch with beta label: report",
+      "summary": "Next month at WWDC 2026, Apple is expected to finally live up to its AI Siri promises, and more. The company has long been working on a new standalone Siri app to boost how users interact with Siri and Apple Intelligence – and it should be debuting in beta next month.\nAccording to a new report from ",
+      "url": "https://9to5mac.com/2026/05/17/apple-launching-new-siri-app-next-month-with-auto-deleting-chat-history/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-17 14:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen-close-angle.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "独立 Siri 应用程序将提供自动删除聊天记录功能，并以 Beta 标签启动：报告",
+      "summary_translated": "在下个月的 WWDC 2026 上，苹果预计将最终兑现其 AI Siri 的承诺等等。该公司长期以来一直致力于开发一款新的独立 Siri 应用程序，以增强用户与 Siri 和 Apple Intelligence 的交互方式，并且该应用程序应该会在下个月推出测试版。\n根据一份新报告"
+    },
     {
       "id": "8ed2e71abc44",
       "title": "Gemini Intelligence on Your Pixel or Galaxy Phone Looking Doubtful",
