@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-18 20:42:42",
-  "total_count": 671,
-  "news_count": 666,
+  "last_updated": "2026-05-18 22:10:38",
+  "total_count": 672,
+  "news_count": 667,
   "android_count": 182,
-  "ios_count": 484,
+  "ios_count": 485,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b610f2094c47",
+      "title": "With iOS 27, Shortcuts is about to become what it was always meant to be",
+      "summary": "The Shortcuts app has always been an amazingly powerful automation tool for users who know what these very words mean. But now, it may finally become an approachable tool that delivers on its true potential for users of all kinds. Here’s why.\nmore…",
+      "url": "https://9to5mac.com/2026/05/18/with-ios-27-shortcuts-is-about-to-become-what-it-was-always-meant-to-be/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-18 22:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/shortcuts-apple-intelligence-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "在 iOS 27 中，快捷方式将成为它本来的样子",
+      "summary_translated": "对于知道这些词含义的用户来说，快捷方式应用程序一直是一个非常强大的自动化工具。但现在，它可能最终成为一种平易近人的工具，为各类用户发挥其真正的潜力。原因如下。\n更多的…"
+    },
     {
       "id": "f0169b505fe6",
       "title": "iOS 26.5 adds new setting for alternative app marketplaces in Brazil",
