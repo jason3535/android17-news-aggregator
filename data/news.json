@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-18 19:00:10",
-  "total_count": 670,
-  "news_count": 665,
+  "last_updated": "2026-05-18 20:42:42",
+  "total_count": 671,
+  "news_count": 666,
   "android_count": 182,
-  "ios_count": 483,
+  "ios_count": 484,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f0169b505fe6",
+      "title": "iOS 26.5 adds new setting for alternative app marketplaces in Brazil",
+      "summary": "Apple has added a new setting on iOS 26.5 that lets Brazilian users select their preferred app marketplace other than the App Store. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/05/18/ios-26-5-adds-new-setting-for-alternative-app-marketplaces-in-brazil/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-18 20:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-installation-brazil.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 为巴西的替代应用市场添加了新设置",
+      "summary_translated": "Apple 在 iOS 26.5 上添加了一项新设置，允许巴西用户选择 App Store 之外的首选应用市场。以下是详细信息。\n更多的…"
+    },
     {
       "id": "65001a7ecfc2",
       "title": "iOS 27 to add new custom wallpaper feature, more: report",
