@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-19 10:03:12",
-  "total_count": 672,
-  "news_count": 667,
+  "last_updated": "2026-05-19 12:53:05",
+  "total_count": 674,
+  "news_count": 669,
   "android_count": 182,
-  "ios_count": 485,
+  "ios_count": 487,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "44a60d4b74e6",
+      "title": "Apple announces return of popular MagSafe iPhone stand and grip",
+      "summary": "Apple today unveiled a suite of new accessibility features coming with iOS 27, visionOS 27, and more later this year.\nAs part of that announcement, Apple also said a popular iPhone accessory that sold out quickly at launch is making a comeback.\nmore…",
+      "url": "https://9to5mac.com/2026/05/19/apple-announces-return-of-popular-magsafe-iphone-stand-and-grip/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-19 12:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Apple-accessibility-features-Hikawa-Grip-and-Stand-lineup.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 宣布回归广受欢迎的 MagSafe iPhone 支架和手柄",
+      "summary_translated": "Apple 今天推出了一套新的辅助功能，将于今年晚些时候随 iOS 27、visionOS 27 等一起推出。\n作为该公告的一部分，苹果还表示，一款在发布时迅速售空的流行 iPhone 配件正在卷土重来。\n更多的…"
+    },
+    {
+      "id": "9548fc652b71",
+      "title": "Apple Previews New Accessibility Features Powered by Apple Intelligence",
+      "summary": "Apple today announced a suite of accessibility updates that use Apple Intelligence to expand capabilities across VoiceOver, Magnifier, Voice Control, and Accessibility Reader, with additional new features for generated subtitles and wheelchair control via Apple Vision Pro.\n\n\n\n\n‌Apple Intelligence‌ p",
+      "url": "https://www.macrumors.com/2026/05/19/new-accessibility-features-with-apple-intelligence/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-19 05:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-27-Accessibility-Feature.jpg",
+      "title_translated": "Apple 预览由 Apple Intelligence 提供支持的新辅助功能",
+      "summary_translated": "Apple 今天发布了一套辅助功能更新，利用 Apple Intelligence 来扩展 VoiceOver、放大镜、语音控制和辅助阅读器的功能，以及通过 Apple Vision Pro 生成字幕和轮椅控制的附加新功能。\n\n\n\n\n‌Apple Intelligence‌ p"
+    },
     {
       "id": "b610f2094c47",
       "title": "With iOS 27, Shortcuts is about to become what it was always meant to be",
