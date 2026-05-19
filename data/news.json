@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-19 21:41:44",
-  "total_count": 686,
-  "news_count": 681,
-  "android_count": 190,
+  "last_updated": "2026-05-19 23:18:09",
+  "total_count": 688,
+  "news_count": 683,
+  "android_count": 192,
   "ios_count": 491,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fd6bd100382d",
+      "title": "Android 17 QPR1 Beta 3 has a bouncy new animation for Quick Settings [Video]",
+      "summary": "Google is updating Android 17’s Quick Settings in the latest beta release with a fun new animation that’s a little bit bouncy.\nmore…",
+      "url": "https://9to5google.com/2026/05/19/android-17-qpr1-beta-3-has-a-bouncy-new-animation-for-quick-settings-video/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-05-19 22:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/android-17-quick-settings.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 QPR1 Beta 3 具有用于快速设置的弹性新动画 [视频]",
+      "summary_translated": "谷歌正在最新的测试版中更新 Android 17 的快速设置，并添加了一个有趣的新动画，有点弹性。\n更多的…"
+    },
+    {
+      "id": "084bce03f7b6",
+      "title": "Android 17 QPR1 Beta 3 now defaults screen recording to your last-used app",
+      "summary": "After appearing for the first time in Android 17 Beta, Google’s screen recorder menu now defaults to an option that most people want to use.\nmore…",
+      "url": "https://9to5google.com/2026/05/19/android-17-qpr1-beta-3-screen-recorder-defaults-single-app/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-05-19 21:55",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/android-17-screen-recording-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 QPR1 Beta 3 现在默认将屏幕录制到您上次使用的应用程序",
+      "summary_translated": "在 Android 17 Beta 中首次出现后，谷歌的屏幕录像机菜单现在默认为大多数人想要使用的选项。\n更多的…"
+    },
     {
       "id": "c4f959f48225",
       "title": "Android 17 QPR1 Beta 3: System UI adds more blur to Pixel",
