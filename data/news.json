@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-20 04:23:14",
-  "total_count": 689,
-  "news_count": 684,
-  "android_count": 193,
+  "last_updated": "2026-05-20 08:33:54",
+  "total_count": 690,
+  "news_count": 685,
+  "android_count": 194,
   "ios_count": 491,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8d3884195603",
+      "title": "Android 17 takes a big step toward Apple-style ecosystem continuity with ‘Continue On’",
+      "summary": "Your Android devices will finally start acting like best friends now.",
+      "url": "https://www.androidauthority.com/android-17-continue-on-3669055/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-20 07:38",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg",
+      "title_translated": "Android 17 通过“Continue On”向苹果式生态系统连续性迈出了一大步",
+      "summary_translated": "您的 Android 设备现在终于开始像最好的朋友一样工作了。"
+    },
     {
       "id": "64bd3ab59fb7",
       "title": "Android 17’s ‘Continue On’ will let you move tasks between devices, like Apple’s Handoff",
