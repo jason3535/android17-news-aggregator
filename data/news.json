@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-20 12:00:20",
-  "total_count": 692,
-  "news_count": 687,
+  "last_updated": "2026-05-20 15:52:20",
+  "total_count": 693,
+  "news_count": 688,
   "android_count": 196,
-  "ios_count": 491,
+  "ios_count": 492,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "84376202ab3b",
+      "title": "Apple’s three goals for iOS 27 sound like a big win for users",
+      "summary": "We’re less than three weeks away from WWDC and iOS 27’s unveiling, and reporting indicates Apple has three main goals for the update that could be exactly what the iPhone needs.\nmore…",
+      "url": "https://9to5mac.com/2026/05/20/apples-three-goals-for-ios-27-sound-like-a-big-win-for-users/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-20 14:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-three-up-iOS-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果为 iOS 27 设定的三个目标听起来对用户来说是一个巨大的胜利",
+      "summary_translated": "距离 WWDC 和 iOS 27 的发布还有不到三周的时间，有报道称，苹果此次更新的三个主要目标可能正是 iPhone 所需要的。\n更多的…"
+    },
     {
       "id": "6d8a64727719",
       "title": "Android 17’s Live Updates will be a boon for workout and travel apps",
