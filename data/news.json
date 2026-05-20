@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-20 08:33:54",
-  "total_count": 690,
-  "news_count": 685,
-  "android_count": 194,
+  "last_updated": "2026-05-20 12:00:20",
+  "total_count": 692,
+  "news_count": 687,
+  "android_count": 196,
   "ios_count": 491,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6d8a64727719",
+      "title": "Android 17’s Live Updates will be a boon for workout and travel apps",
+      "summary": "The new Metric Style notification template for Live Updates brings the focus to real-time raw data right on your lock screen.",
+      "url": "https://www.androidauthority.com/android-17-live-updates-metric-style-template-3669117/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-20 10:35",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Live-Updates-on-a-Pixel-9-Pro-running-Android-16-QPR1-scaled.jpg",
+      "title_translated": "Android 17 的实时更新将为健身和旅行应用程序带来福音",
+      "summary_translated": "用于实时更新的新公制样式通知模板将焦点集中在锁定屏幕上的实时原始数据。"
+    },
+    {
+      "id": "5d40ffb016c1",
+      "title": "Android 17 cracks down on shady apps that play surprise background audio",
+      "summary": "Apps will need to be actively in use or implement approved background services to control audio playback.",
+      "url": "https://www.androidauthority.com/android-17-background-audio-hardening-3669109/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-20 09:08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-3-scaled.jpg",
+      "title_translated": "Android 17 打击播放令人惊讶的背景音频的可疑应用",
+      "summary_translated": "应用程序需要积极使用或实施批准的后台服务来控制音频播放。"
+    },
     {
       "id": "8d3884195603",
       "title": "Android 17 takes a big step toward Apple-style ecosystem continuity with ‘Continue On’",
