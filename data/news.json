@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-20 18:28:16",
-  "total_count": 697,
-  "news_count": 692,
-  "android_count": 198,
-  "ios_count": 494,
+  "last_updated": "2026-05-20 21:06:49",
+  "total_count": 699,
+  "news_count": 694,
+  "android_count": 199,
+  "ios_count": 495,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fbe8644ac053",
+      "title": "Here’s a closer look at how Android 17’s OS verification is going to work",
+      "summary": "Android 17 will let you use one device to verify the other's software.",
+      "url": "https://www.androidauthority.com/android-os-verification-3669298/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-20 18:47",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-2-scaled.jpg",
+      "title_translated": "下面详细介绍了 Android 17 操作系统验证的工作原理",
+      "summary_translated": "Android 17 将允许您使用一台设备验证另一台设备的软件。"
+    },
     {
       "id": "fffbd806c1af",
       "title": "Android 17’s media player carousel gets a card-based redesign in QPR1 Beta 3",
@@ -61,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-three-up-iOS-26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果为 iOS 27 设定的三个目标听起来对用户来说是一个巨大的胜利",
       "summary_translated": "距离 WWDC 和 iOS 27 的发布还有不到三周的时间，有报道称，苹果此次更新的三个主要目标可能正是 iPhone 所需要的。\n更多的…"
+    },
+    {
+      "id": "2519cd11b45e",
+      "title": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon",
+      "summary": "Every May, Apple previews new accessibility features coming to devices like the iPhone, iPad, and Mac. The announcement typically occurs a few days before Global Accessibility Awareness Day, and it offers a glimpse into what will be included in the next major releases of Apple's software platforms, ",
+      "url": "https://www.macrumors.com/2026/05/20/ios-27-ai-voice-control-hints-at-siri-revamp/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-20 12:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-27s-New-AI-Voice-Control-Feature-Hints-at-Major-Siri-Upgrade-Feature.jpg",
+      "title_translated": "iOS 27 的全新 AI 语音控制功能暗示 Siri 即将进行重大升级",
+      "summary_translated": "每年五月，Apple 都会预览 iPhone、iPad 和 Mac 等设备的新辅助功能。该公告通常发生在全球无障碍意识日的前几天，它可以让人们了解苹果软件平台的下一个主要版本中将包含哪些内容，"
     },
     {
       "id": "6d8a64727719",
