@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-21 16:22:50",
-  "total_count": 702,
-  "news_count": 697,
-  "android_count": 202,
+  "last_updated": "2026-05-21 19:09:09",
+  "total_count": 703,
+  "news_count": 698,
+  "android_count": 203,
   "ios_count": 495,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d4486de4cd46",
+      "title": "Clicks Communicator will ship with Android 17 and a bigger battery than we thought",
+      "summary": "It might look like a throwback, but its software is current.",
+      "url": "https://www.androidauthority.com/clicks-communicator-android-17-3669905/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-21 18:53",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/clicks-communicator-hands-on-ces-1-scaled.jpg",
+      "title_translated": "Clicks Communicator 将搭载 Android 17 以及比我们想象的更大的电池",
+      "summary_translated": "它可能看起来像是一种复古，但它的软件是最新的。"
+    },
     {
       "id": "70402150d0d4",
       "title": "Clicks Communicator Launching With Android 17, Bigger Battery",
