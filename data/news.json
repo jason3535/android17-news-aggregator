@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-21 12:25:11",
-  "total_count": 701,
-  "news_count": 696,
-  "android_count": 201,
+  "last_updated": "2026-05-21 16:22:50",
+  "total_count": 702,
+  "news_count": 697,
+  "android_count": 202,
   "ios_count": 495,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "70402150d0d4",
+      "title": "Clicks Communicator Launching With Android 17, Bigger Battery",
+      "summary": "For those keeping track of the Clicks Communicator, the Android phone with a physical keyboard that wants to be a productivity device (?) has an update on its situation. We now know the software it’ll launch with, plus the battery is increasing in capacity. In an update to pre-order holders that sho",
+      "url": "https://www.droid-life.com/2026/05/21/clicks-communicator-launching-with-android-17-bigger-battery/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-05-21 16:06",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Clicks-Communicator-3-980x597.jpg",
+      "title_translated": "Clicks Communicator 推出 Android 17，电池容量更大",
+      "summary_translated": "对于那些关注 Clicks Communicator 的人来说，带有物理键盘、想要成为生产力设备（？）的 Android 手机的情况有所更新。我们现在知道它将启动的软件，而且电池的容量也在增加。在对预购者的更新中，"
+    },
     {
       "id": "01be7793508f",
       "title": "Android 17 gets a smarter media switcher, and it already feels better than the old carousel",
