@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-21 04:40:12",
-  "total_count": 699,
-  "news_count": 694,
-  "android_count": 199,
+  "last_updated": "2026-05-21 08:41:16",
+  "total_count": 701,
+  "news_count": 696,
+  "android_count": 201,
   "ios_count": 495,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "01be7793508f",
+      "title": "Android 17 gets a smarter media switcher, and it already feels better than the old carousel",
+      "summary": "No more swiping around and accidentally fast forwarding your music.",
+      "url": "https://www.androidauthority.com/android-17-new-media-app-switcher-ui-3669602/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-21 08:35",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-3-scaled.jpg",
+      "title_translated": "Android 17 获得了更智能的媒体切换器，而且感觉已经比旧的轮播更好了",
+      "summary_translated": "不再需要左右滑动并意外快进您的音乐。"
+    },
+    {
+      "id": "543ec8dc0bb6",
+      "title": "Android 17 QPR1 Beta 3 reveals new screenshot buttons, likely for Aluminium OS",
+      "summary": "The new clipboard and folder shortcuts in the screenshot overlay may not be intended for your phone.",
+      "url": "https://www.androidauthority.com/android-17-screenshot-overlay-new-buttons-apk-teardown-3669650/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-21 07:55",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Image-of-a-Pixel-phone-showing-Android-screenshot-overlay.jpeg",
+      "title_translated": "Android 17 QPR1 Beta 3 揭示了新的屏幕截图按钮，可能适用于 Aluminium OS",
+      "summary_translated": "屏幕截图叠加层中的新剪贴板和文件夹快捷方式可能不适合您的手机。"
+    },
     {
       "id": "fbe8644ac053",
       "title": "Here’s a closer look at how Android 17’s OS verification is going to work",
