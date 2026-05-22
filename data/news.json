@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21 23:14:54",
-  "total_count": 704,
-  "news_count": 699,
+  "last_updated": "2026-05-22 04:24:44",
+  "total_count": 705,
+  "news_count": 700,
   "android_count": 203,
-  "ios_count": 496,
+  "ios_count": 497,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/clicks-communicator-hands-on-ces-1-scaled.jpg",
       "title_translated": "Clicks Communicator 将搭载 Android 17 以及比我们想象的更大的电池",
       "summary_translated": "它可能看起来像是一种复古，但它的软件是最新的。"
+    },
+    {
+      "id": "52a74a2414a4",
+      "title": "Don't Want to Wait for iOS 27? Shortcuts Playground From MacStories Generates Shortcuts Using AI",
+      "summary": "Apple is rumored to be adding an AI feature for creating shortcuts with natural language to the Shortcuts app in iOS 27, but MacStories' Federico Viticci has a clever AI tool for making shortcuts that you can use today.\n\n\n\n\nShortcuts Playground is a plugin for Claude Code and OpenAI Codex that can c",
+      "url": "https://www.macrumors.com/2026/05/21/macstories-shortcuts-playground/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-21 16:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/shortcuts-playground.jpg",
+      "title_translated": "不想等待 iOS 27？ MacStories 中的 Shortcuts Playground 使用 AI 生成快捷方式",
+      "summary_translated": "有传言称，苹果将在 iOS 27 中的 Shortcuts 应用程序中添加一项 AI 功能，用于使用自然语言创建快捷方式，但 MacStories 的 Federico Viticci 拥有一个聪明的 AI 工具，可以创建您现在可以使用的快捷方式。\n\n\n\n\nShortcuts Playground 是 Claude Code 和 OpenAI Codex 的插件，可以"
     },
     {
       "id": "70402150d0d4",
@@ -9799,7 +9813,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -9810,7 +9824,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -9821,7 +9835,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -9832,7 +9846,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -9843,7 +9857,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
