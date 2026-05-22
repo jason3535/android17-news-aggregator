@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-22 15:17:37",
-  "total_count": 713,
-  "news_count": 708,
+  "last_updated": "2026-05-22 18:00:35",
+  "total_count": 715,
+  "news_count": 710,
   "android_count": 204,
-  "ios_count": 504,
+  "ios_count": 506,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "77f4c404dd18",
+      "title": "iOS 26.5.1 could launch soon as next iPhone update",
+      "summary": "It’s almost WWDC time, where iOS 27 will be revealed. But visitor logs to 9to5Mac indicate a smaller new iPhone update could debut first: iOS 26.5.1 is coming.\nmore…",
+      "url": "https://9to5mac.com/2026/05/22/ios-26-5-1-could-launch-soon-as-next-iphone-update/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-22 17:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-1-clear.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5.1 可能会在下一次 iPhone 更新时发布",
+      "summary_translated": "WWDC 即将到来，iOS 27 即将揭晓。但 9to5Mac 的访问者日志显示，一个较小的新 iPhone 更新可能会首先亮相：iOS 26.5.1 即将推出。\n更多的…"
+    },
     {
       "id": "7744c8ed6a7f",
       "title": "WWDC invites, iOS 27 accessibility features, new Siri will be a ‘beta’",
@@ -75,6 +89,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/9to5Mac-Overtime-068.png?w=1600",
       "title_translated": "9to5Mac Overtime 068：你的反驳是对的",
       "summary_translated": "Jeff 和 Fernando 讨论了 iOS 27 令人印象深刻的新辅助功能，同时讨论了 Apple 应采取哪些措施来重新获得用户对 Siri 的信任。 Siri 应该彻底重新命名吗？两人讨论了他们希望 Siri 在 WWDC 2026 上发布时具备的五个关键功能。\n9至5米"
+    },
+    {
+      "id": "82bb8a569542",
+      "title": "iOS 26.5.1 Update for iPhones is Coming Soon",
+      "summary": "Apple's software engineers are testing iOS 26.5.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS versions.\n\n\n\n\niOS 26.5.1 will almost certainly be a minor update that fixes bugs and/or security vulnerabilities, and it will likely be released by the end",
+      "url": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-22 09:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-26.5.1-Feature.jpg",
+      "title_translated": "iPhone 的 iOS 26.5.1 更新即将推出",
+      "summary_translated": "根据 MacRumors 访客日志，苹果的软件工程师正在测试 iOS 26.5.1，该日志是即将推出的 iOS 版本的可靠指标。\n\n\n\n\niOS 26.5.1 几乎肯定会是一个修复错误和/或安全漏洞的小更新，并且很可能会在年底发布"
     },
     {
       "id": "83bf71a91198",
