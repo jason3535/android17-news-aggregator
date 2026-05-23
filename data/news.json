@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-23 11:23:23",
-  "total_count": 715,
-  "news_count": 710,
-  "android_count": 204,
-  "ios_count": 506,
+  "last_updated": "2026-05-23 13:59:35",
+  "total_count": 717,
+  "news_count": 712,
+  "android_count": 205,
+  "ios_count": 507,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ea6e43762a20",
+      "title": "I hated multitasking on my Pixel — until I tried Android 17’s app bubbles",
+      "summary": "These are the bubbles I don't want to burst.",
+      "url": "https://www.androidauthority.com/android-17-app-bubbles-multitasking-changed-my-pixel-3665850/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-23 12:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Scrolling-on-Instagram-via-bubbles-feature-on-Android-17.jpg",
+      "title_translated": "我讨厌 Pixel 上的多任务处理 — 直到我尝试了 Android 17 的应用程序气泡",
+      "summary_translated": "这些是我不想破灭的泡沫。"
+    },
     {
       "id": "77f4c404dd18",
       "title": "iOS 26.5.1 could launch soon as next iPhone update",
@@ -117,6 +131,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-clock-lock-screen-b6.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 26 以一种你可能不喜欢的方式调整 iPhone Always On Display",
       "summary_translated": "自 iPhone 14 Pro 上首次推出以来，Apple 的 Always On Display 功能一直相当稳定。通过 iOS 26，苹果以一种可能不明显的方式悄然改变了它的工作方式。\n更多的…"
+    },
+    {
+      "id": "130b0df18b9a",
+      "title": "Top Stories: Apple Card AirPods Pro Promo, WWDC 2026 Schedule, and More",
+      "summary": "The week's biggest Apple stories revolved around a new Apple Card promo essentially offering free AirPods Pro 3 to new cardholders, as well as Apple's official announcement of the major WWDC 2026 events plus media invitations to the keynote.\n\n\n\n\nOther popular topics this week included rumors about t",
+      "url": "https://www.macrumors.com/2026/05/23/top-stories-apple-card-airpods-pro-promo/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-22 08:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/top-stories-2026-05-23.jpg",
+      "title_translated": "头条新闻：Apple Card AirPods Pro 促销、WWDC 2026 时间表等",
+      "summary_translated": "本周最重要的苹果新闻围绕着新的 Apple Card 促销活动，主要是向新持卡人提供免费 AirPods Pro 3，以及苹果官方宣布 WWDC 2026 重大活动以及媒体邀请参加主题演讲。\n\n\n\n\n本周其他热门话题包括有关 t 的谣言"
     },
     {
       "id": "af8c7f4da8f2",
