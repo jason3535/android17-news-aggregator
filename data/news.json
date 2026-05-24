@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-23 22:07:17",
-  "total_count": 717,
-  "news_count": 712,
+  "last_updated": "2026-05-24 00:08:38",
+  "total_count": 718,
+  "news_count": 713,
   "android_count": 205,
-  "ios_count": 507,
+  "ios_count": 508,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1b1741f168e5",
+      "title": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote",
+      "summary": "Apple has just registered a new subdomain record ahead of WWDC: genai.apple.com. All signs point to WWDC 2026 being Apple’s major AI renaissance, where the company will live up to the promises it made back at WWDC 2024, as well as a few additional new announcements.\nmore…",
+      "url": "https://9to5mac.com/2026/05/23/apple-new-gen-ai-subdomain-ahead-of-wwdc/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-23 22:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果在下个月的 WWDC 主题演讲之前注册了新的“gen AI”子域名",
+      "summary_translated": "Apple 刚刚在 WWDC 之前注册了一个新的子域名记录：genai.apple.com。所有迹象都表明 WWDC 2026 是苹果公司人工智能的重大复兴，该公司将兑现其在 WWDC 2024 上做出的承诺，以及一些额外的新公告。\n更多的…"
+    },
     {
       "id": "ea6e43762a20",
       "title": "I hated multitasking on my Pixel — until I tried Android 17’s app bubbles",
@@ -9981,7 +9995,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -9992,7 +10006,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -10003,7 +10017,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -10014,7 +10028,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -10025,7 +10039,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
