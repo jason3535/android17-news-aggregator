@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-24 12:08:49",
-  "total_count": 719,
-  "news_count": 714,
+  "last_updated": "2026-05-24 14:42:07",
+  "total_count": 721,
+  "news_count": 716,
   "android_count": 205,
-  "ios_count": 509,
+  "ios_count": 511,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "50bcdf0cf60a",
+      "title": "iOS 27 could offer native integration with Google Cast and other streaming protocols",
+      "summary": "In response to the European Union’s Digital Markets Act (DMA), Apple is reportedly working on the ability to replace AirPlay with other third-party streaming protocols at a system level. This feature may only roll out in the European Union, similar to third-party app marketplaces.\nmore…",
+      "url": "https://9to5mac.com/2026/05/24/ios-27-google-cast-third-party-streaming-integration-eu/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-24 14:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/03/Roku-Streaming-Stick-glyph-airplay-2-iOS-15.4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可以提供与 Google Cast 和其他流媒体协议的原生集成",
+      "summary_translated": "据报道，为了响应欧盟的数字市场法案（DMA），苹果正在研究在系统级别用其他第三方流媒体协议取代 AirPlay 的能力。与第三方应用程序市场类似，此功能可能仅在欧盟推出。\n更多的…"
+    },
+    {
+      "id": "7ed65b4fad1b",
+      "title": "Report: iOS 27 to revamp the AirPods settings UI",
+      "summary": "While a dedicated ‘AirPods’ app does not seem to be on the cards, AirPods Pro.\nBloomberg says iOS 27 will significantly change the layout of the AirPods menu in Settings app. The new design will be ‘more functional, better organized and more streamlined’.\nmore…",
+      "url": "https://9to5mac.com/2026/05/24/report-ios-27-to-revamp-the-airpods-settings-ui/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-24 14:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "报告：iOS 27 修改 AirPods 设置 UI",
+      "summary_translated": "虽然专用的“AirPods”应用程序似乎不会出现，但 AirPods Pro 似乎不会出现。\n彭博社表示，iOS 27 将显着改变“设置”应用中 AirPods 菜单的布局。新的设计将“更实用、更好组织、更精简”。\n更多的…"
+    },
     {
       "id": "bbc7553e700b",
       "title": "iOS 27 to feature upgraded Camera interface and Photos app: Here’s what’s rumored",
