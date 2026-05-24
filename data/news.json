@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-24 14:42:07",
-  "total_count": 721,
-  "news_count": 716,
+  "last_updated": "2026-05-24 16:11:15",
+  "total_count": 723,
+  "news_count": 718,
   "android_count": 205,
-  "ios_count": 511,
+  "ios_count": 513,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f04ccb22cc0e",
+      "title": "Report: watchOS 27 to improve heart-rate tracking; AI health coach may not debut at launch",
+      "summary": "For the better part of a year, we’ve been hearing about Project Mulberry: Apple’s AI-powered health coach. Back in February, it was reported that these efforts had been scaled back. According to Bloomberg’s Mark Gurman, the features should still be on track for iOS 27, though they may not release un",
+      "url": "https://9to5mac.com/2026/05/24/apple-improving-heart-rate-tracking-in-watchos-27-mulberry-health-coach-delays/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-24 15:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/watchos-27-apple-watch-ultra-blue.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "报告：watchOS 27 改善心率追踪；人工智能健康教练可能不会在发布时首次亮相",
+      "summary_translated": "在这一年的大部分时间里，我们一直在听说 Project Mulberry：Apple 的人工智能健康教练。早在二月份，就有报道称这些努力已经缩减。据彭博社的 Mark Gurman 称，这些功能应该仍会在 iOS 27 上实现，尽管它们可能不会在发布前发布。"
+    },
+    {
+      "id": "3e4543d556a5",
+      "title": "Apple Intelligence image models to boast ‘major’ visual upgrades in iOS 27: report",
+      "summary": "According to this weekend’s Power On newsletter, Apple’s image generation models – used in Genmoji and Image Playground – will be receiving a ‘big boost’ in visual quality. Currently, they’re far from anything to write home about.\nmore…",
+      "url": "https://9to5mac.com/2026/05/24/apple-image-playground-and-gemoji-to-get-major-visual-improvements/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-24 14:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/image-playground-library.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Intelligence 图像模型将在 iOS 27 中进行“重大”视觉升级：报告",
+      "summary_translated": "根据本周末的 Power On 时事通讯，Apple 的图像生成模型（用于 Genmoji 和 Image Playground）将在视觉质量方面获得“巨大提升”。目前，它们还远没有什么值得大书特书的。\n更多的…"
+    },
     {
       "id": "50bcdf0cf60a",
       "title": "iOS 27 could offer native integration with Google Cast and other streaming protocols",
