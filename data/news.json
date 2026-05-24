@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-24 00:08:38",
-  "total_count": 718,
-  "news_count": 713,
+  "last_updated": "2026-05-24 05:10:59",
+  "total_count": 719,
+  "news_count": 714,
   "android_count": 205,
-  "ios_count": 508,
+  "ios_count": 509,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bbc7553e700b",
+      "title": "iOS 27 to feature upgraded Camera interface and Photos app: Here’s what’s rumored",
+      "summary": "While many of the iOS 27 rumors have focused on Apple Intelligence, Siri, and performance – there’s a plethora of upgrades reportedly coming to the Camera app, building on top of the redesign that we saw last year with iOS 26. There’ll also be a number of new AI-enhanced editing tools coming to the ",
+      "url": "https://9to5mac.com/2026/05/23/new-camera-app-and-photos-editing-features-coming-to-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-24 04:32",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 将升级相机界面和照片应用：传闻如下",
+      "summary_translated": "虽然许多关于 iOS 27 的传闻都集中在 Apple Intelligence、Siri 和性能上，但据报道，在我们去年 iOS 26 的重新设计基础上，相机应用程序将进行大量升级。此外，还将有许多新的人工智能增强编辑工具出现。"
+    },
     {
       "id": "1b1741f168e5",
       "title": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote",
