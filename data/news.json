@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24 18:09:51",
-  "total_count": 723,
-  "news_count": 718,
+  "last_updated": "2026-05-24 20:14:35",
+  "total_count": 725,
+  "news_count": 720,
   "android_count": 205,
-  "ios_count": 513,
+  "ios_count": 515,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&strip=all&w=1600",
       "title_translated": "报告：iOS 27 修改 AirPods 设置 UI",
       "summary_translated": "虽然专用的“AirPods”应用程序似乎不会出现，但 AirPods Pro 似乎不会出现。\n彭博社表示，iOS 27 将显着改变“设置”应用中 AirPods 菜单的布局。新的设计将“更实用、更好组织、更精简”。\n更多的…"
+    },
+    {
+      "id": "85135e9c70e5",
+      "title": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More",
+      "summary": "Apple is set to unveil iOS 27 next month ahead of a September release. The update is expected to include a dedicated Siri app, expanded Apple Intelligence capabilities in apps like Wallet, Safari, and Shortcuts, an upgraded keyboard with improved autocorrect, the ability to use Apple Maps via satell",
+      "url": "https://www.macrumors.com/2026/05/24/new-ios-27-details-ahead-of-wwdc/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-24 13:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+      "title_translated": "新的 iOS 27 传闻包括改进的 AirPods 设置菜单等",
+      "summary_translated": "苹果计划在 9 月份发布之前于下个月发布 iOS 27。此次更新预计将包括专用的 Siri 应用程序、钱包、Safari 和快捷方式等应用程序中扩展的 Apple Intelligence 功能、具有改进的自动更正功能的升级键盘、通过卫星使用 Apple 地图的功能"
+    },
+    {
+      "id": "a88286ad4d63",
+      "title": "watchOS 27 Will Add These New Features to Your Apple Watch",
+      "summary": "Apple will unveil watchOS 27 during its WWDC 2026 keynote on Monday, June 8, and a handful of new features have been rumored already.\n\n\n\n\nThe first developer beta of watchOS 27 should be available immediately following the keynote, and a public beta typically follows in July. The update should be re",
+      "url": "https://www.macrumors.com/2026/05/24/watchos-27-rumored-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-24 11:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg",
+      "title_translated": "watchOS 27 将为您的 Apple Watch 添加这些新功能",
+      "summary_translated": "苹果将​​于 6 月 8 日星期一的 WWDC 2026 主题演讲中推出 watchOS 27，并且已经有传言称将推出一些新功能。\n\n\n\n\nwatchOS 27 的第一个开发者测试版应该在主题演讲之后立即发布，公开测试版通常会在 7 月发布。更新应该重新"
     },
     {
       "id": "bbc7553e700b",
