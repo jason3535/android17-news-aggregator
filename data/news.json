@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-25 10:43:57",
-  "total_count": 725,
-  "news_count": 720,
-  "android_count": 205,
+  "last_updated": "2026-05-25 14:16:04",
+  "total_count": 726,
+  "news_count": 721,
+  "android_count": 206,
   "ios_count": 515,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "61583157b039",
+      "title": "Android 17 could let you disable Gboard’s most annoying feature",
+      "summary": "You could finally be able to get rid of that globe icon.",
+      "url": "https://www.androidauthority.com/android-17-gboard-globe-key-disable-3670597/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-25 11:28",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/07/Gboard-on-Nothing-Phone-2.png",
+      "title_translated": "Android 17 可以让你禁用 Gboard 最烦人的功能",
+      "summary_translated": "您终于可以摆脱那个地球图标了。"
+    },
     {
       "id": "f04ccb22cc0e",
       "title": "Report: watchOS 27 to improve heart-rate tracking; AI health coach may not debut at launch",
