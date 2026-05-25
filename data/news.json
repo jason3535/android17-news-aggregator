@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-25 14:16:04",
-  "total_count": 726,
-  "news_count": 721,
+  "last_updated": "2026-05-25 17:15:18",
+  "total_count": 728,
+  "news_count": 723,
   "android_count": 206,
-  "ios_count": 515,
+  "ios_count": 517,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d5819b9dc09f",
+      "title": "iOS 27 could give Google Cast native integration, like AirPlay, thanks to the EU",
+      "summary": "A new report from Bloomberg suggests that iOS 27 might add Google Cast integration, among other third-party solutions, as Apple tries to keep the EU off its back.\nmore…",
+      "url": "https://9to5google.com/2026/05/25/apple-ios-27-google-cast-streaming-protocols-report/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-05-25 16:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/iPhone-17-Pro-Max-camera.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "感谢欧盟，iOS 27 可以为 Google Cast 提供原生集成，例如 AirPlay",
+      "summary_translated": "彭博社的一份新报告表明，iOS 27 可能会添加 Google Cast 集成以及其他第三方解决方案，因为苹果试图让欧盟远离它。\n更多的…"
+    },
+    {
+      "id": "8a3a7df0c9d8",
+      "title": "Hopes for WWDC 2026: Health for Mac, Wallet everywhere, and other OS 27 dreams",
+      "summary": "WWDC 2026 is two weeks away. Here’s a grab-bag selection of things I hope to see from Apple’s new OS 27 updates that aren’t really rumored.\nmore…",
+      "url": "https://9to5mac.com/2026/05/25/hopes-for-wwdc-2026-health-for-mac-wallet-everywhere-and-other-os-27-dreams/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-25 15:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/new-siri-ui-wwdc-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "对 WWDC 2026 的希望：Mac 的健康、无处不在的钱包和其他 OS 27 的梦想",
+      "summary_translated": "距离 WWDC 2026 还有两周时间。以下是我希望从苹果新的 OS 27 更新中看到的一些内容，这些更新并没有真正传言。\n更多的…"
+    },
     {
       "id": "61583157b039",
       "title": "Android 17 could let you disable Gboard’s most annoying feature",
