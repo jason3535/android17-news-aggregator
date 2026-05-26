@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-26 16:51:06",
-  "total_count": 729,
-  "news_count": 724,
+  "last_updated": "2026-05-26 19:26:22",
+  "total_count": 733,
+  "news_count": 728,
   "android_count": 206,
-  "ios_count": 518,
+  "ios_count": 522,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "66eec30e2bc4",
+      "title": "iOS 26.6 adds new alert when you try blocking too many contacts",
+      "summary": "iOS 26.6 beta 1 arrived today, and with iOS 27 right around the corner, it’s unsurprisingly very light on changes. But one difference was discovered by Aaron Perris: a new alert that appears in iOS 26.6 when you try to block one contact too many.\nmore…",
+      "url": "https://9to5mac.com/2026/05/26/ios-26-6-adds-new-alert-when-you-try-blocking-too-many-contacts/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-26 18:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/block-contacts-ios-26-6.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.6 在您尝试阻止过多联系人时添加了新警报",
+      "summary_translated": "iOS 26.6 beta 1 今天发布，iOS 27 即将到来，毫无疑问，它的变化非常小。但 Aaron Perris 发现了一个区别：当您尝试过多阻止一个联系人时，iOS 26.6 中会出现一个新警报。\n更多的…"
+    },
+    {
+      "id": "ce00a9ee33cf",
+      "title": "Apple releases first iOS 26.6 beta for iPhone",
+      "summary": "Apple has released the first iOS 26.6 beta for developers. iOS 26.6 beta 1 arrives shortly after the official release of iOS 26.5 for iPhone.\nApple highlighted 3 enhancements in iOS 26.5, including new wallpapers for your iPhone.\nmore…",
+      "url": "https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-26 17:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布第一个 iPhone 版 iOS 26.6 测试版",
+      "summary_translated": "Apple 为开发者发布了第一个 iOS 26.6 测试版。 iOS 26.6 beta 1 在 iPhone 版 iOS 26.5 正式发布后不久就发布了。\nApple 重点介绍了 iOS 26.5 中的 3 项增强功能，其中包括适用于 iPhone 的新壁纸。\n更多的…"
+    },
     {
       "id": "fdc88db1a75c",
       "title": "iOS 27’s new Siri design will look like this, per report",
@@ -19,6 +47,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "据报道，iOS 27 的新 Siri 设计将如下所示",
       "summary_translated": "苹果对 Siri 的重大改进将在不到两周的时间内公布，一份新报告准确揭示了 Siri 新 UI 设计的预期。\n更多的…"
+    },
+    {
+      "id": "ff9ebeb62267",
+      "title": "iOS 26.6 Will Alert You When You've Maxed Out Blocked Contacts",
+      "summary": "Apple's iOS 26.6 update appears to add new wording around blocked contact limits, though it is unclear if the actual limits have changed.\n\n\n\n\nCode in the beta suggests users will get a warning if they exceed the maximum number of blocked contacts. \"You've reached the maximum number of blocked contac",
+      "url": "https://www.macrumors.com/2026/05/26/ios-26-6-contact-blocking-alert/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-26 11:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/07/iOS-26-Phone-App-Features.jpg",
+      "title_translated": "iOS 26.6 将在您已超出阻止的联系人数量时提醒您",
+      "summary_translated": "苹果的 iOS 26.6 更新似乎在阻止联系限制方面添加了新的措辞，但尚不清楚实际限制是否发生了变化。\n\n\n\n\n测试版中的代码表明，如果用户超过了阻止联系人的最大数量，他们将收到警告。 “您已达到阻止联系人的最大数量"
+    },
+    {
+      "id": "1157a35dd196",
+      "title": "Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "summary": "Apple today seeded the first betas of upcoming iOS 26.6 and iPadOS 26.6 updates to developers for testing purposes, with the software coming two weeks after Apple released iOS 26.5 and iPadOS 26.5. \n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-26 10:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+      "title_translated": "Apple 向开发者发布首个 iOS 26.6 和 iPadOS 26.6 Beta",
+      "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.6 和 iPadOS 26.6 更新的第一个 Beta 版以进行测试，该软件是在苹果发布 iOS 26.5 和 iPadOS 26.5 两周后发布的。 \n\n\n\n\n注册开发者可以通过 iPhone 或 iPad 上的“设置”应用程序下载测试版："
     },
     {
       "id": "d5819b9dc09f",
