@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-26 08:40:45",
-  "total_count": 728,
-  "news_count": 723,
+  "last_updated": "2026-05-26 16:51:06",
+  "total_count": 729,
+  "news_count": 724,
   "android_count": 206,
-  "ios_count": 517,
+  "ios_count": 518,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fdc88db1a75c",
+      "title": "iOS 27’s new Siri design will look like this, per report",
+      "summary": "Apple’s major Siri overhaul will be unveiled in less than two weeks, and a new report reveals exactly what to expect from Siri’s new UI design.\nmore…",
+      "url": "https://9to5mac.com/2026/05/26/ios-27s-new-siri-design-will-look-like-this-per-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-26 15:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，iOS 27 的新 Siri 设计将如下所示",
+      "summary_translated": "苹果对 Siri 的重大改进将在不到两周的时间内公布，一份新报告准确揭示了 Siri 新 UI 设计的预期。\n更多的…"
+    },
     {
       "id": "d5819b9dc09f",
       "title": "iOS 27 could give Google Cast native integration, like AirPlay, thanks to the EU",
