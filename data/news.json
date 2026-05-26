@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26 19:26:22",
-  "total_count": 733,
-  "news_count": 728,
+  "last_updated": "2026-05-26 21:56:39",
+  "total_count": 734,
+  "news_count": 729,
   "android_count": 206,
-  "ios_count": 522,
+  "ios_count": 523,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "据报道，iOS 27 的新 Siri 设计将如下所示",
       "summary_translated": "苹果对 Siri 的重大改进将在不到两周的时间内公布，一份新报告准确揭示了 Siri 新 UI 设计的预期。\n更多的…"
+    },
+    {
+      "id": "fe62322dabe9",
+      "title": "iOS 27 Siri Redesign Will Use Dark Color Scheme, Matching Apple's WWDC Art",
+      "summary": "Apple is redesigning Siri for iOS 27 to accommodate new artificial intelligence features and chatbot capabilities. ‌Siri‌ is getting a dedicated app, integration with the iPhone's Dynamic Island, and a new design scheme.\n\n\n\n\nThe graphics that Apple is using to promote WWDC hint at its design plans f",
+      "url": "https://www.macrumors.com/2026/05/26/ios-27-siri-dark-colors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-26 14:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/wwdc-2026.jpg",
+      "title_translated": "iOS 27 Siri 重新设计将使用深色配色方案，与苹果 WWDC 艺术相匹配",
+      "summary_translated": "苹果正在为 iOS 27 重新设计 Siri，以适应新的人工智能功能和聊天机器人功能。 Siri 正在推出一款专用应用程序，与 iPhone 的动态岛集成，并采用新的设计方案。\n\n\n\n\n苹果用来宣传 WWDC 的图形暗示了其设计计划"
     },
     {
       "id": "ff9ebeb62267",
