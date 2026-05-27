@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-27 16:43:39",
-  "total_count": 735,
-  "news_count": 730,
+  "last_updated": "2026-05-27 19:31:41",
+  "total_count": 736,
+  "news_count": 731,
   "android_count": 206,
-  "ios_count": 524,
+  "ios_count": 525,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c61c6e3adc6f",
+      "title": "How to watch Apple’s WWDC keynote: iOS 27, new Siri, and more",
+      "summary": "WWDC 2026 is almost here, and with it the unveiling of Apple’s major new software versions: iOS 27, macOS 27, watchOS 27, and more—including Siri’s major overhaul. Here’s how to watch Apple’s WWDC 2026 keynote live.\nmore…",
+      "url": "https://9to5mac.com/2026/05/27/how-to-watch-apples-wwdc-keynote-ios-27-new-siri-and-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-27 18:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/wwdc-2026-logo-ring.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "如何观看 Apple WWDC 主题演讲：iOS 27、新 Siri 等",
+      "summary_translated": "WWDC 2026 即将到来，苹果主要的新软件版本也随之发布：iOS 27、macOS 27、watchOS 27 等，其中包括 Siri 的重大修改。以下是观看 Apple WWDC 2026 主题演讲直播的方法。\n更多的…"
+    },
     {
       "id": "08281c4e7102",
       "title": "iOS 26.5 gave Messages app encrypted RCS, here’s how to check it’s working",
