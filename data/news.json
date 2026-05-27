@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-27 12:30:37",
-  "total_count": 734,
-  "news_count": 729,
+  "last_updated": "2026-05-27 16:43:39",
+  "total_count": 735,
+  "news_count": 730,
   "android_count": 206,
-  "ios_count": 523,
+  "ios_count": 524,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "08281c4e7102",
+      "title": "iOS 26.5 gave Messages app encrypted RCS, here’s how to check it’s working",
+      "summary": "iOS 26.5 launched earlier this month, with one of the major new features the addition of RCS end-to-end encryption in the Messages app. Here’s how to check it’s enabled on your iPhone and active in a given conversation.\nmore…",
+      "url": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-27 15:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.5 为消息应用程序提供了加密的 RCS，以下是检查其是否正常工作的方法",
+      "summary_translated": "iOS 26.5 于本月早些时候发布，其中一项主要新功能是在消息应用中添加了 RCS 端到端加密。以下是如何检查它是否在您的 iPhone 上启用并在给定对话中处于活动状态。\n更多的…"
+    },
     {
       "id": "66eec30e2bc4",
       "title": "iOS 26.6 adds new alert when you try blocking too many contacts",
