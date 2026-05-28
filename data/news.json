@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-28 18:18:06",
-  "total_count": 743,
-  "news_count": 738,
+  "last_updated": "2026-05-28 21:17:16",
+  "total_count": 744,
+  "news_count": 739,
   "android_count": 207,
-  "ios_count": 531,
+  "ios_count": 532,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "48702296ee47",
+      "title": "iOS 27 changes visualized for the first time, new Apple Watch details, AirDrop reliability",
+      "summary": "Benjamin and Chance discuss the illustrations Bloomberg published depicting iOS 27 and the new Siri interface. Also, we talk about rumors of a revamped AirPods settings UI, phone snatching detection in iOS 26.6 code, and Digitimes says the Apple Watch Ultra 4 will feature a significant redesign. Als",
+      "url": "https://9to5mac.com/2026/05/28/happy-hour-592/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-28 20:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 变化首次可视化、新 Apple Watch 细节、AirDrop 可靠性",
+      "summary_translated": "本杰明和钱斯讨论了彭博社发布的描绘 iOS 27 和新 Siri 界面的插图。此外，我们还讨论了有关改进 AirPods 设置 UI、iOS 26.6 代码中的手机抢夺检测的传言，以及 Digitimes 表示 Apple Watch Ultra 4 将进行重大重新设计。阿尔斯"
+    },
     {
       "id": "f9f9f7681344",
       "title": "Apple releases first iOS 26.6 public beta, here’s what to expect",
