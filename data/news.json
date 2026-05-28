@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-28 21:17:16",
-  "total_count": 744,
-  "news_count": 739,
+  "last_updated": "2026-05-28 23:39:28",
+  "total_count": 745,
+  "news_count": 740,
   "android_count": 207,
-  "ios_count": 532,
+  "ios_count": 533,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a2eefa823cae",
+      "title": "9to5Mac Daily: May 28, 2026 – iOS 27 leak, Oura Ring 5",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by CardPointers: The best way to maximize your credit card r",
+      "url": "https://9to5mac.com/2026/05/28/daily-may-28-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-28 22:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 5 月 28 日 – iOS 27 泄露，Oura Ring 5",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 CardPointers 赞助：最大化您的信用卡 r 的最佳方式"
+    },
     {
       "id": "48702296ee47",
       "title": "iOS 27 changes visualized for the first time, new Apple Watch details, AirDrop reliability",
