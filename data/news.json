@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-28 05:18:49",
-  "total_count": 736,
-  "news_count": 731,
-  "android_count": 206,
+  "last_updated": "2026-05-28 10:22:04",
+  "total_count": 737,
+  "news_count": 732,
+  "android_count": 207,
   "ios_count": 525,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b7623e53ac68",
+      "title": "One UI 9 could give users a killswitch for Android 17’s restrictive background playback controls",
+      "summary": "While ensuring you don't easily get distracted by games.",
+      "url": "https://www.androidauthority.com/one-ui-9-android-17-background-control-3671962/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-28 08:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg",
+      "title_translated": "UI 9 可以为用户提供 Android 17 限制性后台播放控制的终止开关",
+      "summary_translated": "同时确保您不会轻易被游戏分散注意力。"
+    },
     {
       "id": "c61c6e3adc6f",
       "title": "How to watch Apple’s WWDC keynote: iOS 27, new Siri, and more",
