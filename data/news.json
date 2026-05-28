@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-28 14:44:30",
-  "total_count": 741,
-  "news_count": 736,
+  "last_updated": "2026-05-28 18:18:06",
+  "total_count": 743,
+  "news_count": 738,
   "android_count": 207,
-  "ios_count": 529,
+  "ios_count": 531,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f9f9f7681344",
+      "title": "Apple releases first iOS 26.6 public beta, here’s what to expect",
+      "summary": "Apple has released the first iOS 26.6 public beta. The update follows the first developer beta release on Tuesday. \nmore…",
+      "url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-28 17:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-public-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布首个 iOS 26.6 公测版，值得期待",
+      "summary_translated": "苹果发布了第一个 iOS 26.6 公测版。此次更新是在周二发布第一个开发者测试版之后进行的。 \n更多的…"
+    },
     {
       "id": "ff5b937e543e",
       "title": "New details on Apple-Google AI deal revealed, including Nvidia chips: report",
@@ -33,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 泄露揭示了新的 Siri 设计、相机应用程序等",
       "summary_translated": "今天，彭博社发布的新图片让我们第一次看到苹果在 iOS 27 中重新设计的 Siri 界面。这些插图由彭博社创作，展示了苹果新的 Siri 界面、Siri 聊天机器人应用程序等。\n更多的…"
+    },
+    {
+      "id": "9f3ed4dd3cfa",
+      "title": "Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "summary": "Apple today provided public beta testers with the first betas of iOS 26.6, iPadOS 26.6, macOS Tahoe 26.6, watchOS 26.6, and tvOS 26.6, with the software coming two days after Apple seeded the betas to developers.\n\n\n\n\nAfter signing up to beta test the software updates on Apple's beta site, public bet",
+      "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-28 10:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+      "title_translated": "Apple 发布了 iOS 26.6、macOS Tahoe 26.6 等的首个公开测试版",
+      "summary_translated": "苹果今天向公共 Beta 测试人员提供了 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6、watchOS 26.6 和 tvOS 26.6 的第一个 Beta 版，该软件是在 Apple 向开发者发布 Beta 版两天后发布的。\n\n\n\n\n在苹果测试网站上注册测试软件更新后，公开投注"
     },
     {
       "id": "b7623e53ac68",
