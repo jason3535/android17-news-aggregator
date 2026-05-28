@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-28 10:22:04",
-  "total_count": 737,
-  "news_count": 732,
+  "last_updated": "2026-05-28 14:44:30",
+  "total_count": 741,
+  "news_count": 736,
   "android_count": 207,
-  "ios_count": 525,
+  "ios_count": 529,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ff5b937e543e",
+      "title": "New details on Apple-Google AI deal revealed, including Nvidia chips: report",
+      "summary": "Apple’s big unveiling of iOS 27, the new Siri, and other WWDC reveals are little more than one week away. And today, a new report has fresh details on how Apple’s partnership with Google for AI features is being implemented behind the scenes.\nmore…",
+      "url": "https://9to5mac.com/2026/05/28/new-details-on-apple-google-ai-deal-revealed-including-nvidia-chips-report/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-28 13:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-intelligence-gemini.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果与谷歌人工智能交易的新细节曝光，包括英伟达芯片：报告",
+      "summary_translated": "距离苹果发布 iOS 27、新 Siri 以及其他 WWDC 发布会还有不到一周的时间。今天，一份新报告提供了有关苹果与谷歌在人工智能功能方面的合作如何在幕后实施的最新细节。\n更多的…"
+    },
+    {
+      "id": "0777ee506c5b",
+      "title": "iOS 27 leak reveals new Siri design, Camera app, more",
+      "summary": "New images from Bloomberg today reveal our first look at Apple’s redesigned Siri interface coming with iOS 27. The illustrations, created by Bloomberg, show Apple’s new Siri interface, the Siri chatbot app, and more.\nmore…",
+      "url": "https://9to5mac.com/2026/05/28/ios-27-leak-reveals-new-siri-design-camera-app-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-28 12:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 泄露揭示了新的 Siri 设计、相机应用程序等",
+      "summary_translated": "今天，彭博社发布的新图片让我们第一次看到苹果在 iOS 27 中重新设计的 Siri 界面。这些插图由彭博社创作，展示了苹果新的 Siri 界面、Siri 聊天机器人应用程序等。\n更多的…"
+    },
     {
       "id": "b7623e53ac68",
       "title": "One UI 9 could give users a killswitch for Android 17’s restrictive background playback controls",
@@ -19,6 +47,34 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg",
       "title_translated": "UI 9 可以为用户提供 Android 17 限制性后台播放控制的终止开关",
       "summary_translated": "同时确保您不会轻易被游戏分散注意力。"
+    },
+    {
+      "id": "e7f01d991f6e",
+      "title": "First Look at AI Camera and Photos Features in iOS 27 Revealed",
+      "summary": "Apple is planning sweeping AI-driven upgrades to its Camera and Photos apps in iOS 27, Bloomberg's Mark Gurman reports.\n\n\nImage via Bloomberg.\n\n\nThe report offers a first look at the appearance of several major ‌iOS 27‌ features that Apple plans to announce at its Worldwide Developers Conference on ",
+      "url": "https://www.macrumors.com/2026/05/28/ios-27-ai-camera-and-photos-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-28 06:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/sweeping-AI-driven-upgrades-feature.jpg",
+      "title_translated": "iOS 27 中人工智能相机和照片功能初探",
+      "summary_translated": "据彭博社的 Mark Gurman 报道，苹果计划在 iOS 27 中对其相机和照片应用进行全面的人工智能驱动升级。\n\n\n图片来自彭博社。\n\n\n该报告首次展示了苹果计划在其全球开发者大会上宣布的几项主要“iOS 27”功能的外观。"
+    },
+    {
+      "id": "edbaf6d0fe52",
+      "title": "iOS 27's Siri App and 'Search or Ask' Feature Shown in Leaked Images",
+      "summary": "Bloomberg's Mark Gurman today shared a series of re-created screenshots that reveal iOS 27's all-new Siri app and \"Search or Ask\" functionality.\n\n\n\n\nThe images are renders that were created based on information obtained by Bloomberg.\n\n\nWith the Siri app, iPhone, iPad, and Mac users will be able to i",
+      "url": "https://www.macrumors.com/2026/05/28/ios-27-siri-app-and-search-or-ask-leaked/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-28 05:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-27-Siri-Search-or-Ask-Render.jpg",
+      "title_translated": "iOS 27 的 Siri 应用程序和“搜索或询问”功能出现在泄露的图片中",
+      "summary_translated": "彭博社的 Mark Gurman 今天分享了一系列重新创建的屏幕截图，展示了 iOS 27 的全新 Siri 应用程序和“搜索或询问”功能。\n\n\n\n\n这些图像是根据彭博社获得的信息创建的渲染图。\n\n\n借助 Siri 应用程序，iPhone、iPad 和 Mac 用户将能够"
     },
     {
       "id": "c61c6e3adc6f",
