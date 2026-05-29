@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-29 08:49:46",
-  "total_count": 745,
-  "news_count": 740,
-  "android_count": 207,
+  "last_updated": "2026-05-29 12:25:26",
+  "total_count": 746,
+  "news_count": 741,
+  "android_count": 208,
   "ios_count": 533,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7cf3f9468ad9",
+      "title": "I’m a long-time iPhone user, but these Android 17 features are tempting me to switch",
+      "summary": "Android 17 is making me reconsider everything.",
+      "url": "https://www.androidauthority.com/android-17-features-tempting-me-to-switch-3669317/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-05-29 09:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-hero-image.jpg",
+      "title_translated": "我是 iPhone 的长期用户，但 Android 17 的这些功能诱惑我换用 iPhone",
+      "summary_translated": "Android 17 让我重新考虑一切。"
+    },
     {
       "id": "a2eefa823cae",
       "title": "9to5Mac Daily: May 28, 2026 – iOS 27 leak, Oura Ring 5",
