@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-29 16:52:36",
-  "total_count": 748,
-  "news_count": 743,
+  "last_updated": "2026-05-29 19:38:43",
+  "total_count": 750,
+  "news_count": 745,
   "android_count": 208,
-  "ios_count": 535,
+  "ios_count": 537,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "721c7ac21a89",
+      "title": "iOS 27 rumored to bring new design changes in two key areas",
+      "summary": "The next major iPhone software update, iOS 27, will be unveiled on June 8, and rumors indicate it will bring at least two changes for the Liquid Glass design.\nmore…",
+      "url": "https://9to5mac.com/2026/05/29/ios-27-rumored-to-bring-new-design-changes-in-two-key-areas/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-29 18:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26-2-liquid-glass-clock-lock-screen.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据传 iOS 27 将在两个关键领域带来新的设计变化",
+      "summary_translated": "iPhone 的下一个重大软件更新 iOS 27 将于 6 月 8 日发布，有传言称它将为 Liquid Glass 设计带来至少两项变化。\n更多的…"
+    },
+    {
+      "id": "101b09089de4",
+      "title": "Apple has five new products coming that could launch at WWDC",
+      "summary": "Apple will unveil iOS 27, the new Siri, and a lot more in just over a week. But will any new hardware launch at WWDC? We’re currently expecting a software-only slate of announcements, but here are five upcoming Apple products with the best chance of surprising us at WWDC.\nmore…",
+      "url": "https://9to5mac.com/2026/05/29/apple-has-five-new-products-coming-that-could-launch-at-wwdc/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-29 17:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-apple-park-rainbow-night-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果将​​在 WWDC 上发布五款新产品",
+      "summary_translated": "苹果将​​在一周多的时间里发布 iOS 27、新的 Siri 以及更多其他内容。但 WWDC 上会发布新硬件吗？目前，我们预计将发布一系列纯软件产品，但以下五款即将推出的 Apple 产品最有可能在 WWDC 上给我们带来惊喜。\n更多的…"
+    },
     {
       "id": "9bfb80d3d1e3",
       "title": "iOS 27 might convince a lot of people to upgrade to a new iPhone",
