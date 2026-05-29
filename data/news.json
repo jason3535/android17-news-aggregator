@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-05-29 12:25:26",
-  "total_count": 746,
-  "news_count": 741,
+  "last_updated": "2026-05-29 16:52:36",
+  "total_count": 748,
+  "news_count": 743,
   "android_count": 208,
-  "ios_count": 533,
+  "ios_count": 535,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9bfb80d3d1e3",
+      "title": "iOS 27 might convince a lot of people to upgrade to a new iPhone",
+      "summary": "iOS 27 will be unveiled in just over a week, and rumors indicate there are lots of reasons why the new software might push more people than usual to upgrade to a new iPhone.\nmore…",
+      "url": "https://9to5mac.com/2026/05/29/ios-27-might-convince-a-lot-of-people-to-upgrade-to-a-new-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-29 13:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-pride-luminance-iphone-17-pro-black.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 可能会说服很多人升级到新 iPhone",
+      "summary_translated": "iOS 27 将在一周多后发布，有传言称，新软件可能会促使比平时更多的人升级到新 iPhone，原因有很多。\n更多的…"
+    },
+    {
+      "id": "616abbed09df",
+      "title": "WWDC 2026 Wish List: Health for Mac, Wallet everywhere, and other OS 27 dreams",
+      "summary": "WWDC 2026 is 10 days away. Here’s a grab-bag selection of things I hope to see from Apple’s new OS 27 updates that aren’t really rumored.\nmore…",
+      "url": "https://9to5mac.com/2026/05/29/hopes-for-wwdc-2026-health-for-mac-wallet-everywhere-and-other-os-27-dreams/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-29 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/new-siri-ui-wwdc-26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "WWDC 2026 愿望清单：Mac 健康、无处不在的钱包和其他操作系统 27 个梦想",
+      "summary_translated": "距离 2026 年 WWDC 大会还有 10 天。以下是我希望从苹果新的 OS 27 更新中看到的一些内容，这些更新并没有真正传言。\n更多的…"
+    },
     {
       "id": "7cf3f9468ad9",
       "title": "I’m a long-time iPhone user, but these Android 17 features are tempting me to switch",
