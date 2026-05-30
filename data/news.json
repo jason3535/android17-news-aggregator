@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-30 16:13:22",
-  "total_count": 751,
-  "news_count": 746,
+  "last_updated": "2026-05-30 18:12:35",
+  "total_count": 752,
+  "news_count": 747,
   "android_count": 208,
-  "ios_count": 538,
+  "ios_count": 539,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3031d7fd3620",
+      "title": "Here’s one of my feature requests for Visual Intelligence in iOS 27",
+      "summary": "One of the core Apple Intelligence features to date has been Visual Intelligence. It started off in a rather limited capacity through Camera Control, but with iOS 26, the company expanded it to screenshots. I’ve found those capabilities very useful thus far, and I’d love to see Apple take it even fu",
+      "url": "https://9to5mac.com/2026/05/30/apple-intelligence-reminders-capabilities-in-visual-intelligence/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-30 16:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-apple-intelligence.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这是我对 iOS 27 中视觉智能的功能请求之一",
+      "summary_translated": "迄今为止，Apple Intelligence 的核心功能之一是视觉智能。一开始，它通过相机控制功能相当有限，但在 iOS 26 中，该公司将其扩展到屏幕截图。到目前为止，我发现这些功能非常有用，我很高兴看到 Apple 进一步利用它"
+    },
     {
       "id": "721c7ac21a89",
       "title": "iOS 27 rumored to bring new design changes in two key areas",
