@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-31 20:19:29",
-  "total_count": 753,
-  "news_count": 748,
+  "last_updated": "2026-05-31 22:10:31",
+  "total_count": 754,
+  "news_count": 749,
   "android_count": 208,
-  "ios_count": 540,
+  "ios_count": 541,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d873fef2b7db",
+      "title": "iOS 28 Will Reportedly Be 'Far More Significant' Than iOS 27",
+      "summary": "While we are still a week away from Apple unveiling iOS 27, Bloomberg's Mark Gurman has just shared the first rumor regarding iOS 28.\n\n\n\n\nIn his Power On newsletter today, he said that iOS 28 will be \"far more significant\" than iOS 27, but he did not provide any specific details.\n\n\n\"Next year's '28'",
+      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-05-31 14:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "title_translated": "据报道，iOS 28 将比 iOS 27“重要得多”",
+      "summary_translated": "虽然距离苹果发布 iOS 27 还剩一周时间，但彭博社的 Mark Gurman 刚刚分享了有关 iOS 28 的第一个传闻。\n\n\n\n\n在今天的 Power On 时事通讯中，他表示 iOS 28 将比 iOS 27“重要得多”，但他没有提供任何具体细节。\n\n\n“明年的‘28’"
+    },
     {
       "id": "c0a5baf28e98",
       "title": "Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote ‘refresh’ possible",
