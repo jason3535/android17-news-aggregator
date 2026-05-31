@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-31 14:07:53",
-  "total_count": 752,
-  "news_count": 747,
+  "last_updated": "2026-05-31 16:21:04",
+  "total_count": 753,
+  "news_count": 748,
   "android_count": 208,
-  "ios_count": 539,
+  "ios_count": 540,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c0a5baf28e98",
+      "title": "Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote ‘refresh’ possible",
+      "summary": "According to the HomePod mini later this year – alongside the long-awaited release of next-generation Siri in iOS 27. These devices will largely be chip upgrades, though the Apple TV 4K may get an updated Siri Remote.\nmore…",
+      "url": "https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-05-31 14:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-tv-homepod-mini-9to5mac.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "报告：新款 Apple TV、HomePod mini 将于今年秋季推出； Siri Remote“刷新”成为可能",
+      "summary_translated": "根据今年晚些时候的 HomePod mini 的消息，以及人们期待已久的 iOS 27 中的下一代 Siri 的发布。这些设备将主要进行芯片升级，尽管 Apple TV 4K 可能会获得更新的 Siri Remote。\n更多的…"
+    },
     {
       "id": "3031d7fd3620",
       "title": "Here’s one of my feature requests for Visual Intelligence in iOS 27",
