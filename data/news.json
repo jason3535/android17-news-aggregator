@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-01 18:46:30",
-  "total_count": 762,
-  "news_count": 757,
-  "android_count": 208,
-  "ios_count": 549,
+  "last_updated": "2026-06-01 22:17:57",
+  "total_count": 765,
+  "news_count": 760,
+  "android_count": 210,
+  "ios_count": 550,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d93ccf452bfe",
+      "title": "Android 17 Beta 4.1 arrives as Google scrambles to get things ready to hit stable",
+      "summary": "Android 17 still needs just a little more time in the oven.",
+      "url": "https://www.androidauthority.com/android-17-beta-4-1-3673266/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-01 20:56",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg",
+      "title_translated": "Android 17 Beta 4.1 发布，谷歌正忙着准备稳定版本",
+      "summary_translated": "Android 17 还需要多一点时间。"
+    },
+    {
+      "id": "f8db4d461313",
+      "title": "Google rolling out final Android 17 Beta 4.1 update for Pixel",
+      "summary": "Ahead of the stable launch, Google is releasing Android 17 Beta 4.1 for Pixel devices. This “minor update” is a bug fixer.\nmore…",
+      "url": "https://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-01 20:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-6.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌为 Pixel 推出最终版 Android 17 Beta 4.1 更新",
+      "summary_translated": "在稳定版本发布之前，谷歌将发布适用于 Pixel 设备的 Android 17 Beta 4.1。这个“小更新”是一个错误修复程序。\n更多的…"
+    },
     {
       "id": "6f0339e71edf",
       "title": "iOS 27 to add new Wallet app feature for splitting bills: report",
@@ -47,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/wwdc-wallpaper.webp?w=1600",
       "title_translated": "WWDC 壁纸与 Apple Music 播放列表等一起免费下载",
       "summary_translated": "距离定于 6 月 8 日星期一举行的 WWDC 2026 大会，苹果公司将发布下一个重大公告。现在，苹果公司的 Greg “Joz” Joswiak 分享了此次大型主题演讲的新宣传片，并传达了乐观的信息。\nApple 还提供了 WWDC 官方壁纸，您可以免费下载。还有官方A"
+    },
+    {
+      "id": "cca34605082b",
+      "title": "Apple Invites WWDC 2026 Attendees to 'The Mandalorian and Grogu' Screening at Apple Park",
+      "summary": "Developers that have been invited to watch the WWDC 2026 keynote at Apple Park are also able to attend a special screening of The Mandalorian and Grogu.\n\n\n\n\nThe screening will take place at 8:00 p.m. Pacific Time on Tuesday, June 9 at the Steve Jobs Theater. Apple says that a \"special guest\" will be",
+      "url": "https://www.macrumors.com/2026/06/01/apple-the-mandalorian-screening/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-01 14:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/the-mandalorian-and-grogu-disney.jpg",
+      "title_translated": "Apple 邀请 WWDC 2026 与会者观看在 Apple Park 举行的《曼达洛人和格罗古》放映会",
+      "summary_translated": "受邀在 Apple Park 观看 WWDC 2026 主题演讲的开发者还可以参加《曼达洛人》和《格罗古》的特别放映。\n\n\n\n\n放映将于晚上 8:00 举行。太平洋时间 6 月 9 日星期二在史蒂夫·乔布斯剧院举行。苹果表示将有一位“特别嘉宾”"
     },
     {
       "id": "d4460d655117",
