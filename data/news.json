@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-01 22:17:57",
-  "total_count": 765,
-  "news_count": 760,
-  "android_count": 210,
-  "ios_count": 550,
+  "last_updated": "2026-06-02 00:23:21",
+  "total_count": 768,
+  "news_count": 763,
+  "android_count": 211,
+  "ios_count": 552,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a64fdce16a5e",
+      "title": "#WWDC26 hashmoji now live on X ahead of next week’s keynote",
+      "summary": "As it has done over the past several years, Apple has kicked off its hashmoji campaign on X for posts containing the #WWDC26 hashtag.\nmore…",
+      "url": "https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-01 22:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/hashmoji-wwdc26.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "在下周的主题演讲之前，#WWDC26 hashmoji 现已在 X 上上线",
+      "summary_translated": "正如过去几年所做的那样，苹果公司在 X 上针对包含 #WWDC26 标签的帖子启动了 hashmoji 活动。\n更多的…"
+    },
     {
       "id": "d93ccf452bfe",
       "title": "Android 17 Beta 4.1 arrives as Google scrambles to get things ready to hit stable",
@@ -19,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg",
       "title_translated": "Android 17 Beta 4.1 发布，谷歌正忙着准备稳定版本",
       "summary_translated": "Android 17 还需要多一点时间。"
+    },
+    {
+      "id": "8c964570849c",
+      "title": "Android 17 Beta 4.1 Update Surprises Pixels",
+      "summary": "This afternoon, Google dropped a bit of a surprise update on its Pixel line-up. Android 17 Beta 4.1 was released as a minor update to April’s Beta 4, which Google said at the time would be the “last scheduled beta” of the cycle before things went stable. I guess they needed one last bug-fixer. The..",
+      "url": "https://www.droid-life.com/2026/06/01/android-17-beta-4-1-update-surprises-pixels/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-06-01 20:40",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-5-1200x800.jpg",
+      "title_translated": "Android 17 Beta 4.1 更新惊喜像素",
+      "summary_translated": "今天下午，谷歌对其 Pixel 系列进行了一些令人惊讶的更新。 Android 17 Beta 4.1 作为 4 月份 Beta 4 的小更新发布，谷歌当时表示，这将是稳定之前该周期的“最后一个预定测试版”。我猜他们需要最后一个错误修复程序。这.."
     },
     {
       "id": "f8db4d461313",
@@ -61,6 +89,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 发布了 iPhone 版 iOS 26.5.1，以下是新功能",
       "summary_translated": "Apple 刚刚为 iPhone 用户发布了最新的软件更新：iOS 26.5.1。这是新内容。\n更多的…"
+    },
+    {
+      "id": "28802e209adf",
+      "title": "iOS 27: What We Know About the New Siri App",
+      "summary": "iOS 27, iPadOS 27, and macOS 27 will include a standalone Siri app for the first time, providing a dedicated space for interfacing with ‌Siri‌.\n\n\n\n\nSiri Chatbot\n\nApple needs a ‌Siri‌ app because ‌Siri‌ is turning into a chatbot. ‌Siri‌ will work like ChatGPT or Claude, able to pull information from ",
+      "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-01 16:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/Finder-Siri-Feature.jpg",
+      "title_translated": "iOS 27：我们对新 Siri 应用程序的了解",
+      "summary_translated": "iOS 27、iPadOS 27 和 macOS 27 将首次包含独立的 Siri 应用程序，为与 Siri 交互提供专用空间。\n\n\n\n\nSiri 聊天机器人\n\n苹果需要一款“Siri”应用程序，因为“Siri”正在变成一个聊天机器人。 ‌Siri‌ 将像 ChatGPT 或 Claude 一样工作，能够从"
     },
     {
       "id": "a56ebf3bddd3",
@@ -10653,7 +10695,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -10664,7 +10706,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -10675,7 +10717,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -10686,7 +10728,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -10697,7 +10739,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
