@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-02 15:03:44",
-  "total_count": 769,
-  "news_count": 764,
-  "android_count": 211,
-  "ios_count": 553,
+  "last_updated": "2026-06-02 18:51:59",
+  "total_count": 772,
+  "news_count": 767,
+  "android_count": 212,
+  "ios_count": 555,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c36140f8af57",
+      "title": "June Android Drop: Quick Share AirDrop expansion, AI in Play Books, & more, Android 17 coming soon",
+      "summary": "Google today announced the latest spring features with the June Android Drop. At the same time, Google teased that “even more exciting updates [are] coming soon in Android 17.” \nmore…",
+      "url": "https://9to5google.com/2026/06/02/june-2026-android-drop/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-02 18:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figure-mwc-galaxy-xr-workbench.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "6 月 Android Drop：快速分享 AirDrop 扩展、Play Books 中的 AI 等等，Android 17 即将推出",
+      "summary_translated": "Google 今天通过 6 月 Android Drop 发布了最新的春季功能。与此同时，谷歌开玩笑说“Android 17 即将推出更多令人兴奋的更新。” \n更多的…"
+    },
     {
       "id": "d945d6256dfe",
       "title": "Google delivering on Gemini promises means Apple Intelligence can do the same",
@@ -19,6 +33,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/siri-gemini.jpg?quality=82&strip=all&w=1600",
       "title_translated": "谷歌兑现了 Gemini 的承诺意味着 Apple Intelligence 也能做到同样的事情",
       "summary_translated": "确定谷歌代理人工智能系统 Gemini Spark 能否兑现上个月 I/O 活动舞台上做出的承诺的测试表明，在很大程度上，它可以。\n由于这是苹果公司将用来为新 Siri 提供动力的型号，这对于库比蒂诺公司及其公司来说同样是个好消息"
+    },
+    {
+      "id": "20505d8c020a",
+      "title": "Apple Announces This Year's App Design Award Winners Ahead of WWDC 2026",
+      "summary": "WWDC is set to start on Monday, June 8, and ahead of the keynote event, Apple has announced the winners of its annual Apple Design Awards. The Apple Design Awards recognize apps and games for their innovation, ingenuity, and technical achievement.\n\n\n\n\nApple chose one app and one game for each of the",
+      "url": "https://www.macrumors.com/2026/06/02/apple-design-award-winners-2026/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-02 10:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/wwdc-2026-apple-design-awards.jpg",
+      "title_translated": "Apple 在 WWDC 2026 之前公布今年的 App 设计奖获奖者",
+      "summary_translated": "WWDC 将于 6 月 8 日星期一开幕，在主题活动之前，Apple 宣布了年度 Apple 设计奖的获奖者。 Apple 设计奖旨在表彰应用程序和游戏的创新、独创性和技术成就。\n\n\n\n\n苹果为每个项目选择了一款应用程序和一款游戏"
+    },
+    {
+      "id": "3bd6ba224eeb",
+      "title": "iOS 27 Rumored to Include Split-Screen App Adaptation Feature",
+      "summary": "Apple is working on a split-screen app landscape adaptation feature for iOS 27, according to a known leaker.\n\n\n\n\nIn a new post on Weibo, the leaker known as \"Fixed Focus Digital\" said Apple is developing a \"Parallel View\" capability for iOS, aimed at solving the platform's longstanding weakness with",
+      "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-02 08:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+      "title_translated": "iOS 27 传闻将包含分屏应用适配功能",
+      "summary_translated": "据一位已知的泄密者透露，苹果正在为 iOS 27 开发分屏应用程序景观适应功能。\n\n\n\n\n在微博上的一篇新帖子中，这位名为“Fixed Focus Digital”的泄密者表示，苹果正在为 iOS 开发“平行视图”功能，旨在解决该平台长期存在的弱点"
     },
     {
       "id": "a64fdce16a5e",
