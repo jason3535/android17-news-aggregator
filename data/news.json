@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-02 10:53:07",
-  "total_count": 768,
-  "news_count": 763,
+  "last_updated": "2026-06-02 15:03:44",
+  "total_count": 769,
+  "news_count": 764,
   "android_count": 211,
-  "ios_count": 552,
+  "ios_count": 553,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d945d6256dfe",
+      "title": "Google delivering on Gemini promises means Apple Intelligence can do the same",
+      "summary": "Tests to determine whether Google’s agentic AI system Gemini Spark can deliver on the promises made on stage at last month’s I/O event shows that, for the most part, it can.\nSince this is the model Apple will be using to power the new Siri, that’s equally good news for the Cupertino company and its ",
+      "url": "https://9to5mac.com/2026/06/02/google-delivering-on-gemini-promises-means-apple-intelligence-can-do-the-same/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-02 13:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/siri-gemini.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌兑现了 Gemini 的承诺意味着 Apple Intelligence 也能做到同样的事情",
+      "summary_translated": "确定谷歌代理人工智能系统 Gemini Spark 能否兑现上个月 I/O 活动舞台上做出的承诺的测试表明，在很大程度上，它可以。\n由于这是苹果公司将用来为新 Siri 提供动力的型号，这对于库比蒂诺公司及其公司来说同样是个好消息"
+    },
     {
       "id": "a64fdce16a5e",
       "title": "#WWDC26 hashmoji now live on X ahead of next week’s keynote",
