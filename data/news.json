@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-02 22:01:28",
-  "total_count": 776,
-  "news_count": 771,
+  "last_updated": "2026-06-02 23:59:26",
+  "total_count": 777,
+  "news_count": 772,
   "android_count": 213,
-  "ios_count": 558,
+  "ios_count": 559,
   "leaker_count": 5,
   "items": [
     {
@@ -89,6 +89,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/siri-gemini.jpg?quality=82&strip=all&w=1600",
       "title_translated": "谷歌兑现了 Gemini 的承诺意味着 Apple Intelligence 也能做到同样的事情",
       "summary_translated": "确定谷歌代理人工智能系统 Gemini Spark 能否兑现上个月 I/O 活动舞台上做出的承诺的测试表明，在很大程度上，它可以。\n由于这是苹果公司将用来为新 Siri 提供动力的型号，这对于库比蒂诺公司及其公司来说同样是个好消息"
+    },
+    {
+      "id": "aedc1b4479ad",
+      "title": "Siri in iOS 27: Every New Feature and Change to Expect",
+      "summary": "Apple first introduced the idea of a smarter version of Siri at the 2024 Worldwide Developers Conference. ‌Siri‌ with Apple Intelligence was supposed to launch as part of iOS 18, but the underlying architecture wasn't good enough, and Apple was forced to delay the feature. We're now expecting a new ",
+      "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-02 12:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
+      "title_translated": "iOS 27 中的 Siri：每一项新功能和值得期待的变化",
+      "summary_translated": "苹果在 2024 年全球开发者大会上首次提出了智能版 Siri 的想法。带有 Apple Intelligence 的 Siri 原本应该作为 iOS 18 的一部分推出，但底层架构不够好，苹果被迫推迟了该功能。我们现在期待一个新的"
     },
     {
       "id": "20505d8c020a",
