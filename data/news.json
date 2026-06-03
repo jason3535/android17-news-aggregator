@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-03 21:27:54",
-  "total_count": 784,
-  "news_count": 779,
+  "last_updated": "2026-06-03 23:56:43",
+  "total_count": 785,
+  "news_count": 780,
   "android_count": 214,
-  "ios_count": 565,
+  "ios_count": 566,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.droid-life.com/wp-content/uploads/2026/03/Pixel-10a-Review-3-980x653.jpg",
       "title_translated": "Pixel 10a 已添加到 Android 17 Beta 程序中",
       "summary_translated": "本周早些时候，谷歌发布了 Android 17 Beta 的次要更新 Beta 4.1，这显示出另一个新迹象，表明我们非常接近稳定更新。在该更新的故事中，我们指出 Pixel 10a 仍然不在支持的设备列表中，但我们不确定原因。今天，...\n阅读"
+    },
+    {
+      "id": "34cee7b3fb7e",
+      "title": "iOS 27: All the Rumored App Features",
+      "summary": "Siri is getting a major overhaul in iOS 27, but Apple also has some big updates planned for apps like Camera, Photos, and Wallet. There are multiple new AI features in the works, plus some non-AI upgrades.\n\n\n\n\nCamera\n\nApple is moving Visual Intelligence from the Camera Control button to the Camera a",
+      "url": "https://www.macrumors.com/2026/06/03/ios-27-app-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-03 15:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-All-the-New-App-Features.jpg",
+      "title_translated": "iOS 27：所有传闻中的应用功能",
+      "summary_translated": "Siri 在 iOS 27 中进行了重大修改，但苹果还计划对相机、照片和钱包等应用程序进行一些重大更新。目前正在开发多项新的人工智能功能，以及一些非人工智能升级。\n\n\n\n\n相机\n\n苹果正在将视觉智能从相机控制按钮转移到相机上"
     },
     {
       "id": "00a6a83d6fdc",
