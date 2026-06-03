@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-03 17:09:56",
-  "total_count": 782,
-  "news_count": 777,
-  "android_count": 213,
-  "ios_count": 564,
+  "last_updated": "2026-06-03 21:27:54",
+  "total_count": 784,
+  "news_count": 779,
+  "android_count": 214,
+  "ios_count": 565,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "92cce2ab8e8f",
+      "title": "Pixel 10a Added to Both Android 17 Beta Programs",
+      "summary": "Earlier in the week, Google released a minor Android 17 Beta update as Beta 4.1, showing another new sign that we are very close to a stable update. In our story for that update, we pointed out that the Pixel 10a remained off the list of supported devices and that we weren’t sure why. Today,...\nRead",
+      "url": "https://www.droid-life.com/2026/06/03/pixel-10a-android-17-beta-update/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-06-03 17:32",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/03/Pixel-10a-Review-3-980x653.jpg",
+      "title_translated": "Pixel 10a 已添加到 Android 17 Beta 程序中",
+      "summary_translated": "本周早些时候，谷歌发布了 Android 17 Beta 的次要更新 Beta 4.1，这显示出另一个新迹象，表明我们非常接近稳定更新。在该更新的故事中，我们指出 Pixel 10a 仍然不在支持的设备列表中，但我们不确定原因。今天，...\n阅读"
+    },
     {
       "id": "00a6a83d6fdc",
       "title": "CarPlay in iOS 26 added new setting that should have always existed",
@@ -47,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?quality=82&strip=all&w=1600",
       "title_translated": "这些 iPhone、iPad、Mac 可能不支持苹果的新软件",
       "summary_translated": "下周，苹果将在 WWDC 上发布 iOS 27、iPadOS 27 和 macOS 27，但有传言称某些 iPhone、Mac 和 iPad 机型将不支持新软件。这是值得期待的。\n更多的…"
+    },
+    {
+      "id": "c4d2d41e3fb1",
+      "title": "What's on Your iOS 27 Wishlist Ahead of WWDC 2026?",
+      "summary": "We're just a handful of days away from Apple's 2026 Worldwide Developers Conference, which will see the introduction of iOS 27, iPadOS 27, macOS 27, and more.\n\n\n\n\nWe've heard plenty of rumors about ‌iOS 27‌ and it sounds like most of the new features will focus on Siri and AI, but we want to hear fr",
+      "url": "https://www.macrumors.com/2026/06/03/ios-27-wishlist/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-03 14:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Wishlist-Feature.jpg",
+      "title_translated": "在 WWDC 2026 之前，您的 iOS 27 愿望清单上有什么？",
+      "summary_translated": "距离 Apple 2026 年全球开发者大会召开仅剩几天时间，届时将推出 iOS 27、iPadOS 27、macOS 27 等。\n\n\n\n\n我们已经听到了很多关于 iOS 27 的传言，听起来大多数新功能将集中在 Siri 和 AI 上，但我们想听听更多关于 iOS 27 的传闻。"
     },
     {
       "id": "03d16a3bb8e4",
