@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-04 19:30:04",
-  "total_count": 788,
-  "news_count": 783,
+  "last_updated": "2026-06-04 21:51:06",
+  "total_count": 790,
+  "news_count": 785,
   "android_count": 215,
-  "ios_count": 568,
+  "ios_count": 570,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0567e0912e43",
+      "title": "iOS 27 bill splitting, new hardware waiting on new Siri, final WWDC expectations",
+      "summary": "Benjamin and Chance talk about the late-breaking iOS 27 rumors, including a new bill splitting feature for the Wallet app, as well as give their final expectations for next week’s WWDC announcements. Apple fixes Mayo’s iPhone Air battery glitch, and new Apple TV and HomePod models are apparently in ",
+      "url": "https://9to5mac.com/2026/06/04/happy-hour-593/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-04 21:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 账单分摊、新硬件等待新 Siri、WWDC 最终预期",
+      "summary_translated": "Benjamin 和 Chance 谈论了最新的 iOS 27 传闻，包括 Wallet 应用程序的新账单分摊功能，并给出了他们对下周 WWDC 公告的最终期望。苹果修复了 Mayo 的 iPhone Air 电池故障，新的 Apple TV 和 HomePod 型号显然已投入使用"
+    },
     {
       "id": "e9f22151b2e5",
       "title": "AirPods got new iPhone camera feature in iOS 26, here’s how to use it",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-camera-remote-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "AirPods 在 iOS 26 中获得了新的 iPhone 相机功能，以下是如何使用它",
       "summary_translated": "iOS 26 为 AirPods 添加了各种新功能，包括用于控制 iPhone 相机应用程序的相机远程设置。以下是如何使用它。\n更多的…"
+    },
+    {
+      "id": "261b2a80dd1c",
+      "title": "Apple Park Visitor Center Gets New Merch Ahead of WWDC 2026",
+      "summary": "With developers and members of the media soon to arrive at the Apple Park campus for WWDC 2026, Apple has added new merchandise to the store at the ‌Apple Park‌ Visitor Center.\n\n\n\n\nMr. Macintosh shared images of the new items, including crewneck sweatshirts with the classic Apple Garamond text featu",
+      "url": "https://www.macrumors.com/2026/06/04/apple-park-visitor-center-wwdc-2026-merch/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-04 12:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/apple-sweatshirt.jpg",
+      "title_translated": "Apple Park 游客中心在 WWDC 2026 之前推出新商品",
+      "summary_translated": "随着开发者和媒体成员即将抵达 Apple Park 园区参加 WWDC 2026，Apple 已在 Apple Park 游客中心的商店中添加了新商品。\n\n\n\n\nMacintosh 先生分享了新产品的图片，包括带有经典 Apple Garamond 文字特征的圆领运动衫"
     },
     {
       "id": "a8539b3458ff",
