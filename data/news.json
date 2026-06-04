@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-04 21:51:06",
-  "total_count": 790,
-  "news_count": 785,
+  "last_updated": "2026-06-04 23:20:25",
+  "total_count": 791,
+  "news_count": 786,
   "android_count": 215,
-  "ios_count": 570,
+  "ios_count": 571,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-camera-remote-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "AirPods 在 iOS 26 中获得了新的 iPhone 相机功能，以下是如何使用它",
       "summary_translated": "iOS 26 为 AirPods 添加了各种新功能，包括用于控制 iPhone 相机应用程序的相机远程设置。以下是如何使用它。\n更多的…"
+    },
+    {
+      "id": "6bd25c364487",
+      "title": "macOS 27 Wishlist: What Do You Want From Apple at WWDC 2026?",
+      "summary": "We have four days to go until Apple's WWDC keynote event begins on Monday, June 8. iOS 27 has been the focus of most of the rumors, but we're also going to get a new version of macOS, macOS 27.\n\n\n\n\nSome of the same features that are coming in ‌iOS 27‌ will come to ‌macOS 27‌, like the new version of",
+      "url": "https://www.macrumors.com/2026/06/04/macos-27-wwdc-2026-wishlist/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-04 14:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-Wishlist-What-Do-You-Want-From-Apple-at-WWDC-2026-Feature.jpg",
+      "title_translated": "macOS 27 愿望清单：您希望在 WWDC 2026 上从 Apple 获得什么？",
+      "summary_translated": "距离 Apple WWDC 主题活动于 6 月 8 日星期一开始还有四天时间。iOS 27 一直是大多数谣言的焦点，但我们也将获得新版本的 macOS，macOS 27。\n\n\n\n\niOS 27 中的一些相同功能也将出现在 macOS 27 中，例如新版本"
     },
     {
       "id": "261b2a80dd1c",
