@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-04 12:12:52",
-  "total_count": 786,
-  "news_count": 781,
+  "last_updated": "2026-06-04 16:27:51",
+  "total_count": 787,
+  "news_count": 782,
   "android_count": 215,
-  "ios_count": 566,
+  "ios_count": 567,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg",
       "title_translated": "One UI 9 跳过了我最喜欢的 Android 17 功能",
       "summary_translated": "One UI 9 中的智能回复并没有变得更加智能。"
+    },
+    {
+      "id": "e24a0fb17728",
+      "title": "Apple Highlights App Store Study: $1.4 Trillion in Sales Last Year, More Than 90% Commission-Free",
+      "summary": "Apple today highlighted a new study by economists at Analysis Group that outlines four key App Store stats for 2025.\n\n\nAhead of WWDC 2026 next week, Apple's core message with this press release is that the App Store is reaching new heights and that \"developers continue to thrive globally.\"\n\n\nApp Sto",
+      "url": "https://www.macrumors.com/2026/06/04/apple-highlights-2025-app-store-study/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-04 08:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/12/Apple-App-Store-Awards-2025.jpg",
+      "title_translated": "Apple 强调 App Store 研究：去年销售额 1.4 万亿美元，90% 以上免佣金",
+      "summary_translated": "Apple 今天重点介绍了 Analysis Group 经济学家的一项新研究，该研究概述了 2025 年 App Store 的四项关键统计数据。\n\n\n在下周的 WWDC 2026 之前，Apple 通过此新闻稿传达的核心信息是 App Store 正在达到新的高度，并且“开发者将继续在全球蓬勃发展”。\n\n\n应用商店"
     },
     {
       "id": "92cce2ab8e8f",
