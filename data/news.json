@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-04 08:57:51",
-  "total_count": 785,
-  "news_count": 780,
-  "android_count": 214,
+  "last_updated": "2026-06-04 12:12:52",
+  "total_count": 786,
+  "news_count": 781,
+  "android_count": 215,
   "ios_count": 566,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a8539b3458ff",
+      "title": "One UI 9 is skipping my favorite Android 17 feature",
+      "summary": "Smart Replies haven't gotten any smarter in One UI 9.",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-skipping-favorite-android-17-feature-3672720/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-04 10:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg",
+      "title_translated": "One UI 9 跳过了我最喜欢的 Android 17 功能",
+      "summary_translated": "One UI 9 中的智能回复并没有变得更加智能。"
+    },
     {
       "id": "92cce2ab8e8f",
       "title": "Pixel 10a Added to Both Android 17 Beta Programs",
