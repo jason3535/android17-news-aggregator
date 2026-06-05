@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-05 20:57:20",
-  "total_count": 800,
-  "news_count": 795,
+  "last_updated": "2026-06-05 22:22:18",
+  "total_count": 801,
+  "news_count": 796,
   "android_count": 215,
-  "ios_count": 580,
+  "ios_count": 581,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-when-mockup.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 Beta 发布日期：何时可以安装新的 iPhone 更新",
       "summary_translated": "距离 iOS 27 的重大发布只有几天了，如果您有兴趣在 iPhone 上安装预发布软件，那么您不必等待太久即可获得测试版。这是 iOS 27 Beta 的预计发布日期。\n更多的…"
+    },
+    {
+      "id": "d3153b14991f",
+      "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More",
+      "summary": "Apple's 2026 Worldwide Developers Conference is just days away, and it's going to be an interesting event because it will give us a look at Apple's AI plans. We'll see how Apple is going to compete with OpenAI, Anthropic, and Google in the months to come with an AI version of Siri and new AI feature",
+      "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-05 14:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Ft.-Siri.jpg",
+      "title_translated": "WWDC 2026 值得期待：Gemini 支持的 Siri、iOS 27、macOS 27 等",
+      "summary_translated": "距离苹果 2026 年全球开发者大会只剩几天了，这将是一次有趣的活动，因为它将让我们了解苹果的人工智能计划。我们将看到苹果将如何在未来几个月内通过 AI 版本的 Siri 和新的 AI 功能与 OpenAI、Anthropic 和 Google 竞争"
     },
     {
       "id": "b375b98a40e9",
