@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-05 19:05:09",
-  "total_count": 799,
-  "news_count": 794,
+  "last_updated": "2026-06-05 20:57:20",
+  "total_count": 800,
+  "news_count": 795,
   "android_count": 215,
-  "ios_count": 579,
+  "ios_count": 580,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1e9ec9c41076",
+      "title": "New iOS 27 designs reportedly coming to these iPhone apps",
+      "summary": "iOS 27 will be unveiled in mere days, and rumors indicate the update will bring new design changes in big and small ways to a variety of iPhone apps. Here’s what’s coming.\nmore…",
+      "url": "https://9to5mac.com/2026/06/05/new-ios-27-designs-reportedly-coming-to-these-iphone-apps/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-05 19:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-26-app-icons-camera-image-playground.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "据报道，这些 iPhone 应用程序将采用新的 iOS 27 设计",
+      "summary_translated": "iOS 27 将在短短几天内亮相，有传言称此次更新将为各种 iPhone 应用程序带来大大小小的新设计变化。这就是即将发生的事情。\n更多的…"
+    },
     {
       "id": "d889f2647931",
       "title": "iOS 27 beta release date: When you can install the new iPhone update",
