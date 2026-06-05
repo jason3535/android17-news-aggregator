@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-04 23:20:25",
-  "total_count": 791,
-  "news_count": 786,
+  "last_updated": "2026-06-05 04:43:06",
+  "total_count": 792,
+  "news_count": 787,
   "android_count": 215,
-  "ios_count": 571,
+  "ios_count": 572,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-camera-remote-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "AirPods 在 iOS 26 中获得了新的 iPhone 相机功能，以下是如何使用它",
       "summary_translated": "iOS 26 为 AirPods 添加了各种新功能，包括用于控制 iPhone 相机应用程序的相机远程设置。以下是如何使用它。\n更多的…"
+    },
+    {
+      "id": "1b877cb8d34f",
+      "title": "5+ New Features Coming in macOS 27",
+      "summary": "iOS 27 has been the star of the rumors we've been hearing ahead of Apple's WWDC 2026 event, but there have also been a few tidbits about the next version of macOS, macOS 27. We don't know as much about ‌macOS 27‌ as we do about ‌iOS 27‌, so there will be some surprises in store.\n\n\n\n\nLiquid Glass Rev",
+      "url": "https://www.macrumors.com/2026/06/04/macos-27-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-04 16:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/5-New-Features-Coming-in-macOS-27-Feature.jpg",
+      "title_translated": "macOS 27 中即将推出 5 项以上新功能",
+      "summary_translated": "iOS 27 一直是我们在 Apple WWDC 2026 活动之前听到的谣言中的明星，但也有一些关于 macOS 下一个版本 macOS 27 的花絮。我们对 macOS 27 的了解不如对 iOS 27 的了解那么多，因此将会有一些惊喜。\n\n\n\n\n液体玻璃修订版"
     },
     {
       "id": "6bd25c364487",
@@ -11017,7 +11031,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -11028,7 +11042,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -11039,7 +11053,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -11050,7 +11064,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -11061,7 +11075,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
