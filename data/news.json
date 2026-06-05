@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-05 16:08:07",
-  "total_count": 798,
-  "news_count": 793,
+  "last_updated": "2026-06-05 19:05:09",
+  "total_count": 799,
+  "news_count": 794,
   "android_count": 215,
-  "ios_count": 578,
+  "ios_count": 579,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/new-siri-ui-wwdc-26.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27：您可能需要加入候补名单才能尝试新的 Siri 功能",
       "summary_translated": "苹果将​​在几天后的 WWDC 上发布 iOS 27 和全新版本的 Siri。在此之前，彭博社发布了对此次活动的精彩回顾。有一个特别有趣的花絮：所谓的新 Siri 可能会有一个等待名单，供想要尝试的人使用"
+    },
+    {
+      "id": "a7ee2303550f",
+      "title": "The MacRumors Show: What to Expect at WWDC 2026",
+      "summary": "On this week's episode of The MacRumors Show, we talk through all of the major rumors surrounding Apple's announcements at WWDC 2026. \n\n\nSubscribe to The MacRumors Show YouTube channel for more videos\n\nThe event's tagline, \"All Systems Glow,\" is widely seen as a hint at Siri's new design. Bloomberg'",
+      "url": "https://www.macrumors.com/2026/06/05/the-macrumors-show-what-to-expect-at-wwdc26/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-05 09:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/Wyw8YATmdVfoslsMujz7aoKgT4U=/2500x/article-new/2026/06/TMRS-196-Siris-Make-or-Break-Moment-Thumb-2.jpg",
+      "title_translated": "MacRumors Show：WWDC 2026 有何期待",
+      "summary_translated": "在本周的 MacRumors Show 节目中，我们将探讨有关 Apple 在 WWDC 2026 上发布的所有主要谣言。 \n\n\n订阅 The MacRumors Show YouTube 频道以观看更多视频\n\n该活动的口号“All Systems Glow”被广泛视为对 Siri 新设计的暗示。布隆伯格'"
     },
     {
       "id": "5c7a48ace0d7",
