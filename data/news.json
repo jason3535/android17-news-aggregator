@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-06 14:51:29",
-  "total_count": 802,
-  "news_count": 797,
+  "last_updated": "2026-06-06 16:16:52",
+  "total_count": 803,
+  "news_count": 798,
   "android_count": 215,
-  "ios_count": 582,
+  "ios_count": 583,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0cbacc238c88",
+      "title": "iOS 27: Seven new iPhone features are coming soon",
+      "summary": "Apple will unveil iOS 27 on Monday during WWDC’s kickoff. Here are seven new iPhone features rumored to be coming in iOS 27.\nmore…",
+      "url": "https://9to5mac.com/2026/06/06/ios-27-seven-new-features-are-coming-soon/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-06 15:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27：七项新 iPhone 功能即将推出",
+      "summary_translated": "苹果将​​于周一在 WWDC 开幕期间发布 iOS 27。以下是传闻中 iOS 27 中将出现的七项 iPhone 新功能。\n更多…"
+    },
     {
       "id": "1e9ec9c41076",
       "title": "New iOS 27 designs reportedly coming to these iPhone apps",
