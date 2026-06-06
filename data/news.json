@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-06 12:14:03",
-  "total_count": 801,
-  "news_count": 796,
+  "last_updated": "2026-06-06 14:51:29",
+  "total_count": 802,
+  "news_count": 797,
   "android_count": 215,
-  "ios_count": 581,
+  "ios_count": 582,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-when-mockup.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 Beta 发布日期：何时可以安装新的 iPhone 更新",
       "summary_translated": "距离 iOS 27 的重大发布只有几天了，如果您有兴趣在 iPhone 上安装预发布软件，那么您不必等待太久即可获得测试版。这是 iOS 27 Beta 的预计发布日期。\n更多的…"
+    },
+    {
+      "id": "7bcfb9fc816e",
+      "title": "Top Stories: 'All Systems Glow' for WWDC, MacBook Neo Popularity, and More",
+      "summary": "Apple's big week for developers is just around the corner, and that means WWDC 2026 will also be giving everybody else their first peek at what Apple has in store for iOS 27, macOS 27 and more later this year.\n\n\n\n\nOther notable Apple news this week included the popularity of the budget MacBook Neo, ",
+      "url": "https://www.macrumors.com/2026/06/06/top-stories-all-systems-glow-wwdc-2026/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-05 14:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/top-stories-2026-06-06.jpg",
+      "title_translated": "头条新闻：WWDC 的“所有系统都焕发光彩”、MacBook Neo 的受欢迎程度等",
+      "summary_translated": "苹果对开发者来说重要的一周即将到来，这意味着 WWDC 2026 也将让其他人第一次看到苹果在今年晚些时候为 iOS 27、macOS 27 及更多版本准备的内容。\n\n\n\n\n本周其他值得注意的苹果新闻包括廉价版 MacBook Neo 的受欢迎程度，"
     },
     {
       "id": "d3153b14991f",
