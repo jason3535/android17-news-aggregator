@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-07 18:16:10",
-  "total_count": 804,
-  "news_count": 799,
+  "last_updated": "2026-06-07 20:22:28",
+  "total_count": 805,
+  "news_count": 800,
   "android_count": 215,
-  "ios_count": 584,
+  "ios_count": 585,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2e2644566a61",
+      "title": "Apple embraces Lil Finder Guy with WWDC 2026 swag",
+      "summary": "There’s now a physical Apple pin for Lil Finder Guy, the adorable Finder-based Mac mascot who originated from MacBook Neo’s marketing campaign.\nmore…",
+      "url": "https://9to5mac.com/2026/06/07/apple-embraces-lil-finder-guy-with-wwdc-2026-swag/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-07 20:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Apple-creates-adorable-little-Finder-guy-to-promote-its-adorable-little-Mac.jpg?quality=82&strip=all&w=1500",
+      "title_translated": "苹果以 WWDC 2026 赠品拥抱 Lil Finder Guy",
+      "summary_translated": "现在，Lil Finder Guy 有了一个实体 Apple 徽章，这是一个基于 Finder 的可爱 Mac 吉祥物，源自 MacBook Neo 的营销活动。\n更多的…"
+    },
     {
       "id": "115321ef8743",
       "title": "iOS 27 is coming Monday: New features, compatibility, more",
