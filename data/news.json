@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-08 06:04:38",
-  "total_count": 805,
-  "news_count": 800,
+  "last_updated": "2026-06-08 11:19:34",
+  "total_count": 808,
+  "news_count": 803,
   "android_count": 215,
-  "ios_count": 585,
+  "ios_count": 588,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6e2119a938ff",
+      "title": "5 Things to Watch for During Apple's WWDC 2026 Keynote Today",
+      "summary": "WWDC 2026 has officially arrived, with Apple set to kick off its annual developer conference with its opening keynote at 10 a.m. Pacific Time today.\n\n\n\n\nApple will announce its latest software updates, including iPadOS 27, macOS 27, watchOS 27, tvOS 27, and visionOS 27. Could there also be a surpris",
+      "url": "https://www.macrumors.com/2026/06/08/5-things-to-watch-2026-keynote/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 04:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/little-finder-guy-megaphone.jpg",
+      "title_translated": "今天 Apple WWDC 2026 主题演讲期间值得关注的 5 件事",
+      "summary_translated": "WWDC 2026 已正式到来，苹果将于太平洋时间今天上午 10 点以开幕主题演讲拉开年度开发者大会的序幕。\n\n\n\n\n苹果将​​宣布最新的软件更新，包括iPadOS 27、macOS 27、watchOS 27、tvOS 27和visionOS 27。是否还会有惊喜"
+    },
+    {
+      "id": "e89e0f79a20f",
+      "title": "WWDC 2026 Swag Bag Includes Little Finder Guy",
+      "summary": "Just hours away from WWDC's opening keynote, some developers have been sharing the contents of their conference swag bags on social media. The bags are given to attendees when they register for the event, and typically contain limited-edition Apple gifts.\n\n\n\n\nThis year, developers have been register",
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-swag-bag-little-finder-guy/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 02:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/little-finder-guy-pin@2x-scaled.jpg",
+      "title_translated": "WWDC 2026 赃物袋包括小 Finder Guy",
+      "summary_translated": "距离 WWDC 开幕主题演讲仅几个小时，一些开发者就在社交媒体上分享了他们的会议礼品袋中的内容。这些袋子是在与会者注册参加活动时赠送给他们的，通常包含限量版的苹果礼物。\n\n\n\n\n今年开发商已注册"
+    },
     {
       "id": "2e2644566a61",
       "title": "Apple embraces Lil Finder Guy with WWDC 2026 swag",
@@ -187,6 +215,20 @@
       "image": "https://images.macrumors.com/article-new/2026/04/iOS-27-and-Siri-Finder-Thumb.jpg",
       "title_translated": "iOS 27：新的“Beta”Siri 功能可能需要等待",
       "summary_translated": "彭博社的 Mark Gurman 在周一的主题演讲之前发布了他的 WWDC 预览，虽然他介绍的几乎所有 iOS 27 功能都已经发布，但有几个细节值得强调。\n\n\n\n\n正如我们之前所介绍的，Apple 正在将 Siri 转变为一个完整的聊天机器人，用户可以"
+    },
+    {
+      "id": "4d86b26abbce",
+      "title": "How to Watch Apple's WWDC 2026 Keynote on June 8",
+      "summary": "The 2026 Worldwide Developers Conference will take place this week from June 8 through June 12, and like the last six years, it will be an online event, although select developers and students will be invited to Apple Park. To kick things off, Apple holds a keynote event on the Monday to announce ne",
+      "url": "https://www.macrumors.com/how-to/how-to-watch-apple-wwdc-2026/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-05 01:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/wwdc-2026-horizontal.jpg",
+      "title_translated": "如何观看 6 月 8 日苹果 WWDC 2026 主题演讲",
+      "summary_translated": "2026 年全球开发者大会将于本周于 6 月 8 日至 12 日举行，与过去六年一样，这将是一场在线活动，不过部分开发者和学生将被邀请到 Apple Park。首先，苹果公司在周一举行了一场主题演讲，宣布新产品"
     },
     {
       "id": "0567e0912e43",
