@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-08 21:59:29",
-  "total_count": 872,
-  "news_count": 867,
+  "last_updated": "2026-06-08 23:21:38",
+  "total_count": 877,
+  "news_count": 872,
   "android_count": 215,
-  "ios_count": 652,
+  "ios_count": 657,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "745f4e47fa03",
+      "title": "iOS 27 adds extra-large widgets for your extra-large needs",
+      "summary": "With iOS 27, users will be able to add new extra-large widgets to their Today View and Home Screen. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/06/08/ios-27-adds-extra-large-widgets-for-your-extra-large-needs/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-08 22:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios27-extra-large-widgets-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 添加超大小部件，满足你的超大需求",
+      "summary_translated": "在 iOS 27 中，用户将能够向“今日视图”和主屏幕添加新的超大小部件。以下是详细信息。\n更多的…"
+    },
     {
       "id": "8c2625380e0d",
       "title": "Apple leaks foldable iPhone references in iOS 27 beta",
@@ -399,6 +413,48 @@
       "summary_translated": "Apple 已正式发布 iOS 27。以下是 iPhone 下一次重大更新中包含的内容。\n更多的…"
     },
     {
+      "id": "355d0888963e",
+      "title": "Apple Announces New CarPlay Features on iOS 27, Including Video Apps",
+      "summary": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, but we did not hear many specific details about this functionality until now.\n\n\n\n\nIn a WWDC 2026 video aimed at developers, Apple said the CarPlay vi",
+      "url": "https://www.macrumors.com/2026/06/08/new-apple-carplay-features-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 16:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/CarPlay-iOS-27-Video-Apps.jpg",
+      "title_translated": "Apple 宣布 iOS 27 上新增 CarPlay 功能，包括视频应用",
+      "summary_translated": "早在 WWDC 2025 上，苹果就透露，计划允许 CarPlay 用户在不开车时在车内通过 AirPlay 观看视频，但直到现在我们还没有听到有关此功能的许多具体细节。\n\n\n\n\n苹果在 WWDC 2026 面向开发者的视频中表示，CarPlay vi"
+    },
+    {
+      "id": "c5b417339768",
+      "title": "Apple Watch Series 9 Mistakenly Left Off watchOS 27 Compatibility List",
+      "summary": "Apple today confirmed that the Apple Watch Series 9 is compatible with watchOS 27, after the device was mistakenly omitted from the software's official compatibility page.\n\n\n\n\nApple updated its website immediately following its WWDC 2026 keynote, and the watchOS 27 page listed a shorter compatibilit",
+      "url": "https://www.macrumors.com/2026/06/08/apple-watch-series-9-mistakenly-off-watchos-27-list/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 16:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9.jpg",
+      "title_translated": "Apple Watch Series 9 错误地忽略了 watchOS 27 兼容性列表",
+      "summary_translated": "苹果今天确认 Apple Watch Series 9 与 watchOS 27 兼容，此前该设备被错误地从该软件的官方兼容性页面中忽略了。\n\n\n\n\n苹果在 WWDC 2026 主题演讲后立即更新了网站，watchOS 27 页面列出了较短的兼容性"
+    },
+    {
+      "id": "9710b2fc6828",
+      "title": "Apple's Private AI Will Run on Google's Servers",
+      "summary": "Apple today said it is expanding Private Cloud Compute (PCC) beyond its data centers, partnering with Google and NVIDIA to run Apple Intelligence workloads on Google Cloud.\n\n\n\n\nPrivate Cloud Compute is Apple's cloud intelligence system for private AI processing, used to keep ‌Apple Intelligence‌ req",
+      "url": "https://www.macrumors.com/2026/06/08/apple-private-cloud-compute-google/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 16:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title_translated": "苹果的私人人工智能将在谷歌的服务器上运行",
+      "summary_translated": "Apple 今天表示，正在将私有云计算 (PCC) 扩展到其数据中心之外，并与 Google 和 NVIDIA 合作，在 Google Cloud 上运行 Apple Intelligence 工作负载。\n\n\n\n\n私有云计算是 Apple 用于私有 AI 处理的云智能系统，用于满足“Apple Intelligence”要求"
+    },
+    {
       "id": "881322de876b",
       "title": "WWDC 2026 News Hub live from Apple Park: iOS 27, new Siri, more",
       "summary": "I’m inside Apple Park this morning for WWDC 2026. Today, Apple is expected to unveil its next round of major software updates, including iOS 27, macOS 27, and much more. There’s also an all-new version of Siri in the works that Apple will debut today. \n\n9to5Mac’s WWDC coverage is supported by CardPo",
@@ -411,6 +467,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_1847.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple Park 现场直播 WWDC 2026 新闻中心：iOS 27、新 Siri 等",
       "summary_translated": "今天早上我在 Apple Park 参加 WWDC 2026。今天，Apple 预计将推出下一轮主要软件更新，包括 iOS 27、macOS 27 等。 Apple 还将在今天推出全新版本的 Siri。 \n\nCardPo 支持 9to5Mac 的 WWDC 报道"
+    },
+    {
+      "id": "d1ce9e479c3d",
+      "title": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More",
+      "summary": "At the WWDC 2026 keynote, Apple detailed iOS 27 changes like a new version of Siri with a dedicated ‌Siri‌ app and Apple Intelligence features across multiple apps, but there are dozens of smaller but still important changes that Apple didn't have time to go through.\n\n\n\n\nApple shared an image summar",
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 15:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/ios-27.jpg",
+      "title_translated": "iOS 27花絮：在两部iPhone上共享一个电话号码、独立的闹钟音量、更快的AirPlay等等",
+      "summary_translated": "在 WWDC 2026 主题演讲中，苹果详细介绍了 iOS 27 的变化，例如带有专用“Siri”应用程序的新版 Siri 以及跨多个应用程序的 Apple Intelligence 功能，但苹果没有时间完成数十个较小但仍然重要的变化。\n\n\n\n\n苹果分享了图片摘要"
     },
     {
       "id": "89b38d307e4c",
