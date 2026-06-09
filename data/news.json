@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-08 23:21:38",
-  "total_count": 877,
-  "news_count": 872,
+  "last_updated": "2026-06-09 04:20:40",
+  "total_count": 883,
+  "news_count": 878,
   "android_count": 215,
-  "ios_count": 657,
+  "ios_count": 663,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4671cc3f4db8",
+      "title": "9to5Mac Daily: June 8, 2026 – WWDC 2026 recap",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by CardPointers: The best way to maximize your credit card r",
+      "url": "https://9to5mac.com/2026/06/08/daily-june-8-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-09 02:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 6 月 8 日 – WWDC 2026 回顾",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 CardPointers 赞助：最大化您的信用卡 r 的最佳方式"
+    },
+    {
+      "id": "5aecca6c8037",
+      "title": "iOS 27 will let you swipe away the Now Playing widget from the Lock Screen",
+      "summary": "In iOS 27, users will be able to clear the Now Playing widget on their lock screens, just like notifications. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/06/08/ios-27-will-let-you-swipe-away-the-now-playing-widget-from-the-lock-screen/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-09 02:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios27-now-laying-widget-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 将允许你从锁定屏幕上滑动“正在播放”小部件",
+      "summary_translated": "在 iOS 27 中，用户将能够清除锁定屏幕上的“正在播放”小部件，就像通知一样。以下是详细信息。\n更多的…"
+    },
     {
       "id": "745f4e47fa03",
       "title": "iOS 27 adds extra-large widgets for your extra-large needs",
@@ -343,6 +371,20 @@
       "summary_translated": "今天，在 WWDC 演示中，Apple 推出了密码应用程序的新 iOS 27 功能：一种可以自动为您更改密码的 AI 功能。\n更多的…"
     },
     {
+      "id": "8d314c68d7fa",
+      "title": "Everything Apple Announced at WWDC 2026 in 10 Minutes",
+      "summary": "Apple held its WWDC 2026 keynote today, introducing iOS 27, macOs 27, iPadOS 27, watchOS 27, visionOS 27, and tvOS 27. It took Apple an hour and a half to walk through the major new features in the updates, but we have a quicker 10 minute recap for those who want the highlights.\n\n\nSubscribe to the M",
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-recap/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 17:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/nzpnBb7gqphZN4npMG1ubP1C_uU=/2500x/article-new/2026/06/WWDC26-Everything-Thumb-3.jpg",
+      "title_translated": "10 分钟内了解 Apple 在 WWDC 2026 上宣布的所有内容",
+      "summary_translated": "苹果今天举行了 WWDC 2026 主题演讲，介绍了 iOS 27、macOS 27、iPadOS 27、watchOS 27、visionOS 27 和 tvOS 27。苹果花了一个半小时才介绍了更新中的主要新功能，但我们为那些想要了解重点内容的人提供了 10 分钟的快速回顾。\n\n\n订阅M"
+    },
+    {
       "id": "b657c75505a7",
       "title": "Apple unveils new Siri AI, dedicated app, and enhanced Apple Intelligence features in iOS 27",
       "summary": "At WWDC 2026, Apple is detailing its Apple Intelligence improvements, starting with its Google Gemini collaboration. The company is also announcing the new Siri experience, and improvements to apps through AI.\nmore…",
@@ -411,6 +453,48 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/WWDC-26-13.10.27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果正式宣布 iOS 27，iPhone 的下一个重大更新",
       "summary_translated": "Apple 已正式发布 iOS 27。以下是 iPhone 下一次重大更新中包含的内容。\n更多的…"
+    },
+    {
+      "id": "7001caa45672",
+      "title": "Apple Photos Finally Gets a Slideshow Maker",
+      "summary": "Apple today announced new slideshow features coming to the Photos app, allowing users to play any set of photos and videos as a slideshow.\n\n\n\n\nThere are options to set the slide duration, transition style, and music. iOS 27 also lets users save any slideshow directly as a video to their ‌Photos‌ lib",
+      "url": "https://www.macrumors.com/2026/06/08/apple-photos-finally-gets-a-slideshow-maker/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 17:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+      "title_translated": "苹果照片终于有了幻灯片制作工具",
+      "summary_translated": "苹果今天宣布照片应用程序将推出新的幻灯片功能，允许用户以幻灯片形式播放任何一组照片和视频。\n\n\n\n\n有一些选项可以设置幻灯片持续时间、过渡风格和音乐。 iOS 27 还允许用户将任何幻灯片直接作为视频保存到他们的“照片”库中"
+    },
+    {
+      "id": "0ef12ee8b5a6",
+      "title": "iOS 27 Adds Perimenopause and Menopause Tracking to Health App",
+      "summary": "Apple today announced that iOS 27 will expand the Health app's Cycle Tracking feature with dedicated perimenopause and menopause support, including notifications, symptom logging, and educational resources.\n\n\n\n\nThe update will enable Cycle Tracking to detect when a user's logged cycle patterns are s",
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-adds-perimenopause-and-menopause-tracking/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 16:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/04/Apple-Health-Icon.png",
+      "title_translated": "iOS 27 在健康应用程序中添加了围绝经期和更年期跟踪",
+      "summary_translated": "苹果今天宣布，iOS 27 将扩展健康应用程序的周期跟踪功能，提供专门的围绝经期和更年期支持，包括通知、症状记录和教育资源。\n\n\n\n\n此更新将使周期跟踪能够检测用户记录的周期模式何时发生变化。"
+    },
+    {
+      "id": "20b39469489e",
+      "title": "Apple Maps Flyover Gets a Visual Upgrade in iOS 27",
+      "summary": "Apple Maps is getting a visual update in iOS 27, with Apple planning to introduce new aerial imagery that's combined with Visual Intelligence models.\n\n\n\n\nApple said everything will have sharper detail, from the \"shapes of individual trees to the way light reflects off the glass of skyscrapers.\"\n\n\nFl",
+      "url": "https://www.macrumors.com/2026/06/08/apple-maps-flyover-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-08 16:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg",
+      "title_translated": "Apple Maps Flyover 在 iOS 27 中获得视觉升级",
+      "summary_translated": "苹果地图在 iOS 27 中进行了视觉更新，苹果计划推出与视觉智能模型相结合的新航空图像。\n\n\n\n\n苹果表示，一切都将具有更清晰的细节，从“单棵树的形状到摩天大楼玻璃反射光线的方式”。\n\n\n佛罗里达州"
     },
     {
       "id": "355d0888963e",
@@ -12221,7 +12305,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -12232,7 +12316,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -12243,7 +12327,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -12254,7 +12338,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -12265,7 +12349,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
