@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-09 23:37:27",
-  "total_count": 914,
-  "news_count": 909,
+  "last_updated": "2026-06-10 04:41:44",
+  "total_count": 915,
+  "news_count": 910,
   "android_count": 215,
-  "ios_count": 694,
+  "ios_count": 695,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "931c1b4ac627",
+      "title": "Siri AI might display break reminders if conversations go on for too long",
+      "summary": "iOS 27 includes code references to break reminders that Siri may display after especially long conversations. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/06/09/siri-ai-might-display-break-reminders-if-conversations-go-on-for-too-long/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-10 01:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark_e0fbb1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "如果对话持续时间太长，Siri AI 可能会显示休息提醒",
+      "summary_translated": "iOS 27 包含 Siri 在特别长时间的对话后可能显示的休息提醒的代码参考。以下是详细信息。\n更多的…"
+    },
     {
       "id": "3531d6408110",
       "title": "WWDC26: The Talk Show livestream returning to Theater for Apple Vision Pro",
@@ -12739,7 +12753,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -12750,7 +12764,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -12761,7 +12775,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -12772,7 +12786,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -12783,7 +12797,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
