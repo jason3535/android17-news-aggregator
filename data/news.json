@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-06-10 16:43:12",
-  "total_count": 928,
-  "news_count": 923,
+  "last_updated": "2026-06-10 19:43:53",
+  "total_count": 932,
+  "news_count": 927,
   "android_count": 215,
-  "ios_count": 708,
+  "ios_count": 712,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3a9898dec243",
+      "title": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
+      "summary": "iOS 27 brings exciting new features to Messages, Apple Notes, Wallet, and more. But FaceTime is getting one of the biggest upgrades thanks to a powerful new Dual Camera feature for iPhone 17 and newer.\nmore…",
+      "url": "https://9to5mac.com/2026/06/10/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-10 18:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 给 FaceTime 带来了巨大的升级，带来了这个强大的新功能",
+      "summary_translated": "iOS 27 为消息、Apple Notes、钱包等带来了令人兴奋的新功能。但得益于 iPhone 17 及更新机型强大的全新双摄像头功能，FaceTime 获得了最大的升级之一。\n更多的…"
+    },
+    {
+      "id": "5ea7fec3c7b1",
+      "title": "iOS 27 just broke 15 years of muscle memory on iPhone and iPad",
+      "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order. Starting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\nmore…",
+      "url": "https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-10 17:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "title_translated": "iOS 27 刚刚打破了 iPhone 和 iPad 15 年的肌肉记忆",
+      "summary_translated": "自 2011 年 iOS 5 以来，iPhone 和 iPad 都包含了通知中心，这是一个按时间顺序查找来自各种应用程序的警报的中心位置。从 iOS 27 开始，Apple 对用户在 iPhone 和 iPad 上打开通知中心的方式进行了重大更改。\n更多的…"
+    },
+    {
+      "id": "9631d9b4341f",
+      "title": "Here’s everything new for Apple Notes in iOS 27",
+      "summary": "iOS 27 adds new features for CarPlay, the Messages app, and a lot more, including a handful of Apple Notes upgrades. Here’s what’s new for Apple Notes in iOS 27. \nmore…",
+      "url": "https://9to5mac.com/2026/06/10/heres-everything-new-for-apple-notes-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-10 17:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中 Apple Notes 的所有新功能",
+      "summary_translated": "iOS 27 增加了 CarPlay、消息应用程序等新功能，包括一些 Apple Notes 升级。以下是 iOS 27 中 Apple Notes 的新增功能。 \n更多…"
+    },
     {
       "id": "9f20405c854a",
       "title": "Apple is giving Screen Time and parental controls a long overdue upgrade in iOS 27",
@@ -61,6 +103,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Its-not-just-Apple-–-WhatsApp-has-to-allow-competing-AIs-too.jpg?quality=82&strip=all&w=1600",
       "title_translated": "不仅仅是苹果——WhatsApp 也必须允许竞争的人工智能",
       "summary_translated": "Siri AI 的推出引发了争议，因为有消息称该功能尚未在欧盟国家推出。\n欧盟告诉苹果，它必须允许第三方人工智能提供商在 iPhone 上提供类似的功能，而该公司的回应是暂时暂缓在欧盟推出。我们'"
+    },
+    {
+      "id": "f4eb6dc1b0d7",
+      "title": "iOS 27 Introduces New 'Tap to Share' Feature, But Not Available in EU",
+      "summary": "iOS 27 has a new \"Tap to Share\" feature that lets merchants use their iPhone to connect to a customer's device with an NFC tap for the purpose of data exchange. This is useful for small business owners, vendors at local markets, and so forth.\n\n\n\n\nTap to Share is an extension of the existing Tap to P",
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-tap-to-share-feature/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-10 10:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Introduces-New-Tap-to-Share-Feature.jpg",
+      "title_translated": "iOS 27 引入新的“点击分享”功能，但在欧盟不可用",
+      "summary_translated": "iOS 27 有一个新的“点击共享”功能，允许商家使用 iPhone 通过 NFC 点击连接到客户的设备以进行数据交换。这对于小企业主、当地市场的供应商等很有用。\n\n\n\n\nTap to Share 是现有 Tap to P 的扩展"
     },
     {
       "id": "f3dc34ec6e61",
