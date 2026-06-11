@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-11 16:21:13",
-  "total_count": 957,
-  "news_count": 952,
+  "last_updated": "2026-06-11 19:42:34",
+  "total_count": 961,
+  "news_count": 956,
   "android_count": 221,
-  "ios_count": 731,
+  "ios_count": 735,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0c4995a99572",
+      "title": "iOS 27 lets you create your own iPhone wallpapers",
+      "summary": "Apple introduces new iPhone wallpapers every year, and you can download iOS 27’s additions here. But iOS 27 also adds the ability to create your own custom wallpapers. Here’s how.",
+      "url": "https://9to5mac.com/2026/06/11/ios-27-lets-you-create-your-own-iphone-wallpapers/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-11 18:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-wallpapers-image-playground-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 让你创建自己的 iPhone 壁纸",
+      "summary_translated": "Apple 每年都会推出新的 iPhone 壁纸，您可以在此处下载 iOS 27 的新增内容。但 iOS 27 还增加了创建自己的自定义壁纸的功能。方法如下。"
+    },
+    {
+      "id": "1e5c8cb4f800",
+      "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
+      "summary": "Apple’s Mail app in iOS 27 promises to offer the feature upgrade that’s been at the top of my wishlist for years: search that “just works.”",
+      "url": "https://9to5mac.com/2026/06/11/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-11 16:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 给了 Apple Mail 我最希望的功能升级",
+      "summary_translated": "iOS 27 中的苹果邮件应用程序承诺提供多年来一直是我心愿单中最重要的功能升级：“正常工作”的搜索。"
+    },
     {
       "id": "532fbe503d8f",
       "title": "iOS 27 brings another very welcome improvement to Camera Control on iPhone",
@@ -77,6 +105,20 @@
       "summary_translated": "虽然距离亚马逊大规模的夏季促销活动还有不到几周的时间，但今年最好的 Prime Day 优惠可能已经开始了——苹果的 AirPods Pro 3 现已降至有史以来最好的价格，运费为 179 美元。 \n另外，苹果刚刚宣布了一系列新的 iOS 27 功能"
     },
     {
+      "id": "54d66e1b6c3d",
+      "title": "iOS 27 Lets You Add Apple TV Remote to Your iPhone's Home Screen",
+      "summary": " Starting with iOS 27, the virtual Apple TV remote can be added to the iPhone's Home Screen again, rather than being limited to Control Center. To do so, swipe down on the Home Screen and search for \"remote.\" Next, tap and hold on the Remote app and drag it to your Home Screen. Alternatively, you ca",
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-apple-tv-remote-app/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-11 11:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Apple-TV-Remote-Icon.jpeg",
+      "title_translated": "iOS 27 可让您将 Apple TV 遥控器添加到 iPhone 的主屏幕",
+      "summary_translated": "从 iOS 27 开始，虚拟 Apple TV 遥控器可以再次添加到 iPhone 的主屏幕，而不是仅限于控制中心。为此，请在主屏幕上向下滑动并搜索“远程”。接下来，点击并按住远程应用程序并将其拖动到主屏幕。或者，您可以"
+    },
+    {
       "id": "f8204f318a66",
       "title": "Android 17 QPR1 Beta 4 makes it dead simple to record reaction videos",
       "summary": "Google's new Screen Reactions feature handles camera overlay and background isolation natively, and you can try it out!",
@@ -103,6 +145,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-iphone-recovery.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27：你的 iPhone 现在可以启动到类似 Mac 的新恢复模式",
       "summary_translated": "iOS 27 引入了新的设备恢复模式。这是一种类似于 Mac 的恢复功能，iPhone 能够启动到替代 UI，而无需加载整个主操作系统。\n在新的恢复模式下，您可以使用恢复软件、进入诊断模式、擦除"
+    },
+    {
+      "id": "ec18db72cd24",
+      "title": "iOS 27's Wi-Fi Settings Include Rebranded 'Connectivity Assist' Feature",
+      "summary": "iOS 27 and iPadOS 27 include a rebranded Connectivity Assist feature that can help your iPhone stay connected to the internet.\n\n\n\n\nConnectivity Assist can be found in the Settings app under Wi-Fi on iOS 27 and iPadOS 27. Apple's description of the feature says it lets you \"use cellular data in addit",
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-connectivity-assist/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-11 10:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Boosts-Your-iPhones-Wi-Fi-With-New-Connectivity-Assist-Feature-2.jpg",
+      "title_translated": "iOS 27 的 Wi-Fi 设置包括重新命名的“连接辅助”功能",
+      "summary_translated": "iOS 27 和 iPadOS 27 包含重新命名的连接辅助功能，可以帮助您的 iPhone 保持与互联网的连接。\n\n\n\n\n连接辅助可以在 iOS 27 和 iPadOS 27 上 Wi-Fi 下的“设置”应用中找到。苹果对该功能的描述称，它可以让你“在附加功能中使用蜂窝数据”"
     },
     {
       "id": "4afb04862e5e",
