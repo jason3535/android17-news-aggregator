@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-12 20:22:23",
-  "total_count": 986,
-  "news_count": 981,
+  "last_updated": "2026-06-12 22:43:43",
+  "total_count": 989,
+  "news_count": 984,
   "android_count": 222,
-  "ios_count": 759,
+  "ios_count": 762,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8afc9fbd556f",
+      "title": "Download all 18 wallpapers Apple included in CarPlay with iOS 27",
+      "summary": "While CarPlay was mentioned only once during the WWDC26 keynote, it includes several improvements and, as always, a new set of wallpapers. You can download them below.",
+      "url": "https://9to5mac.com/2026/06/12/download-all-18-wallpapers-apple-included-in-carplay-with-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-12 22:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-wallpaper-gallery.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "下载 iOS 27 的 CarPlay 中包含的全部 18 张 Apple 壁纸",
+      "summary_translated": "虽然 CarPlay 在 WWDC26 主题演讲中仅被提及一次，但它包含了多项改进，并且一如既往地提供了一组新的壁纸。您可以在下面下载它们。"
+    },
+    {
+      "id": "87163e27f512",
+      "title": "iOS 27 brings new keyboards and typing improvements across multiple languages",
+      "summary": "Among the many tidbits coming to iOS 27 is support for a new set of keyboards, including Afrikaans, Galician, and Indigenous languages. Here are the details.",
+      "url": "https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-12 21:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios27-keyboard.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 带来了新的键盘和跨多种语言的打字改进",
+      "summary_translated": "iOS 27 的众多花絮之一是对一组新键盘的支持，包括南非荷兰语、加利西亚语和土著语言。以下是详细信息。"
+    },
     {
       "id": "3c3e35a50db6",
       "title": "The new dictation feature is off-by-default in iOS 27 beta 1, here’s how to turn it on",
@@ -89,6 +117,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 中提醒事项的所有新功能",
       "summary_translated": "iOS 27 为 Apple Notes、Messages、Wallet 等添加了新功能，并且还对提醒应用程序进行了一些改进。以下是 iOS 27 中提醒事项的所有新功能。"
+    },
+    {
+      "id": "cc7b39a0a9be",
+      "title": "iOS 27: All the New Safari Features",
+      "summary": "Safari is one of the apps that Apple focused on in iOS 27, and it includes multiple new Apple Intelligence features. From automatically organizing tab groups to custom extensions, Safari is getting useful new capabilities.\n\n\n\n\nAutomatic Tab Organization\n\nSafari uses ‌Apple Intelligence‌ to organize ",
+      "url": "https://www.macrumors.com/guide/ios-27-safari/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-12 15:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Whats-New-in-Safari-on-iOS-27-Feature.jpg",
+      "title_translated": "iOS 27：Safari 的所有新功能",
+      "summary_translated": "Safari 是苹果在 iOS 27 中重点关注的应用之一，它包含了多项新的 Apple Intelligence 功能。从自动组织选项卡组到自定义扩展，Safari 正在获得有用的新功能。\n\n\n\n\n自动标签组织\n\nSafari 使用“Apple Intelligence”来组织"
     },
     {
       "id": "401a4750d925",
