@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-11 22:11:22",
-  "total_count": 968,
-  "news_count": 963,
+  "last_updated": "2026-06-12 00:24:46",
+  "total_count": 971,
+  "news_count": 966,
   "android_count": 222,
-  "ios_count": 741,
+  "ios_count": 744,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ba83ff45b08a",
+      "title": "WWDC 2026 recap, iOS 27, new Siri and more officially announced",
+      "summary": "It’s the bumper annual WWDC episode! Benjamin and Chance give their first impressions of all the announcements from WWDC 2026, including the new Siri AI and overhauled Apple Intelligence initiatives, as well as the platform features in iOS 27, macOS Golden Gate, and more. \nAnd in Happy Hour Plus, Ch",
+      "url": "https://9to5mac.com/2026/06/11/happy-hour-594/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-11 23:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "WWDC 2026 回顾、iOS 27、新 Siri 等正式发布",
+      "summary_translated": "这是一年一度的 WWDC 重头戏！ Benjamin 和 Chance 给出了他们对 WWDC 2026 的所有公告的第一印象，包括新的 Siri AI 和彻底修改的 Apple Intelligence 计划，以及 iOS 27、macOS Golden Gate 等中的平台功能。 \n在欢乐时光Plus中，Ch"
+    },
     {
       "id": "8ac4348b7efa",
       "title": "Design resources for iOS 27, iPadOS 27, and macOS 27 Golden Gate now available",
@@ -91,6 +105,20 @@
       "summary_translated": "Apple 每年都会推出新的 iPhone 壁纸，您可以在此处下载 iOS 27 的新增内容。但 iOS 27 还增加了创建自己的自定义壁纸的功能。方法如下。"
     },
     {
+      "id": "5ffe1f6cee35",
+      "title": "iOS 27: All the New Health and Fitness Features",
+      "summary": "Apple was rumored to be working on an AI health service, but it was scrapped well before the iOS 27 beta came out. It could resurface in the future, but for now, there are a handful of health and fitness changes in the update.\n\n\n\n\nDesign\n\nApple redesigned the Browse section of the Health app, and it",
+      "url": "https://www.macrumors.com/guide/ios-27-health-app/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-11 16:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/04/apple-health-app.jpg",
+      "title_translated": "iOS 27：所有新的健康和健身功能",
+      "summary_translated": "据传苹果正在开发人工智能健康服务，但在 iOS 27 Beta 版发布之前就被取消了。它可能会在未来重新出现，但就目前而言，更新中有一些健康和健身方面的变化。\n\n\n\n\n设计\n\n苹果重新设计了健康应用程序的浏览部分，"
+    },
+    {
       "id": "1e5c8cb4f800",
       "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
       "summary": "Apple’s Mail app in iOS 27 promises to offer the feature upgrade that’s been at the top of my wishlist for years: search that “just works.”",
@@ -117,6 +145,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-camera-mode-ios-27.webp?w=1600",
       "title_translated": "iOS 27 为 iPhone 上的相机控制带来了另一个非常受欢迎的改进",
       "summary_translated": "iOS 27 和 Siri AI 对 iPhone 的相机控制带来了积极的变化。这一受欢迎的改进是新的 Siri 相机模式取代 iPhone 上的视觉智能的好处。"
+    },
+    {
+      "id": "03dbcf87b15c",
+      "title": "Apple's Craig Federighi: Siri Won't Be Your AI Girlfriend",
+      "summary": "Apple software engineering chief Craig Federighi and marketing chief Greg Joswiak sat down for an interview with Mostly Human after during WWDC, discussing the iOS 27 Siri changes, Apple's take on AI, new child safety protections, and more.\n\n\n\n\nApple set out to deliver an AI utility, not an AI compa",
+      "url": "https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-11 15:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/uwQja9T3SVZSWoCKnwd8MeUnYRk=/1600x/article-new/2026/06/New-Siri-Wave.jpg",
+      "title_translated": "苹果公司的 Craig Federighi：Siri 不会成为你的人工智能女友",
+      "summary_translated": "苹果软件工程主管 Craig Federighi 和营销主管 Greg Joswiak 在 WWDC 结束后接受了 Mostly Human 的采访，讨论了 iOS 27 Siri 的变化、苹果对人工智能的看法、新的儿童安全保护措施等等。\n\n\n\n\n苹果致力于提供人工智能实用程序，而不是人工智能公司"
     },
     {
       "id": "3d7bfe65d070",
@@ -13495,7 +13537,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -13506,7 +13548,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -13517,7 +13559,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -13528,7 +13570,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -13539,7 +13581,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
