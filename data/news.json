@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-12 14:13:43",
-  "total_count": 978,
-  "news_count": 973,
+  "last_updated": "2026-06-12 17:41:21",
+  "total_count": 982,
+  "news_count": 977,
   "android_count": 222,
-  "ios_count": 751,
+  "ios_count": 755,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8b2c4959adae",
+      "title": "iOS 27 fixes Liquid Glass, and not just with a slider",
+      "summary": "In asking one big question and highlighting 11 key features about iOS 27, I said that the Liquid Glass debate was over. Apple introduced a slider that enables everyone to choose their exact desired degree of transparency, including effectively switching off the effect altogether.\nBut in running the ",
+      "url": "https://9to5mac.com/2026/06/12/ios-27-fixes-liquid-glass-and-not-just-with-a-slider/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-12 16:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Liquid-Glass-slider.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 修复了液体玻璃，而不仅仅是滑块",
+      "summary_translated": "在提出一个大问题并强调 iOS 27 的 11 个关键功能时，我说液体玻璃的争论已经结束了。苹果推出了一个滑块，使每个人都可以选择自己想要的确切透明度，包括有效地完全关闭效果。\n但在运行中"
+    },
+    {
+      "id": "c82112be21ec",
+      "title": "Here’s everything new for Reminders in iOS 27",
+      "summary": "iOS 27 adds new features to Apple Notes, Messages, Wallet, and more, and it has a few improvements for the Reminders app too. Here’s everything new for Reminders in iOS 27.",
+      "url": "https://9to5mac.com/2026/06/12/heres-everything-new-for-reminders-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-12 15:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中提醒事项的所有新功能",
+      "summary_translated": "iOS 27 为 Apple Notes、Messages、Wallet 等添加了新功能，并且还对提醒应用程序进行了一些改进。以下是 iOS 27 中提醒事项的所有新功能。"
+    },
     {
       "id": "401a4750d925",
       "title": "Siri AI is coming to newer Apple devices only, here’s the full list",
@@ -33,6 +61,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27：“查找”添加了隐藏位置的新方法等",
       "summary_translated": "iOS 27 为几乎所有苹果应用程序带来了新功能，包括消息、Apple Music、钱包等。苹果的“查找我的”应用程序在 iOS 27 中也有自己的变化。以下是所有新内容。"
+    },
+    {
+      "id": "41648396152c",
+      "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
+      "summary": "macOS 27 Golden Gate is in beta ahead of a fall release, and we thought we'd go over what's new for those who don't want to risk beta software on their Mac. macOS Golden Gate adds Siri AI, Liquid Glass updates, and multiple new Apple Intelligence features.\n\n\nSubscribe to the MacRumors YouTube channe",
+      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-hands-on/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-12 10:39",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/ft-t7L83gcLFDKGbXCHibTq7sww=/2500x/article-new/2026/06/macOS-27-on-MacBook-Pro-Thumb.jpg",
+      "title_translated": "macOS 27 Golden Gate 上手体验：每一项主要新功能",
+      "summary_translated": "macOS 27 Golden Gate 在秋季发布之前处于测试阶段，我们认为我们应该为那些不想在 Mac 上冒险使用测试版软件的人介绍一下新功能。 macOS Golden Gate 添加了 Siri AI、Liquid Glass 更新以及多项新的 Apple Intelligence 功能。\n\n\n订阅 MacRumors YouTube 频道"
+    },
+    {
+      "id": "230c0e5d54d1",
+      "title": "iOS 27 and macOS 27 Golden Gate Expand Drawing Tools to Three Apps",
+      "summary": "The upcoming iOS 27 and macOS 27 Golden Gate updates expand drawing tools to more of Apple's built-in apps across the iPhone and Mac.\n\n\n\n\nIn the Messages app on iOS 27, there is a new \"Drawing\" option in the app drawer, which can be opened by tapping the plus sign in the bottom-left corner.\n\n\nOn old",
+      "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-12 09:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Messages-Drawing.jpeg",
+      "title_translated": "iOS 27 和 macOS 27 Golden Gate 将绘图工具扩展为三个应用程序",
+      "summary_translated": "即将推出的 iOS 27 和 macOS 27 Golden Gate 更新将绘图工具扩展到 iPhone 和 Mac 上的更多 Apple 内置应用程序。\n\n\n\n\n在 iOS 27 的消息应用程序中，应用程序抽屉中新增了“绘图”选项，可以通过点击左下角的加号来打开该选项。\n\n\n论老"
     },
     {
       "id": "5a677f4f69c6",
