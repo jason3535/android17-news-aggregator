@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-12 00:24:46",
-  "total_count": 971,
-  "news_count": 966,
+  "last_updated": "2026-06-12 06:01:22",
+  "total_count": 972,
+  "news_count": 967,
   "android_count": 222,
-  "ios_count": 744,
+  "ios_count": 745,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "26165e594fbd",
+      "title": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between",
+      "summary": "During the WWDC26 keynote, Apple announced its third generation of Apple Foundation Models (AFM), comprising five models, some of which are local, some of which are cloud-based, and one of which lives in Google’s servers running on Nvidia chips. Here’s a breakdown of how that will work.",
+      "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-12 02:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-foundation-models-2026.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果新的基础模型解释：设备端人工智能、云人工智能以及介于两者之间的一切",
+      "summary_translated": "在 WWDC26 主题演讲中，苹果宣布了第三代苹果基础模型（AFM），包括五种模型，其中一些是本地的，一些是基于云的，其中一个位于运行 Nvidia 芯片的谷歌服务器中。以下是其运作方式的详细说明。"
+    },
     {
       "id": "ba83ff45b08a",
       "title": "WWDC 2026 recap, iOS 27, new Siri and more officially announced",
