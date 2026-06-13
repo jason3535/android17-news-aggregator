@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-13 21:24:02",
-  "total_count": 991,
-  "news_count": 986,
+  "last_updated": "2026-06-13 23:18:40",
+  "total_count": 993,
+  "news_count": 988,
   "android_count": 222,
-  "ios_count": 764,
+  "ios_count": 766,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e235440be0c5",
+      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "summary": "Apple announced iOS 27 at WWDC this week, coming with a ton of new Siri and Apple Intelligence features. One of the biggest changes here is the addition of an all-new Siri app. This marks the first time that Siri has been available as a standalone app for iPhone users …",
+      "url": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-13 22:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 在 iPhone 主屏幕上添加了一个全新的应用程序",
+      "summary_translated": "苹果本周在 WWDC 上发布了 iOS 27，其中包含大量新的 Siri 和 Apple Intelligence 功能。这里最大的变化之一是添加了全新的 Siri 应用程序。这标志着 Siri 首次作为独立应用程序供 iPhone 用户使用……"
+    },
+    {
+      "id": "86b51ae78064",
+      "title": "AirPods Pro 3 are getting even better with iOS 27, order them today at their lowest price ever",
+      "summary": "While we are still slightly under a couple weeks out from Amazon’s massive summer sale event, the best Prime Day deal of the year might already be live right now – Apple’s AirPods Pro 3 have now dropped to the best price ever at $179 shipped. \nPlus, Apple just announced a bunch of new iOS 27 feature",
+      "url": "https://9to5mac.com/2026/06/13/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-13 22:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-siri-icon.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "AirPods Pro 3 在 iOS 27 上变得更加出色，立即以史上最低价格订购",
+      "summary_translated": "虽然距离亚马逊大规模的夏季促销活动还有不到几周的时间，但今年最好的 Prime Day 优惠可能已经开始了——苹果的 AirPods Pro 3 现已降至有史以来最好的价格，运费为 179 美元。 \n另外，苹果刚刚宣布了一系列新的 iOS 27 功能"
+    },
     {
       "id": "dda21c12d7b1",
       "title": "iOS 27 makes it easier to switch between Apple Pay cards",
