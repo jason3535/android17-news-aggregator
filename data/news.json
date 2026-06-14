@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-14 14:24:15",
-  "total_count": 993,
-  "news_count": 988,
+  "last_updated": "2026-06-14 16:47:18",
+  "total_count": 994,
+  "news_count": 989,
   "android_count": 222,
-  "ios_count": 766,
+  "ios_count": 767,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a21f55cd6a62",
+      "title": "Apple still has three unannounced iOS 27 features in the pipeline: report",
+      "summary": "Apple wrapped up its WWDC 2026 keynote this week, outlining all of its major new software features for the coming year, with Siri AI and improved stability taking the spotlight. That said, there are a few new features that are reportedly still in the works, and we should still see them by September,",
+      "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-14 14:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-three-iphones-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果仍有三项未宣布的 iOS 27 功能正在酝酿中：报告",
+      "summary_translated": "苹果本周结束了 WWDC 2026 主题演讲，概述了来年所有主要的新软件功能，其中 Siri AI 和改进的稳定性成为焦点。也就是说，据报道有一些新功能仍在开发中，我们应该会在 9 月份看到它们，"
+    },
     {
       "id": "e235440be0c5",
       "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
