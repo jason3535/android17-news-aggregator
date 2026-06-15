@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-15 21:48:05",
-  "total_count": 1006,
-  "news_count": 1001,
+  "last_updated": "2026-06-15 23:58:30",
+  "total_count": 1009,
+  "news_count": 1004,
   "android_count": 222,
-  "ios_count": 779,
+  "ios_count": 782,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "37ac46a85210",
+      "title": "Still seeing ‘Indexing in Progress’ on iOS 27? Here’s how to check the actual status",
+      "summary": "For some iOS 27 beta 1 users, the indexing process is taking much longer than expected. Thankfully, there’s a way to check the actual percentage from a Mac. Here’s how.",
+      "url": "https://9to5mac.com/2026/06/15/still-seeing-indexing-in-progress-on-ios-27-heres-how-to-check-the-actual-status/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-15 23:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/indexing-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "在 iOS 27 上仍然看到“索引正在进行中”吗？以下是检查实际状态的方法",
+      "summary_translated": "对于一些 iOS 27 beta 1 用户来说，索引过程花费的时间比预期要长得多。值得庆幸的是，有一种方法可以从 Mac 上检查实际百分比。方法如下。"
+    },
+    {
+      "id": "4a68ba79fd49",
+      "title": "9to5Mac Daily: June 15, 2026 – More iOS 27 features and changes",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/06/15/daily-june-15-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-15 23:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 6 月 15 日 – 更多 iOS 27 功能和变化",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "2117ea9061e6",
       "title": "Preview on iOS 27 inherits fun Liquid Glass easter egg from iPadOS 26",
@@ -75,6 +103,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b2.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.6 beta 2，值得期待",
       "summary_translated": "虽然 iOS 27 是预发布软件的新焦点，但苹果仍在准备 iOS 26.6 作为下一个 iPhone 更新。苹果发布了第二个 iOS 26.6 开发者测试版。此次更新是在 5 月份发布第一个开发者测试版和公开测试版之后进行的。"
+    },
+    {
+      "id": "6248c167445c",
+      "title": "Siri AI in iOS 27: Features, Requirements, and How It Works",
+      "summary": "The biggest change in iOS 27 is Apple's total overhaul of Siri, with ‌Siri‌ turning into ‌Siri‌ AI. Apple delivered on the features originally promised at WWDC 2024 and added new capabilities that turn ‌Siri‌ into a viable competitor to chatbots like Claude and ChatGPT.\n\n\n\n\n‌Siri‌ AI is available in",
+      "url": "https://www.macrumors.com/guide/ios-27-siri/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-15 16:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/ios-27-siri-animation.jpg",
+      "title_translated": "iOS 27 中的 Siri AI：功能、要求及其工作原理",
+      "summary_translated": "iOS 27 最大的变化是苹果对 Siri 的全面改造，“Siri” 变成了“Siri AI”。苹果兑现了 WWDC 2024 上最初承诺的功能，并添加了新功能，使 Siri 成为 Claude 和 ChatGPT 等聊天机器人的有力竞争对手。\n\n\n\n\n‌Siri‌ AI 可用于"
     },
     {
       "id": "214eb9f81373",
