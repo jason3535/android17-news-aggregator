@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-15 06:38:30",
-  "total_count": 994,
-  "news_count": 989,
+  "last_updated": "2026-06-15 13:24:11",
+  "total_count": 996,
+  "news_count": 991,
   "android_count": 222,
-  "ios_count": 767,
+  "ios_count": 769,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "74fe56ef760a",
+      "title": "The stability of the first iOS 27 developer beta tells its own story",
+      "summary": "If there’s one thing which is usually a very bad idea even for the most enthusiastic of Apple fans, it’s installing a first developer beta on any of your daily driver devices.\nHowever, since my iPhone is the only iOS device I own recent enough to give access to the new Siri, and I’m extremely curiou",
+      "url": "https://9to5mac.com/2026/06/15/the-stability-of-the-first-ios-27-developer-beta-tells-its-own-story/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-15 11:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/The-stability-of-the-first-iOS-27-developer-beta-tells-its-own-story.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "第一个 iOS 27 开发者测试版的稳定性讲述了自己的故事",
+      "summary_translated": "如果有一件事即使对于最热情的苹果粉丝来说通常也是一个非常糟糕的主意，那就是在您的任何日常驱动程序设备上安装第一个开发者测试版。\n然而，由于我的 iPhone 是我拥有的唯一一台最近可以使用新 Siri 的 iOS 设备，而且我非常好奇"
+    },
+    {
+      "id": "5a274555f21e",
+      "title": "These Three Unannounced iOS 27 Features Are Still Coming",
+      "summary": "Apple developed more for its next-generation software updates than it revealed at WWDC last week, with three features already present in internal builds being deliberately withheld from the public announcement, Bloomberg's Mark Gurman reports.\n\n\n\n\nWriting in the latest edition of his \"Power On\" news",
+      "url": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-15 04:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "这三项未公布的 iOS 27 功能仍在推出",
+      "summary_translated": "据彭博社的 Mark Gurman 报道，苹果为其下一代软件更新开发的内容比上周在 WWDC 上透露的还要多，内部版本中已经存在的三项功能被故意隐瞒在公开声明中。\n\n\n\n\n在他最新一期的“Power On”新闻中写道"
+    },
     {
       "id": "a21f55cd6a62",
       "title": "Apple still has three unannounced iOS 27 features in the pipeline: report",
