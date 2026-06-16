@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-16 21:16:27",
-  "total_count": 1037,
-  "news_count": 1032,
+  "last_updated": "2026-06-16 23:45:14",
+  "total_count": 1038,
+  "news_count": 1033,
   "android_count": 236,
-  "ios_count": 796,
+  "ios_count": 797,
   "leaker_count": 5,
   "items": [
     {
@@ -243,6 +243,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-blue-display.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iPhone 17 不会获得 iOS 27 的顶级功能，原因如下",
       "summary_translated": "iOS 27 即将推出一些令人兴奋的新 Apple Intelligence 升级，但你需要最强大的 iPhone 才能访问其中一些升级，而 iPhone 17 甚至无法跻身最近的历史重演。原因如下。"
+    },
+    {
+      "id": "2467d2da25ea",
+      "title": "Here's What's New With Visual Intelligence in iOS 27",
+      "summary": "Visual Intelligence is getting a big upgrade in iOS 27. It's now easier to find than it was before, and there are new ‌Visual Intelligence‌ capabilities. Apple also expanded it to the iPad and the Mac, so you can use the same features across devices.\n\n\n\n\nCamera App\n\nApple moved ‌Visual Intelligence‌",
+      "url": "https://www.macrumors.com/guide/ios-27-visual-intelligence/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-16 15:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-visual-intelligence-feature.jpg",
+      "title_translated": "iOS 27 中视觉智能的新增功能",
+      "summary_translated": "视觉智能在 iOS 27 中得到了重大升级。现在比以前更容易找到，并且有新的“视觉智能”功能。 Apple 还将其扩展到 iPad 和 Mac，因此您可以跨设备使用相同的功能。\n\n\n\n\n相机应用程序\n\n苹果移动了“视觉智能”"
     },
     {
       "id": "4a2b735a6419",
