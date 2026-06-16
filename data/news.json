@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-15 23:58:30",
-  "total_count": 1009,
-  "news_count": 1004,
+  "last_updated": "2026-06-16 05:26:49",
+  "total_count": 1010,
+  "news_count": 1005,
   "android_count": 222,
-  "ios_count": 782,
+  "ios_count": 783,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8acdb04da08e",
+      "title": "iOS 27 fixes three of the most annoying Messages bugs",
+      "summary": "iOS 27 focuses heavily on bug fixes and performance improvements across apps like Safari, Mail, Calendar, and more.\nIn the Messages app, iOS 27 fixes what I think are three of the most frustrating bugs … ",
+      "url": "https://9to5mac.com/2026/06/15/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-16 01:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 修复了三个最烦人的消息错误",
+      "summary_translated": "iOS 27 重点关注 Safari、邮件、日历等应用程序的错误修复和性能改进。\n在消息应用中，iOS 27 修复了我认为最令人沮丧的三个错误……"
+    },
     {
       "id": "37ac46a85210",
       "title": "Still seeing ‘Indexing in Progress’ on iOS 27? Here’s how to check the actual status",
@@ -14069,7 +14083,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -14080,7 +14094,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -14091,7 +14105,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -14102,7 +14116,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -14113,7 +14127,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
