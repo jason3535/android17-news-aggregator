@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-06-17 15:59:13",
-  "total_count": 1047,
-  "news_count": 1042,
-  "android_count": 240,
-  "ios_count": 802,
+  "last_updated": "2026-06-17 18:30:14",
+  "total_count": 1052,
+  "news_count": 1047,
+  "android_count": 241,
+  "ios_count": 806,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b148ae9420c8",
+      "title": "Apple’s new software drops support for these 16 products",
+      "summary": "iOS 27 is compatible with all the same iPhones as last year’s iOS 26, but almost every other software platform drops multiple devices this year. Here’s the full list of 16 products no longer supported in macOS Golden Gate, iPadOS 27, watchOS 27, and tvOS 27.",
+      "url": "https://9to5mac.com/2026/06/17/apples-new-software-drops-support-for-these-16-products/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-17 17:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果新软件不再支持这 16 款产品",
+      "summary_translated": "iOS 27 与去年的 iOS 26 兼容所有相同的 iPhone，但今年几乎所有其他软件平台都放弃了多种设备。以下是 macOS Golden Gate、iPadOS 27、watchOS 27 和 tvOS 27 不再支持的 16 种产品的完整列表。"
+    },
+    {
+      "id": "6637b0d352bd",
+      "title": "Siri AI will make the Apple Watch a fully-fledged AI wearable in watchOS 27",
+      "summary": "While it’s not available in the very first beta, Siri AI is coming to the Apple Watch in watchOS 27. In my view, this is the biggest change for the device in a long time. ",
+      "url": "https://9to5mac.com/2026/06/17/siri-ai-will-make-the-apple-watch-a-fully-fledged-ai-wearable-in-watchos-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-17 17:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-new-app-grid-home-screen.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Siri AI 将使 Apple Watch 成为 watchOS 27 中成熟的人工智能可穿戴设备",
+      "summary_translated": "虽然在第一个测试版中尚未提供，但 Siri AI 将在 watchOS 27 中登陆 Apple Watch。在我看来，这是该设备长期以来最大的变化。"
+    },
+    {
+      "id": "950ee1b6f799",
+      "title": "Honor’s Android 17 update might be the most blatant Liquid Glass clone yet [Video]",
+      "summary": "Honor has officially shown off its Android 17 update, MagicOS 11, which is easily the most blatant copy of Apple’s Liquid Glass design language we’ve seen to date. ",
+      "url": "https://9to5google.com/2026/06/17/honor-android-17-magic-os-11-liquid-glass-teaser/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-17 16:15",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/honor-magic-os-11-teasers-header.jpg?quality=82&strip=all&w=1440",
+      "title_translated": "Honor的Android 17更新可能是迄今为止最明显的液体玻璃克隆[视频]",
+      "summary_translated": "荣耀正式展示了其Android 17更新MagicOS 11，这无疑是我们迄今为止看到的最明目张胆的苹果Liquid Glass设计语言的复制。"
+    },
     {
       "id": "a684684c2531",
       "title": "Apple Weather gets two brand new features in iOS 27",
@@ -119,6 +161,20 @@
       "summary_translated": "回想起来，我惊讶地发现我已经八年多没有把 iPhone 的通知节食了。因此，我的 iPhone 变得更加平静。\n但通知还有另一个长期存在的问题：仍然无法将有用的通知与营销和其他垃圾分开"
     },
     {
+      "id": "b2f4295fb840",
+      "title": "You Can Easily Install the iOS 27 Beta For Free Right Now, Here's How",
+      "summary": "If you have not been paying close attention, you might still think that you need to be enrolled in the Apple Developer Program for $99 per year to install iOS developer betas, but that has not been the case for a few years now. In fact, anyone can install the iOS 27 developer beta on their iPhone fo",
+      "url": "https://www.macrumors.com/2026/06/17/install-ios-27-developer-beta-free/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-17 11:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
+      "title_translated": "您现在可以轻松免费安装 iOS 27 Beta，具体方法如下",
+      "summary_translated": "如果你没有密切关注，你可能仍然认为你需要每年花费 99 美元加入 Apple 开发者计划才能安装 iOS 开发者测试版，但几年来情况并非如此。事实上，任何人都可以在他们的 iPhone 上安装 iOS 27 开发者测试版"
+    },
+    {
       "id": "e75b28511002",
       "title": "I’ve had Android 17 on my Pixel for months. These are the first 8 features you need to try",
       "summary": "There's a lot to check out in Android 17.",
@@ -131,6 +187,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-1-scaled.jpg",
       "title_translated": "我的 Pixel 上安装 Android 17 已有几个月了。这是您需要尝试的前 8 个功能",
       "summary_translated": "Android 17 有很多值得关注的地方。"
+    },
+    {
+      "id": "48b47b5e6b3d",
+      "title": "iOS 27 Adds Four New Features to Notes App, Including Markdown Copy-and-Paste",
+      "summary": "The upcoming iOS 27 update that Apple unveiled last week includes some new features and enhancements for Apple's Notes app on the iPhone.\n\n\n\n\niOS 27 is currently available as a developer beta, with a public beta to follow in July. The update is expected to be released to all users in September.\n\n\nBe",
+      "url": "https://www.macrumors.com/2026/06/17/ios-27-apple-notes-app-new-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-17 07:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-and-Notes-Feature.jpg",
+      "title_translated": "iOS 27 为 Notes 应用程序添加了四项新功能，包括 Markdown 复制粘贴",
+      "summary_translated": "Apple 上周发布的即将推出的 iOS 27 更新包括 iPhone 上 Apple Notes 应用程序的一些新功能和增强功能。\n\n\n\n\niOS 27 目前作为开发者测试版提供，公共测试版将于 7 月发布。该更新预计将于 9 月份向所有用户发布。\n\n\n是"
     },
     {
       "id": "13136159e72b",
