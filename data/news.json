@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-17 21:19:11",
-  "total_count": 1056,
-  "news_count": 1051,
+  "last_updated": "2026-06-17 23:47:57",
+  "total_count": 1057,
+  "news_count": 1052,
   "android_count": 243,
-  "ios_count": 808,
+  "ios_count": 809,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "34b19bbc3af6",
+      "title": "Apple showcases its new developer AI tools in impressive 90-minute presentation",
+      "summary": "Apple today shared a 90-minute WWDC26 presentation recorded live at a packed Steve Jobs Theater, featuring impressive demos of its latest AI tools for developers and an entire app built from just a few prompts. Watch it below",
+      "url": "https://9to5mac.com/2026/06/17/apple-showcases-its-new-developer-ai-tools-in-impressive-90-minute-presentation/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-17 21:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/wwdc26-sj-theater-ai.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 在令人印象深刻的 90 分钟演示中展示了其新的开发者人工智能工具",
+      "summary_translated": "Apple 今天分享了在挤满人的史蒂夫乔布斯剧院现场录制的 90 分钟 WWDC26 演示，其中为开发人员展示了令人印象深刻的最新人工智能工具演示，以及仅根据几个提示构建的整个应用程序。观看下面的内容"
+    },
     {
       "id": "dc2b3771d1a0",
       "title": "Here’s everything new for AirPods in iOS 27",
