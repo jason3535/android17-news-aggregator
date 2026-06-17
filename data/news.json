@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-17 05:07:26",
-  "total_count": 1038,
-  "news_count": 1033,
-  "android_count": 236,
+  "last_updated": "2026-06-17 11:14:58",
+  "total_count": 1039,
+  "news_count": 1034,
+  "android_count": 237,
   "ios_count": 797,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e75b28511002",
+      "title": "I’ve had Android 17 on my Pixel for months. These are the first 8 features you need to try",
+      "summary": "There's a lot to check out in Android 17.",
+      "url": "https://www.androidauthority.com/android-17-pixel-hands-on-biggest-features-3677688/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-17 09:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-1-scaled.jpg",
+      "title_translated": "我的 Pixel 上安装 Android 17 已有几个月了。这是您需要尝试的前 8 个功能",
+      "summary_translated": "Android 17 有很多值得关注的地方。"
+    },
     {
       "id": "13136159e72b",
       "title": "Android 17 June update rolling out with 38 Pixel fixes",
