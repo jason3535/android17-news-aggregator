@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-18 04:57:37",
-  "total_count": 1057,
-  "news_count": 1052,
-  "android_count": 243,
+  "last_updated": "2026-06-18 09:23:22",
+  "total_count": 1058,
+  "news_count": 1053,
+  "android_count": 244,
   "ios_count": 809,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "082786db2f54",
+      "title": "Android 17 is rolling out, but it’s missing the one feature I was really looking forward to",
+      "summary": "Improved gaming will have to wait a little longer.",
+      "url": "https://www.androidauthority.com/android-17-update-missing-one-feature-i-really-wanted-3678527/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-18 09:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Pixel-10-Pro-Fold-game-controller-scaled.jpg",
+      "title_translated": "Android 17 即将推出，但它缺少我真正期待的一项功能",
+      "summary_translated": "改进的游戏还需要等待一段时间。"
+    },
     {
       "id": "34b19bbc3af6",
       "title": "Apple showcases its new developer AI tools in impressive 90-minute presentation",
