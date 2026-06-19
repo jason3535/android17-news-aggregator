@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-19 07:22:22",
-  "total_count": 1072,
-  "news_count": 1067,
-  "android_count": 250,
+  "last_updated": "2026-06-19 12:16:15",
+  "total_count": 1073,
+  "news_count": 1068,
+  "android_count": 251,
   "ios_count": 817,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "958fc3601360",
+      "title": "4 security upgrades in Android 17 you didn’t know about, but will be glad to have",
+      "summary": "Forget App Bubbles, Android 17 is all about tougher security.",
+      "url": "https://www.androidauthority.com/android-17-security-upgrades-3679016/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-19 09:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-hide-app-names-hero-june-2026-2-scaled.jpg",
+      "title_translated": "Android 17 中你不知道但很高兴拥有的 4 项安全升级",
+      "summary_translated": "忘掉应用程序泡沫吧，Android 17 的核心是更严格的安全性。"
+    },
     {
       "id": "f0be52bb4228",
       "title": "9to5Mac Daily: June 18, 2026 – iOS 27 app features, Beats firmware fix",
