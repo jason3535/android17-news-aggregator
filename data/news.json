@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-20 14:27:00",
-  "total_count": 1084,
-  "news_count": 1079,
+  "last_updated": "2026-06-20 16:43:23",
+  "total_count": 1085,
+  "news_count": 1080,
   "android_count": 256,
-  "ios_count": 823,
+  "ios_count": 824,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-battery-level-1.jpg?quality=82&strip=all&w=1600",
       "title_translated": "更新到 Android 17 后，您的 Pixel 电池续航时间是否有所改善？ [轮询]",
       "summary_translated": "每当您在手机上安装大规模的新平台更新时，必然会产生有意或无意的后果。最关键的因素之一始终是寿命，这让我们不禁要问：您是否注意到 Android 17 使 Pixel 的电池寿命有所改善？"
+    },
+    {
+      "id": "f60f838f1dc8",
+      "title": "Apple Unveiled These Five New Apps Last Week",
+      "summary": "Apple last week unveiled five new apps, with four announced at WWDC 2026 alongside its upcoming fall software updates, one released in beta for developers, and one released independently by its subsidiary Claris.\n\n\n\n\n\nSiri AI App\n\nOne of the biggest announcements of WWDC 2026 was Siri AI, a ground-u",
+      "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-20 08:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/10/Apple-Logo-Spotlight-Blue.jpg",
+      "title_translated": "苹果上周推出了这五款新应用",
+      "summary_translated": "苹果上周推出了五款新应用，其中四款在 WWDC 2026 上与即将推出的秋季软件更新一起发布，一款为开发者发布了测试版，一款由其子公司 Claris 独立发布。\n\n\n\n\n\nSiri 人工智能应用程序\n\nSiri AI 是 WWDC 2026 上最重要的公告之一，它是一个地面用户"
     },
     {
       "id": "38bae699c778",
