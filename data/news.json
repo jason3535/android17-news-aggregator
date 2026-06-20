@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-20 11:24:46",
-  "total_count": 1083,
-  "news_count": 1078,
-  "android_count": 255,
+  "last_updated": "2026-06-20 14:27:00",
+  "total_count": 1084,
+  "news_count": 1079,
+  "android_count": 256,
   "ios_count": 823,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c86c5cf7da2a",
+      "title": "Has your Pixel battery life improved after updating to Android 17? [Poll]",
+      "summary": "Whenever you install a massive new platform update on your phone, there are bound to be both intended and unintended consequences. One of the most critical factors is always longevity, which has us asking: Have you noticed your Pixel’s battery life improve with Android 17?",
+      "url": "https://9to5google.com/2026/06/20/has-your-pixel-battery-life-improved-after-updating-to-android-17-poll/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-20 12:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-battery-level-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "更新到 Android 17 后，您的 Pixel 电池续航时间是否有所改善？ [轮询]",
+      "summary_translated": "每当您在手机上安装大规模的新平台更新时，必然会产生有意或无意的后果。最关键的因素之一始终是寿命，这让我们不禁要问：您是否注意到 Android 17 使 Pixel 的电池寿命有所改善？"
+    },
     {
       "id": "38bae699c778",
       "title": "Pixelated 105: An Android 17 summer",
