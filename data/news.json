@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-19 23:11:15",
-  "total_count": 1082,
-  "news_count": 1077,
-  "android_count": 254,
+  "last_updated": "2026-06-20 04:37:22",
+  "total_count": 1083,
+  "news_count": 1078,
+  "android_count": 255,
   "ios_count": 823,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "38bae699c778",
+      "title": "Pixelated 105: An Android 17 summer",
+      "summary": "Welcome to episode 105 of Pixelated, a podcast by 9to5Google. This week, Abner, Damien, and Will  return to talk all through the launch of Android 17. From general improvements to Pixel-specific changes, there’s plenty to dig through. Plus, Pixel Screenshots goes cloud, Google’s new smart speaker go",
+      "url": "https://9to5google.com/2026/06/19/pixelated-105-an-android-17-summer/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-20 00:05",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixelated 105：Android 17 的夏天",
+      "summary_translated": "欢迎收看 9to5Google 播客 Pixelated 第 105 集。本周，Abner、Damien 和 Will 回来谈论 Android 17 的发布过程。从一般改进到特定于 Pixel 的变化，有很多值得挖掘的地方。另外，Pixel Screenshots 已进入云端，Google 的新款智能音箱也已进入云端"
+    },
     {
       "id": "e91fec7aecda",
       "title": "Android 17 appears to have broken 5G for some Pixel owners",
@@ -15091,7 +15105,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -15102,7 +15116,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -15113,7 +15127,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -15124,7 +15138,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -15135,7 +15149,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
