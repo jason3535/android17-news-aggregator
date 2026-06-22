@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-22 21:11:46",
-  "total_count": 1108,
-  "news_count": 1103,
+  "last_updated": "2026-06-22 23:40:55",
+  "total_count": 1110,
+  "news_count": 1105,
   "android_count": 260,
-  "ios_count": 843,
+  "ios_count": 845,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ce81fea0517c",
+      "title": "Judge agrees to set aside default entered against Jon Prosser in Apple lawsuit",
+      "summary": "Jon Prosser is getting a new chance to respond to Apple’s complaint over the leak of iOS 26 and the Liquid Glass revamp. Here are the details.",
+      "url": "https://9to5mac.com/2026/06/22/judge-agrees-to-set-aside-default-entered-against-jon-prosser-in-apple-lawsuit/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-22 21:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "法官同意撤销乔恩·普罗瑟在苹果诉讼中的违约行为",
+      "summary_translated": "Jon Prosser 获得了一个新的机会来回应苹果对 iOS 26 泄露和 Liquid Glass 改进的投诉。以下是详细信息。"
+    },
     {
       "id": "586b5d1386fd",
       "title": "Apple confirms AirPort Utility app is going away soon",
@@ -145,6 +159,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-b2.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 beta 2 现已推出，苹果正在测​​试 Siri AI 重大升级",
       "summary_translated": "苹果发布了第二个 iOS 27 Beta 版供开发者测试。 iOS 27 beta 2 取代了本月早些时候在 WWDC 2026 之后发布的第一个 iOS 27 beta，并在今年秋天公开发布之前继续了苹果的夏季测试周期。我们将更新我们的设备并分享我们的发现。"
+    },
+    {
+      "id": "4466d5e14484",
+      "title": "Everything New in iOS 27 Beta 2",
+      "summary": "Apple released the second beta of iOS 27 today, and as is common with a second beta, there are multiple changes. There are new features and updates to existing features as Apple prepares for a July public beta and a September software launch.\n\n\n\n\nWrite with Siri\n\nThere is a new Write with Siri butto",
+      "url": "https://www.macrumors.com/guide/ios-27-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-22 16:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "iOS 27 Beta 2 中的所有新功能",
+      "summary_translated": "苹果今天发布了 iOS 27 的第二个测试版，与第二个测试版一样，有多项变化。随着 Apple 准备 7 月的公开测试版和 9 月的软件发布，新功能和现有功能都有更新。\n\n\n\n\n使用 Siri 书写\n\n有一个新的“使用 Siri 写入”按钮"
     },
     {
       "id": "e14bc1e12f84",
