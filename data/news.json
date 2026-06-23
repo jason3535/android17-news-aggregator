@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-06-23 21:05:41",
-  "total_count": 1123,
-  "news_count": 1118,
-  "android_count": 265,
-  "ios_count": 853,
+  "last_updated": "2026-06-23 23:18:14",
+  "total_count": 1130,
+  "news_count": 1125,
+  "android_count": 269,
+  "ios_count": 856,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6c65d86126a5",
+      "title": "Gemini Intelligence makes brief Pixel 10 series appearance on Android 17 QPR1 Beta",
+      "summary": "Google today is rolling out Android 17 QPR1 Beta 5, and it’s mainly just a bug fixer except for the inclusion of the Gemini Intelligence logo.",
+      "url": "https://9to5google.com/2026/06/23/gemini-intelligence-android-17-qpr1-beta-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-23 22:23",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-intelligence-header.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Gemini Intelligence 在 Android 17 QPR1 Beta 上短暂亮相 Pixel 10 系列",
+      "summary_translated": "谷歌今天推出了 Android 17 QPR1 Beta 5，除了包含 Gemini Intelligence 徽标外，它主要只是一个错误修复程序。"
+    },
+    {
+      "id": "c3323d9a0993",
+      "title": "Apple releases new AirPods beta firmware, including first build for AirPods Max 2",
+      "summary": "Following the release of iOS 27 beta 2, Apple is rolling out the first firmware beta for AirPods Max 2, alongside second beta builds for other supported AirPods models. Here are the details.",
+      "url": "https://9to5mac.com/2026/06/23/apple-releases-new-airpods-beta-firmware-including-first-build-for-airpods-max-2/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-23 21:32",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-ios-27-FI-dark.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布新的 AirPods beta 固件，包括 AirPods Max 2 的第一个版本",
+      "summary_translated": "在 iOS 27 beta 2 发布后，苹果正在推出 AirPods Max 2 的第一个固件测试版，以及其他受支持的 AirPods 型号的第二个测试版。以下是详细信息。"
+    },
+    {
+      "id": "47b372047468",
+      "title": "Android 17 QPR1 Beta 5 is out now for your Pixel phone to test",
+      "summary": "Did anybody order bugfixes? Because this release is lousy with them.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-23 21:24",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-2-scaled.jpg",
+      "title_translated": "Android 17 QPR1 Beta 5 现已发布，可供您的 Pixel 手机进行测试",
+      "summary_translated": "有人订购错误修复吗？因为这个版本对他们来说很糟糕。"
+    },
+    {
+      "id": "57a840e124a1",
+      "title": "Android 17 QPR1 Beta 5 Releases For Pixel Phones – Pixel 6 Returns",
+      "summary": "Google released Android 17 QPR1 Beta 5 today for its Pixel phones, plus it brought the Pixel 6 and Pixel 6 Pro back into the fun, just as they said they would. The new Android 17 QPR1 Beta 5 brings us to build CP31.260608.007. Google fixed 10 noteworthy issues that they’ve provided a detailed change",
+      "url": "https://www.droid-life.com/2026/06/23/android-17-qpr1-beta-5-releases-for-pixel-phones-pixel-6-returns/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-06-23 21:23",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Android-17-update-release-date-1-980x653.jpg",
+      "title_translated": "适用于 Pixel 手机的 Android 17 QPR1 Beta 5 发布 - Pixel 6 回归",
+      "summary_translated": "谷歌今天为其 Pixel 手机发布了 Android 17 QPR1 Beta 5，此外，它还让 Pixel 6 和 Pixel 6 Pro 重新焕发了乐趣，正如他们所说的那样。新的 Android 17 QPR1 Beta 5 让我们构建了 CP31.260608.007。 Google 修复了 10 个值得注意的问题，并提供了详细的更改"
+    },
     {
       "id": "b70ec7cee1f6",
       "title": "Android 17 QPR1 Beta 5 rolling out for Pixel",
@@ -77,6 +133,20 @@
       "summary_translated": "Android 17 触摸识别问题仍然存在，因为 Pixel 用户报告了另一个影响视频播放时触摸屏输入的错误。"
     },
     {
+      "id": "47caef9d80be",
+      "title": "iOS 27 Weather App: All the New Features",
+      "summary": "There are no new AI features in the iOS 27 Weather app, but Apple did make improvements to the layout. It's now easier to see at-a-glance information for weather conditions.\n\n\n\n\nHighlights\n\nThe top of the Weather app now has a Highlights section that shows you need-to-know weather information for th",
+      "url": "https://www.macrumors.com/guide/ios-27-weather/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-23 16:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/04/apple-weather-app-icon.jpg",
+      "title_translated": "iOS 27 天气应用程序：所有新功能",
+      "summary_translated": "iOS 27 天气应用程序中没有新的 AI 功能，但苹果确实对布局进行了改进。现在可以更轻松地查看天气状况的一目了然的信息。\n\n\n\n\n亮点\n\n天气应用程序的顶部现在有一个“亮点”部分，显示您需要了解的天气信息"
+    },
+    {
       "id": "4053a7d689c6",
       "title": "AirPods Max 2 are getting harder to resist with iOS 27 upgrades",
       "summary": "AirPods Max 2 are currently just $399 on Amazon (down from $549), and new features coming in iOS 27 make it an especially great time to consider an upgrade.",
@@ -89,6 +159,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-max-2-midnight-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 升级让 AirPods Max 2 变得越来越难以抗拒",
       "summary_translated": "AirPods Max 2 目前在亚马逊上的售价仅为 399 美元（原价 549 美元），iOS 27 中的新功能使其成为考虑升级的特别好时机。"
+    },
+    {
+      "id": "c3cc66118b72",
+      "title": "Apple Releases Updated AirPods Beta Firmware With iOS 27 Features",
+      "summary": "Apple today released updated beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is limited to developers at the current time, and it has a build number of 9A5304b.\n\n\n\n\nIn iOS 27, iPadOS 27, and macOS Golden Gate, Apple is adding a new AirPods interface and",
+      "url": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-23 14:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
+      "title_translated": "苹果发布具有 iOS 27 功能的更新版 AirPods Beta 固件",
+      "summary_translated": "Apple 今天发布了 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2 的更新测试版固件。该固件目前仅限开发人员使用，内部版本号为 9A5304b。\n\n\n\n\n在 iOS 27、iPadOS 27 和 macOS Golden Gate 中，苹果添加了新的 AirPods 界面和"
     },
     {
       "id": "9eeaa8e4d14c",
@@ -15656,6 +15740,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/pyuYLjC25SE/hqdefault.jpg",
       "title_translated": "iOS 27 Beta 2 刚刚解决了我最大的抱怨",
+      "summary_translated": ""
+    },
+    {
+      "id": "a825b24caf53",
+      "title": "Android 17 Is BIGGER Than You Think...",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=qSd5TgNKLw0",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "android",
+      "image": "https://i.ytimg.com/vi/qSd5TgNKLw0/hqdefault.jpg",
+      "title_translated": "Android 17 比你想象的更强大……",
       "summary_translated": ""
     },
     {
