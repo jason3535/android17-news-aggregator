@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-23 18:12:42",
-  "total_count": 1118,
-  "news_count": 1113,
-  "android_count": 263,
-  "ios_count": 850,
+  "last_updated": "2026-06-23 21:05:41",
+  "total_count": 1123,
+  "news_count": 1118,
+  "android_count": 265,
+  "ios_count": 853,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b70ec7cee1f6",
+      "title": "Android 17 QPR1 Beta 5 rolling out for Pixel",
+      "summary": "Google is rolling out Android 17 QPR1 Beta 5 less than two weeks after the release with a number of bug fixes for Pixel devices.",
+      "url": "https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-23 20:53",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 17 QPR1 Beta 5 面向 Pixel 推出",
+      "summary_translated": "谷歌在发布后不到两周就推出了 Android 17 QPR1 Beta 5，并针对 Pixel 设备修复了一些错误。"
+    },
+    {
+      "id": "c5bfe484b4eb",
+      "title": "Google Pixel phones get better wireless audio quality in Android 17 – how to check",
+      "summary": "While wired audio is certainly trying to make a comeback, wireless earbuds and headphones are more prevalent today than ever before, and that’s why it’s pretty good news that Google Pixel phones now support LHDCv5 in Android 17, a codec that supports better audio quality.",
+      "url": "https://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-23 20:05",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-blue-in-hand-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Google Pixel 手机在 Android 17 中获得更好的无线音频质量 - 如何检查",
+      "summary_translated": "虽然有线音频确实试图卷土重来，但无线耳塞和耳机如今比以往任何时候都更加流行，这就是为什么 Google Pixel 手机现在在 Android 17 中支持 LHDCv5（一种支持更好音频质量的编解码器）的好消息。"
+    },
     {
       "id": "dd50113e7cdf",
       "title": "watchOS 27 beta 2 available now for Apple Watch",
@@ -89,6 +117,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?quality=82&strip=all&w=1600",
       "title_translated": "以下是您的手机更新到 Android 17 后的运行情况",
       "summary_translated": "距离 Google 迄今为止最大规模的更新一周后，我们得到了将 Pixel 更新到 Android 17 后性能是否有所改善的结果 - 以下是您需要了解的信息。"
+    },
+    {
+      "id": "0ada37b9dcc4",
+      "title": "iOS 27 Wallet App Gets 7 New Features",
+      "summary": "Apple is making more of an effort to turn the iPhone into a physical wallet replacement in iOS 27, and there are several upgrades to the Wallet app.\n\n\n\n\nPass Upgrades\n\nApple upgraded airline boarding passes in the Wallet app with iOS 26, and in ‌iOS 27‌, upgrades are coming to additional types of pa",
+      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-23 12:32",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Adds-These-New-Features-to-Your-iPhones-Wallet-Feature.jpg",
+      "title_translated": "iOS 27 钱包应用获得 7 项新功能",
+      "summary_translated": "苹果在 iOS 27 中更加努力地将 iPhone 变成实体钱包的替代品，并且钱包应用程序也进行了多项升级。\n\n\n\n\n通行证升级\n\n苹果在 iOS 26 中升级了钱包应用中的航空公司登机牌，在 iOS 27 中，其他类型的登机牌也将得到升级。"
     },
     {
       "id": "7eca2b91ac28",
@@ -15586,6 +15628,34 @@
       "platform": "android",
       "image": "https://i.ytimg.com/vi/m0eSKaFMHRo/hqdefault.jpg",
       "title_translated": "安卓 17 的夏天",
+      "summary_translated": ""
+    },
+    {
+      "id": "36c233600e0e",
+      "title": "iOS 27 Beta - 200+ Changes/Features!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=3KfFrp2MFoM",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/3KfFrp2MFoM/hqdefault.jpg",
+      "title_translated": "iOS 27 Beta - 200 多项更改/功能！",
+      "summary_translated": ""
+    },
+    {
+      "id": "8819bd4be8fd",
+      "title": "iOS 27 Beta 2 Just Fixed My Biggest Complaints",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=pyuYLjC25SE",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/pyuYLjC25SE/hqdefault.jpg",
+      "title_translated": "iOS 27 Beta 2 刚刚解决了我最大的抱怨",
       "summary_translated": ""
     },
     {
