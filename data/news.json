@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-24 17:21:50",
-  "total_count": 1136,
-  "news_count": 1131,
-  "android_count": 272,
-  "ios_count": 859,
+  "last_updated": "2026-06-24 20:01:39",
+  "total_count": 1138,
+  "news_count": 1133,
+  "android_count": 273,
+  "ios_count": 860,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-camera-mode-ios-27-baseball.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 为 iPhone 上的相机应用带来全新模式",
       "summary_translated": "iOS 27 为相机应用程序提供了全新的“Siri”模式，加入了照片、视频、人像等默认模式。 Siri 模式的作用如下。"
+    },
+    {
+      "id": "83cd8dfae3e8",
+      "title": "Android 17 Finds Way to Make Mobile Data Toggles Great",
+      "summary": "In Android 17, Google first introduced us to a split Quick Settings toggle for mobile data and WiFi. This was apparently a highly requested feature, and I guess I get why. The thing is, even with the separation, users weren’t completely satisfied so Google came up with a fix. When we all first got t",
+      "url": "https://www.droid-life.com/2026/06/24/android-17-finds-way-to-make-mobile-data-toggles-great/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-06-24 15:39",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-1-1200x800.jpg",
+      "title_translated": "Android 17 找到了让移动数据切换变得更好的方法",
+      "summary_translated": "在 Android 17 中，谷歌首次向我们引入了针对移动数据和 WiFi 的分离式快速设置切换功能。这显然是一个强烈要求的功能，我想我明白为什么。问题是，即使分离了，用户也并不完全满意，所以谷歌想出了一个解决方案。当我们第一次得到"
     },
     {
       "id": "4389fb6459bb",
@@ -61,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 中 Apple 日历的所有新功能",
       "summary_translated": "iOS 27 包含了 Apple 钱包、消息、便笺和其他系统应用程序（包括日历）的新功能。以下是 iOS 27 中 Apple 日历应用程序的所有新功能。"
+    },
+    {
+      "id": "d5d22a9a1afd",
+      "title": "Every New AirPods Feature in iOS 27",
+      "summary": "With every iOS update, Apple adds new features to the AirPods. In iOS 27, the AirPods work with Siri AI, and there's a long-requested custom EQ option.\n\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\nCustom EQ\n\nApple resisted custom EQ for the AirPods for years, preferring to require ",
+      "url": "https://www.macrumors.com/guide/ios-27-airpods/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-24 10:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/qTxyhxBRGc_aFRzL-EFrJraJ1RE=/2500x/article-new/2026/06/iOS-27-and-AirPods-Thumb.jpg",
+      "title_translated": "iOS 27 中的每项新 AirPods 功能",
+      "summary_translated": "每次 iOS 更新时，Apple 都会为 AirPods 添加新功能。在 iOS 27 中，AirPods 可以与 Siri AI 配合使用，并且还有一个期待已久的自定义 EQ 选项。\n\n\n订阅 MacRumors YouTube 频道以获取更多视频。\n\n自定义均衡器\n\n苹果多年来一直抵制 AirPods 的定制 EQ，更愿意要求"
     },
     {
       "id": "526e8325ac34",
