@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-24 20:01:39",
-  "total_count": 1138,
-  "news_count": 1133,
+  "last_updated": "2026-06-24 21:41:27",
+  "total_count": 1139,
+  "news_count": 1134,
   "android_count": 273,
-  "ios_count": 860,
+  "ios_count": 861,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "888f013484dd",
+      "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs",
+      "summary": "A new rule added to Siri AI’s system prompt in iOS 27 beta 2 changes how it should handle requests involving extracting or summarizing content behind a URL. Here are the details.",
+      "url": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-24 21:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark_e0fbb1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 2：苹果告诉 Siri AI 明确拒绝汇总 URL 的请求",
+      "summary_translated": "iOS 27 beta 2 中 Siri AI 系统提示中添加的新规则改变了它处理涉及提取或汇总 URL 后面内容的请求的方式。以下是详细信息。"
+    },
     {
       "id": "b6831f6c302c",
       "title": "iOS 27 gives the Camera app on iPhone a brand new mode",
