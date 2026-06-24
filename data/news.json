@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-23 23:18:14",
-  "total_count": 1130,
-  "news_count": 1125,
-  "android_count": 269,
+  "last_updated": "2026-06-24 04:20:35",
+  "total_count": 1131,
+  "news_count": 1126,
+  "android_count": 270,
   "ios_count": 856,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "532781245c12",
+      "title": "Here’s everything new in Android 17 QPR1 Beta 5 [Gallery]",
+      "summary": "With Android 17 QPR1 Beta 5 today, Google is rolling out a second wave of bug fixes for Pixel devices. ",
+      "url": "https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-everything-new/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-06-23 23:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这是 Android 17 QPR1 Beta 5 中的所有新功能 [图库]",
+      "summary_translated": "今天，随着 Android 17 QPR1 Beta 5 的发布，Google 正在针对 Pixel 设备推出第二波错误修复。"
+    },
     {
       "id": "6c65d86126a5",
       "title": "Gemini Intelligence makes brief Pixel 10 series appearance on Android 17 QPR1 Beta",
@@ -15763,7 +15777,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -15774,7 +15788,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -15785,7 +15799,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -15796,7 +15810,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -15807,7 +15821,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
