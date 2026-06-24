@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-24 21:41:27",
-  "total_count": 1139,
-  "news_count": 1134,
+  "last_updated": "2026-06-24 23:18:18",
+  "total_count": 1140,
+  "news_count": 1135,
   "android_count": 273,
-  "ios_count": 861,
+  "ios_count": 862,
   "leaker_count": 5,
   "items": [
     {
@@ -75,6 +75,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-quick-settings-hero-1-scaled.jpg",
       "title_translated": "Android 17 QPR1 Beta 5 开始进行期待已久的快速设置升级",
       "summary_translated": "谷歌可能最终会让你锁定除手电筒之外的所有“快速设置”图块。"
+    },
+    {
+      "id": "9b4a6d48a16f",
+      "title": "iOS 27 Home App: 10+ New HomeKit Features",
+      "summary": "Apple updated the Home app with some useful new features that rely on Apple Intelligence. The updates improve the way HomeKit Secure Video cameras work on Apple's HomeKit platform.\n\n\n\n\nApple Intelligence Summaries\n\nThe Home app generates written summaries for motion alerts and what's detected, using",
+      "url": "https://www.macrumors.com/guide/ios-27-home/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-24 14:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-10-HomeKit-Features.jpg",
+      "title_translated": "iOS 27 Home App：10 多个新 HomeKit 功能",
+      "summary_translated": "Apple 更新了 Home 应用程序，添加了一些依赖 Apple Intelligence 的有用新功能。这些更新改进了 HomeKit 安全视频摄像头在 Apple HomeKit 平台上的工作方式。\n\n\n\n\n苹果情报摘要\n\nHome 应用程序使用以下命令生成运动警报和检测到的内容的书面摘要"
     },
     {
       "id": "34fc72939221",
