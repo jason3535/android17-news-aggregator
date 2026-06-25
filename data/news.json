@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-24 23:18:18",
-  "total_count": 1140,
-  "news_count": 1135,
+  "last_updated": "2026-06-25 04:22:40",
+  "total_count": 1141,
+  "news_count": 1136,
   "android_count": 273,
-  "ios_count": 862,
+  "ios_count": 863,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6f63d4a7c086",
+      "title": "Siri AI app on iOS 27 lets users easily switch between Siri and ChatGPT",
+      "summary": "The new Siri app on iOS 27 defaults to the new Siri AI, but there is a way to quickly switch to ChatGPT at any time. Here’s how it works.",
+      "url": "https://9to5mac.com/2026/06/24/siri-ai-app-on-ios-27-lets-users-easily-switch-between-siri-and-chatgpt/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-25 00:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ask-siri-chatgpt.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 上的 Siri AI 应用程序可让用户在 Siri 和 ChatGPT 之间轻松切换",
+      "summary_translated": "iOS 27 上的新 Siri 应用程序默认使用新的 Siri AI，但有一种方法可以随时快速切换到 ChatGPT。这是它的工作原理。"
+    },
     {
       "id": "888f013484dd",
       "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs",
@@ -15903,7 +15917,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -15914,7 +15928,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -15925,7 +15939,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -15936,7 +15950,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -15947,7 +15961,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
