@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-25 17:21:20",
-  "total_count": 1144,
-  "news_count": 1139,
+  "last_updated": "2026-06-25 20:19:34",
+  "total_count": 1146,
+  "news_count": 1141,
   "android_count": 274,
-  "ios_count": 865,
+  "ios_count": 867,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "525d72a1121c",
+      "title": "watchOS 27 beta 2 available now for Apple Watch [U: Ultra 3 too]",
+      "summary": "Yesterday Apple released beta 2 for iOS 27, iPadOS 27, and more—but watchOS was absent. Now today, watchOS 27 developer beta 2 has arrived to complete the lineup.\nUpdate 6/25: Two days later, watchOS 27 beta 2 is now also available for Apple Watch Ultra 3.",
+      "url": "https://9to5mac.com/2026/06/25/watchos-27-beta-2-available-now-for-apple-watch/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-25 19:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-b2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "watchOS 27 beta 2 现已适用于 Apple Watch [U：Ultra 3 也是]",
+      "summary_translated": "昨天，苹果发布了 iOS 27、iPadOS 27 等的 beta 2，但 watchOS 却缺席。今天，watchOS 27 开发者测试版 2 已经发布，完善了阵容。\n6/25 更新：两天后，watchOS 27 beta 2 现在也可用于 Apple Watch Ultra 3。"
+    },
+    {
+      "id": "46a1f239b129",
+      "title": "iOS 27 beta 2, Apple price increases, Apple Watch OS support",
+      "summary": "Benjamin and Chance react to the shocking price increases across Mac, iPad, and more, as well as break down all the latest changes in iOS 27 beta 2. Also, how fair is it that watchOS 27 cuts off so many models of Apple Watch, while iOS 27 is available for every iPhone that runs iOS 26.\nAnd in Happy ",
+      "url": "https://9to5mac.com/2026/06/25/happy-hour-596/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-25 18:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 2、Apple 涨价、Apple Watch 操作系统支持",
+      "summary_translated": "Benjamin 和 Chance 对 Mac、iPad 等设备令人震惊的价格上涨做出了反应，并详细分析了 iOS 27 beta 2 中的所有最新变化。此外，watchOS 27 砍掉了如此多的 Apple Watch 型号，而 iOS 27 适用于所有运行 iOS 26 的 iPhone，这有多公平。\n而在快乐"
+    },
     {
       "id": "9fe19856c0cd",
       "title": "Google’s Pixel home screen organizer looks almost ready for prime time in Android 17 QPR1 Beta 5",
