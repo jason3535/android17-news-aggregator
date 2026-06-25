@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-25 04:22:40",
-  "total_count": 1141,
-  "news_count": 1136,
+  "last_updated": "2026-06-25 08:29:52",
+  "total_count": 1142,
+  "news_count": 1137,
   "android_count": 273,
-  "ios_count": 863,
+  "ios_count": 864,
   "leaker_count": 5,
   "items": [
     {
@@ -15908,6 +15908,20 @@
       "platform": "android",
       "image": "https://i.ytimg.com/vi/qSd5TgNKLw0/hqdefault.jpg",
       "title_translated": "Android 17 比你想象的更强大……",
+      "summary_translated": ""
+    },
+    {
+      "id": "a5450e0c9bfa",
+      "title": "iOS 27 Added 11 New Widgets — Here's What They Actually Do",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=d3r6kq6ia3I",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/d3r6kq6ia3I/hqdefault.jpg",
+      "title_translated": "iOS 27 添加了 11 个新小部件——以下是它们的实际用途",
       "summary_translated": ""
     },
     {
