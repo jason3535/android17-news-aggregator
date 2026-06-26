@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-06-26 12:23:43",
-  "total_count": 1150,
-  "news_count": 1145,
+  "last_updated": "2026-06-26 15:29:53",
+  "total_count": 1152,
+  "news_count": 1147,
   "android_count": 278,
-  "ios_count": 867,
+  "ios_count": 869,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f5acf3d36a09",
+      "title": "iOS 27 adds three new iPhone features I’ve been really loving",
+      "summary": "iOS 27 is packed with new features across Messages, Notes, Apple Wallet, CarPlay, and more. Here are three of my favorite new iOS 27 features so far.",
+      "url": "https://9to5mac.com/2026/06/26/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-26 14:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-features-favorite-heart.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 增加了三项我非常喜欢的 iPhone 新功能",
+      "summary_translated": "iOS 27 包含了消息、便笺、Apple 钱包、CarPlay 等新功能。以下是迄今为止我最喜欢的三个 iOS 27 新功能。"
+    },
+    {
+      "id": "51dc1e81ab7b",
+      "title": "9to5Mac Overtime 070: The Siri Redemption Tour",
+      "summary": "Is Siri really good this time? Fernando and Jeff talk about some of their favorite iOS 27 beta features, along with a deep dive into the key new Siri AI features, changes, updates, and optimizations.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the A",
+      "url": "https://9to5mac.com/2026/06/26/9to5mac-overtime-070-the-siri-redemption-tour/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-26 13:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Overtime-070.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac 加时赛 070：Siri 救赎之旅",
+      "summary_translated": "这次 Siri 真的好吗？ Fernando 和 Jeff 谈论了他们最喜欢的一些 iOS 27 Beta 功能，并深入探讨了 Siri AI 的关键新功能、更改、更新和优化。\n9to5Mac Overtime 是一个每周一次的视频优先播客，探索 A 领域有趣的观察结果"
+    },
     {
       "id": "a7020c2ea57b",
       "title": "PSA: Don’t install the latest Play System update if you’re still running Android 17 beta",
