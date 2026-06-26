@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-26 05:19:55",
-  "total_count": 1149,
-  "news_count": 1144,
-  "android_count": 277,
+  "last_updated": "2026-06-26 09:48:50",
+  "total_count": 1150,
+  "news_count": 1145,
+  "android_count": 278,
   "ios_count": 867,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a7020c2ea57b",
+      "title": "PSA: Don’t install the latest Play System update if you’re still running Android 17 beta",
+      "summary": "Running Android 17 beta 4.1? Then skip the latest Play System update for now.",
+      "url": "https://www.androidauthority.com/android-17-beta-4-1-bootloop-issue-3681705/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-06-26 06:51",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-2-scaled.jpg",
+      "title_translated": "PSA：如果您仍在运行 Android 17 Beta，请勿安装最新的 Play 系统更新",
+      "summary_translated": "运行 Android 17 beta 4.1？然后暂时跳过最新的 Play 系统更新。"
+    },
     {
       "id": "5940d59e5ca2",
       "title": "Prepare your thumbs: Google shows off Android 17’s foldable gaming mode in action",
