@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-26 21:39:33",
-  "total_count": 1155,
-  "news_count": 1150,
+  "last_updated": "2026-06-26 23:19:32",
+  "total_count": 1156,
+  "news_count": 1151,
   "android_count": 278,
-  "ios_count": 872,
+  "ios_count": 873,
   "leaker_count": 5,
   "items": [
     {
@@ -75,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Overtime-070.jpg?quality=82&strip=all&w=1600",
       "title_translated": "9to5Mac 加时赛 070：Siri 救赎之旅",
       "summary_translated": "这次 Siri 真的好吗？ Fernando 和 Jeff 谈论了他们最喜欢的一些 iOS 27 Beta 功能，并深入探讨了 Siri AI 的关键新功能、更改、更新和优化。\n9to5Mac Overtime 是一个每周一次的视频优先播客，探索 A 领域有趣的观察结果"
+    },
+    {
+      "id": "a597671ad438",
+      "title": "iOS 27 Makes the Shortcuts App Much Less Intimidating",
+      "summary": "The Shortcuts app can be intimidating to casual iPhone users, but with iOS 27, it's a lot easier to use. With Apple Intelligence integration, shortcuts can be created using natural language, and they're much more accessible to the average person.\n\n\n\n\nDescribe a Shortcut\n\nWhen you tap on the New Shor",
+      "url": "https://www.macrumors.com/guide/ios-27-shortcuts/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-26 13:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Shortcuts-Feature.jpg",
+      "title_translated": "iOS 27 让快捷方式应用不再那么令人生畏",
+      "summary_translated": "Shortcuts 应用程序可能会让普通 iPhone 用户感到害怕，但在 iOS 27 中，它的使用变得更加容易。通过 Apple Intelligence 集成，可以使用自然语言创建快捷方式，并且普通人更容易使用它们。\n\n\n\n\n描述一个快捷方式\n\n当您点击 New Shor 时"
     },
     {
       "id": "a7020c2ea57b",
