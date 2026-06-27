@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-27 12:15:37",
-  "total_count": 1156,
-  "news_count": 1151,
+  "last_updated": "2026-06-27 14:52:33",
+  "total_count": 1157,
+  "news_count": 1152,
   "android_count": 278,
-  "ios_count": 873,
+  "ios_count": 874,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d5836de82904",
+      "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
+      "summary": "The Apple community was rocked this week as the company instituted massive price hikes on a broad array of products, with many products seeing increases of 10–20 percent and a few as high as 50 percent or more. The move led many Apple fans to flock to Amazon and other retailers in attempts to make p",
+      "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-26 20:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/top-stories-2026-06-27.jpg",
+      "title_translated": "头条新闻：Apple 大幅涨价、iOS 27 Beta 2 等",
+      "summary_translated": "本周，苹果社区震惊了，因为该公司对一系列产品进行了大幅提价，许多产品的涨幅达到了 10% 至 20%，少数产品的涨幅甚至高达 50% 或更多。此举导致许多苹果粉丝涌向亚马逊和其他零售商，试图抢占市场。"
+    },
     {
       "id": "d97e55d58a1b",
       "title": "New iPhone 18 specs report raises big question of iOS 27 limitations",
