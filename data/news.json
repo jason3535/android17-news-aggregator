@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-27 16:16:54",
-  "total_count": 1157,
-  "news_count": 1152,
+  "last_updated": "2026-06-27 18:15:11",
+  "total_count": 1158,
+  "news_count": 1153,
   "android_count": 278,
-  "ios_count": 874,
+  "ios_count": 875,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9485f6edb99c",
+      "title": "iPadOS 27: Apple is leaving these five iPad models behind, but owners deserve better",
+      "summary": "We’re about 3 weeks out from when Apple unveiled iOS 27 to the world at WWDC26, and it’s still safe to say: this is an incredible update. It’s incredibly performant, and besides some small quirks and a little battery drain, it feels much more usable than iOS 26.5.\nWhile iOS 27 does support every dev",
+      "url": "https://9to5mac.com/2026/06/27/these-five-ipad-models-wont-run-ipados-27-but-deserve-better/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-27 16:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2018/11/2018-iPad-Pro-In-Hand11.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iPadOS 27：苹果将放弃这五款 iPad 机型，但用户应该得到更好的",
+      "summary_translated": "距离 Apple 在 WWDC26 上向全世界发布 iOS 27 已有约 3 周时间，但仍然可以肯定地说：这是一次令人难以置信的更新。它的性能令人难以置信，除了一些小怪癖和一点电池消耗之外，它感觉比 iOS 26.5 更实用。\n虽然 iOS 27 确实支持所有开发者"
+    },
     {
       "id": "d5836de82904",
       "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
