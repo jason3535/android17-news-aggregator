@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-29 11:24:48",
-  "total_count": 1158,
-  "news_count": 1153,
+  "last_updated": "2026-06-29 16:06:08",
+  "total_count": 1159,
+  "news_count": 1154,
   "android_count": 278,
-  "ios_count": 875,
+  "ios_count": 876,
   "leaker_count": 5,
   "items": [
     {
@@ -16146,6 +16146,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/d3r6kq6ia3I/hqdefault.jpg",
       "title_translated": "iOS 27 添加了 11 个新小部件——以下是它们的实际用途",
+      "summary_translated": ""
+    },
+    {
+      "id": "e0fb86e9d4be",
+      "title": "iOS 27 Just Made Apple's Calendar App SO Much Better",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=8D95_P9rdSg",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/8D95_P9rdSg/hqdefault.jpg",
+      "title_translated": "iOS 27 让苹果的日历应用变得更好",
       "summary_translated": ""
     },
     {
