@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-30 14:39:17",
-  "total_count": 1168,
-  "news_count": 1163,
+  "last_updated": "2026-06-30 17:11:10",
+  "total_count": 1169,
+  "news_count": 1164,
   "android_count": 280,
-  "ios_count": 883,
+  "ios_count": 884,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "702b6519e0c0",
+      "title": "iOS 27 makes Apple’s Shortcuts app exactly what I’ve always wanted",
+      "summary": "iOS 27 is packed with new Apple Intelligence features, with Siri AI chief among them. But the Shortcuts app offers another standout AI upgrade in iOS 27 thanks to a new ‘describe a shortcut’ feature.",
+      "url": "https://9to5mac.com/2026/06/30/ios-27-makes-apples-shortcuts-app-exactly-what-ive-always-wanted/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-30 15:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 使 Apple 的快捷方式应用程序成为我一直想要的",
+      "summary_translated": "iOS 27 充满了新的 Apple Intelligence 功能，其中最重要的是 Siri AI。但由于新的“描述快捷方式”功能，快捷方式应用程序在 iOS 27 中提供了另一项出色的人工智能升级。"
+    },
     {
       "id": "36f706968af8",
       "title": "Android 17 testers stuck on Beta will have to wait a little longer for a fix",
