@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-30 17:11:10",
-  "total_count": 1169,
-  "news_count": 1164,
+  "last_updated": "2026-06-30 20:13:28",
+  "total_count": 1171,
+  "news_count": 1166,
   "android_count": 280,
-  "ios_count": 884,
+  "ios_count": 886,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9b28fe7ac65b",
+      "title": "Apple Creator Studio just got better, here’s what’s new",
+      "summary": "Apple has announced a flurry of updates for Apple Creator Studio apps rolling out today, plus previewed some iOS 27 additions coming. Here’s what’s new for Apple Creator Studio.",
+      "url": "https://9to5mac.com/2026/06/30/apple-creator-studio-just-got-better-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-30 17:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/creator-studio.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Creator Studio 变得更好了，以下是新功能",
+      "summary_translated": "Apple 宣布今天推出 Apple Creator Studio 应用程序的一系列更新，并预览了即将推出的 iOS 27 的一些新增功能。以下是 Apple Creator Studio 的新增功能。"
+    },
     {
       "id": "702b6519e0c0",
       "title": "iOS 27 makes Apple’s Shortcuts app exactly what I’ve always wanted",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 使 Apple 的快捷方式应用程序成为我一直想要的",
       "summary_translated": "iOS 27 充满了新的 Apple Intelligence 功能，其中最重要的是 Siri AI。但由于新的“描述快捷方式”功能，快捷方式应用程序在 iOS 27 中提供了另一项出色的人工智能升级。"
+    },
+    {
+      "id": "959711f7cddc",
+      "title": "Apple Seeds Third Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "summary": "Apple today provided public beta testers with the third betas of iOS 26.6, iPadOS 26.6, macOS Tahoe 26.6, watchOS 26.6, and tvOS 26.6, with the software coming a day after Apple seeded the betas to developers.\n\n\n\n\nAfter signing up to beta test the software updates on Apple's beta site, public beta t",
+      "url": "https://www.macrumors.com/2026/06/30/ios-26-6-public-beta-3/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-06-30 10:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+      "title_translated": "Apple 发布了 iOS 26.6、macOS Tahoe 26.6 等的第三个公开测试版",
+      "summary_translated": "苹果今天向公共 Beta 测试者提供了 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6、watchOS 26.6 和 tvOS 26.6 的第三个 Beta 版，该软件是在 Apple 将 Beta 版发布给开发者的第二天发布的。\n\n\n\n\n在苹果测试网站上注册测试软件更新后，公开测试版"
     },
     {
       "id": "36f706968af8",
