@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-01 00:18:00",
-  "total_count": 1172,
-  "news_count": 1167,
-  "android_count": 280,
+  "last_updated": "2026-07-01 05:51:10",
+  "total_count": 1173,
+  "news_count": 1168,
+  "android_count": 281,
   "ios_count": 887,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "dcba8072d581",
+      "title": "Android 17’s new lock screen trick could frustrate anyone trying to break into your phone",
+      "summary": "PIN guess attempts have been slashed from 1,800 over five years to just 20, alongside several other new protections.",
+      "url": "https://www.androidauthority.com/android-17-pin-password-protection-3683166/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-01 04:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Android_biometric_prompt_dialog_with_PIN_fallback-scaled.jpg",
+      "title_translated": "Android 17 的新锁屏技巧可能会挫败任何试图闯入您手机的人",
+      "summary_translated": "PIN 码猜测尝试已从五年内的 1,800 次减少到仅 20 次，同时还有其他几项新的保护措施。"
+    },
     {
       "id": "31ecddd7f8a0",
       "title": "Tim Cook and EU tech chief hold ‘constructive’ virtual meeting over Siri AI standoff",
