@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-01 16:36:56",
-  "total_count": 1182,
-  "news_count": 1177,
-  "android_count": 285,
-  "ios_count": 892,
+  "last_updated": "2026-07-01 19:06:54",
+  "total_count": 1185,
+  "news_count": 1180,
+  "android_count": 287,
+  "ios_count": 893,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5ae41ba76a57",
+      "title": "Google on what ‘Android Halo’ does, talking less about AI, and how Gemini will use car cameras [Video]",
+      "summary": "In a discussion on the Google for Developers channel, head of Android Sameer Samat goes over Android 17 upgrades, the future of AI on Android, Gemini’s car upgrades on Android Automotive, and more.",
+      "url": "https://9to5google.com/2026/07/01/google-on-what-android-halo-does-talking-less-about-ai-and-how-gemini-will-use-car-cameras-video/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-07-01 17:15",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-IO-2026-Android-Logo-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌介绍“Android Halo”的作用，少谈人工智能，以及 Gemini 将如何使用汽车摄像头 [视频]",
+      "summary_translated": "在 Google for Developers 频道​​的讨论中，Android 负责人 Sameer Samat 讨论了 Android 17 升级、Android 上人工智能的未来、Android Automotive 上 Gemini 的汽车升级等。"
+    },
+    {
+      "id": "b6a2dab575f6",
+      "title": "Android’s Linux Terminal app picks up some new tricks in QPR1 Beta 5",
+      "summary": "QPR1 Beta 5 quietly upgrades the Linux Terminal with new console options.",
+      "url": "https://www.androidauthority.com/android-linux-terminal-console-3683412/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-01 16:38",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/android-linux-terminal-app-commands-1.jpg",
+      "title_translated": "Android 的 Linux 终端应用程序在 QPR1 Beta 5 中采用了一些新技巧",
+      "summary_translated": "QPR1 Beta 5 悄然升级了 Linux 终端，提供了新的控制台选项。"
+    },
     {
       "id": "a50c55e725d9",
       "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
@@ -16482,6 +16510,20 @@
       "platform": "android",
       "image": "https://i.ytimg.com/vi/3dG05V34nCg/hqdefault.jpg",
       "title_translated": "iOS 27 vs. Android 17：苹果反击。",
+      "summary_translated": ""
+    },
+    {
+      "id": "78386623a013",
+      "title": "iOS 27 Just Changed CarPlay Forever and I LOVE IT",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=96pCsMK28No",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/96pCsMK28No/hqdefault.jpg",
+      "title_translated": "iOS 27 永远改变了 CarPlay，我喜欢它",
       "summary_translated": ""
     },
     {
