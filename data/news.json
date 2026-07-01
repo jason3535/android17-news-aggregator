@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-06-30 22:23:17",
-  "total_count": 1171,
-  "news_count": 1166,
+  "last_updated": "2026-07-01 00:18:00",
+  "total_count": 1172,
+  "news_count": 1167,
   "android_count": 280,
-  "ios_count": 886,
+  "ios_count": 887,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "31ecddd7f8a0",
+      "title": "Tim Cook and EU tech chief hold ‘constructive’ virtual meeting over Siri AI standoff",
+      "summary": "Earlier today, Tim Cook reportedly held “constructive” talks with EU tech chief Henna Virkkunen as Apple and the bloc sought a way forward in their dispute over the delayed launch of Siri AI in Europe. Here are the details.",
+      "url": "https://9to5mac.com/2026/06/30/tim-cook-and-eu-tech-chief-hold-constructive-virtual-meeting-over-siri-ai-standoff/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-06-30 23:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "蒂姆·库克和欧盟技术主管就 Siri AI 对峙举行“建设性”虚拟会议",
+      "summary_translated": "据报道，今天早些时候，蒂姆·库克 (Tim Cook) 与欧盟科技主管 Henna Virkkunen 进行了“建设性”会谈，苹果和欧盟就 Siri AI 在欧洲推迟推出的争端寻求解决办法。以下是详细信息。"
+    },
     {
       "id": "9b28fe7ac65b",
       "title": "Apple Creator Studio just got better, here’s what’s new",
@@ -16337,7 +16351,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -16348,7 +16362,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -16359,7 +16373,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -16370,7 +16384,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -16381,7 +16395,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
