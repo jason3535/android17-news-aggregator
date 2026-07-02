@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-02 04:17:06",
-  "total_count": 1192,
-  "news_count": 1187,
-  "android_count": 292,
+  "last_updated": "2026-07-02 08:21:13",
+  "total_count": 1194,
+  "news_count": 1189,
+  "android_count": 294,
   "ios_count": 895,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fae0e999e5d7",
+      "title": "Pixel phones are reportedly choking on basic games after Android 17",
+      "summary": "Pixels can't seem to run casual games such as Clash Royale and Brawl Stars.",
+      "url": "https://www.androidauthority.com/google-pixel-gaming-issues-android-17-3683668/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-02 08:20",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Pixel-10-Pro-Fold-game-controller-scaled.jpg",
+      "title_translated": "据报道，Android 17 后 Pixel 手机在玩基本游戏时出现卡顿现象",
+      "summary_translated": "Pixel 似乎无法运行《皇室战争》和《荒野乱斗》等休闲游戏。"
+    },
+    {
+      "id": "dc723dbc080c",
+      "title": "Android 17 QPR1 Beta 6 makes desktop windowing feel more like a real PC",
+      "summary": "The update also adds some subtle UI changes and upgrades to Health Connect tracking.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-6-desktop-windowing-new-features-3683610/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-02 05:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-1-scaled.jpg",
+      "title_translated": "Android 17 QPR1 Beta 6 让桌面窗口感觉更像真正的 PC",
+      "summary_translated": "此更新还添加了一些微妙的 UI 更改以及 Health Connect 跟踪的升级。"
+    },
     {
       "id": "ff3a901539c7",
       "title": "9to5Mac Daily: July 1, 2026 – iOS 26.5.2 and Apple’s new update strategy",
