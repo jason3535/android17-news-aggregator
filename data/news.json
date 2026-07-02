@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-02 08:21:13",
-  "total_count": 1194,
-  "news_count": 1189,
-  "android_count": 294,
+  "last_updated": "2026-07-02 11:41:31",
+  "total_count": 1196,
+  "news_count": 1191,
+  "android_count": 296,
   "ios_count": 895,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5344bdc681cd",
+      "title": "Android’s Linux Terminal no longer restricts you to a single font and window in QPR1 Beta 6",
+      "summary": "Google is making the Linux Terminal app more customizable.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-6-linux-terminal-custom-font-multi-window-support-3683748/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-02 11:25",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/linux-terminal-neofetch-1.jpg",
+      "title_translated": "Android 的 Linux 终端不再限制您在 QPR1 Beta 6 中使用单一字体和窗口",
+      "summary_translated": "谷歌正在使 Linux 终端应用程序更加可定制。"
+    },
+    {
+      "id": "ceb1b4d91581",
+      "title": "Android 17 QPR1 Beta 6 brings a major power-user upgrade to the Terminal app",
+      "summary": "Keyboard shortcuts arrive in the Linux Terminal app, offering granular control and custom key mapping.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-6-linux-terminal-keyboard-shortcuts-3683731/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-02 10:36",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Linux-Terminal-on-the-Galaxy-Z-Flip-7.jpg",
+      "title_translated": "Android 17 QPR1 Beta 6 为终端应用程序带来了重大高级用户升级",
+      "summary_translated": "Linux 终端应用程序中提供了键盘快捷键，提供精细控制和自定义键映射。"
+    },
     {
       "id": "fae0e999e5d7",
       "title": "Pixel phones are reportedly choking on basic games after Android 17",
