@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-02 18:44:04",
-  "total_count": 1202,
-  "news_count": 1197,
+  "last_updated": "2026-07-02 20:36:04",
+  "total_count": 1205,
+  "news_count": 1200,
   "android_count": 300,
-  "ios_count": 897,
+  "ios_count": 900,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9b00a715b785",
+      "title": "CarPlay in iOS 26 added new setting that should have always existed",
+      "summary": "iOS 27 has exciting new features coming for CarPlay, but nearly a year late, I recently tested out an iOS 26 addition for CarPlay, and it’s one that should have existed all along.",
+      "url": "https://9to5mac.com/2026/07/02/carplay-in-ios-26-added-new-setting-that-should-have-always-existed/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-02 19:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-ios-26-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26 中的 CarPlay 添加了本应一直存在的新设置",
+      "summary_translated": "iOS 27 为 CarPlay 带来了令人兴奋的新功能，但近一年后，我最近测试了 iOS 26 的 CarPlay 新增功能，它本来就应该存在。"
+    },
+    {
+      "id": "e789b60346d2",
+      "title": "tvOS 27: Four new features coming soon to Apple TV 4K",
+      "summary": "tvOS 27 was barely mentioned when Apple unveiled iOS 27, likely because its best features are waiting on new Apple TV 4K hardware. But there are a handful of tvOS 27 additions we do know about already—here’s what’s coming.",
+      "url": "https://9to5mac.com/2026/07/02/tvos-27-four-new-features-coming-soon-to-apple-tv-4k/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-02 19:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/tvOS-27-hero.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "tvOS 27：Apple TV 4K 即将推出四项新功能",
+      "summary_translated": "当苹果发布 iOS 27 时，tvOS 27 几乎没有被提及，可能是因为它的最佳功能正在等待新的 Apple TV 4K 硬件。但我们已经知道了 tvOS 27 的一些新增功能，以下是即将推出的功能。"
+    },
     {
       "id": "396b4394f133",
       "title": "Here’s Two Neat Changes in Android 17 QPR1 Beta 6",
@@ -89,6 +117,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/android-linux-terminal-app-pixel-1.jpg",
       "title_translated": "Android 的 Linux 终端在最新的 Android 17 QPR1 Beta 6 中变得有些风格",
       "summary_translated": "Google 的 Material 3 Expressive 开始浏览终端的菜单。"
+    },
+    {
+      "id": "5f3a873a9629",
+      "title": "iOS 27 Public Beta Available This Month, Here's How to Get Your iPhone Ready Now",
+      "summary": "Apple previously announced that the first iOS 27 public beta would be released in July, meaning that it should be available at some point this month.\n\n\n\n\nBelow, we have outlined how to get ready for the iOS 27 public beta, which will likely follow the third or fourth iOS 27 developer beta.\n\n\nRelease",
+      "url": "https://www.macrumors.com/2026/07/02/ios-27-public-beta-release-date/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-02 11:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
+      "title_translated": "iOS 27 公共测试版将于本月发布，以下是如何让你的 iPhone 立即做好准备",
+      "summary_translated": "苹果此前宣布，第一个 iOS 27 公测版将于 7 月发布，这意味着它应该会在本月的某个时候推出。\n\n\n\n\n下面，我们概述了如何为 iOS 27 公共测试版做好准备，该测试版可能会在第三个或第四个 iOS 27 开发者测试版之后发布。\n\n\n发布"
     },
     {
       "id": "5344bdc681cd",
