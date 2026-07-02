@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-01 23:38:18",
-  "total_count": 1191,
-  "news_count": 1186,
+  "last_updated": "2026-07-02 04:17:06",
+  "total_count": 1192,
+  "news_count": 1187,
   "android_count": 292,
-  "ios_count": 894,
+  "ios_count": 895,
   "leaker_count": 5,
   "items": [
     {
@@ -159,6 +159,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/iOS-27-and-Android-17-logos.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Android 17 和 iOS 27 如何叠加：实际发生了什么变化？ [视频]",
       "summary_translated": "苹果已经发布并详细介绍了 iOS 27，而谷歌刚刚放弃了 Android 17。在苹果的下一个移动愿景中，谷歌的影子已经不言而喻，那么这些操作系统的表现如何呢？"
+    },
+    {
+      "id": "a88010fba3a9",
+      "title": "iOS 27: All the New Apple Maps Features",
+      "summary": "The Maps app didn't get as many iOS 27 updates as some of Apple's other apps, but there are still several useful features worth knowing about.\n\n\n\n\nFlyover Improvements\n\nApple is upgrading Flyover in ‌iOS 27‌, making it more detailed than before. It combines aerial imagery with Vision Intelligence mo",
+      "url": "https://www.macrumors.com/guide/ios-27-maps/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-01 14:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Maps-Feature.jpg",
+      "title_translated": "iOS 27：所有新的苹果地图功能",
+      "summary_translated": "地图应用程序没有像苹果的其他一些应用程序那样获得那么多的 iOS 27 更新，但仍然有一些有用的功能值得了解。\n\n\n\n\n天桥改进\n\n苹果正在 iOS 27 中升级 Flyover，使其比以前更加详细。它将航空图像与视觉智能相结合"
     },
     {
       "id": "5c2ca4b9d0db",
@@ -16617,7 +16631,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -16628,7 +16642,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -16639,7 +16653,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -16650,7 +16664,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -16661,7 +16675,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
