@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-02 16:59:16",
-  "total_count": 1201,
-  "news_count": 1196,
-  "android_count": 299,
+  "last_updated": "2026-07-02 18:44:04",
+  "total_count": 1202,
+  "news_count": 1197,
+  "android_count": 300,
   "ios_count": 897,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "396b4394f133",
+      "title": "Here’s Two Neat Changes in Android 17 QPR1 Beta 6",
+      "summary": "When Android 17 QPR1 Beta 6 dropped on our Pixel phones yesterday, you may have wondered if there was anything new. As the build hits Platform Stability and we anticipate a stable launch in the coming months, this isn’t typically a moment where shiny new objects appear for us to enjoy. Google did sl",
+      "url": "https://www.droid-life.com/2026/07/02/heres-two-neat-changes-in-android-17-qpr1-beta-6/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-07-02 17:19",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/03/Pixel-10a-Review-7-980x653.jpg",
+      "title_translated": "Android 17 QPR1 Beta 6 中的两项重大变化",
+      "summary_translated": "昨天，当 Android 17 QPR1 Beta 6 在我们的 Pixel 手机上发布时，您可能想知道是否有什么新功能。随着构建达到平台稳定性，并且我们预计在未来几个月内稳定发布，这通常不是一个让我们享受闪亮新对象出现的时刻。谷歌做了 sl"
+    },
     {
       "id": "bf95bc272239",
       "title": "iOS 27 public beta release date: When you can install the new iPhone update",
