@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-03 18:22:08",
-  "total_count": 1211,
-  "news_count": 1206,
+  "last_updated": "2026-07-03 20:21:12",
+  "total_count": 1212,
+  "news_count": 1207,
   "android_count": 300,
-  "ios_count": 906,
+  "ios_count": 907,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f8db168b2afb",
+      "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features",
+      "summary": "The lower-end iPhone 18 and iPhone 18e will be equipped with 9GB of RAM, up from 8GB in the iPhone 17 and iPhone 17e, according to supply chain analyst Ming-Chi Kuo.\n\n\n\n\nIn a social media post, Kuo said the 1GB increase in RAM will ensure that Apple Intelligence features continue to run smoothly on ",
+      "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-03 12:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-ceramic-shield.jpg",
+      "title_translated": "配备 9GB RAM 的 iPhone 18 仍不支持 iOS 27 的两项新功能",
+      "summary_translated": "供应链分析师郭明池表示，低端 iPhone 18 和 iPhone 18e 将配备 9GB RAM，高于 iPhone 17 和 iPhone 17e 的 8GB。\n\n\n\n\n郭明錤在社交媒体帖子中表示，RAM 增加 1GB 将确保 Apple Intelligence 功能继续在"
+    },
     {
       "id": "c3bcbeeaab8d",
       "title": "iOS 27 Beta Hints at New Apple Product Such as 'AirPods Ultra'",
