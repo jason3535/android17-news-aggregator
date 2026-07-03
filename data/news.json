@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-02 22:16:09",
-  "total_count": 1205,
-  "news_count": 1200,
+  "last_updated": "2026-07-03 00:16:49",
+  "total_count": 1206,
+  "news_count": 1201,
   "android_count": 300,
-  "ios_count": 900,
+  "ios_count": 901,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0d407448ffc3",
+      "title": "iOS 27 helps apps detect when a user may be getting scammed in real time",
+      "summary": "A new iOS 27 framework will help apps fight back against social engineering scams as they unfold via voice calls, text messages, emails, and more. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/02/ios-27-helps-apps-detect-when-a-user-may-be-getting-scammed-in-real-time/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-02 22:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios27-scam-alert.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 帮助应用程序实时检测用户何时可能被骗",
+      "summary_translated": "新的 iOS 27 框架将帮助应用程序反击通过语音通话、短信、电子邮件等方式进行的社会工程诈骗。以下是详细信息。"
+    },
     {
       "id": "9b00a715b785",
       "title": "CarPlay in iOS 26 added new setting that should have always existed",
@@ -16813,7 +16827,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -16824,7 +16838,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -16835,7 +16849,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -16846,7 +16860,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -16857,7 +16871,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
