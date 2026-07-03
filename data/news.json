@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-03 11:39:55",
-  "total_count": 1207,
-  "news_count": 1202,
+  "last_updated": "2026-07-03 14:29:01",
+  "total_count": 1209,
+  "news_count": 1204,
   "android_count": 300,
-  "ios_count": 902,
+  "ios_count": 904,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ebcf007b62c5",
+      "title": "12 New Things Your iPhone Can Do in iOS 27",
+      "summary": "Apple will release iOS 27 in September, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features on the way, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. \n\n\n\n\nThis year'",
+      "url": "https://www.macrumors.com/2026/07/03/new-things-iphone-can-do-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-03 05:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
+      "title_translated": "iPhone 在 iOS 27 中可以做的 12 件新事情",
+      "summary_translated": "苹果将​​于 9 月发布 iOS 27，尽管该公司今年的重点是改进其旗舰操作系统并消除错误，但仍有许多其他功能正在开发中，其中最重要的是苹果新的上下文感知 Siri，它为生成人工智能时代进行了重新设计。 \n\n\n\n\n今年'"
+    },
     {
       "id": "0d407448ffc3",
       "title": "iOS 27 helps apps detect when a user may be getting scammed in real time",
@@ -16832,6 +16846,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/96pCsMK28No/hqdefault.jpg",
       "title_translated": "iOS 27 永远改变了 CarPlay，我喜欢它",
+      "summary_translated": ""
+    },
+    {
+      "id": "eef836757369",
+      "title": "Apple FINALLY Fixed Mail in iOS 27! Here Is Everything New!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=5pJRlDrDoGg",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/5pJRlDrDoGg/hqdefault.jpg",
+      "title_translated": "苹果终于在 iOS 27 中修复了邮件问题！一切都是新的！",
       "summary_translated": ""
     },
     {
