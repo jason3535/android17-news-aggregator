@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-03 14:29:01",
-  "total_count": 1209,
-  "news_count": 1204,
+  "last_updated": "2026-07-03 16:43:14",
+  "total_count": 1211,
+  "news_count": 1206,
   "android_count": 300,
-  "ios_count": 904,
+  "ios_count": 906,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c3bcbeeaab8d",
+      "title": "iOS 27 Beta Hints at New Apple Product Such as 'AirPods Ultra'",
+      "summary": "The second iOS 27 developer beta seemingly hints at a new Apple product, according to code uncovered by app designer and developer Sam Henri Gold.\n\n\n\n\nThe code mentions a product codenamed B790 that can relay \"two images from cameras on either side of user's head.\" Gold speculated that the code coul",
+      "url": "https://www.macrumors.com/2026/07/03/ios-27-beta-hints-at-new-apple-product/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-03 08:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Beta-Hints-at-New-Apple-Product-Such-as-AirPods-Ultra-Feature.jpg",
+      "title_translated": "iOS 27 Beta 暗示苹果新产品如“AirPods Ultra”",
+      "summary_translated": "根据应用程序设计师兼开发人员 Sam Henri Gold 发现的代码，第二个 iOS 27 开发人员测试版似乎暗示了苹果的新产品。\n\n\n\n\n该代码提到了一款代号为 B790 的产品，该产品可以转发“来自用户头部两侧摄像头的两个图像”。戈尔德推测该代码可以"
+    },
+    {
+      "id": "776cf407de00",
+      "title": "Apple Already Testing iOS 27.4",
+      "summary": "Apple's software engineers recently began testing iOS 27.4, according to the MacRumors visitor logs.\n\n\nFun fact: Apple tests the \"fall\" (iOS 27.0) and \"spring\" (iOS 27.4) software releases concurrently.This article, \"Apple Already Testing iOS 27.4\" first appeared on MacRumors.comDiscuss this article",
+      "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-03 08:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "苹果已经测试 iOS 27.4",
+      "summary_translated": "根据 MacRumors 访客日志，苹果的软件工程师最近开始测试 iOS 27.4。\n\n\n有趣的事实：苹果同时测试了“秋季”（iOS 27.0）和“春季”（iOS 27.4）软件版本。这篇文章“苹果已经测试 iOS 27.4”首先出现在 MacRumors.com 上讨论这篇文章"
+    },
     {
       "id": "ebcf007b62c5",
       "title": "12 New Things Your iPhone Can Do in iOS 27",
