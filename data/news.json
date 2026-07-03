@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-03 00:16:49",
-  "total_count": 1206,
-  "news_count": 1201,
+  "last_updated": "2026-07-03 04:53:12",
+  "total_count": 1207,
+  "news_count": 1202,
   "android_count": 300,
-  "ios_count": 901,
+  "ios_count": 902,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/tvOS-27-hero.jpg?quality=82&strip=all&w=1600",
       "title_translated": "tvOS 27：Apple TV 4K 即将推出四项新功能",
       "summary_translated": "当苹果发布 iOS 27 时，tvOS 27 几乎没有被提及，可能是因为它的最佳功能正在等待新的 Apple TV 4K 硬件。但我们已经知道了 tvOS 27 的一些新增功能，以下是即将推出的功能。"
+    },
+    {
+      "id": "7d6ae6101dd1",
+      "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
+      "summary": "Nearly a year ago, Apple filed a lawsuit against YouTuber Jon Prosser and Michael Ramacciotti over alleged theft of the company's trade secrets. Apple alleged that the duo coordinated to break into former Apple software engineer Ethan Lipnik's development iPhone, in order to access and profit off de",
+      "url": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-02 18:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/10/Jon-Prosser-Rainbow.jpg",
+      "title_translated": "YouTuber Jon Prosser 回应苹果针对 iOS 26 泄密的诉讼",
+      "summary_translated": "大约一年前，苹果公司对 YouTuber Jon Prosser 和 Michael Ramacciotti 提起诉讼，指控他们窃取公司的商业机密。苹果公司声称，两人协同侵入前苹果软件工程师伊森·利普尼克(Ethan Lipnik)开发的iPhone，以获取并从中获利。"
     },
     {
       "id": "396b4394f133",
