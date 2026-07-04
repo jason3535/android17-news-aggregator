@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-04 12:13:30",
-  "total_count": 1212,
-  "news_count": 1207,
+  "last_updated": "2026-07-04 14:43:38",
+  "total_count": 1214,
+  "news_count": 1209,
   "android_count": 300,
-  "ios_count": 907,
+  "ios_count": 909,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9d12ae1dad73",
+      "title": "iOS 27 beta 2 hints at AirPods Pro with cameras: Here’s what we know so far",
+      "summary": "Spotted by developer Sam Henri Gold on Twitter, iOS 27 beta 2 includes references to an upcoming Apple product codenamed B790, likely to be the rumored AirPods with cameras.",
+      "url": "https://9to5mac.com/2026/07/04/airpods-pro-with-cameras-leaked-in-ios-27-beta-2-code/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-04 13:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-ios-27-FI-dark.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 2 暗示 AirPods Pro 配备摄像头：这是目前我们所知道的",
+      "summary_translated": "开发者 Sam Henri Gold 在 Twitter 上发现，iOS 27 beta 2 中提到了即将推出的代号为 B790 的苹果产品，很可能就是传闻中的带有摄像头的 AirPods。"
+    },
     {
       "id": "f8db168b2afb",
       "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features",
@@ -187,6 +201,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/android-15-pixel-private-space-double-instances-amazon-uber-chatgpt.jpg",
       "title_translated": "谷歌仍在幕后开发 Android 17 缺失的功能",
       "summary_translated": "最近的 Android 17 版本中缺少了 App Lock，但它并没有消失。事实上，谷歌正在让它变得更好。"
+    },
+    {
+      "id": "18beefda5683",
+      "title": "Top Stories: 'MacBook Ultra' and iPhone 18 Rumors, iOS 26.5.2 Security Fixes, and More",
+      "summary": "After last week's craziness around Apple's major price hikes, things returned to a bit more of a normal flow this week, with the rumor mill offering up tidbits about the long-rumored touchscreen MacBook, the iPhone 18 lineup, and more.\n\n\n\n\nThis week also saw minor updates for iOS, iPadOS, and macOS ",
+      "url": "https://www.macrumors.com/2026/07/04/top-stories-macbook-ultra-iphone-18-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-02 12:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-04.jpg",
+      "title_translated": "头条新闻：“MacBook Ultra”和 iPhone 18 传闻、iOS 26.5.2 安全修复等",
+      "summary_translated": "在上周围绕苹果大幅涨价的疯狂之后，本周一切又恢复了正常，谣言工厂不断传出有关传闻已久的触摸屏 MacBook、iPhone 18 系列等的花絮。\n\n\n\n\n本周 iOS、iPadOS 和 macOS 也出现了小幅更新"
     },
     {
       "id": "8d64193da59f",
