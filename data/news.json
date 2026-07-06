@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-06 20:10:42",
-  "total_count": 1225,
-  "news_count": 1220,
+  "last_updated": "2026-07-06 22:22:42",
+  "total_count": 1229,
+  "news_count": 1224,
   "android_count": 301,
-  "ios_count": 919,
+  "ios_count": 923,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d614ec6cd139",
+      "title": "iOS 27 beta 3 lets users fine-tune how Siri sounds",
+      "summary": "With iOS 27 beta 3, users can now fine-tune how the new Siri AI sounds using separate controls for speaking pace and expressivity. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3-lets-users-fine-tune-how-siri-sounds/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-06 20:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-custom-voice.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 3 让用户可以微调 Siri 的声音",
+      "summary_translated": "在 iOS 27 beta 3 中，用户现在可以使用单独的说话速度和表现力控制来微调新的 Siri AI 的声音。以下是详细信息。"
+    },
     {
       "id": "079d5957c4b3",
       "title": "Apple adds new popup for AI features that send data to Google Cloud",
@@ -103,6 +117,48 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/9to5Mac-Overtime-071.jpg?quality=82&strip=all&w=1600",
       "title_translated": "9to5Mac 加时赛 071：苹果公司的一段奇怪的时光",
       "summary_translated": "Fernando 和 Jeff 讨论了 iOS 27 上的 CarPlay、在公路旅行中使用 Rivian R1S 的体验、为什么您可能会考虑立即购买 iPhone 17 Pro 而不是等待 iPhone 18 Pro、Apple 钱包和美国运通会员奖励积分、Apple 硬件价格的大幅上涨以及 g 的想法"
+    },
+    {
+      "id": "9357a4f79a12",
+      "title": "Everything New in iOS 27 Beta 3",
+      "summary": "Apple is continuing to refine iOS 27 ahead of its planned September launch, and the third beta includes several new features. Siri is more customizable, there's a fun new wallpaper action, and some useful improvements to Photos and Shortcuts.\n\n\n\n\nSiri Voice\n\nBeta 3 adds support for ‌Siri‌ voice cust",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-06 15:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "iOS 27 Beta 3 中的所有新功能",
+      "summary_translated": "苹果正在继续完善 iOS 27，计划于 9 月发布，第三个测试版包含多项新功能。 Siri 更加可定制，有一个有趣的新壁纸操作，以及对照片和快捷方式的一些有用的改进。\n\n\n\n\nSiri 语音\n\nBeta 3 增加了对 Siri 语音自定义的支持"
+    },
+    {
+      "id": "f02ca22481ef",
+      "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27",
+      "summary": "Using Apple Intelligence camera features in the Home app will require an iCloud+ plan starting at 2TB, according to Apple. Apple shared the detail in its notes for the third macOS Golden Gate beta that was released today.\n\n\n\n\nIn iOS 27, iPadOS 27, and macOS 27 Golden Gate, the Home app is able to ge",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-06 14:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Glass-Feature.jpg",
+      "title_translated": "苹果智能家居功能在 iOS 27 中需要 2TB iCloud+ 套餐",
+      "summary_translated": "据苹果公司称，在 Home 应用程序中使用 Apple Intelligence 摄像头功能需要 iCloud+ 套餐，容量从 2TB 起。苹果在今天发布的第三个 macOS Golden Gate Beta 的说明中分享了详细信息。\n\n\n\n\n在 iOS 27、iPadOS 27 和 macOS 27 Golden Gate 中，Home 应用程序能够"
+    },
+    {
+      "id": "ec8b917fa3a1",
+      "title": "Siri AI Comes to Apple Watch in watchOS 27 Beta 3",
+      "summary": "With watchOS 27 beta 3, Apple added support for Siri AI and the ‌Siri‌ app, so Apple Watch users can now use the features right from their wrist.\n\n\n\n\nApple said ‌Siri‌ AI would be coming to the watch back when ‌watchOS 27‌ was first introduced, but the feature wasn't live until now.\n\n\nThe Dynamic Ap",
+      "url": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-06 13:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "title_translated": "Siri AI 在 watchOS 27 Beta 3 中登陆 Apple Watch",
+      "summary_translated": "在 watchOS 27 beta 3 中，苹果增加了对 Siri AI 和 Siri 应用程序的支持，因此 Apple Watch 用户现在可以直接从手腕上使用这些功能。\n\n\n\n\n苹果表示，当 ‌watchOS 27 首次推出时，Siri 人工智能将会出现在手表上，但该功能直到现在才上线。\n\n\n动态应用程序"
     },
     {
       "id": "e6ba0e5fb9f0",
