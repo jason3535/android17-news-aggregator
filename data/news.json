@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-06 13:59:05",
-  "total_count": 1215,
-  "news_count": 1210,
+  "last_updated": "2026-07-06 17:12:22",
+  "total_count": 1217,
+  "news_count": 1212,
   "android_count": 301,
-  "ios_count": 909,
+  "ios_count": 911,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9736bad4b3a6",
+      "title": "9to5Mac Daily: July 6, 2026 – New iOS 27 framework, more",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/07/06/daily-july-6-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-06 16:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 7 月 6 日 – 新的 iOS 27 框架等",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
+    {
+      "id": "cbd4c09cf13f",
+      "title": "9to5Mac Overtime 071: A weird time for Apple",
+      "summary": "Fernando and Jeff discuss CarPlay on iOS 27, experience with the Rivian R1S on a road trip, why you might consider buying an iPhone 17 Pro right now instead of waiting for the iPhone 18 Pro, Apple Wallet and Amex Membership Rewards points, Apple’s dramatic hardware price increases, and the idea of g",
+      "url": "https://9to5mac.com/2026/07/06/9to5mac-overtime-071-a-weird-time-for-apple/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-06 16:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/9to5Mac-Overtime-071.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac 加时赛 071：苹果公司的一段奇怪的时光",
+      "summary_translated": "Fernando 和 Jeff 讨论了 iOS 27 上的 CarPlay、在公路旅行中使用 Rivian R1S 的体验、为什么您可能会考虑立即购买 iPhone 17 Pro 而不是等待 iPhone 18 Pro、Apple 钱包和美国运通会员奖励积分、Apple 硬件价格的大幅上涨以及 g 的想法"
+    },
     {
       "id": "76d884c1d69c",
       "title": "Samsung’s next One UI 9 beta for Galaxy S26 is confirmed to arrive very soon",
