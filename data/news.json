@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-06 04:24:16",
-  "total_count": 1214,
-  "news_count": 1209,
-  "android_count": 300,
+  "last_updated": "2026-07-06 09:08:21",
+  "total_count": 1215,
+  "news_count": 1210,
+  "android_count": 301,
   "ios_count": 909,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "76d884c1d69c",
+      "title": "Samsung’s next One UI 9 beta for Galaxy S26 is confirmed to arrive very soon",
+      "summary": "The fourth Android 17-based beta could deliver crucial stability improvements and UI polish for testers next week.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-four-release-date-3684316/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-06 07:31",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
+      "title_translated": "三星 Galaxy S26 的下一个 One UI 9 Beta 版已确认即将推出",
+      "summary_translated": "第四个基于 Android 17 的测试版可能会在下周为测试人员带来关键的稳定性改进和 UI 优化。"
+    },
     {
       "id": "9d12ae1dad73",
       "title": "iOS 27 beta 2 hints at AirPods Pro with cameras: Here’s what we know so far",
