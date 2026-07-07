@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-06 22:22:42",
-  "total_count": 1229,
-  "news_count": 1224,
+  "last_updated": "2026-07-07 00:17:15",
+  "total_count": 1231,
+  "news_count": 1226,
   "android_count": 301,
-  "ios_count": 923,
+  "ios_count": 925,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1a53716b2e0a",
+      "title": "iOS 27 beta 3 makes it easier to adjust AirPods Adaptive mode intensity",
+      "summary": "A new Listening Mode setting lets users more easily adjust how much ambient noise their AirPods can allow through in Adaptive mode. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3-makes-it-easier-to-adjust-airpods-adaptive-mode-intensity/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-06 23:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/airpods-adaptive.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 3 让调整 AirPods 自适应模式强度变得更容易",
+      "summary_translated": "新的聆听模式设置让用户可以更轻松地调整 AirPods 在自适应模式下允许通过的环境噪音量。以下是详细信息。"
+    },
+    {
+      "id": "5636fa1d2458",
+      "title": "Apple overhauls RAW photo processing with iOS 27, showcases impressive results",
+      "summary": "With iOS 27 and its companion systems, Apple is introducing a new version of its system-level RAW image processing engine. It uses machine learning to greatly improve detail and reduce noise, including when reprocessing older RAW photos. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/06/apple-overhauls-raw-photo-processing-with-ios-27-showcases-impressive-results/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-06 22:52",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/raw9.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果在 iOS 27 中彻底改革了 RAW 照片处理，展示了令人印象深刻的结果",
+      "summary_translated": "通过 iOS 27 及其配套系统，Apple 推出了新版本的系统级 RAW 图像处理引擎。它使用机器学习来极大地改善细节并减少噪音，包括在重新处理旧的 RAW 照片时。以下是详细信息。"
+    },
     {
       "id": "d614ec6cd139",
       "title": "iOS 27 beta 3 lets users fine-tune how Siri sounds",
@@ -17149,7 +17177,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -17160,7 +17188,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -17171,7 +17199,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -17182,7 +17210,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -17193,7 +17221,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
