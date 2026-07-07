@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-07 12:07:22",
-  "total_count": 1231,
-  "news_count": 1226,
+  "last_updated": "2026-07-07 15:48:43",
+  "total_count": 1233,
+  "news_count": 1228,
   "android_count": 301,
-  "ios_count": 925,
+  "ios_count": 927,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0448c3ea0c61",
+      "title": "Apple stops signing iOS 26.5.1 after critical security fix release",
+      "summary": "Apple is no longer signing iOS 26.5 and iOS 26.5.1, preventing downgrades to these software versions from newer releases. The move comes after a critical security fix was issued for iPhone last week.",
+      "url": "https://9to5mac.com/2026/07/07/apple-stops-signing-ios-26-5-1-after-critical-security-fix-release/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-07 13:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-1-clear.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果在发布关键安全修复程序后停止签署 iOS 26.5.1",
+      "summary_translated": "Apple 不再签署 iOS 26.5 和 iOS 26.5.1，以防止从较新版本降级到这些软件版本。此举是在上周针对 iPhone 发布重要安全修复程序之后做出的。"
+    },
+    {
+      "id": "acd04dd7f02c",
+      "title": "Siri AI can pull info from third-party apps in the latest developer beta",
+      "summary": "We’ve been looking out for new features in iOS 27 beta 3, and we’ve now found an additional one: the latest developer beta allows Siri AI to access information from third-party apps.\nThe only examples seen so far are pulling in the remaining battery from electric car apps, but it’s likely that other",
+      "url": "https://9to5mac.com/2026/07/07/siri-ai-can-pull-info-from-third-party-apps-in-the-latest-developer-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-07 12:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Siri-AI-can-pull-info-from-third-party-apps-in-the-latest-developer-beta.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Siri AI可以在最新的开发者测试版中从第三方应用程序中提取信息",
+      "summary_translated": "我们一直在寻找 iOS 27 beta 3 中的新功能，现在又发现了一项新功能：最新的开发者测试版允许 Siri AI 访问第三方应用程序的信息。\n迄今为止看到的唯一例子是从电动汽车应用程序中提取剩余电池，但其他可能"
+    },
     {
       "id": "1a53716b2e0a",
       "title": "iOS 27 beta 3 makes it easier to adjust AirPods Adaptive mode intensity",
