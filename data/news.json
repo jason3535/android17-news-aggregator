@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-07 18:13:01",
-  "total_count": 1233,
-  "news_count": 1228,
-  "android_count": 301,
-  "ios_count": 927,
+  "last_updated": "2026-07-07 20:56:01",
+  "total_count": 1239,
+  "news_count": 1234,
+  "android_count": 303,
+  "ios_count": 931,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "72a7be85cd88",
+      "title": "2026 July Pixel Update Available for Your Pixel Phone",
+      "summary": "For the first time since giving Pixel phones stable Android 17, Google has issued a monthly patch. The July Pixel update is here and hopefully it takes care of a first batch of bugs handed out from last month’s large update. According to a short changelog from Google, we are looking at 5 fixes that.",
+      "url": "https://www.droid-life.com/2026/07/07/2026-july-pixel-update-available-for-your-pixel-phone/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-07-07 18:44",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2025/11/JULY-2026-PIXEL-UPDATE-DOWNLOAD-980x637.jpg",
+      "title_translated": "您的 Pixel 手机可享受 2026 年 7 月 Pixel 更新",
+      "summary_translated": "自从为 Pixel 手机提供稳定的 Android 17 以来，谷歌首次发布了每月补丁。 7 月 Pixel 更新已经发布，希望它能解决上个月大型更新中出现的第一批错误。根据 Google 的简短变更日志，我们正在研究 5 个修复方案。"
+    },
+    {
+      "id": "ed4be6fe1318",
+      "title": "Android 17 July update rolling out with four Pixel fixes",
+      "summary": "Google is rolling out the first update to Android 17 with the July 2026 security patch for the Pixel 6, 6 Pro, 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a.",
+      "url": "https://9to5google.com/2026/07/07/android-17-july-pixel-update/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-07-07 18:33",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Android 7 月 17 日更新推出四项 Pixel 修复",
+      "summary_translated": "Google 正在为 Pixel 6、6 Pro、6a、7、7 Pro、7a、平板电脑、Fold、8、8 Pro、8a、9、9 Pro、9 Pro XL、9 Pro Fold、9a、Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold 和 Pixel 推出 Android 17 的首次更新，并提供 2026 年 7 月的安全补丁10a."
+    },
     {
       "id": "0448c3ea0c61",
       "title": "Apple stops signing iOS 26.5.1 after critical security fix release",
@@ -21,6 +49,20 @@
       "summary_translated": "Apple 不再签署 iOS 26.5 和 iOS 26.5.1，以防止从较新版本降级到这些软件版本。此举是在上周针对 iPhone 发布重要安全修复程序之后做出的。"
     },
     {
+      "id": "4d85e9cbcbb5",
+      "title": "Apple Seeds Fourth Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "summary": "Apple today provided public beta testers with the fourth betas of iOS 26.6, iPadOS 26.6, macOS Tahoe 26.6, watchOS 26.6, and tvOS 26.6, with the software coming a day after Apple seeded the betas to developers.\n\n\n\n\nAfter signing up to beta test the software updates on Apple's beta site, public beta ",
+      "url": "https://www.macrumors.com/2026/07/07/apple-seeds-ios-26-6-public-beta-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-07 13:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+      "title_translated": "Apple 发布了 iOS 26.6、macOS Tahoe 26.6 等第四个公开测试版",
+      "summary_translated": "苹果今天向公共 Beta 测试人员提供了 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6、watchOS 26.6 和 tvOS 26.6 的第四个 Beta 版，该软件是在 Apple 将 Beta 版发布给开发者的第二天发布的。\n\n\n\n\n在苹果测试网站上注册测试软件更新后，公开测试版"
+    },
+    {
       "id": "acd04dd7f02c",
       "title": "Siri AI can pull info from third-party apps in the latest developer beta",
       "summary": "We’ve been looking out for new features in iOS 27 beta 3, and we’ve now found an additional one: the latest developer beta allows Siri AI to access information from third-party apps.\nThe only examples seen so far are pulling in the remaining battery from electric car apps, but it’s likely that other",
@@ -33,6 +75,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Siri-AI-can-pull-info-from-third-party-apps-in-the-latest-developer-beta.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Siri AI可以在最新的开发者测试版中从第三方应用程序中提取信息",
       "summary_translated": "我们一直在寻找 iOS 27 beta 3 中的新功能，现在又发现了一项新功能：最新的开发者测试版允许 Siri AI 访问第三方应用程序的信息。\n迄今为止看到的唯一例子是从电动汽车应用程序中提取剩余电池，但其他可能"
+    },
+    {
+      "id": "7d041ca232f7",
+      "title": "iOS 27 Public Beta is Coming Soon",
+      "summary": "Apple previously announced that the first iOS 27 public beta would be released in July, meaning that it should be available at some point this month.\n\n\n\n\nBelow, we have outlined how to get ready for the iOS 27 public beta, which will likely follow the third or fourth iOS 27 developer beta.\n\n\nRelease",
+      "url": "https://www.macrumors.com/2026/07/07/ios-27-public-beta-is-coming-soon/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-07 12:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
+      "title_translated": "iOS 27 公测版即将推出",
+      "summary_translated": "苹果此前宣布，第一个 iOS 27 公测版将于 7 月发布，这意味着它应该会在本月的某个时候推出。\n\n\n\n\n下面，我们概述了如何为 iOS 27 公共测试版做好准备，该测试版可能会在第三个或第四个 iOS 27 开发者测试版之后发布。\n\n\n发布"
+    },
+    {
+      "id": "e49d307174cf",
+      "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "summary": "Apple today released a third version of the beta firmware it is testing for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is limited to developers at the current time, and it has a build number of 9A5314b.\n\n\n\n\nIn iOS 27, iPadOS 27, and macOS Golden Gate, Apple is addin",
+      "url": "https://www.macrumors.com/2026/07/07/apple-airpods-beta-firmware-9a5314b/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-07 11:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
+      "title_translated": "苹果发布具有 iOS 27 功能的新 AirPods Beta 固件",
+      "summary_translated": "Apple 今天发布了正在测试的 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2 测试版固件的第三个版本。该固件目前仅限开发人员使用，内部版本号为 9A5314b。\n\n\n\n\n在 iOS 27、iPadOS 27 和 macOS Golden Gate 中，苹果添加了"
     },
     {
       "id": "1a53716b2e0a",
@@ -17196,6 +17266,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/N-_XAlMCZ6E/hqdefault.jpg",
       "title_translated": "苹果刚刚发布 iOS 27 Beta 3！一切都是新的！",
+      "summary_translated": ""
+    },
+    {
+      "id": "43c7d3ac82f6",
+      "title": "Apple Maps Is Finally Better Than Google Maps with iOS 27",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=wP0YXCO61aM",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/wP0YXCO61aM/hqdefault.jpg",
+      "title_translated": "iOS 27 下苹果地图终于比谷歌地图更好了",
       "summary_translated": ""
     },
     {
