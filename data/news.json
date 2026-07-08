@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-07 22:20:04",
-  "total_count": 1239,
-  "news_count": 1234,
+  "last_updated": "2026-07-08 00:09:18",
+  "total_count": 1240,
+  "news_count": 1235,
   "android_count": 303,
-  "ios_count": 931,
+  "ios_count": 932,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Android 7 月 17 日更新推出四项 Pixel 修复",
       "summary_translated": "Google 正在为 Pixel 6、6 Pro、6a、7、7 Pro、7a、平板电脑、Fold、8、8 Pro、8a、9、9 Pro、9 Pro XL、9 Pro Fold、9a、Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold 和 Pixel 推出 Android 17 的首次更新，并提供 2026 年 7 月的安全补丁10a."
+    },
+    {
+      "id": "deceb2f1d32d",
+      "title": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
+      "summary": "The Messages app is arguably the most important app on the iPhone, and in iOS 27, Apple is adding some useful improvements. There are some quality-of-life fixes for longtime issues, and new AI features.\n\n\n\n\nContextual Suggestions\n\nMessages uses Apple Intelligence to surface one-tap suggestions based",
+      "url": "https://www.macrumors.com/guide/ios-27-messages/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-07 16:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-13-Ways-the-Messages-App-is-Smarter-and-Less-Annoying-Feature.jpg",
+      "title_translated": "iOS 27：消息应用程序变得更智能、更省心的 13 种方式",
+      "summary_translated": "消息应用程序可以说是 iPhone 上最重要的应用程序，在 iOS 27 中，苹果添加了一些有用的改进。有一些针对长期问题的生活质量修复，以及新的人工智能功能。\n\n\n\n\n上下文建议\n\nMessages 使用 Apple Intelligence 来显示一键式建议"
     },
     {
       "id": "0448c3ea0c61",
@@ -17289,7 +17303,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -17300,7 +17314,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -17311,7 +17325,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -17322,7 +17336,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -17333,7 +17347,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
