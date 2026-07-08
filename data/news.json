@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-08 21:20:22",
-  "total_count": 1248,
-  "news_count": 1243,
+  "last_updated": "2026-07-08 23:20:35",
+  "total_count": 1249,
+  "news_count": 1244,
   "android_count": 308,
-  "ios_count": 935,
+  "ios_count": 936,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "98fe4b0a102f",
+      "title": "iOS 27 adds nine new languages and accents to Apple Translate",
+      "summary": "In addition to bringing new keyboard and typing improvements across multiple languages, iOS 27 will also add several languages and accents to Apple Translate. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/08/ios-27-adds-nine-new-languages-and-accents-to-apple-translate/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-08 21:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-translate-ios27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 为 Apple Translate 添加了九种新语言和口音",
+      "summary_translated": "除了带来新的键盘和跨多种语言的打字改进之外，iOS 27 还将为 Apple Translate 添加多种语言和口音。以下是详细信息。"
+    },
     {
       "id": "448cd08e6548",
       "title": "iOS 27 hints at Apple Wallet car key support for two new automakers",
