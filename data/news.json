@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-08 07:39:33",
-  "total_count": 1242,
-  "news_count": 1237,
-  "android_count": 305,
-  "ios_count": 932,
+  "last_updated": "2026-07-08 10:29:14",
+  "total_count": 1244,
+  "news_count": 1239,
+  "android_count": 306,
+  "ios_count": 933,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1c0cd583be85",
+      "title": "Stuck on Android 17 beta? This new Pixel update is for you",
+      "summary": "Early adopters running Android 17 beta builds finally have a clean, data-preserving path back to the stable release channel.",
+      "url": "https://www.androidauthority.com/google-pixel-android-17-beta-exit-fix-3685146/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-08 07:48",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-1-scaled.jpg",
+      "title_translated": "还停留在 Android 17 测试版上吗？这个新的 Pixel 更新适合您",
+      "summary_translated": "运行 Android 17 Beta 版本的早期采用者终于有了一条干净的、保留数据的路径返回稳定发布通道。"
+    },
     {
       "id": "beac4674647a",
       "title": "Android 17’s new video standard could make blinding HDR videos a thing of the past",
@@ -33,6 +47,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/LineageOS-Logo-2-of-3.jpg",
       "title_translated": "LineageOS 宣布浏览器刷新、Android 17 计划以及新支持的设备",
       "summary_translated": "此夏季更新包含新功能、可用性改进和扩展的设备支持。"
+    },
+    {
+      "id": "45cc31b39d77",
+      "title": "9to5Mac Daily: July 8, 2026 – iOS 27 and watchOS 27 beta 3",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts…",
+      "url": "https://9to5mac.com/2026/07/08/daily-july-8-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=350",
+      "title_translated": "9to5Mac Daily：2026 年 7 月 8 日 – iOS 27 和 watchOS 27 beta 3",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客上观看……"
     },
     {
       "id": "72a7be85cd88",
