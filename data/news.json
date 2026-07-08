@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-08 15:30:27",
-  "total_count": 1246,
-  "news_count": 1241,
-  "android_count": 307,
-  "ios_count": 934,
+  "last_updated": "2026-07-08 17:48:59",
+  "total_count": 1248,
+  "news_count": 1243,
+  "android_count": 308,
+  "ios_count": 935,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "448cd08e6548",
+      "title": "iOS 27 hints at Apple Wallet car key support for two new automakers",
+      "summary": "According to code in the latest iOS 27 beta, Apple is preparing to launch car key support for two new automakers: Xiaomi and Lucid Motors. Here’s what we know right now.",
+      "url": "https://9to5mac.com/2026/07/08/ios-27-hints-at-apple-wallet-car-key-support-for-two-new-automakers/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-08 15:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lucid-air-desktop-02_2x-copy.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 暗示苹果钱包汽车钥匙支持两家新汽车制造商",
+      "summary_translated": "根据最新iOS 27测试版中的代码，苹果正准备为小米和Lucid Motors这两家新汽车制造商推出汽车钥匙支持。这是我们现在所知道的。"
+    },
     {
       "id": "ca638c38e284",
       "title": "Here’s 5 Bug Fixes for the Android 17 July Pixel Update",
@@ -89,6 +103,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=350",
       "title_translated": "9to5Mac Daily：2026 年 7 月 8 日 – iOS 27 和 watchOS 27 beta 3",
       "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客上观看……"
+    },
+    {
+      "id": "85dad94b101e",
+      "title": "Samsung Galaxy phones will unlock more powerful homescreen customization with Android 17",
+      "summary": "Samsung’s upcoming One UI 9 update, based on Android 17, is set to also launch some powerful new homescreen customization…",
+      "url": "https://9to5google.com/2026/07/08/samsung-galaxy-phones-homescreen-customization-android-17/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-07-08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-privery-display-impressions-6.jpg?quality=82&strip=all&w=350",
+      "title_translated": "三星 Galaxy 手机将通过 Android 17 解锁更强大的主屏幕自定义功能",
+      "summary_translated": "三星即将推出的 One UI 9 更新基于 Android 17，还将推出一些强大的新主屏幕定制功能……"
     },
     {
       "id": "72a7be85cd88",
