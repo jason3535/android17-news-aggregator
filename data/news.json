@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-08 04:26:23",
-  "total_count": 1240,
-  "news_count": 1235,
-  "android_count": 303,
+  "last_updated": "2026-07-08 07:39:33",
+  "total_count": 1242,
+  "news_count": 1237,
+  "android_count": 305,
   "ios_count": 932,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "beac4674647a",
+      "title": "Android 17’s new video standard could make blinding HDR videos a thing of the past",
+      "summary": "Hopefully, no more squinting at HDR videos while doomscrolling at night.",
+      "url": "https://www.androidauthority.com/android-17-eclipsa-video-standard-hdr-3685122/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-08 06:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-2-scaled.jpg",
+      "title_translated": "Android 17 的新视频标准可能会让令人眼花缭乱的 HDR 视频成为过去",
+      "summary_translated": "希望大家在晚上玩末日卷轴时不再眯着眼睛看 HDR 视频。"
+    },
+    {
+      "id": "32edf331a2f4",
+      "title": "LineageOS announces browser flashing, Android 17 plans, and new supported devices",
+      "summary": "This summertime update is packed with new features, usability improvements, and expanded device support.",
+      "url": "https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-08 04:53",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/LineageOS-Logo-2-of-3.jpg",
+      "title_translated": "LineageOS 宣布浏览器刷新、Android 17 计划以及新支持的设备",
+      "summary_translated": "此夏季更新包含新功能、可用性改进和扩展的设备支持。"
+    },
     {
       "id": "72a7be85cd88",
       "title": "2026 July Pixel Update Available for Your Pixel Phone",
