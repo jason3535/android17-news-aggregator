@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-08 23:20:35",
-  "total_count": 1249,
-  "news_count": 1244,
+  "last_updated": "2026-07-09 04:08:33",
+  "total_count": 1250,
+  "news_count": 1245,
   "android_count": 308,
-  "ios_count": 936,
+  "ios_count": 937,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-translate-ios27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 为 Apple Translate 添加了九种新语言和口音",
       "summary_translated": "除了带来新的键盘和跨多种语言的打字改进之外，iOS 27 还将为 Apple Translate 添加多种语言和口音。以下是详细信息。"
+    },
+    {
+      "id": "cd5ed240bfbb",
+      "title": "Everything Coming in the 2026 Apple TV 4K",
+      "summary": "The Apple TV 4K hasn't been updated since 2022, and it's due for a refresh. An update is planned for 2026, but Apple is likely going to wait to launch it after Siri AI launches in iOS 27.\n\n\n\n\nDesign\n\n‌Apple TV‌ design updates don't happen often, and that's not changing. The next ‌Apple TV‌ is going ",
+      "url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-08 16:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/12/Apple-TV-Thumb-3.jpg",
+      "title_translated": "2026 年 Apple TV 4K 中的一切",
+      "summary_translated": "Apple TV 4K 自 2022 年以来就没有更新过，它应该进行更新。计划于 2026 年进行更新，但苹果可能会等到 Siri AI 在 iOS 27 中推出后才推出。\n\n\n\n\n设计\n\nApple TV 的设计更新并不经常发生，这一点也不会改变。下一个“Apple TV”即将到来"
     },
     {
       "id": "448cd08e6548",
@@ -17429,7 +17443,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -17440,7 +17454,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -17451,7 +17465,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -17462,7 +17476,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -17473,7 +17487,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
