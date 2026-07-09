@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-09 12:19:02",
-  "total_count": 1250,
-  "news_count": 1245,
+  "last_updated": "2026-07-09 16:08:01",
+  "total_count": 1252,
+  "news_count": 1247,
   "android_count": 308,
-  "ios_count": 937,
+  "ios_count": 939,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8df836a6fca9",
+      "title": "'Siri AI' Lawsuit Update: Apple to Pay Owners of These iPhone Models",
+      "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout.\n\n\n\n\nThis week, the California court overseeing the case held a hearing regarding preliminary approval of the settlement, but the j",
+      "url": "https://www.macrumors.com/2026/07/09/siri-ai-lawsuit-settlement-claims-timing/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-09 07:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
+      "title_translated": "“Siri AI”诉讼更新：苹果将向这些 iPhone 型号的所有者付款",
+      "summary_translated": "今年 5 月，苹果同意支付 2.5 亿美元，以了结因 Siri AI 延迟推出而引发的美国集体诉讼，符合条件的 iPhone 用户最多可获得 95 美元的赔偿。\n\n\n\n\n本周，负责此案的加州法院就初步批准和解协议举行了听证会，但"
+    },
     {
       "id": "98fe4b0a102f",
       "title": "iOS 27 adds nine new languages and accents to Apple Translate",
@@ -17434,6 +17448,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/wP0YXCO61aM/hqdefault.jpg",
       "title_translated": "iOS 27 下苹果地图终于比谷歌地图更好了",
+      "summary_translated": ""
+    },
+    {
+      "id": "d12ccbd2c70a",
+      "title": "Everything New in iMessage on iOS 27! (25+ Features)",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=JMfnM9M0gR4",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/JMfnM9M0gR4/hqdefault.jpg",
+      "title_translated": "iOS 27 上 iMessage 的所有新功能！ （25+ 功能）",
       "summary_translated": ""
     },
     {
