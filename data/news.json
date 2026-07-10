@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-10 12:07:21",
-  "total_count": 1254,
-  "news_count": 1249,
+  "last_updated": "2026-07-10 15:38:42",
+  "total_count": 1256,
+  "news_count": 1251,
   "android_count": 308,
-  "ios_count": 941,
+  "ios_count": 943,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6705617ee356",
+      "title": "These are my favorite new Messages features in iOS 27 [Video]",
+      "summary": "If you were to just look at the Messages app in iOS 27, you might not think much has changed, but that is far from the truth. Under the hood, Apple has completely revamped the Messages experience, making it faster, smarter, and much less frustrating. From simple little setting toggles for dictation ",
+      "url": "https://9to5mac.com/2026/07/10/these-are-my-favorite-new-messages-features-in-ios-27-video/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-10 15:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/messages-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "这些是 iOS 27 中我最喜欢的新消息功能 [视频]",
+      "summary_translated": "如果你只看 iOS 27 中的消息应用程序，你可能会认为没有太大变化，但事实远非如此。在幕后，苹果彻底改进了消息体验，使其更快、更智能，而且不再那么令人沮丧。从简单的小设置切换到听写"
+    },
+    {
+      "id": "8dda26950c40",
+      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "summary": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\nWith iOS 27, Apple is expanding that idea beyo",
+      "url": "https://9to5mac.com/2026/07/10/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-10 09:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+      "title_translated": "iOS 27 基本上将你的 iPhone 和 AirPods 变成了健身房里的 Apple Watch",
+      "summary_translated": "自 2017 年推出以来，GymKit 一直是 Apple Watch 最智能的健身功能之一。将手表轻触兼容的健身器材，Apple Watch 会分享您的心率，同时机器会发回距离、坡度、配速和卡路里等指标。\n通过 iOS 27，Apple 正在将这一想法扩展到其他领域"
+    },
     {
       "id": "9fbb3a9983f7",
       "title": "iOS 27 beta 3 changes, Siri AI on Apple Watch, macOS Golden Gate features",
