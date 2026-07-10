@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-09 22:41:14",
-  "total_count": 1252,
-  "news_count": 1247,
+  "last_updated": "2026-07-10 00:15:14",
+  "total_count": 1254,
+  "news_count": 1249,
   "android_count": 308,
-  "ios_count": 939,
+  "ios_count": 941,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9fbb3a9983f7",
+      "title": "iOS 27 beta 3 changes, Siri AI on Apple Watch, macOS Golden Gate features",
+      "summary": "Benjamin and Chance talk about all the changes in iOS 27 beta 3, and Mayo’s first experience with Siri AI on Apple Watch. Also, we dive in to the details of what’s new in macOS Golden Gate, Apple tries to lobby to use Chinese memory components, signs a new deal with Broadcom, and likely supply const",
+      "url": "https://9to5mac.com/2026/07/09/happy-hour-598/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-09 22:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 3 变化、Apple Watch 上的 Siri AI、macOS Golden Gate 功能",
+      "summary_translated": "Benjamin 和 Chance 谈论了 iOS 27 beta 3 中的所有变化，以及 Mayo 在 Apple Watch 上使用 Siri AI 的首次体验。此外，我们还深入了解 macOS Golden Gate 的新功能、苹果试图游说使用中国内存组件、与 Broadcom 签署新协议以及可能的供应情况"
+    },
+    {
+      "id": "e6db96eb1c51",
+      "title": "iOS 27: 8+ New CarPlay Features",
+      "summary": "With iOS 27, Apple is introducing several CarPlay features that will improve your in-car experience, both when you're driving and when you're idle in the car. From new video experiences to Siri AI, there are multiple new options to look forward to.\n\n\n\n\nVideo Apps\n\n‌CarPlay‌ apps can incorporate vide",
+      "url": "https://www.macrumors.com/guide/ios-27-carplay/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-09 16:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/8-CarPlay-Features-in-iOS-27-Feature.jpg",
+      "title_translated": "iOS 27：8 个以上 CarPlay 新功能",
+      "summary_translated": "在 iOS 27 中，Apple 推出了多项 CarPlay 功能，无论您在驾驶时还是在车内闲置时，这些功能都将改善您的车内体验。从新的视频体验到 Siri AI，有多种新选择值得期待。\n\n\n\n\n视频应用程序\n\n‌CarPlay‌ 应用程序可以合并视频"
+    },
     {
       "id": "8df836a6fca9",
       "title": "'Siri AI' Lawsuit Update: Apple to Pay Owners of These iPhone Models",
@@ -17471,7 +17499,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -17482,7 +17510,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -17493,7 +17521,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -17504,7 +17532,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -17515,7 +17543,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
