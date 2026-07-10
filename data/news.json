@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-10 21:16:21",
-  "total_count": 1256,
-  "news_count": 1251,
+  "last_updated": "2026-07-10 23:10:36",
+  "total_count": 1257,
+  "news_count": 1252,
   "android_count": 308,
-  "ios_count": 943,
+  "ios_count": 944,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/messages-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "这些是 iOS 27 中我最喜欢的新消息功能 [视频]",
       "summary_translated": "如果你只看 iOS 27 中的消息应用程序，你可能会认为没有太大变化，但事实远非如此。在幕后，苹果彻底改进了消息体验，使其更快、更智能，而且不再那么令人沮丧。从简单的小设置切换到听写"
+    },
+    {
+      "id": "95ced48fb58a",
+      "title": "iOS 27: What's New With the Mail App",
+      "summary": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.\n\n\n\n\nSearch\n\n‌iOS 27‌ has an overhauled search system that extends to the Mail app. Instead of surfacing results based on keywords and recency, Mail app search rank",
+      "url": "https://www.macrumors.com/guide/ios-27-mail/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-10 15:26",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Mail-Feature.jpg",
+      "title_translated": "iOS 27：邮件应用程序的新增功能",
+      "summary_translated": "苹果的邮件应用程序在 iOS 27 中获得了一些有用的更新，苹果对搜索进行了重大改进并引入了新的人工智能功能。\n\n\n\n\n搜索\n\n‌iOS 27‌ 有一个彻底修改的搜索系统，扩展到邮件应用程序。邮件应用程序搜索排名不是根据关键字和新近度显示结果"
     },
     {
       "id": "8dda26950c40",
