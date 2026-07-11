@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-11 12:01:03",
-  "total_count": 1257,
-  "news_count": 1252,
+  "last_updated": "2026-07-11 13:48:00",
+  "total_count": 1258,
+  "news_count": 1253,
   "android_count": 308,
-  "ios_count": 944,
+  "ios_count": 945,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Mail-Feature.jpg",
       "title_translated": "iOS 27：邮件应用程序的新增功能",
       "summary_translated": "苹果的邮件应用程序在 iOS 27 中获得了一些有用的更新，苹果对搜索进行了重大改进并引入了新的人工智能功能。\n\n\n\n\n搜索\n\n‌iOS 27‌ 有一个彻底修改的搜索系统，扩展到邮件应用程序。邮件应用程序搜索排名不是根据关键字和新近度显示结果"
+    },
+    {
+      "id": "3998b5b36552",
+      "title": "Top Stories: 'iPhone Ultra' and Apple TV Rumors, iOS 27 Beta 3, and More",
+      "summary": "Apple's annual iPhone event is just two months away, but we're still not quite clear on when and in what quantities the new foldable \"iPhone Ultra\" will be available. It sounds like we could end up in a situation similar to that of the iPhone X where it was introduced at the September event but didn",
+      "url": "https://www.macrumors.com/2026/07/11/top-stories-iphone-ultra-apple-tv-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-10 12:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-11.jpg",
+      "title_translated": "头条新闻：“iPhone Ultra”和 Apple TV 传闻、iOS 27 Beta 3 等",
+      "summary_translated": "距离苹果年度 iPhone 发布会只剩两个月了，但我们仍然不太清楚新款可折叠“iPhone Ultra”的上市时间和数量。听起来我们最终可能会遇到类似于 iPhone X 的情况，它是在 9 月份的活动中推出的，但并没有"
     },
     {
       "id": "8dda26950c40",
