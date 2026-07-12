@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-12 15:09:40",
-  "total_count": 1258,
-  "news_count": 1253,
+  "last_updated": "2026-07-12 17:12:30",
+  "total_count": 1259,
+  "news_count": 1254,
   "android_count": 308,
-  "ios_count": 945,
+  "ios_count": 946,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "24576c88e0d0",
+      "title": "iOS 27 Public Beta Reportedly Available This Week",
+      "summary": "The first public betas of iOS 27, macOS Golden Gate, and more will be released this week, according to Bloomberg's Mark Gurman. This aligns with Apple's promised July timeframe.\n\n\nIf you have an iPhone 15 Pro or newer, the key new feature is Siri AI, but there is a waitlist if you want to try it.Rel",
+      "url": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-12 08:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Public-Beta-Horizontal.jpg",
+      "title_translated": "iOS 27 公开 Beta 版将于本周发布",
+      "summary_translated": "据彭博社的 Mark Gurman 称，iOS 27、macOS Golden Gate 等的第一个公开测试版将于本周发布。这与苹果承诺的 7 月份时间表一致。\n\n\n如果你有 iPhone 15 Pro 或更新版本，关键的新功能是 Siri AI，但如果你想尝试的话，还有一个等待名单。"
+    },
     {
       "id": "6705617ee356",
       "title": "These are my favorite new Messages features in iOS 27 [Video]",
