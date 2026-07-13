@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-13 19:44:49",
-  "total_count": 1263,
-  "news_count": 1258,
+  "last_updated": "2026-07-13 21:09:50",
+  "total_count": 1266,
+  "news_count": 1261,
   "android_count": 308,
-  "ios_count": 950,
+  "ios_count": 953,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b908d5d31bad",
+      "title": "watchOS 27 public beta is here with Siri AI and smarter Apple Watch features",
+      "summary": "The watchOS 27 public beta is now available for Apple Watch. It gives users an early look at the software update coming to everyone this fall.\nwatchOS 27 includes one potentially transformative addition: Siri AI on your wrist. Apple also added a dynamic app grid, a one-handed tap gesture, and a more",
+      "url": "https://9to5mac.com/2026/07/13/watchos-27-public-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-13 20:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "watchOS 27 公开测试版现已推出，包含 Siri AI 和更智能的 Apple Watch 功能",
+      "summary_translated": "watchOS 27 公开测试版现已适用于 Apple Watch。它让用户可以提前了解今年秋季发布的软件更新。\nwatchOS 27 包含一项潜在的变革性附加功能：手腕上的 Siri AI。苹果还添加了动态应用程序网格、单手点击手势等"
+    },
+    {
+      "id": "bcdce0e7f424",
+      "title": "iOS 27 public beta is here with Siri AI, iPhone speed upgrades, and more",
+      "summary": "The first iOS 27 public beta is now available for iPhone. It gives users an early chance to try Apple’s biggest software update of the year.\nSiri AI is the headline feature. The release also includes a redesigned Screen Time experience, Liquid Glass refinements, performance upgrades, and dozens of q",
+      "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-13 20:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 公测版现已推出，包含 Siri AI、iPhone 速度升级等",
+      "summary_translated": "第一个 iOS 27 公开测试版现已适用于 iPhone。它让用户有机会尽早尝试苹果今年最大的软件更新。\nSiri AI 是头条新闻。该版本还包括重新设计的“屏幕时间”体验、液体玻璃改进、性能升级以及数十项改进。"
+    },
     {
       "id": "b65beff66bbd",
       "title": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 get a rare fifth RC",
@@ -33,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.6-b5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.6 beta 5，值得期待",
       "summary_translated": "虽然 iOS 27 是预发布软件的新焦点，但苹果仍在准备 iOS 26.6 作为下一个 iPhone 更新。苹果发布了第五个 iOS 26.6 开发者测试版。 iOS 26.6 beta 自 5 月底以来一直在测试。"
+    },
+    {
+      "id": "cf27e60698bd",
+      "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers",
+      "summary": "Apple today released the first public betas of iOS 27 and iPadOS 27, allowing anyone with a compatible device to download and test the new software.\n\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\nYou can get started by signing up on Apple's beta website and then opting in to the publ",
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-13 13:39",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/wl6cOD-r0oQbmyjuNEMKZ2pAbFI=/2500x/article-new/2026/07/iOS-27-Public-Beta-Feature.jpg",
+      "title_translated": "iOS 27 和 iPadOS 27 现已向公共 Beta 测试者开放",
+      "summary_translated": "苹果今天发布了 iOS 27 和 iPadOS 27 的第一个公开测试版，允许任何拥有兼容设备的人下载和测试新软件。\n\n\n订阅 MacRumors YouTube 频道以获取更多视频。\n\n您可以通过在 Apple 的测试版网站上注册然后选择加入发布来开始使用。"
     },
     {
       "id": "5b111fb495a7",
