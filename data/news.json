@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-13 21:09:50",
-  "total_count": 1266,
-  "news_count": 1261,
+  "last_updated": "2026-07-13 23:07:37",
+  "total_count": 1267,
+  "news_count": 1262,
   "android_count": 308,
-  "ios_count": 953,
+  "ios_count": 954,
   "leaker_count": 5,
   "items": [
     {
@@ -61,6 +61,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.6-b5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.6 beta 5，值得期待",
       "summary_translated": "虽然 iOS 27 是预发布软件的新焦点，但苹果仍在准备 iOS 26.6 作为下一个 iPhone 更新。苹果发布了第五个 iOS 26.6 开发者测试版。 iOS 26.6 beta 自 5 月底以来一直在测试。"
+    },
+    {
+      "id": "40beb90ba245",
+      "title": "iOS 26.6 Will Warn You About Malicious iMessages",
+      "summary": "Apple is adding a new warning about malicious iMessages in iOS 26.6, according to X user @limpless_skelly, who shared a mockup of the notification.\n\n\n\n\nThe pop-up will warn users that a message could be trying to harm their iPhone or compromise their privacy. Apple asks users to share the message so",
+      "url": "https://www.macrumors.com/2026/07/13/ios-26-6-malicious-message-warning/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-13 16:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/01/General-Apps-Messages-Redux.jpg",
+      "title_translated": "iOS 26.6 将警告您有关恶意 iMessage 的信息",
+      "summary_translated": "据 X 用户 @limpless_skelly 分享的通知模型称，苹果正在 iOS 26.6 中添加有关恶意 iMessage 的新警告。\n\n\n\n\n该弹出窗口将警告用户，一条消息可能试图损害他们的 iPhone 或损害他们的隐私。苹果要求用户分享该消息，以便"
     },
     {
       "id": "cf27e60698bd",
