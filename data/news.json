@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-14 16:24:01",
-  "total_count": 1270,
-  "news_count": 1265,
+  "last_updated": "2026-07-14 18:14:28",
+  "total_count": 1272,
+  "news_count": 1267,
   "android_count": 309,
-  "ios_count": 956,
+  "ios_count": 958,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c96b3a81d9d1",
+      "title": "iOS 27 compatibility: Does your iPhone support all the new features?",
+      "summary": "The iOS 27 public beta is now available, allowing iPhone users to try out the new features the update offers. Which iPhones are compatible with iOS 27? Here’s everything you need to know.",
+      "url": "https://9to5mac.com/2026/07/14/ios-27-new-features-compatibility/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-14 16:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 兼容性：您的 iPhone 支持所有新功能吗？",
+      "summary_translated": "iOS 27 公测版现已推出，iPhone 用户可以尝试更新提供的新功能。哪些 iPhone 与 iOS 27 兼容？这是您需要了解的所有内容。"
+    },
     {
       "id": "0a912b19958d",
       "title": "One UI 9: All the features you need to know [Video]",
@@ -19,6 +33,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Quick-Settings-on-One-UI-8.5-and-9.jpg?quality=82&strip=all",
       "title_translated": "One UI 9：您需要了解的所有功能 [视频]",
       "summary_translated": "现在，我们已经为三星 Galaxy 手机构建了 Android 17 Beta 或 One UI 9 的一些版本，所以现在..."
+    },
+    {
+      "id": "4ff13ecebf91",
+      "title": "macOS Golden Gate Public Beta: 10 Features to Try First",
+      "summary": "macOS 27 Golden Gate is available to public beta testers as of this week, which means you can try out Siri AI and the other changes coming in the update before it launches this fall.\n\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\nWe don't recommend betas for devices that serve a crit",
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-14 11:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/SHHsIj-S4WsMmzsDkQfL57wvCko=/2500x/article-new/2026/07/macOS-27-Public-Beta-Thumb-2.jpg",
+      "title_translated": "macOS Golden Gate 公开测试版：首先尝试的 10 个功能",
+      "summary_translated": "macOS 27 Golden Gate 从本周起向公共 Beta 测试人员开放，这意味着您可以在今年秋季发布之前尝试 Siri AI 和更新中的其他更改。\n\n\n订阅 MacRumors YouTube 频道以获取更多视频。\n\n我们不建议为暴击设备提供测试版"
     },
     {
       "id": "6c3c93045238",
