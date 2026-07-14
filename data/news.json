@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-14 14:07:49",
-  "total_count": 1269,
-  "news_count": 1264,
-  "android_count": 308,
+  "last_updated": "2026-07-14 16:24:01",
+  "total_count": 1270,
+  "news_count": 1265,
+  "android_count": 309,
   "ios_count": 956,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0a912b19958d",
+      "title": "One UI 9: All the features you need to know [Video]",
+      "summary": "Now we’re a few builds into the Android 17 Beta or One UI 9 for Samsung Galaxy phones, so now...",
+      "url": "https://9to5google.com/2026/07/14/one-ui-9-all-the-features-you-need-to-know-video/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-07-14 16:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Quick-Settings-on-One-UI-8.5-and-9.jpg?quality=82&strip=all",
+      "title_translated": "One UI 9：您需要了解的所有功能 [视频]",
+      "summary_translated": "现在，我们已经为三星 Galaxy 手机构建了 Android 17 Beta 或 One UI 9 的一些版本，所以现在..."
+    },
     {
       "id": "6c3c93045238",
       "title": "iOS 27 public beta: Should you install it on your iPhone?",
