@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-13 23:07:37",
-  "total_count": 1267,
-  "news_count": 1262,
+  "last_updated": "2026-07-14 03:26:49",
+  "total_count": 1269,
+  "news_count": 1264,
   "android_count": 308,
-  "ios_count": 954,
+  "ios_count": 956,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6c3c93045238",
+      "title": "iOS 27 public beta: Should you install it on your iPhone?",
+      "summary": "The iOS 27 public beta is now available, and it’s full of major new features. Should you install it on your iPhone? Here’s everything you need to know.",
+      "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta-should-you-install-it-on-your-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-14 00:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 公开测试版：你应该将其安装在 iPhone 上吗？",
+      "summary_translated": "iOS 27 公测版现已发布，其中充满了主要新功能。您应该将其安装在 iPhone 上吗？这是您需要了解的所有内容。"
+    },
     {
       "id": "b908d5d31bad",
       "title": "watchOS 27 public beta is here with Siri AI and smarter Apple Watch features",
@@ -61,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.6-b5.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果发布 iPhone 版 iOS 26.6 beta 5，值得期待",
       "summary_translated": "虽然 iOS 27 是预发布软件的新焦点，但苹果仍在准备 iOS 26.6 作为下一个 iPhone 更新。苹果发布了第五个 iOS 26.6 开发者测试版。 iOS 26.6 beta 自 5 月底以来一直在测试。"
+    },
+    {
+      "id": "5b89ab1c702c",
+      "title": "iOS 27 Public Beta Is Here: 10 New Features Worth Testing",
+      "summary": "Apple released the iOS 27 public beta today, and if you've been curious about the new software, now's the time to try it out. ‌iOS 27‌ brings Siri AI, performance improvements, and lots of new Apple Intelligence features. With the public betas, you don't need to wait until September to see what's ne",
+      "url": "https://www.macrumors.com/guide/ios-27-public-beta-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-13 16:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Public-Beta-Feature.jpg",
+      "title_translated": "iOS 27 公测版来了：10 个值得测试的新功能",
+      "summary_translated": "苹果今天发布了 iOS 27 公测版，如果你对新软件感到好奇，现在是时候尝试一下了。 iOS 27 带来了 Siri AI、性能改进以及许多新的 Apple Intelligence 功能。通过公开测试版，您无需等到 9 月即可了解新功能"
     },
     {
       "id": "40beb90ba245",
@@ -17681,7 +17709,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -17692,7 +17720,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -17703,7 +17731,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -17714,7 +17742,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -17725,7 +17753,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
