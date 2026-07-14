@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-14 18:14:28",
-  "total_count": 1272,
-  "news_count": 1267,
+  "last_updated": "2026-07-14 20:20:17",
+  "total_count": 1274,
+  "news_count": 1269,
   "android_count": 309,
-  "ios_count": 958,
+  "ios_count": 960,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cf2ef9c5f365",
+      "title": "AirPods public betas arrive one day after iOS 27 public beta, here’s how to enroll",
+      "summary": "Following yesterday’s release of the AirPods Pro 3, AirPods Pro 2, and AirPods (4th gen). Here are the details.",
+      "url": "https://9to5mac.com/2026/07/14/airpods-public-betas-arrive-one-day-after-ios-27-public-beta-heres-how-to-enroll/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-14 18:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-ios-27-FI-dark.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "AirPods 公开测试版在 iOS 27 公开测试版一天后到来，注册方法如下",
+      "summary_translated": "继昨天发布 AirPods Pro 3、AirPods Pro 2 和 AirPods（第 4 代）之后。以下是详细信息。"
+    },
     {
       "id": "c96b3a81d9d1",
       "title": "iOS 27 compatibility: Does your iPhone support all the new features?",
@@ -33,6 +47,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Quick-Settings-on-One-UI-8.5-and-9.jpg?quality=82&strip=all",
       "title_translated": "One UI 9：您需要了解的所有功能 [视频]",
       "summary_translated": "现在，我们已经为三星 Galaxy 手机构建了 Android 17 Beta 或 One UI 9 的一些版本，所以现在..."
+    },
+    {
+      "id": "863a2b9abf29",
+      "title": "Apple Releases New iOS 27 AirPods Firmware For Public Beta Testers",
+      "summary": "Apple today released new AirPods beta firmware available for public testers. The firmware has a build number of 9A5314b, and it is available for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The public beta firmware is identical to the third developer beta Apple released last week.",
+      "url": "https://www.macrumors.com/2026/07/14/airpods-public-beta-firmware/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-14 11:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg",
+      "title_translated": "苹果为公共 Beta 测试者发布新的 iOS 27 AirPods 固件",
+      "summary_translated": "Apple 今天发布了新的 AirPods 测试版固件，可供公共测试人员使用。该固件的内部版本号为 9A5314b，适用于 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2。该公开测试版固件与苹果上周发布的第三个开发者测试版相同。"
     },
     {
       "id": "4ff13ecebf91",
