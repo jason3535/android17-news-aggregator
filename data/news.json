@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-15 06:24:34",
-  "total_count": 1275,
-  "news_count": 1270,
-  "android_count": 309,
+  "last_updated": "2026-07-15 09:19:12",
+  "total_count": 1276,
+  "news_count": 1271,
+  "android_count": 310,
   "ios_count": 961,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3e5a7513f789",
+      "title": "Stable Android 17 is rolling out for the first non-Pixel phones",
+      "summary": "But without the best Android 17 features.",
+      "url": "https://www.androidauthority.com/stable-android-17-xiaomi-17-ultra-3687634/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-15 08:14",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra-white-on-leather-sofa.jpg",
+      "title_translated": "稳定版 Android 17 即将面向首批非 Pixel 手机推出",
+      "summary_translated": "但没有最好的 Android 17 功能。"
+    },
     {
       "id": "9b65f03acdfa",
       "title": "iOS 27: My favorite new iPhone features (other than AI)",
