@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-15 09:19:12",
-  "total_count": 1276,
-  "news_count": 1271,
+  "last_updated": "2026-07-15 11:44:55",
+  "total_count": 1278,
+  "news_count": 1273,
   "android_count": 310,
-  "ios_count": 961,
+  "ios_count": 963,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5c494d80046b",
+      "title": "Apple reaches agreement with Chinese government on Apple Intelligence rollout",
+      "summary": "The new Siri and other Apple Intelligence features are currently only supported in the iOS 27 beta in English in a small number of countries, but Apple has promised that they will “quickly expand” to additional countries and languages.\nChina posed a particular challenge for the company as the law th",
+      "url": "https://9to5mac.com/2026/07/15/apple-reaches-agreement-with-chinese-government-on-apple-intelligence-rollout/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-15 11:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-reaches-agreement-with-Chinese-government-on-Apple-Intelligence-rollout.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 与中国政府就 Apple Intelligence 推出达成协议",
+      "summary_translated": "新的 Siri 和其他 Apple Intelligence 功能目前仅在少数国家/地区的英语版 iOS 27 Beta 中受支持，但苹果承诺它们将“快速扩展到”其他国家/地区和语言。\n中国给该公司带来了特殊的挑战，因为法律规定"
+    },
     {
       "id": "3e5a7513f789",
       "title": "Stable Android 17 is rolling out for the first non-Pixel phones",
@@ -19,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra-white-on-leather-sofa.jpg",
       "title_translated": "稳定版 Android 17 即将面向首批非 Pixel 手机推出",
       "summary_translated": "但没有最好的 Android 17 功能。"
+    },
+    {
+      "id": "37949ac28bc8",
+      "title": "Apple Intelligence Finally Cleared to Launch in China",
+      "summary": "Apple Intelligence has been approved by Chinese regulators, opening the door for the AI system to reach iPhones in the country for the first time.\n\n\n\n\nReuters reports that China's Cyberspace Administration registered Apple's on-device generative AI service this week, putting it on a list of newly cl",
+      "url": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-15 04:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "title_translated": "Apple Intelligence 终于获准在中国推出",
+      "summary_translated": "Apple Intelligence已获得中国监管机构的批准，这为该人工智能系统首次在中国的iPhone上应用打开了大门。\n\n\n\n\n路透社报道称，中国国家互联网信息办公室本周注册了苹果的设备端生成人工智能服务，将其列入新的国家名单。"
     },
     {
       "id": "9b65f03acdfa",
