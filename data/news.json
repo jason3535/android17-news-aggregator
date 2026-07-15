@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-15 17:34:23",
-  "total_count": 1280,
-  "news_count": 1275,
+  "last_updated": "2026-07-15 19:32:49",
+  "total_count": 1281,
+  "news_count": 1276,
   "android_count": 310,
-  "ios_count": 965,
+  "ios_count": 966,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-reaches-agreement-with-Chinese-government-on-Apple-Intelligence-rollout.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple 与中国政府就 Apple Intelligence 推出达成协议",
       "summary_translated": "新的 Siri 和其他 Apple Intelligence 功能目前仅在少数国家/地区的英语版 iOS 27 Beta 中受支持，但苹果承诺它们将“快速扩展到”其他国家/地区和语言。\n中国给该公司带来了特殊的挑战，因为法律规定"
+    },
+    {
+      "id": "325d24730ca4",
+      "title": "Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub",
+      "summary": "Now that Siri AI is ready to launch in iOS 27, iPadOS 27, and macOS 27 Golden Gate, Apple can finally introduce new smart home products built to work with the smarter version of ‌Siri‌.\n\n\nSubscribe to the MacRumors YouTube channel for more videos.\n\nApple has multiple new home devices in development,",
+      "url": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-15 11:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/t/pjsJSKCHqhargINrhGvGiZzvLJw=/2500x/article-new/2026/07/Rumored-Home-Products-Thumb.jpg",
+      "title_translated": "Apple 2026 年智能家居阵容：新款 Apple TV、HomePod 和 Home Hub",
+      "summary_translated": "现在 Siri AI 已准备好在 iOS 27、iPadOS 27 和 macOS 27 Golden Gate 中推出，苹果终于可以推出与更智能版本的 Siri 配合使用的新智能家居产品。\n\n\n订阅 MacRumors YouTube 频道以获取更多视频。\n\n苹果正在开发多种新的家用设备，"
     },
     {
       "id": "3e5a7513f789",
