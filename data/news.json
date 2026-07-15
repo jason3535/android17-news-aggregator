@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-15 19:32:49",
-  "total_count": 1281,
-  "news_count": 1276,
+  "last_updated": "2026-07-15 21:11:54",
+  "total_count": 1282,
+  "news_count": 1277,
   "android_count": 310,
-  "ios_count": 966,
+  "ios_count": 967,
   "leaker_count": 5,
   "items": [
     {
@@ -17868,6 +17868,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/JMfnM9M0gR4/hqdefault.jpg",
       "title_translated": "iOS 27 上 iMessage 的所有新功能！ （25+ 功能）",
+      "summary_translated": ""
+    },
+    {
+      "id": "3dd3e1badaed",
+      "title": "iOS 27 Is a MUCH Bigger Update Than We Thought | Here is Every NON-Siri Feature!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=xss3D6BxeQk",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/xss3D6BxeQk/hqdefault.jpg",
+      "title_translated": "iOS 27 的更新比我们想象的要大得多这是所有非 Siri 功能！",
       "summary_translated": ""
     },
     {
