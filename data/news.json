@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-15 00:01:34",
-  "total_count": 1274,
-  "news_count": 1269,
+  "last_updated": "2026-07-15 03:27:02",
+  "total_count": 1275,
+  "news_count": 1270,
   "android_count": 309,
-  "ios_count": 960,
+  "ios_count": 961,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9b65f03acdfa",
+      "title": "iOS 27: My favorite new iPhone features (other than AI)",
+      "summary": "The iOS 27 public beta is here, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. \nHere are a few of my favorite iOS 27 features (other than Siri and AI).",
+      "url": "https://9to5mac.com/2026/07/14/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-15 00:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27：我最喜欢的 iPhone 新功能（AI 除外）",
+      "summary_translated": "iOS 27 公开测试版现已发布，其中最重要的变化是 Siri AI 和一系列新的 Apple Intelligence 功能。然而，更新还包括大量非人工智能功能。 \n以下是我最喜欢的 iOS 27 的一些功能（除了 Siri 和 AI）。"
+    },
     {
       "id": "cf2ef9c5f365",
       "title": "AirPods public betas arrive one day after iOS 27 public beta, here’s how to enroll",
