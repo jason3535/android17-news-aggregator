@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-15 15:46:22",
-  "total_count": 1279,
-  "news_count": 1274,
+  "last_updated": "2026-07-15 17:34:23",
+  "total_count": 1280,
+  "news_count": 1275,
   "android_count": 310,
-  "ios_count": 964,
+  "ios_count": 965,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "title_translated": "9to5Mac Daily：2026 年 7 月 15 日 – iOS 27 公开测试版现已推出",
       "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
+    {
+      "id": "75d6089be56a",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is currently in beta, and the beh",
+      "url": "https://9to5mac.com/2026/07/15/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-15 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "title_translated": "iOS 27 打破了 iPhone 和 iPad 15 年的肌肉记忆",
+      "summary_translated": "自 2011 年 iOS 5 以来，iPhone 和 iPad 都包含了通知中心，这是一个按时间顺序查找来自各种应用程序的警报的中心位置。\n从 iOS 27 开始，Apple 对用户在 iPhone 和 iPad 上打开通知中心的方式进行了重大更改。\niOS 27 目前处于测试阶段，"
     },
     {
       "id": "5c494d80046b",
