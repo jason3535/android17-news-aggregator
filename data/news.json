@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-15 14:04:02",
-  "total_count": 1278,
-  "news_count": 1273,
+  "last_updated": "2026-07-15 15:46:22",
+  "total_count": 1279,
+  "news_count": 1274,
   "android_count": 310,
-  "ios_count": 963,
+  "ios_count": 964,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2235accd4425",
+      "title": "9to5Mac Daily: July 15, 2026 – iOS 27 public beta is here",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/07/15/daily-july-15-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-15 14:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 7 月 15 日 – iOS 27 公开测试版现已推出",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "5c494d80046b",
       "title": "Apple reaches agreement with Chinese government on Apple Intelligence rollout",
