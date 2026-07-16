@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-16 20:08:43",
-  "total_count": 1289,
-  "news_count": 1284,
+  "last_updated": "2026-07-16 22:12:24",
+  "total_count": 1290,
+  "news_count": 1285,
   "android_count": 315,
-  "ios_count": 969,
+  "ios_count": 970,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1022c593cca0",
+      "title": "iOS 27 public betas are out, Siri AI hands on, and Apple sues OpenAI",
+      "summary": "Benjamin and Chance talk about their latest experiences with iOS 27 and Siri AI, with Apple releasing the public betas this week so anyone in the whole world can give the new software a go. The company also sued OpenAI this week in a high-profile case over alleged trade secrets theft. And, as is tra",
+      "url": "https://9to5mac.com/2026/07/16/happy-hour-599/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-16 20:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 公测版出炉，Siri AI 上手，苹果起诉 OpenAI",
+      "summary_translated": "Benjamin 和 Chance 谈论了他们使用 iOS 27 和 Siri AI 的最新体验，苹果本周发布了公开测试版，以便全世界任何人都可以尝试新软件。该公司本周还在一起备受瞩目的涉嫌盗窃商业机密的案件中起诉 OpenAI。并且，正如特拉"
+    },
     {
       "id": "e1b2a8a10c5f",
       "title": "iOS 27 makes one of my favorite Apple Music features even better",
