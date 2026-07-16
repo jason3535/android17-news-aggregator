@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-16 06:28:12",
-  "total_count": 1286,
-  "news_count": 1281,
-  "android_count": 313,
+  "last_updated": "2026-07-16 09:23:11",
+  "total_count": 1287,
+  "news_count": 1282,
+  "android_count": 314,
   "ios_count": 968,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "068811fc971f",
+      "title": "Android 17 is finally swapping taskbar app predictions for something you’ll actually use",
+      "summary": "Google's Android 17 QPR1 Beta is ditching taskbar suggestions for your actual recent apps.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-recently-opened-apps-taskbar-3688088/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-16 09:06",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/Taskbar-on-an-Android-tablet-running-Android-16-scaled.jpg",
+      "title_translated": "Android 17 终于将任务栏应用程序预测替换为您实际使用的内容",
+      "summary_translated": "谷歌的 Android 17 QPR1 Beta 正在放弃为您最近使用的实际应用程序提供任务栏建议。"
+    },
     {
       "id": "300afcd64b04",
       "title": "Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers",
