@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-16 11:50:39",
-  "total_count": 1287,
-  "news_count": 1282,
-  "android_count": 314,
+  "last_updated": "2026-07-16 14:16:11",
+  "total_count": 1288,
+  "news_count": 1283,
+  "android_count": 315,
   "ios_count": 968,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f7de0a894fc7",
+      "title": "OnePlus will continue software updates, all devices move to ColorOS with Android 17",
+      "summary": "OnePlus is effectively dead in most of the world, but software updates will continue. They just won’t be the same, as OxygenOS is going away and will instead be replaced by ColorOS.",
+      "url": "https://9to5google.com/2026/07/16/oneplus-software-updates-android-17-coloros/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-07-16 13:45",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/OxygenOS-16-logo-3.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "OnePlus将继续软件更新，所有设备均迁移至Android 17的ColorOS",
+      "summary_translated": "OnePlus 在世界大部分地区实际上已经死亡，但软件更新仍将继续。它们只是不一样，因为 OxygenOS 即将消失，取而代之的是 ColorOS。"
+    },
     {
       "id": "068811fc971f",
       "title": "Android 17 is finally swapping taskbar app predictions for something you’ll actually use",
