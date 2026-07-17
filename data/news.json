@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-17 18:14:40",
-  "total_count": 1294,
-  "news_count": 1289,
+  "last_updated": "2026-07-17 20:13:05",
+  "total_count": 1295,
+  "news_count": 1290,
   "android_count": 315,
-  "ios_count": 974,
+  "ios_count": 975,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1069fbf01d70",
+      "title": "9to5Mac Overtime 073: iOS 27 Public Beta",
+      "summary": "Jeff and Fernando discuss the iOS 27 Public Beta, some of their favorite new iOS 27 new features, and whether or not people should consider installing it on their main device. The pair also talks about ChatGPT vs Siri AI, OpenAI vs Apple, the end of carrier-financed unlocked iPhones, and nine upcomi",
+      "url": "https://9to5mac.com/2026/07/17/9to5mac-overtime-073-ios-27-public-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-17 18:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/9to5Mac-Overtime-073.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac 加班 073：iOS 27 公开测试版",
+      "summary_translated": "Jeff 和 Fernando 讨论了 iOS 27 Public Beta、他们最喜欢的一些 iOS 27 新功能，以及人们是否应该考虑将其安装在他们的主要设备上。两人还讨论了 ChatGPT 与 Siri AI、OpenAI 与 Apple、运营商资助的解锁 iPhone 的终结，以及九个即将推出的产品"
+    },
     {
       "id": "bcfb7f7ba72e",
       "title": "The best CarPlay upgrades to try in the iOS 27 public beta",
