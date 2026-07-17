@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-17 12:18:51",
-  "total_count": 1291,
-  "news_count": 1286,
+  "last_updated": "2026-07-17 14:51:00",
+  "total_count": 1294,
+  "news_count": 1289,
   "android_count": 315,
-  "ios_count": 971,
+  "ios_count": 974,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bcfb7f7ba72e",
+      "title": "The best CarPlay upgrades to try in the iOS 27 public beta",
+      "summary": "The iOS 27 public beta is now available, and it includes several CarPlay changes worth checking out. Here’s what you should try after updating.",
+      "url": "https://9to5mac.com/2026/07/17/the-best-carplay-upgrades-to-try-in-the-ios-27-public-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-17 13:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay27-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 公开测试版中值得尝试的最佳 CarPlay 升级",
+      "summary_translated": "iOS 27 公开测试版现已发布，其中包括一些值得关注的 CarPlay 更改。这是更新后您应该尝试的操作。"
+    },
+    {
+      "id": "2ad4d5ae2ac2",
+      "title": "iOS 27: Access the New iPhone Recovery Screen",
+      "summary": "Since iOS 26, a malfunctioning iPhone has been able to boot itself into Recovery Assistant, with no Mac or PC required. However, you could only get there if your device failed to start up and dropped into recovery on its own. \n\n\n\n\nIn iOS 27, currently in beta, Apple has removed that limitation, and ",
+      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-17 04:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/recovery-screen@2x-scaled.jpg",
+      "title_translated": "iOS 27：访问新的 iPhone 恢复屏幕",
+      "summary_translated": "自 iOS 26 以来，出现故障的 iPhone 已经能够自行启动进入恢复助手，无需 Mac 或 PC。但是，只有当您的设备无法启动并自行进入恢复状态时，您才能到达那里。 \n\n\n\n\n在目前处于测试阶段的 iOS 27 中，Apple 取消了该限制，并且"
+    },
     {
       "id": "d844ed56136a",
       "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
@@ -18008,6 +18036,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/xss3D6BxeQk/hqdefault.jpg",
       "title_translated": "iOS 27 的更新比我们想象的要大得多这是所有非 Siri 功能！",
+      "summary_translated": ""
+    },
+    {
+      "id": "6e845c477e77",
+      "title": "Overtime Episode 073: iOS 27 Public Beta",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=oHWpeONH7uM",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/oHWpeONH7uM/hqdefault.jpg",
+      "title_translated": "加时赛第 073 集：iOS 27 公测版",
       "summary_translated": ""
     },
     {
