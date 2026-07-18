@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-18 12:02:04",
-  "total_count": 1295,
-  "news_count": 1290,
+  "last_updated": "2026-07-18 13:43:24",
+  "total_count": 1296,
+  "news_count": 1291,
   "android_count": 315,
-  "ios_count": 975,
+  "ios_count": 976,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "087e326a9319",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
+      "summary": "Following through on its promise of a July release, Apple delivered the first public betas of iOS 27, macOS Golden Gate, and more this week, opening up testing to a broader audience.\n\n\n\n\nThis week also saw Apple's annual Back to School promotion go live in a number of countries, ongoing fallout from",
+      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-18 03:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-18.jpg",
+      "title_translated": "热门故事：iOS 27 和 macOS Golden Gate 公开测试版、Apple 返校促销等",
+      "summary_translated": "苹果兑现了 7 月发布的承诺，本周发布了 iOS 27、macOS Golden Gate 等的首个公开测试版，向更广泛的受众开放了测试。\n\n\n\n\n本周，苹果公司的年度返校促销活动在多个国家/地区开始，"
+    },
     {
       "id": "1069fbf01d70",
       "title": "9to5Mac Overtime 073: iOS 27 Public Beta",
