@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-19 09:59:38",
-  "total_count": 1296,
-  "news_count": 1291,
-  "android_count": 315,
+  "last_updated": "2026-07-19 11:19:14",
+  "total_count": 1297,
+  "news_count": 1292,
+  "android_count": 316,
   "ios_count": 976,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b12a579f80cc",
+      "title": "Android 17’s best feature isn’t out yet — here are 3 ways you can replicate it right now",
+      "summary": "You don't have to wait for Pause Point.",
+      "url": "https://www.androidauthority.com/how-to-replicate-android-17-pause-point-right-now-3687961/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-19 10:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/android-17-pause-point-alternatives-cover.jpg",
+      "title_translated": "Android 17 的最佳功能尚未推出 - 您现在可以通过以下 3 种方式复制它",
+      "summary_translated": "您不必等待暂停点。"
+    },
     {
       "id": "087e326a9319",
       "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
