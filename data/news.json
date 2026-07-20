@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-07-20 19:03:47",
-  "total_count": 1310,
-  "news_count": 1305,
-  "android_count": 320,
-  "ios_count": 985,
+  "last_updated": "2026-07-20 20:38:38",
+  "total_count": 1315,
+  "news_count": 1310,
+  "android_count": 321,
+  "ios_count": 989,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "794118a3d016",
+      "title": "Apple Music in iOS 27: Five new features coming to your iPhone",
+      "summary": "iOS 27 brings new features to apps like Apple Wallet, Calendar, Notes, Maps, and more. Apple Music adds a variety of improvements too, including five new features outlined below.",
+      "url": "https://9to5mac.com/2026/07/20/apple-music-in-ios-27-five-new-features-coming-to-your-iphone/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-20 20:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-music-features-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中的 Apple Music：iPhone 即将推出五项新功能",
+      "summary_translated": "iOS 27 为 Apple 钱包、日历、便笺、地图等应用程序带来了新功能。 Apple Music 还添加了多种改进，包括下面列出的五项新功能。"
+    },
+    {
+      "id": "d0bb7866167b",
+      "title": "It’s the beginning of the end for the Pixel 6 and Pixel 6 Pro",
+      "summary": "Google’s latest Android 17 Beta quietly marks the sunset of Pixel 6 support.",
+      "url": "https://www.androidauthority.com/pixel-6-android-updates-3689352/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-20 20:05",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2021/10/google-pixel-6-review-sorta-seafoam-in-hand-2-scaled.jpg",
+      "title_translated": "这是 Pixel 6 和 Pixel 6 Pro 终结的开始",
+      "summary_translated": "谷歌最新的 Android 17 Beta 悄然标志着 Pixel 6 支持的结束。"
+    },
+    {
+      "id": "efed7c99c47e",
+      "title": "iOS 26.6: New features, release date, more",
+      "summary": "iOS 26.6 is imminent for iPhone users. Here’s everything you need to know about the update, and why it’s more important than you may think.",
+      "url": "https://9to5mac.com/2026/07/20/ios-26-6-new-features-release-date-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-20 19:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26.6-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.6：新功能、发布日期等",
+      "summary_translated": "iPhone 用户即将迎来 iOS 26.6。以下是您需要了解的有关此更新的所有信息，以及为什么它比您想象的更重要。"
+    },
     {
       "id": "1efde338f17d",
       "title": "Pixel 6 and 6 Pro will not get Android 17 QPR2",
@@ -131,6 +173,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-27-b4.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 beta 4 现已推出，苹果测试 Siri AI 重大升级",
       "summary_translated": "苹果发布了第四个 iOS 27 Beta 版供开发者测试。内部版本号为 23G71。 iOS 27 beta 4 取代了第三个 iOS 27 beta，后者有两个发布版本，并在今年秋天公开发布之前继续苹果的夏季测试周期。我们将更新我们的设备并分享我们的发现。"
+    },
+    {
+      "id": "2523f934aaa5",
+      "title": "iOS 27 Code References iPhone With Two Batteries",
+      "summary": "The fourth developer beta of iOS 27 has references to an iPhone with two batteries, according to Macworld. New Battery Health strings include mentions of multiple internal batteries, instead of a single battery. MacRumors confirmed the mentions are in the beta.\n\n\n\n\n\n\n\"The batteries in this iPhone ar",
+      "url": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-20 12:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "title_translated": "iOS 27 代码引用配备两块电池的 iPhone",
+      "summary_translated": "据 Macworld 报道，iOS 27 的第四个开发者测试版提到了配备两块电池的 iPhone。新的电池健康字符串包括提及多个内部电池，而不是单个电池。 MacRumors 证实这些内容已在测试版中。\n\n\n\n\n\n\n“这款 iPhone 中的电池"
     },
     {
       "id": "fbd4ff8a5a40",
@@ -18274,6 +18330,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/oHWpeONH7uM/hqdefault.jpg",
       "title_translated": "加时赛第 073 集：iOS 27 公测版",
+      "summary_translated": ""
+    },
+    {
+      "id": "7edd88ca1c21",
+      "title": "iOS 27 Beta 4 Is Here — Siri Just Got a BIG Upgrade!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=Bf9jAuON2fA",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/Bf9jAuON2fA/hqdefault.jpg",
+      "title_translated": "iOS 27 Beta 4 来了——Siri 刚刚进行了重大升级！",
       "summary_translated": ""
     },
     {
