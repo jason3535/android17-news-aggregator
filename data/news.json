@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-19 22:06:38",
-  "total_count": 1297,
-  "news_count": 1292,
+  "last_updated": "2026-07-20 00:07:08",
+  "total_count": 1298,
+  "news_count": 1293,
   "android_count": 316,
-  "ios_count": 976,
+  "ios_count": 977,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f97e2318920e",
+      "title": "iOS 27 makes your iPhone faster in 30+ ways",
+      "summary": "The iOS 27 public beta is now available, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update. ",
+      "url": "https://9to5mac.com/2026/07/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-19 23:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 通过 30 多种方式让你的 iPhone 变得更快",
+      "summary_translated": "iOS 27 公开测试版现已发布，其中一大变化是它使你的 iPhone 速度更快。事实上，Apple 已经列出了 30 多种方法，可以让您的 iPhone 在更新后变得更快。"
+    },
     {
       "id": "b12a579f80cc",
       "title": "Android 17’s best feature isn’t out yet — here are 3 ways you can replicate it right now",
@@ -18101,7 +18115,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -18112,7 +18126,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -18123,7 +18137,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -18134,7 +18148,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -18145,7 +18159,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
