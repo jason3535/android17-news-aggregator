@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-20 20:38:38",
-  "total_count": 1315,
-  "news_count": 1310,
+  "last_updated": "2026-07-20 22:09:31",
+  "total_count": 1316,
+  "news_count": 1311,
   "android_count": 321,
-  "ios_count": 989,
+  "ios_count": 990,
   "leaker_count": 5,
   "items": [
     {
@@ -173,6 +173,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-27-b4.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 beta 4 现已推出，苹果测试 Siri AI 重大升级",
       "summary_translated": "苹果发布了第四个 iOS 27 Beta 版供开发者测试。内部版本号为 23G71。 iOS 27 beta 4 取代了第三个 iOS 27 beta，后者有两个发布版本，并在今年秋天公开发布之前继续苹果的夏季测试周期。我们将更新我们的设备并分享我们的发现。"
+    },
+    {
+      "id": "f23e71abff58",
+      "title": "Everything New in iOS 27 Beta 4",
+      "summary": "Apple is continuing to tweak iOS 27 ahead of its September launch, and the fourth developer beta is available as of today. There are fewer changes than in prior betas, but Apple is still adding new features.\n\n\n\n\nTV App\n\nIn the Settings section of the Apple TV app, there's a new Automatic Downloads t",
+      "url": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-20 14:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Warm-Dark.jpg",
+      "title_translated": "iOS 27 Beta 4 中的所有新功能",
+      "summary_translated": "苹果在 9 月发布之前继续对 iOS 27 进行调整，第四个开发者测试版已于今日发布。与之前的测试版相比，变化较少，但苹果仍在添加新功能。\n\n\n\n\n电视应用程序\n\n在Apple TV应用程序的“设置”部分中，有一个新的“自动下载”选项"
     },
     {
       "id": "2523f934aaa5",
