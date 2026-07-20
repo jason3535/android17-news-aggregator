@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-20 08:15:51",
-  "total_count": 1298,
-  "news_count": 1293,
+  "last_updated": "2026-07-20 11:54:06",
+  "total_count": 1299,
+  "news_count": 1294,
   "android_count": 316,
-  "ios_count": 977,
+  "ios_count": 978,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ef34fe356886",
+      "title": "Apple's Secret Siri Interface Buried in macOS 27 Beta: How to Enable",
+      "summary": "Apple appears to be testing a hidden popover interface for Siri AI in the macOS 27 Golden Gate beta that surfaces Writing Tools and contextual actions whenever the user selects some text.\n\n\n\n\nSpotted by a member of Reddit's r/MacOSBeta community, the floating icon appears at the top-left of the sele",
+      "url": "https://www.macrumors.com/2026/07/20/secret-siri-interface-macos-27-beta-enable/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-20 04:09",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/siri-popover-macos-27@2x-scaled.jpg",
+      "title_translated": "苹果隐藏在 macOS 27 Beta 中的秘密 Siri 界面：如何启用",
+      "summary_translated": "苹果似乎正在 macOS 27 Golden Gate Beta 中测试 Siri AI 的隐藏弹出界面，每当用户选择某些文本时，该界面就会显示书写工具和上下文操作。\n\n\n\n\nReddit r/MacOSBeta 社区的一名成员发现，浮动图标出现在选择的左上角"
+    },
     {
       "id": "f97e2318920e",
       "title": "iOS 27 makes your iPhone faster in 30+ ways",
