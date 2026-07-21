@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-21 00:06:10",
-  "total_count": 1316,
-  "news_count": 1311,
+  "last_updated": "2026-07-21 04:25:29",
+  "total_count": 1317,
+  "news_count": 1312,
   "android_count": 321,
-  "ios_count": 990,
+  "ios_count": 991,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0a5765b0789f",
+      "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
+      "summary": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in the Apple TV app. Here’s how it works.",
+      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-21 00:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-tv-app-iphone_e8e761.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 4 添加了一个有用的 Apple TV 应用程序功能，其工作原理如下",
+      "summary_translated": "苹果今天发布了 iOS 27 beta 4，它在 Apple TV 应用程序中提供了一个有用的新“自动下载”功能。这是它的工作原理。"
+    },
     {
       "id": "794118a3d016",
       "title": "Apple Music in iOS 27: Five new features coming to your iPhone",
