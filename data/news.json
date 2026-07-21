@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-21 19:46:05",
-  "total_count": 1318,
-  "news_count": 1313,
+  "last_updated": "2026-07-21 21:22:36",
+  "total_count": 1319,
+  "news_count": 1314,
   "android_count": 321,
-  "ios_count": 992,
+  "ios_count": 993,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7cbb91249931",
+      "title": "iOS 27 code suggests Apple could restrict leased devices after missed payments",
+      "summary": "Code found in the iOS 27 beta suggests Apple has built a system that could restrict leased devices when customers fall behind on payments. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-21 20:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 代码表明苹果可能会在未付款后限制租赁设备",
+      "summary_translated": "iOS 27 beta 中发现的代码表明，苹果已经构建了一个系统，可以在客户拖欠付款时限制租赁设备。以下是详细信息。"
+    },
     {
       "id": "e9d37163e755",
       "title": "iOS 26.6 Prepares Your iPhone for iOS 27",
