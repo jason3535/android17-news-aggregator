@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22 16:40:10",
-  "total_count": 1323,
-  "news_count": 1318,
+  "last_updated": "2026-07-22 18:18:37",
+  "total_count": 1325,
+  "news_count": 1320,
   "android_count": 323,
-  "ios_count": 995,
+  "ios_count": 997,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2437fdbc9ad5",
+      "title": "iOS 27 public beta 2 is here with Siri AI, iPhone speed upgrades, and more",
+      "summary": "The second iOS 27 public beta is now available for iPhone. It gives users an early chance to try Apple’s biggest software update of the year.\nSiri AI is the headline feature. The release also includes a redesigned Screen Time experience, Liquid Glass refinements, performance upgrades, and dozens of ",
+      "url": "https://9to5mac.com/2026/07/22/ios-27-public-beta-2-is-here-with-siri-ai-iphone-speed-upgrades-and-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-22 17:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 公开测试版 2 现已推出，包含 Siri AI、iPhone 速度升级等",
+      "summary_translated": "第二个 iOS 27 公开测试版现已适用于 iPhone。它让用户有机会尽早尝试苹果今年最大的软件更新。\nSiri AI 是头条新闻。该版本还包括重新设计的屏幕时间体验、液体玻璃改进、性能升级以及数十项"
+    },
     {
       "id": "e21a4957f2a9",
       "title": "iOS 27 adds convenient new iPhone feature you’ll use all the time",
@@ -61,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "title_translated": "9to5Mac Daily：2026 年 7 月 22 日 – iOS 27 beta 4 和 iOS 26.6 RC",
       "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
+    {
+      "id": "f08489abd6ff",
+      "title": "Second iOS 27 and iPadOS 27 Public Betas Now Available",
+      "summary": "Apple today released the second public betas of iOS 27 and iPadOS 27, allowing anyone with a compatible device to download and test the new software. The second betas come a week after Apple seeded the first betas. \n\n\n\n\nYou can get started by signing up on Apple's beta website and then opting in to ",
+      "url": "https://www.macrumors.com/2026/07/22/apple-seeds-ios-27-public-beta-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-22 10:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "title_translated": "第二个 iOS 27 和 iPadOS 27 公开测试版现已推出",
+      "summary_translated": "苹果今天发布了 iOS 27 和 iPadOS 27 的第二个公开测试版，允许任何拥有兼容设备的人下载和测试新软件。第二个测试版是在苹果发布第一个测试版一周后发布的。 \n\n\n\n\n您可以先在 Apple 的测试版网站上注册，然后选择加入"
     },
     {
       "id": "7cbb91249931",
