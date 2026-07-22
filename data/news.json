@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22 20:18:25",
-  "total_count": 1326,
-  "news_count": 1321,
+  "last_updated": "2026-07-22 22:13:50",
+  "total_count": 1327,
+  "news_count": 1322,
   "android_count": 323,
-  "ios_count": 998,
+  "ios_count": 999,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "78fef545c281",
+      "title": "Here’s everything new for CarPlay in iOS 27",
+      "summary": "iOS 27 is launching this fall, and it brings a handful of improvements for CarPlay. Here’s everything new for CarPlay in iOS 27.",
+      "url": "https://9to5mac.com/2026/07/22/heres-everything-new-for-carplay-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-22 20:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中 CarPlay 的所有新功能",
+      "summary_translated": "iOS 27 将于今年秋季发布，它为 CarPlay 带来了一些改进。以下是 iOS 27 中 CarPlay 的所有新功能。"
+    },
     {
       "id": "25570e536807",
       "title": "Apple Card adds new feature in iOS 27 that every card should have",
