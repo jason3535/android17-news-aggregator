@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22 11:59:38",
-  "total_count": 1320,
-  "news_count": 1315,
-  "android_count": 321,
+  "last_updated": "2026-07-22 14:18:20",
+  "total_count": 1321,
+  "news_count": 1316,
+  "android_count": 322,
   "ios_count": 994,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5041cebdc72d",
+      "title": "Samsung launches One UI 9 stable, but your Galaxy S26 will have to wait",
+      "summary": "The Android 17-based update debuts on Samsung's new foldables with AI privacy tools, Smart Switch upgrades, and more.",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-stable-3690019/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-22 13:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-One-UI-9_1.jpg",
+      "title_translated": "三星推出 One UI 9 稳定版，但您的 Galaxy S26 还需等待",
+      "summary_translated": "基于 Android 17 的更新首次在三星的新款可折叠手机上首次亮相，其中包括人工智能隐私工具、智能开关升级等。"
+    },
     {
       "id": "1fd6bdc398cc",
       "title": "9to5Mac Daily: July 22, 2026 – iOS 27 beta 4 and iOS 26.6 RC",
