@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-22 18:18:37",
-  "total_count": 1325,
-  "news_count": 1320,
+  "last_updated": "2026-07-22 20:18:25",
+  "total_count": 1326,
+  "news_count": 1321,
   "android_count": 323,
-  "ios_count": 997,
+  "ios_count": 998,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "25570e536807",
+      "title": "Apple Card adds new feature in iOS 27 that every card should have",
+      "summary": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions.",
+      "url": "https://9to5mac.com/2026/07/22/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-22 18:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Card 在 iOS 27 中添加了每张卡都应该具备的新功能",
+      "summary_translated": "iOS 27 为 Apple Wallet 带来了多种新功能，其中包括一个 Apple Card 独有的功能，我希望每张卡都提供这样的功能：所有经常性交易的中心。"
+    },
     {
       "id": "2437fdbc9ad5",
       "title": "iOS 27 public beta 2 is here with Siri AI, iPhone speed upgrades, and more",
