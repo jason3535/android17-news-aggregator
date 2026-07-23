@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-23 17:42:17",
-  "total_count": 1329,
-  "news_count": 1324,
+  "last_updated": "2026-07-23 19:40:28",
+  "total_count": 1330,
+  "news_count": 1325,
   "android_count": 323,
-  "ios_count": 1001,
+  "ios_count": 1002,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0386b8971a8c",
+      "title": "iOS 27’s new Siri delivers in every single way I’d hoped for",
+      "summary": "Siri AI launches this fall in iOS 27, and after more than a month using the beta, I can happily say the new Siri delivers in every way I’d hoped for.",
+      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-23 18:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 的新 Siri 满足了我所希望的一切",
+      "summary_translated": "Siri AI 今年秋天在 iOS 27 中发布，经过一个多月的测试版使用，我可以很高兴地说新的 Siri 满足了我所希望的一切。"
+    },
     {
       "id": "04c68d8e6f67",
       "title": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
