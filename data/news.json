@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-23 15:20:01",
-  "total_count": 1328,
-  "news_count": 1323,
+  "last_updated": "2026-07-23 17:42:17",
+  "total_count": 1329,
+  "news_count": 1324,
   "android_count": 323,
-  "ios_count": 1000,
+  "ios_count": 1001,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "04c68d8e6f67",
+      "title": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
+      "summary": "Apple Photos gets a variety of exciting upgrades in iOS 27, including a new feature that’s long been on my wishlist: the ability to save a video frame as a photo.",
+      "url": "https://9to5mac.com/2026/07/23/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-23 16:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 为 Apple Photos 提供了我多年来一直想要的非常有用的功能",
+      "summary_translated": "Apple Photos 在 iOS 27 中获得了各种令人兴奋的升级，其中包括我一直以来的愿望清单上的一项新功能：将视频帧另存为照片的功能。"
+    },
     {
       "id": "ef13d7d3e506",
       "title": "macOS 27 Beta Hides Trippy Siri 'Voice Pad' Interface With 13 Voices",
