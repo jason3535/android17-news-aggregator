@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-23 10:33:01",
-  "total_count": 1327,
-  "news_count": 1322,
+  "last_updated": "2026-07-23 12:46:29",
+  "total_count": 1328,
+  "news_count": 1323,
   "android_count": 323,
-  "ios_count": 999,
+  "ios_count": 1000,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ef13d7d3e506",
+      "title": "macOS 27 Beta Hides Trippy Siri 'Voice Pad' Interface With 13 Voices",
+      "summary": "For macOS 27 Golden Gate, Apple appears to be working on an immersive new interface for choosing Siri AI's voice, based on findings in the latest beta.\n\n\n\n\nMacRumors forum member \"mactracker\" has shared what they call a hidden \"voice pad\" in the macOS 27 beta 4, which was released on Monday. When en",
+      "url": "https://www.macrumors.com/2026/07/23/macos-27-beta-hidden-siri-voice-ui/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-23 03:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "title_translated": "macOS 27 Beta 隐藏了具有 13 种声音的 Trippy Siri“语音垫”界面",
+      "summary_translated": "根据最新测试版的发现，对于 macOS 27 Golden Gate，苹果似乎正在开发一种沉浸式新界面，用于选择 Siri AI 的声音。\n\n\n\n\nMacRumors 论坛成员“mactracker”分享了周一发布的 macOS 27 beta 4 中隐藏的“语音板”。当恩"
+    },
     {
       "id": "78fef545c281",
       "title": "Here’s everything new for CarPlay in iOS 27",
