@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-24 11:52:14",
-  "total_count": 1333,
-  "news_count": 1328,
+  "last_updated": "2026-07-24 14:06:04",
+  "total_count": 1334,
+  "news_count": 1329,
   "android_count": 323,
-  "ios_count": 1005,
+  "ios_count": 1006,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "dc3293181d27",
+      "title": "PSA: Check your banking app for a potentially important setting",
+      "summary": "Mention of a new Apple Card feature in iOS 27 brought to mind a banking app feature I recently had to enable after discovering it was not on by default.\nThis too relates to automatically recurring card payments, and it turned out not to work in the way we might expect it to … ",
+      "url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-24 12:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Check-your-banking-app-for-a-potentially-important-setting.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "PSA：检查您的银行应用程序是否有潜在重要的设置",
+      "summary_translated": "提到 iOS 27 中的新 Apple Card 功能，我想起了一项银行应用程序功能，我最近发现该功能默认情况下未启用，因此不得不启用该功能。\n这也与自动循环卡付款有关，但事实证明它并不像我们期望的那样工作……"
+    },
     {
       "id": "9829709de548",
       "title": "Here’s everything new for Messages in iOS 27",
