@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-24 18:40:59",
-  "total_count": 1338,
-  "news_count": 1333,
+  "last_updated": "2026-07-24 20:38:08",
+  "total_count": 1339,
+  "news_count": 1334,
   "android_count": 323,
-  "ios_count": 1010,
+  "ios_count": 1011,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9ee698d250e8",
+      "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "summary": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.",
+      "url": "https://9to5mac.com/2026/07/24/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-24 18:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 添加了新的“电话”应用程序功能，立即受到喜爱",
+      "summary_translated": "iOS 27 包含了笔记、钱包、地图、消息等应用程序的新功能。但 iOS 27 中最让我印象深刻的是一项新的电话功能：通话上下文。"
+    },
     {
       "id": "50984998a5a5",
       "title": "Apple’s $250 million Siri settlement just got approved, here’s who gets paid",
