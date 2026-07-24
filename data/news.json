@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-24 14:06:04",
-  "total_count": 1334,
-  "news_count": 1329,
+  "last_updated": "2026-07-24 16:52:47",
+  "total_count": 1338,
+  "news_count": 1333,
   "android_count": 323,
-  "ios_count": 1006,
+  "ios_count": 1010,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "50984998a5a5",
+      "title": "Apple’s $250 million Siri settlement just got approved, here’s who gets paid",
+      "summary": "Apple’s $250 million class action lawsuit settlement over Siri and Apple Intelligence delays is moving through the court system. Here’s the latest news on how the $250 million will be distributed, who’s eligible, and more.",
+      "url": "https://9to5mac.com/2026/07/24/apples-250-million-siri-settlement-just-got-approved-heres-who-gets-paid/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-24 16:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-intelligence-when.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果 2.5 亿美元的 Siri 和解协议刚刚获得批准，以下是获得付款的人",
+      "summary_translated": "苹果因 Siri 和 Apple Intelligence 延迟而达成的 2.5 亿美元集体诉讼和解协议正在通过法院系统审理。以下是有关如何分配 2.5 亿美元、谁有资格等的最新消息。"
+    },
+    {
+      "id": "3e19e7d39322",
+      "title": "iOS 26.6 is coming next week for iPhone, here’s what’s new",
+      "summary": "iOS 26.6 is coming next week for iPhone users, and Apple’s release notes tell us exactly what to expect from the new software update.",
+      "url": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-24 15:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iPhone 的 iOS 26.6 将于下周发布，以下是新功能",
+      "summary_translated": "iOS 26.6 将于下周面向 iPhone 用户推出，苹果的发行说明准确地告诉了我们对新软件更新的期望。"
+    },
     {
       "id": "dc3293181d27",
       "title": "PSA: Check your banking app for a potentially important setting",
@@ -19,6 +47,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Check-your-banking-app-for-a-potentially-important-setting.jpg?quality=82&strip=all&w=1600",
       "title_translated": "PSA：检查您的银行应用程序是否有潜在重要的设置",
       "summary_translated": "提到 iOS 27 中的新 Apple Card 功能，我想起了一项银行应用程序功能，我最近发现该功能默认情况下未启用，因此不得不启用该功能。\n这也与自动循环卡付款有关，但事实证明它并不像我们期望的那样工作……"
+    },
+    {
+      "id": "5192bccbad91",
+      "title": "macOS 27 Beta Reworks Mail's Compose Window Around Siri AI",
+      "summary": "For macOS 27 Golden Gate, coming this fall, Apple appears to be testing a new formatting bar for the Mail app's compose window that promotes Apple Intelligence's Writing Tools and Siri AI, based on findings in the latest beta.\n\n\n\n\nFeature flags discovered by MacRumors forum member \"mactracker\" – who",
+      "url": "https://www.macrumors.com/2026/07/24/macos-27-beta-siri-mail-compose-window/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-24 08:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/apple-working-on-redesigned-formatting-bar-for-mail-2.jpg",
+      "title_translated": "macOS 27 Beta 围绕 Siri AI 重新设计了 Mail 的撰写窗口",
+      "summary_translated": "对于今年秋天即将推出的 macOS 27 Golden Gate，根据最新测试版的发现，苹果似乎正在测试邮件应用程序撰写窗口的新格式栏，以推广 Apple Intelligence 的写作工具和 Siri AI。\n\n\n\n\nMacRumors 论坛成员“mactracker”发现的功能标志 – 谁"
+    },
+    {
+      "id": "439e3affeb54",
+      "title": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models",
+      "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout.\n\n\n\n\nApple's settlement has now received preliminary approval from a judge, according to a July 17 court document. However, there i",
+      "url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-24 08:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
+      "title_translated": "Siri 和解协议获批准：苹果将向部分 iPhone 型号的用户付款",
+      "summary_translated": "今年 5 月，苹果同意支付 2.5 亿美元，以了结因 Siri AI 延迟推出而引发的美国集体诉讼，符合条件的 iPhone 用户最多可获得 95 美元的赔偿。\n\n\n\n\n根据 7 月 17 日的法庭文件，苹果公司的和解方案现已获得法官的初步批准。然而，有我"
     },
     {
       "id": "9829709de548",
