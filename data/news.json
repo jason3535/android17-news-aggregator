@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-25 11:22:11",
-  "total_count": 1340,
-  "news_count": 1335,
+  "last_updated": "2026-07-25 13:57:05",
+  "total_count": 1341,
+  "news_count": 1336,
   "android_count": 323,
-  "ios_count": 1012,
+  "ios_count": 1013,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "913d61cd0f62",
+      "title": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More",
+      "summary": "It's been another busy week in the Apple world, led by word that the company is preparing to launch a new device leasing and financing program as it has raised some more prices including on Apple Music subscriptions.\n\n\n\n\nThis week also saw a fresh round of beta releases for iOS 27 and related update",
+      "url": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-25 06:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-25.jpg",
+      "title_translated": "头条新闻：“Apple 升级”计划、Apple Music 价格上涨等",
+      "summary_translated": "苹果公司又度过了忙碌的一周，有消息称该公司正准备推出新的设备租赁和融资计划，并提高了包括 Apple Music 订阅在内的更多价格。\n\n\n\n\n本周还发布了新一轮 iOS 27 测试版及相关更新"
+    },
     {
       "id": "9ee698d250e8",
       "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
