@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-24 22:14:54",
-  "total_count": 1339,
-  "news_count": 1334,
+  "last_updated": "2026-07-25 00:12:47",
+  "total_count": 1340,
+  "news_count": 1335,
   "android_count": 323,
-  "ios_count": 1011,
+  "ios_count": 1012,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-intelligence-when.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果 2.5 亿美元的 Siri 和解协议刚刚获得批准，以下是获得付款的人",
       "summary_translated": "苹果因 Siri 和 Apple Intelligence 延迟而达成的 2.5 亿美元集体诉讼和解协议正在通过法院系统审理。以下是有关如何分配 2.5 亿美元、谁有资格等的最新消息。"
+    },
+    {
+      "id": "8a614bb738f5",
+      "title": "iOS 27: All the New iCloud Features",
+      "summary": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct ‌iCloud‌ improvements like upgrades to photo uploads and sharing, along with some indirect new features.\n\n\n\n\nHomeKit Secure Video Cameras (iCloud+)\n\nIf you have HomeKit Secure V",
+      "url": "https://www.macrumors.com/guide/ios-27-icloud/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-24 15:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-All-the-New-iCloud-Features.jpg",
+      "title_translated": "iOS 27：所有新的 iCloud 功能",
+      "summary_translated": "iOS 27 包括跨 Apple Home、Siri、照片等多个应用程序的新 iCloud 功能。 iCloud 有一些直接的改进，例如照片上传和共享的升级，以及一些间接的新功能。\n\n\n\n\nHomeKit 安全摄像机 (iCloud+)\n\n如果您有 HomeKit Secure V"
     },
     {
       "id": "3e19e7d39322",
@@ -18689,7 +18703,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -18700,7 +18714,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -18711,7 +18725,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -18722,7 +18736,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -18733,7 +18747,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
