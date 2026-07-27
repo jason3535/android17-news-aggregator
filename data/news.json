@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-27 17:51:31",
-  "total_count": 1345,
-  "news_count": 1340,
+  "last_updated": "2026-07-27 19:48:23",
+  "total_count": 1347,
+  "news_count": 1342,
   "android_count": 323,
-  "ios_count": 1017,
+  "ios_count": 1019,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b1429e91d35b",
+      "title": "Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now",
+      "summary": "Following the release of iOS 26.6, iPadOS 26.6, and related software updates, Apple has detailed a huge number of security fixes included in today’s new OS versions. ",
+      "url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-27 18:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 修复了 iPhone 上的超过 75 个安全问题和 Mac 上的 150 多个安全问题，立即更新",
+      "summary_translated": "在发布 iOS 26.6、iPadOS 26.6 和相关软件更新后，Apple 详细介绍了今天新操作系统版本中包含的大量安全修复程序。"
+    },
     {
       "id": "f9d6f5e362ea",
       "title": "iOS 26.6 now available for iPhone with these changes",
@@ -33,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 为苹果日历应用带来了我多年来想要的新功能",
       "summary_translated": "iOS 27 将于今年秋天发布，它添加了我多年来想要的新 Apple 日历功能：创建事件时的自然语言支持。"
+    },
+    {
+      "id": "51a7f9a26f46",
+      "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
+      "summary": "Apple today released iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6, all of which have a long list of security fixes.\n\n\n\n\niOS 26.6 and iPadOS 26.6 address almost 90 security vulnerabilities affecting everything from the App Store to the Neural Engine. Multiple kernel and WebKit vulnerabilities were fix",
+      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-27 11:55",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title_translated": "立即更新：iOS 26.6 和 macOS Tahoe 26.6 修补了数百个安全漏洞",
+      "summary_translated": "Apple 今天发布了 iOS 26.6、iPadOS 26.6 和 macOS Tahoe 26.6，所有这些版本都有一长串的安全修复程序。\n\n\n\n\niOS 26.6 和 iPadOS 26.6 解决了近 90 个安全漏洞，影响从 App Store 到神经引擎的所有内容。修复了多个内核和 WebKit 漏洞"
     },
     {
       "id": "5fdba07d8929",
