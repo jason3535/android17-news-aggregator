@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-28 06:36:33",
-  "total_count": 1347,
-  "news_count": 1342,
-  "android_count": 323,
+  "last_updated": "2026-07-28 09:42:47",
+  "total_count": 1348,
+  "news_count": 1343,
+  "android_count": 324,
   "ios_count": 1019,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5ea8616ba14f",
+      "title": "Here are the new features spotted in Motorola’s Android 17 beta",
+      "summary": "From home screen and app drawer changes, to improved Live Updates, here is what beta testers have found so far.",
+      "url": "https://www.androidauthority.com/motorola-android-17-beta-features-3691873/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-28 08:37",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Edge-60-Pro.jpg",
+      "title_translated": "以下是摩托罗拉 Android 17 测试版中发现的新功能",
+      "summary_translated": "从主屏幕和应用程序抽屉的更改，到改进的实时更新，以下是 Beta 测试人员迄今为止发现的内容。"
+    },
     {
       "id": "b1429e91d35b",
       "title": "Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now",
