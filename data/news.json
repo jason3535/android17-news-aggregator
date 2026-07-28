@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-28 17:43:08",
-  "total_count": 1351,
-  "news_count": 1346,
+  "last_updated": "2026-07-28 19:47:48",
+  "total_count": 1353,
+  "news_count": 1348,
   "android_count": 325,
-  "ios_count": 1021,
+  "ios_count": 1023,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a20dd8fa495c",
+      "title": "Here’s everything new for Apple Wallet in iOS 27",
+      "summary": "iOS 27 will launch this fall for all users, here’s what’s new for the Apple Wallet app in the next major iPhone update.",
+      "url": "https://9to5mac.com/2026/07/28/heres-everything-new-for-apple-wallet-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-28 18:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中 Apple 钱包的所有新功能",
+      "summary_translated": "iOS 27 将于今年秋季向所有用户发布，以下是下一次主要 iPhone 更新中 Apple 钱包应用程序的新增功能。"
+    },
+    {
+      "id": "f9b6be2c3345",
+      "title": "iOS 27 includes smarter Find My location sharing for Apple Watch users",
+      "summary": "The Find My app is used by millions of people to find their misplaced devices in a pinch, and millions more use it to share their current location with close friends and family.\nThe iOS 27 software releases include a bevy of changes to enhance the Find My experience. Specifically, iPhone users who r",
+      "url": "https://9to5mac.com/2026/07/28/ios-27-smarter-find-my-location-sharing-apple-watch/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-28 18:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 为 Apple Watch 用户提供更智能的“查找我的位置”共享",
+      "summary_translated": "数百万人使用“查找我的”应用程序在紧要关头查找丢失的设备，还有数百万人使用它与亲密的朋友和家人分享他们当前的位置。\niOS 27 软件版本包括一系列旨在增强“查找我的”体验的更改。具体来说，iPhone 用户"
+    },
     {
       "id": "56d3894a12bd",
       "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
