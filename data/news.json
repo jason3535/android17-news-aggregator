@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-28 15:29:09",
-  "total_count": 1350,
-  "news_count": 1345,
+  "last_updated": "2026-07-28 17:43:08",
+  "total_count": 1351,
+  "news_count": 1346,
   "android_count": 325,
-  "ios_count": 1020,
+  "ios_count": 1021,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Galaxy-S26-Ultra-in-Blue.jpg?quality=82&strip=all&w=1600",
       "title_translated": "三星的下一个重大 Android 更新将迫使你在 13 次解锁失败后重置手机",
       "summary_translated": "继谷歌在 Android 17 中做出改变之后，三星的下一个主要 One UI 更新也实施了更严格的锁定限制，包括在 13 次解锁尝试失败后永久锁定 Galaxy 设备。"
+    },
+    {
+      "id": "ed553991e1a9",
+      "title": "All-New Apple Home Hub Reportedly Launching as Soon as October",
+      "summary": "Apple plans to release an all-new smart home hub at some point between October and early next year, according to Bloomberg's Mark Gurman.\n\n\nApple Home Hub (Concept)\n\nSiri AI is expected to be a core feature of the hub, which is designed to be placed in rooms throughout your house, such as a kitchen,",
+      "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-28 10:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "title_translated": "据报道，全新 Apple Home Hub 最快将于 10 月推出",
+      "summary_translated": "据彭博社的马克·古尔曼 (Mark Gurman) 报道，苹果计划在 10 月至明年初之间的某个时间发布一款全新的智能家居中心。\n\n\nApple Home Hub（概念）\n\nSiri AI 预计将成为该中心的核心功能，该中心旨在放置在您家中的各个房间，例如厨房、"
     },
     {
       "id": "5ea8616ba14f",
