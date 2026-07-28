@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-28 21:18:03",
-  "total_count": 1354,
-  "news_count": 1349,
+  "last_updated": "2026-07-28 23:17:26",
+  "total_count": 1355,
+  "news_count": 1350,
   "android_count": 325,
-  "ios_count": 1024,
+  "ios_count": 1025,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 为 Apple Watch 用户提供更智能的“查找我的位置”共享",
       "summary_translated": "数百万人使用“查找我的”应用程序在紧要关头查找丢失的设备，还有数百万人使用它与亲密的朋友和家人分享他们当前的位置。\niOS 27 软件版本包括一系列旨在增强“查找我的”体验的更改。具体来说，iPhone 用户"
+    },
+    {
+      "id": "d0fb8783875b",
+      "title": "iOS 27: All the New Phone and FaceTime Features",
+      "summary": "The Phone and FaceTime apps didn't get as many new features as some of Apple's other apps, but there are a handful of capabilities that add utility and convenience.\n\n\n\n\nPhone App\n\nThe Phone app has one major update, and that's Call Context. When you call a company, the Phone app can surface relevant",
+      "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-28 15:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-All-the-New-Phone-and-FaceTime-Features.jpg",
+      "title_translated": "iOS 27：所有新的电话和 FaceTime 功能",
+      "summary_translated": "Phone 和 FaceTime 应用程序没有像 Apple 的其他一些应用程序那样获得那么多新功能，但有一些功能可以增加实用性和便利性。\n\n\n\n\n电话应用程序\n\n电话应用程序有一项重大更新，那就是呼叫上下文。当您致电公司时，电话应用程序可以显示相关信息"
     },
     {
       "id": "56d3894a12bd",
