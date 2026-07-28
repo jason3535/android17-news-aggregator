@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-28 19:47:48",
-  "total_count": 1353,
-  "news_count": 1348,
+  "last_updated": "2026-07-28 21:18:03",
+  "total_count": 1354,
+  "news_count": 1349,
   "android_count": 325,
-  "ios_count": 1023,
+  "ios_count": 1024,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c7ae441b60b2",
+      "title": "Apple says iOS 27 ‘Restricted Mode’ isn’t for new Upgrade program leases",
+      "summary": "Apple has told The Verge that missed lease payments will not activate the “Restricted Mode” system currently under development in iOS 27. What the new system is meant for remains uncertain. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-28 20:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果表示 iOS 27“受限模式”不适用于新的升级计划租赁",
+      "summary_translated": "苹果公司告诉 The Verge，错过支付租金将不会激活 iOS 27 目前正在开发的“限制模式”系统。新系统的用途仍不确定。以下是详细信息。"
+    },
     {
       "id": "a20dd8fa495c",
       "title": "Here’s everything new for Apple Wallet in iOS 27",
