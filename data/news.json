@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-29 12:12:55",
-  "total_count": 1356,
-  "news_count": 1351,
+  "last_updated": "2026-07-29 15:16:58",
+  "total_count": 1357,
+  "news_count": 1352,
   "android_count": 325,
-  "ios_count": 1026,
+  "ios_count": 1027,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "29d2f9d0d31c",
+      "title": "iOS 27 adds three new iPhone features you’ll use all the time",
+      "summary": "iOS 27 launches this fall as the next major iPhone update, here are three new features that could be among the most-used for many users.",
+      "url": "https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-29 14:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 增加了三项你会一直使用的 iPhone 新功能",
+      "summary_translated": "iOS 27 将于今年秋季发布，作为 iPhone 的下一个重大更新，以下三项新功能可能是许多用户最常用的功能之一。"
+    },
     {
       "id": "e4d5c53fb47a",
       "title": "iOS 26.6: Everything you need to know",
