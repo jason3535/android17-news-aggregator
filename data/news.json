@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-29 19:38:48",
-  "total_count": 1360,
-  "news_count": 1355,
+  "last_updated": "2026-07-29 21:09:02",
+  "total_count": 1361,
+  "news_count": 1356,
   "android_count": 326,
-  "ios_count": 1029,
+  "ios_count": 1030,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c21bf60c1541",
+      "title": "Apple Maps in iOS 27 makes my favorite recent feature even better",
+      "summary": "Apple Maps recently added a new ‘Suggested Places’ feature in iOS 26.5, but it’s getting even better in iOS 27. Here’s how.",
+      "url": "https://9to5mac.com/2026/07/29/apple-maps-in-ios-27-makes-my-favorite-recent-feature-even-better/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-29 20:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中的 Apple 地图让我最近最喜欢的功能变得更好",
+      "summary_translated": "Apple 地图最近在 iOS 26.5 中添加了新的“建议地点”功能，但它在 iOS 27 中变得更好。具体方法如下。"
+    },
     {
       "id": "57599e33b1ba",
       "title": "Apple One’s high-end tier is getting harder to resist in iOS 27",
