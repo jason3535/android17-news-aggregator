@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-29 15:16:58",
-  "total_count": 1357,
-  "news_count": 1352,
-  "android_count": 325,
-  "ios_count": 1027,
+  "last_updated": "2026-07-29 17:24:56",
+  "total_count": 1360,
+  "news_count": 1355,
+  "android_count": 326,
+  "ios_count": 1029,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "57599e33b1ba",
+      "title": "Apple One’s high-end tier is getting harder to resist in iOS 27",
+      "summary": "Apple One offers a bundle of popular Apple services at a discount, and in iOS 27 the high-end Premier plan gains new advantages.",
+      "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-29 16:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple One 的高端功能在 iOS 27 中变得越来越难以抗拒",
+      "summary_translated": "Apple One 以折扣价提供一系列流行的 Apple 服务，而在 iOS 27 中，高端 Premier 计划获得了新的优势。"
+    },
+    {
+      "id": "aab179e9a929",
+      "title": "Google Wallet broken on your Pixel? A fix is rolling out now",
+      "summary": "An Android 17 bug broke Google Wallet on Pixel phones, but Google has just deployed a server-side fix.",
+      "url": "https://www.androidauthority.com/google-wallet-bug-fix-3692460/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-29 15:49",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-8.jpg",
+      "title_translated": "您的 Pixel 上的 Google 钱包坏了？修复现已推出",
+      "summary_translated": "Android 17 错误破坏了 Pixel 手机上的 Google 钱包，但 Google 刚刚部署了服务器端修复程序。"
+    },
     {
       "id": "29d2f9d0d31c",
       "title": "iOS 27 adds three new iPhone features you’ll use all the time",
@@ -19,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 增加了三项你会一直使用的 iPhone 新功能",
       "summary_translated": "iOS 27 将于今年秋季发布，作为 iPhone 的下一个重大更新，以下三项新功能可能是许多用户最常用的功能之一。"
+    },
+    {
+      "id": "f1e8fe714314",
+      "title": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
+      "summary": "If you accidentally press the dictation or voice icon after sending a text in Messages, your music may pause while your iPhone starts listening. It's a small annoyance, but a frequent one, since the dictation/audio icon sits so close to the send arrow that stray taps are almost inevitable. In iOS 27",
+      "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-29 09:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/messages-dictation-ios.jpeg",
+      "title_translated": "iOS 27 让你隐藏每个人都误按的消息按钮",
+      "summary_translated": "如果您在“信息”中发送文本后不小心按了听写或语音图标，您的音乐可能会在 iPhone 开始收听时暂停。这是一个小烦恼，但却很常见，因为听写/音频图标距离发送箭头非常近，以至于误触几乎是不可避免的。在 iOS 27 中"
     },
     {
       "id": "e4d5c53fb47a",
