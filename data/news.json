@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-28 23:17:26",
-  "total_count": 1355,
-  "news_count": 1350,
+  "last_updated": "2026-07-29 03:31:32",
+  "total_count": 1356,
+  "news_count": 1351,
   "android_count": 325,
-  "ios_count": 1025,
+  "ios_count": 1026,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e4d5c53fb47a",
+      "title": "iOS 26.6: Everything you need to know",
+      "summary": "iOS 26.6 is now available for iPhone users. Here’s everything you need to know about the update, and why it’s more important than you may think.",
+      "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-28 23:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26.6-guide.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.6：你需要知道的一切",
+      "summary_translated": "iOS 26.6 现已可供 iPhone 用户使用。以下是您需要了解的有关此更新的所有信息，以及为什么它比您想象的更重要。"
+    },
     {
       "id": "c7ae441b60b2",
       "title": "Apple says iOS 27 ‘Restricted Mode’ isn’t for new Upgrade program leases",
@@ -18913,7 +18927,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -18924,7 +18938,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -18935,7 +18949,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -18946,7 +18960,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -18957,7 +18971,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
