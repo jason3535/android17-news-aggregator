@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-30 18:40:26",
-  "total_count": 1367,
-  "news_count": 1362,
+  "last_updated": "2026-07-30 20:22:28",
+  "total_count": 1368,
+  "news_count": 1363,
   "android_count": 326,
-  "ios_count": 1036,
+  "ios_count": 1037,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e6d1a21ff6d0",
+      "title": "Apple Upgrade program launches, foldable iPhone hype, Apple smart glasses release date",
+      "summary": "Benjamin and Chance break down all the details about Apple’s newly-launched Upgrade Program, while Chance gets frustrated with some of the edge-cases of Siri AI. The Apple smart glasses are now rumored for a WWDC 2027 debut, and the new Samsung Galaxy Z Fold 8 builds hype for the upcoming iPhone Fol",
+      "url": "https://9to5mac.com/2026/07/30/happy-hour-601/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-30 20:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果升级计划启动、可折叠 iPhone 炒作、苹果智能眼镜发布日期",
+      "summary_translated": "本杰明和钱斯详细介绍了苹果新推出的升级计划的所有细节，而钱斯则对 Siri AI 的一些边缘情况感到沮丧。现在有传言称，苹果智能眼镜将在 WWDC 2027 上首次亮相，而新款三星 Galaxy Z Fold 8 则为即将推出的 iPhone Fol 进行炒作。"
+    },
     {
       "id": "f89674702b85",
       "title": "9to5Mac Daily: July 30, 2026 – iOS 26.6, Apple’s smart home plans",
