@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-30 09:36:42",
-  "total_count": 1362,
-  "news_count": 1357,
+  "last_updated": "2026-07-30 12:00:46",
+  "total_count": 1363,
+  "news_count": 1358,
   "android_count": 326,
-  "ios_count": 1031,
+  "ios_count": 1032,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "295fbcbee6c6",
+      "title": "iOS 27: Tone Down Liquid Glass Transparency",
+      "summary": "If you've never been a fan of Liquid Glass – Apple's glass-like interface effect introduced in iOS 26 – then there's some good news in  iOS 27. Apple has added a setting that lets you finely adjust the level of translucency, giving you more control over the look and feel of your iPhone.\n\n\n\n\nPerhaps ",
+      "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-30 04:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/liquid-glass-slider.jpg",
+      "title_translated": "iOS 27：降低液体玻璃透明度",
+      "summary_translated": "如果你从来都不是液体玻璃（Apple 在 iOS 26 中引入的类似玻璃的界面效果）的粉丝，那么 iOS 27 中有一些好消息。Apple 添加了一项设置，可让你精细调整半透明度级别，让你更好地控制 iPhone 的外观和感觉。\n\n\n\n\n也许"
+    },
     {
       "id": "f4c1ff1f87a3",
       "title": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
