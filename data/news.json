@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-29 23:09:24",
-  "total_count": 1361,
-  "news_count": 1356,
+  "last_updated": "2026-07-30 03:19:21",
+  "total_count": 1362,
+  "news_count": 1357,
   "android_count": 326,
-  "ios_count": 1030,
+  "ios_count": 1031,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f4c1ff1f87a3",
+      "title": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-29 23:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 7 月 29 日 – iOS 26.6，苹果的智能家居计划",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "c21bf60c1541",
       "title": "Apple Maps in iOS 27 makes my favorite recent feature even better",
@@ -18997,7 +19011,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -19008,7 +19022,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -19019,7 +19033,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -19030,7 +19044,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -19041,7 +19055,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
