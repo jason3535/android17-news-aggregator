@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-30 12:00:46",
-  "total_count": 1363,
-  "news_count": 1358,
+  "last_updated": "2026-07-30 14:27:36",
+  "total_count": 1364,
+  "news_count": 1359,
   "android_count": 326,
-  "ios_count": 1032,
+  "ios_count": 1033,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0373341be36e",
+      "title": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
+      "summary": "For the better part of two decades, an iPhone's alarm volume has matched its ringer. In other words, if you slide the ringtone volume down to silence your iPhone overnight, you're also turning your alarm's volume down with it. That's no longer the case in iOS 27.\n\n\n\n\nSettings now includes an \"Alarms",
+      "url": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-30 06:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/apple-alarm-app.jpg",
+      "title_translated": "iOS 27 终于取消了闹钟音量与 iPhone 铃声的关联",
+      "summary_translated": "二十年来的大部分时间里，iPhone 的闹钟音量与其铃声相匹配。换句话说，如果您将铃声音量调低以使 iPhone 整夜静音，那么您的闹钟音量也会随之调低。 iOS 27 中不再出现这种情况。\n\n\n\n\n设置现在包括“警报"
+    },
     {
       "id": "295fbcbee6c6",
       "title": "iOS 27: Tone Down Liquid Glass Transparency",
