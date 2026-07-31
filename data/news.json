@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-31 18:41:22",
-  "total_count": 1376,
-  "news_count": 1371,
-  "android_count": 327,
+  "last_updated": "2026-07-31 20:34:37",
+  "total_count": 1378,
+  "news_count": 1373,
+  "android_count": 329,
   "ios_count": 1044,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9bec696eb245",
+      "title": "Google rolling out Android 17 QPR1 Beta 8 for Pixel",
+      "summary": "Following the last release over two weeks ago, Android 17 QPR1 Beta 8 is rolling out today for Pixel devices. It comes after Google released the first QPR2 Beta.",
+      "url": "https://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-07-31 20:17",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-Easter-egg.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "谷歌推出适用于 Pixel 的 Android 17 QPR1 Beta 8",
+      "summary_translated": "继两周前发布最后一次版本之后，Android 17 QPR1 Beta 8 今天面向 Pixel 设备推出。此前，谷歌发布了第一个 QPR2 Beta。"
+    },
+    {
+      "id": "db73076a4875",
+      "title": "Fresh Android 17 QPR1 Beta 8 Update Released for Pixel Phones",
+      "summary": "We might have started testing Android 17 QPR2 beta builds earlier in the month, but Google still has to get QPR1 ready for a stable release in September. Today, Google gave us Android 17 QPR1 Beta 8 and it is available on your Pixel phone immediately. The update is mostly minor and provides 4 notewo",
+      "url": "https://www.droid-life.com/2026/07/31/fresh-android-17-qpr1-beta-8-update-released-for-pixel-phones/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-07-31 20:11",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Android-17-update-release-date-4-980x653.jpg",
+      "title_translated": "适用于 Pixel 手机的全新 Android 17 QPR1 Beta 8 更新发布",
+      "summary_translated": "我们可能已在本月初开始测试 Android 17 QPR2 beta 版本，但 Google 仍需为 QPR1 做好准备，以便在 9 月发布稳定版。今天，谷歌向我们提供了 Android 17 QPR1 Beta 8，您可以立即在 Pixel 手机上使用它。此次更新大多是次要的，并提供了 4 个注释"
+    },
     {
       "id": "b2492ca28669",
       "title": "Google’s Pixel 11 Glow might be called ‘HiLight’",
