@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-30 22:16:06",
-  "total_count": 1368,
-  "news_count": 1363,
+  "last_updated": "2026-07-31 00:12:58",
+  "total_count": 1369,
+  "news_count": 1364,
   "android_count": 326,
-  "ios_count": 1037,
+  "ios_count": 1038,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2074541f918b",
+      "title": "Siri AI may require a paid subscription for heavy users",
+      "summary": "On Tim Cook’s final earnings call before formally resigning as Apple’s CEO, artificial intelligence was a hot topic of conversation. The investor community is interested in Siri AI’s potential to boost iPhone upgrades, and at the same time concerned about what it means for Apple’s rising capital exp",
+      "url": "https://9to5mac.com/2026/07/30/siri-ai-may-require-a-paid-subscription-for-heavy-users/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-30 22:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Seeing-Siri-AI-in-action-has-me-excited-for-the-future.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Siri AI 可能需要重度用户付费订阅",
+      "summary_translated": "在蒂姆·库克正式辞去苹果首席执行官职务之前的最后一次财报电话会议上，人工智能成为了热门话题。投资者群体对 Siri AI 推动 iPhone 升级的潜力感兴趣，同时关心这对苹果不断上涨的资本支出意味着什么"
+    },
     {
       "id": "e6d1a21ff6d0",
       "title": "Apple Upgrade program launches, foldable iPhone hype, Apple smart glasses release date",
@@ -19095,7 +19109,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -19106,7 +19120,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -19117,7 +19131,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -19128,7 +19142,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -19139,7 +19153,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
