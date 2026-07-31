@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-31 11:34:07",
-  "total_count": 1369,
-  "news_count": 1364,
+  "last_updated": "2026-07-31 14:29:33",
+  "total_count": 1371,
+  "news_count": 1366,
   "android_count": 326,
-  "ios_count": 1038,
+  "ios_count": 1040,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "77b2847d2915",
+      "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
+      "summary": "Apple’s Mail app in iOS 27 promises to offer the feature upgrade that’s been at the top of my wishlist for years: search that “just works.”",
+      "url": "https://9to5mac.com/2026/07/31/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-31 13:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 给了 Apple Mail 我最希望的功能升级",
+      "summary_translated": "iOS 27 中的苹果邮件应用程序承诺提供多年来一直是我心愿单中最重要的功能升级：“正常工作”的搜索。"
+    },
+    {
+      "id": "93376c5338eb",
+      "title": "macOS 27 brings three key upgrades to iPhone Mirroring",
+      "summary": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s getting even better this year. iOS 27 and macOS 27 Golden Gate public betas were released this month, bringing three key updates to iPhone Mirroring. Here’s everything new.",
+      "url": "https://9to5mac.com/2026/07/31/macos-27-brings-three-key-upgrades-to-iphone-mirroring/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-07-31 11:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-mirroring-macOS-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "macOS 27 为 iPhone Mirroring 带来三项关键升级",
+      "summary_translated": "我每天都使用 iPhone Mirroring 直接从 Mac 快速访问我的 iPhone，今年它变得更好了。 iOS 27 和 macOS 27 Golden Gate 公测版于本月发布，为 iPhone Mirroring 带来了三项关键更新。一切都是新的。"
+    },
     {
       "id": "2074541f918b",
       "title": "Siri AI may require a paid subscription for heavy users",
