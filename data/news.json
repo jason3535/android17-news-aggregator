@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-31 20:34:37",
-  "total_count": 1378,
-  "news_count": 1373,
-  "android_count": 329,
+  "last_updated": "2026-07-31 22:13:30",
+  "total_count": 1379,
+  "news_count": 1374,
+  "android_count": 330,
   "ios_count": 1044,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "86230c245c0c",
+      "title": "Android 17 QPR1 Beta 8 just landed with all of Google’s latest fixes",
+      "summary": "Ready to test now on your Pixel 6 or newer handset.",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-8-3693518/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-07-31 20:49",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-6-scaled.jpg",
+      "title_translated": "Android 17 QPR1 Beta 8 刚刚发布，包含 Google 的所有最新修复",
+      "summary_translated": "立即可以在 Pixel 6 或更新的手机上进行测试。"
+    },
     {
       "id": "9bec696eb245",
       "title": "Google rolling out Android 17 QPR1 Beta 8 for Pixel",
