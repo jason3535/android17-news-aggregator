@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-01 12:09:21",
-  "total_count": 1379,
-  "news_count": 1374,
+  "last_updated": "2026-08-01 14:39:09",
+  "total_count": 1381,
+  "news_count": 1376,
   "android_count": 330,
-  "ios_count": 1044,
+  "ios_count": 1046,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "55812738ab6d",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is currently in beta, and the beh",
+      "url": "https://9to5mac.com/2026/08/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-01 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "title_translated": "iOS 27 打破了 iPhone 和 iPad 15 年的肌肉记忆",
+      "summary_translated": "自 2011 年 iOS 5 起，iPhone 和 iPad 就包含了通知中心，这是一个按时间顺序查找各种应用程序警报的中心位置。\n从 iOS 27 开始，Apple 对用户在 iPhone 和 iPad 上打开通知中心的方式进行了重大更改。\niOS 27 目前处于测试阶段，"
+    },
+    {
+      "id": "c6cb9e7276dc",
+      "title": "Top Stories: 'Apple Upgrade' Launches, iOS 26.6 Released, and More",
+      "summary": "We're a little more than a month away from the September iPhone debut season, but there's still lots to talk about in the Apple universe, led this week by the launch of the new Apple Upgrade program in the United States.\n\n\n\n\nThis week also saw the release of iOS 26.6 and other updates, fresh rumors ",
+      "url": "https://www.macrumors.com/2026/08/01/top-stories-apple-upgrade-launches/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-01 06:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-01.jpg",
+      "title_translated": "头条新闻：“Apple 升级”发布、iOS 26.6 发布等",
+      "summary_translated": "距离 9 月 iPhone 首发季还有一个多月的时间，但苹果领域仍有很多值得讨论的话题，其中最重要的是本周在美国推出的新 Apple 升级计划。\n\n\n\n\n本周还发布了 iOS 26.6 等更新，新的传闻"
+    },
     {
       "id": "86230c245c0c",
       "title": "Android 17 QPR1 Beta 8 just landed with all of Google’s latest fixes",
