@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-02 07:39:12",
-  "total_count": 1381,
-  "news_count": 1376,
-  "android_count": 330,
+  "last_updated": "2026-08-02 10:05:42",
+  "total_count": 1382,
+  "news_count": 1377,
+  "android_count": 331,
   "ios_count": 1046,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7df9f898a394",
+      "title": "Your Samsung phone already has something better than Android 17 App Bubbles — here’s how to use it",
+      "summary": "It's so useful you'll regret not using it sooner.",
+      "url": "https://www.androidauthority.com/samsung-pop-up-view-better-than-app-bubbles-how-use-3692326/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-02 10:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-pop-up-view-multitasking-feature-20.jpg",
+      "title_translated": "您的三星手机已经拥有比 Android 17 App Bubbles 更好的功能 - 以下是使用方法",
+      "summary_translated": "它太有用了，你会后悔没有早点使用它。"
+    },
     {
       "id": "55812738ab6d",
       "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
