@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-03 08:39:10",
-  "total_count": 1383,
-  "news_count": 1378,
+  "last_updated": "2026-08-03 12:34:19",
+  "total_count": 1384,
+  "news_count": 1379,
   "android_count": 332,
-  "ios_count": 1046,
+  "ios_count": 1047,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "cbe7985b6032",
+      "title": "Heavy Siri AI usage could cost more than we expected, given Cook’s comment",
+      "summary": "What seems like a deliberately vague comment by outgoing Apple CEO Tim Cook during the earnings call suggests that heavy Siri AI usage could be more expensive than we’ve so far expected.\nWhile it had always seemed clear that we wouldn’t be able to make unlimited use of Siri AI without paying for it ",
+      "url": "https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-03 11:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-reaches-agreement-with-Chinese-government-on-Apple-Intelligence-rollout.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "鉴于库克的评论，大量使用 Siri AI 的成本可能超出我们的预期",
+      "summary_translated": "即将离任的苹果首席执行官蒂姆·库克在财报电话会议上发表的似乎是故意含糊其辞的言论表明，大量使用 Siri 人工智能的成本可能比我们迄今为止预期的要高。\n虽然我们一直很清楚，如果不付费，我们将无法无限制地使用 Siri AI"
+    },
     {
       "id": "b87fb6c813aa",
       "title": "Android 17 QPR2 Beta 1 is randomly sending Pixels to a date that doesn’t exist",
