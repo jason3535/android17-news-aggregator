@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-03 00:07:44",
-  "total_count": 1382,
-  "news_count": 1377,
-  "android_count": 331,
+  "last_updated": "2026-08-03 04:40:27",
+  "total_count": 1383,
+  "news_count": 1378,
+  "android_count": 332,
   "ios_count": 1046,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b87fb6c813aa",
+      "title": "Android 17 QPR2 Beta 1 is randomly sending Pixels to a date that doesn’t exist",
+      "summary": "You turn out fine. It's your Pixel, Marty! Something's gotta be done about your Pixel!",
+      "url": "https://www.androidauthority.com/android-17-qpr2-beta-date-bug-3693367/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-03 02:13",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-5-scaled.jpg",
+      "title_translated": "Android 17 QPR2 Beta 1 随机将 Pixel 发送到不存在的日期",
+      "summary_translated": "你结果很好。这是你的 Pixel，马蒂！必须对您的 Pixel 采取一些措施！"
+    },
     {
       "id": "7df9f898a394",
       "title": "Your Samsung phone already has something better than Android 17 App Bubbles — here’s how to use it",
