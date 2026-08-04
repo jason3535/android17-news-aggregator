@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-04 15:32:14",
-  "total_count": 1392,
-  "news_count": 1387,
+  "last_updated": "2026-08-04 18:00:31",
+  "total_count": 1393,
+  "news_count": 1388,
   "android_count": 337,
-  "ios_count": 1050,
+  "ios_count": 1051,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "23e4ed154b6b",
+      "title": "Spotify reaches huge subscriber milestone as Apple Music readies iOS 27 upgrades",
+      "summary": "Spotify has crossed 300 million paying subscribers, a major new milestone for the audio subscription service as it competes with Apple Music.",
+      "url": "https://9to5mac.com/2026/08/04/spotify-reaches-huge-subscriber-milestone-as-apple-music-readies-ios-27-upgrades/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-04 17:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-disco-ball.webp?w=1600",
+      "title_translated": "随着 Apple Music 准备 iOS 27 升级，Spotify 达到了巨大的订阅者里程碑",
+      "summary_translated": "Spotify 的付费订阅用户数量已突破 3 亿，这是该音频订阅服务在与 Apple Music 竞争时的一个重要新里程碑。"
+    },
     {
       "id": "edce1b40ac73",
       "title": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
