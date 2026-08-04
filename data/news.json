@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-04 06:37:21",
-  "total_count": 1389,
-  "news_count": 1384,
-  "android_count": 336,
+  "last_updated": "2026-08-04 09:45:57",
+  "total_count": 1390,
+  "news_count": 1385,
+  "android_count": 337,
   "ios_count": 1048,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "25373fc4bf41",
+      "title": "Pixels could soon catch up to Galaxy phones with a new Voicecast feature",
+      "summary": "Google is catching up to Samsung with this audio feature in the latest Android 17 QPR2 beta.",
+      "url": "https://www.androidauthority.com/google-pixel-voicecast-apk-teardown-3694165/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-04 07:25",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-in-Peony-in-a-mans-hands-as-he-uses-the-phones-display.jpg",
+      "title_translated": "Pixel 可能很快就会赶上 Galaxy 手机，推出新的 Voicecast 功能",
+      "summary_translated": "谷歌正在最新的 Android 17 QPR2 Beta 中通过这项音频功能追赶三星。"
+    },
     {
       "id": "c141abfd6f01",
       "title": "Android 17 QPR2 Beta 2 arrives for Pixel 6a and newer devices",
