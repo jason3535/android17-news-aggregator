@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-04 21:23:11",
-  "total_count": 1397,
-  "news_count": 1392,
-  "android_count": 339,
+  "last_updated": "2026-08-04 23:14:52",
+  "total_count": 1398,
+  "news_count": 1393,
+  "android_count": 340,
   "ios_count": 1053,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ec5c63af524a",
+      "title": "These Motorola phones are next in line for the Android 17 beta",
+      "summary": "Even some cheaper Moto G phones are joining the beta party.",
+      "url": "https://www.androidauthority.com/motorola-android-17-beta-expands-razr-moto-g-3694611/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-04 21:38",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-folded-in-hand-scaled.jpg",
+      "title_translated": "这些摩托罗拉手机将成为 Android 17 Beta 的下一个版本",
+      "summary_translated": "甚至一些更便宜的 Moto G 手机也加入了测试版。"
+    },
     {
       "id": "601b0c73581a",
       "title": "2026 August Pixel Update Available for Your Pixel Phone",
