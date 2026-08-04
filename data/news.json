@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-04 12:11:20",
-  "total_count": 1390,
-  "news_count": 1385,
+  "last_updated": "2026-08-04 15:32:14",
+  "total_count": 1392,
+  "news_count": 1387,
   "android_count": 337,
-  "ios_count": 1048,
+  "ios_count": 1050,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "edce1b40ac73",
+      "title": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
+      "summary": "iOS 27 brings exciting new features to Messages, Apple Notes, Wallet, and more. But FaceTime is getting one of the biggest upgrades thanks to a powerful new Dual Capture feature for iPhone 17 and newer.",
+      "url": "https://9to5mac.com/2026/08/04/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-04 14:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 给 FaceTime 带来了巨大的升级，带来了这个强大的新功能",
+      "summary_translated": "iOS 27 为消息、Apple Notes、钱包等带来了令人兴奋的新功能。但得益于 iPhone 17 及更新机型强大的全新双重拍摄功能，FaceTime 获得了最大的升级之一。"
+    },
     {
       "id": "25373fc4bf41",
       "title": "Pixels could soon catch up to Galaxy phones with a new Voicecast feature",
@@ -19394,6 +19408,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/Bf9jAuON2fA/hqdefault.jpg",
       "title_translated": "iOS 27 Beta 4 来了——Siri 刚刚进行了重大升级！",
+      "summary_translated": ""
+    },
+    {
+      "id": "731e8be4cc09",
+      "title": "iOS 27 Makes Apple Notes SO Much Better",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=uL5mAA6TkOI",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/uL5mAA6TkOI/hqdefault.jpg",
+      "title_translated": "iOS 27 让 Apple Notes 变得更好",
       "summary_translated": ""
     },
     {
