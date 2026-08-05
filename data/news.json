@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-05 17:50:52",
-  "total_count": 1401,
-  "news_count": 1396,
+  "last_updated": "2026-08-05 19:49:53",
+  "total_count": 1402,
+  "news_count": 1397,
   "android_count": 340,
-  "ios_count": 1056,
+  "ios_count": 1057,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "41905e9adaeb",
+      "title": "Siri AI is coming to newer Apple devices only, here’s the full list",
+      "summary": "Siri AI is a major upgrade and highlight of iOS 27, macOS Golden Gate, and more. But only newer Apple devices will support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.",
+      "url": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-05 19:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Siri AI 仅适用于较新的 Apple 设备，以下是完整列表",
+      "summary_translated": "Siri AI 是 iOS 27、macOS Golden Gate 等的重大升级和亮点。但只有较新的苹果设备才会支持改进后的 Siri。以下是 iPhone、iPad、Mac、Apple Watch 和 Apple Vision Pro 上与 Siri AI 兼容的硬件的完整列表。"
+    },
     {
       "id": "56a0130bc86a",
       "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
