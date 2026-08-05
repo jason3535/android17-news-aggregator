@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-05 12:08:48",
-  "total_count": 1398,
-  "news_count": 1393,
+  "last_updated": "2026-08-05 15:24:24",
+  "total_count": 1400,
+  "news_count": 1395,
   "android_count": 340,
-  "ios_count": 1053,
+  "ios_count": 1055,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2040825bb3a7",
+      "title": "iOS 27’s best new Messages feature is all about saving you time",
+      "summary": "iOS 27 gives the Messages app a variety of new features and improvements. And based on my time with the beta, Messages’ best new feature is a convenient time-saver: one-tap suggestions.",
+      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-05 14:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 最好的新消息功能就是为了节省你的时间",
+      "summary_translated": "iOS 27 为消息应用程序提供了各种新功能和改进。根据我测试测试版的时间，消息最好的新功能是方便的节省时间：一键式建议。"
+    },
     {
       "id": "ec5c63af524a",
       "title": "These Motorola phones are next in line for the Android 17 beta",
@@ -19506,6 +19520,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/uL5mAA6TkOI/hqdefault.jpg",
       "title_translated": "iOS 27 让 Apple Notes 变得更好",
+      "summary_translated": ""
+    },
+    {
+      "id": "5ff78eed60e1",
+      "title": "iOS 27 Isn’t Finished… 5 HUGE Features Are Still Coming",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=EEj43ssXVAY",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/EEj43ssXVAY/hqdefault.jpg",
+      "title_translated": "iOS 27 尚未完成……5 大功能仍在推出",
       "summary_translated": ""
     },
     {
