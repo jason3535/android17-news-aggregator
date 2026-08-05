@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-05 15:24:24",
-  "total_count": 1400,
-  "news_count": 1395,
+  "last_updated": "2026-08-05 17:50:52",
+  "total_count": 1401,
+  "news_count": 1396,
   "android_count": 340,
-  "ios_count": 1055,
+  "ios_count": 1056,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "56a0130bc86a",
+      "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
+      "summary": "iOS 27 continues Apple’s trend of giving you more control over the design of your iPhone’s Lock Screen. This year, there are new customization options, wallpaper settings, and more.",
+      "url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-05 17:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 增加了四种自定义 iPhone 锁屏的新方法",
+      "summary_translated": "iOS 27 延续了 Apple 的趋势，让您可以更好地控制 iPhone 锁定屏幕的设计。今年，有新的自定义选项、壁纸设置等。"
+    },
     {
       "id": "2040825bb3a7",
       "title": "iOS 27’s best new Messages feature is all about saving you time",
