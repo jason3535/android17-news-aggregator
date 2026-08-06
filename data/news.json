@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-06 12:12:30",
-  "total_count": 1405,
-  "news_count": 1400,
+  "last_updated": "2026-08-06 15:25:12",
+  "total_count": 1406,
+  "news_count": 1401,
   "android_count": 343,
-  "ios_count": 1057,
+  "ios_count": 1058,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f549677bea58",
+      "title": "iOS 27 hints at all-new Home product launching soon",
+      "summary": "iOS 27 includes hints about the new iPhone Ultra, but it also points to an all-new Apple Home product likely launching soon: a security camera.",
+      "url": "https://9to5mac.com/2026/08/06/ios-27-hints-at-all-new-home-product-launching-soon/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-06 14:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 暗示全新家庭产品即将推出",
+      "summary_translated": "iOS 27 包含有关新款 iPhone Ultra 的暗示，但它也暗示了可能即将推出的全新 Apple Home 产品：安全摄像头。"
+    },
     {
       "id": "7f58dff18064",
       "title": "One year of updates couldn’t save the Pixel 10’s GPU — and now the Pixel 11 is at risk",
