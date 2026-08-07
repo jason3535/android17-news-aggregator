@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-07 20:53:11",
-  "total_count": 1416,
-  "news_count": 1411,
+  "last_updated": "2026-08-07 21:51:41",
+  "total_count": 1417,
+  "news_count": 1412,
   "android_count": 344,
-  "ios_count": 1067,
+  "ios_count": 1068,
   "leaker_count": 5,
   "items": [
     {
@@ -33,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果加快 iPhone 更新速度，iOS 26.6.1 可能即将推出",
       "summary_translated": "苹果似乎正在为 iPhone 用户测试即将推出的 iOS 26.6.1 更新。这是在 iOS 26.6 向公众发布近两周后发生的。"
+    },
+    {
+      "id": "27e33184df22",
+      "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
+      "summary": "After 326 days, iOS 26 has received its first jailbreak, thanks to the developers behind the popular Dopamine jailbreak.\n\n\nLars Fröder, better known as opa334, today released Dopamine 3.0, which adds support for a number of newer firmware versions, including iOS 26.0 and iOS 26.0.1 on devices with A",
+      "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-07 13:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/dopamine.jpg",
+      "title_translated": "iOS 26 借助多巴胺首次越狱",
+      "summary_translated": "326 天后，iOS 26 首次越狱，这要归功于流行的 Dopamine 越狱背后的开发人员。\n\n\nLars Fröder（更广为人知的名字是 opa334）今天发布了 Dopamine 3.0，增加了对许多较新固件版本的支持，包括具有 A 的设备上的 iOS 26.0 和 iOS 26.0.1"
     },
     {
       "id": "07ddeb83af1e",
