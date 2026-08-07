@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-07 13:32:00",
-  "total_count": 1413,
-  "news_count": 1408,
+  "last_updated": "2026-08-07 15:05:45",
+  "total_count": 1415,
+  "news_count": 1410,
   "android_count": 344,
-  "ios_count": 1064,
+  "ios_count": 1066,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9ab58f754831",
+      "title": "iOS 26.6.1 likely coming soon as Apple speeds up iPhone updates",
+      "summary": "Apple appears to be testing a forthcoming iOS 26.6.1 update for iPhone users. This comes nearly two weeks after iOS 26.6 was released to the public. ",
+      "url": "https://9to5mac.com/2026/08/07/ios-26-6-1-likely-coming-soon-as-apple-speeds-up-iphone-updates/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-07 14:31",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果加快 iPhone 更新速度，iOS 26.6.1 可能即将推出",
+      "summary_translated": "苹果似乎正在为 iPhone 用户测试即将推出的 iOS 26.6.1 更新。这是在 iOS 26.6 向公众发布近两周后发生的。"
+    },
     {
       "id": "07ddeb83af1e",
       "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
@@ -33,6 +47,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg",
       "title_translated": "OnePlus 15 刚刚获得 ColorOS 测试版",
       "summary_translated": "该更新可能基于 Android 17，目前已向印度的 OnePlus 15 系列开放。"
+    },
+    {
+      "id": "e98cc0c5ba1e",
+      "title": "Apple Testing iOS 26.6.1 Update for iPhones",
+      "summary": "Apple's software engineers are internally testing iOS 26.6.1, according to the MacRumors visitor logs.\n\n\nApple already released macOS 26.6.1 yesterday with a fix for a security vulnerability affecting the Screen Sharing app. iOS 26.6.1 would likely include bug fixes and/or security fixes as well, sh",
+      "url": "https://www.macrumors.com/2026/08/07/apple-testing-ios-26-6-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-07 07:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
+      "title_translated": "Apple 测试 iPhone 的 iOS 26.6.1 更新",
+      "summary_translated": "根据 MacRumors 访客日志，苹果的软件工程师正在内部测试 iOS 26.6.1。\n\n\n苹果昨天已经发布了 macOS 26.6.1，修复了影响屏幕共享应用程序的安全漏洞。 iOS 26.6.1 可能还包括错误修复和/或安全修复，sh"
     },
     {
       "id": "601de7925920",
