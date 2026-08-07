@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-08-06 15:25:12",
-  "total_count": 1406,
-  "news_count": 1401,
+  "last_updated": "2026-08-07 00:11:29",
+  "total_count": 1410,
+  "news_count": 1405,
   "android_count": 343,
-  "ios_count": 1058,
+  "ios_count": 1062,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6fe484f8aa88",
+      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "summary": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\nWith iOS 27, Apple is expanding that idea beyo",
+      "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-06 19:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+      "title_translated": "iOS 27 基本上将你的 iPhone 和 AirPods 变成了健身房里的 Apple Watch",
+      "summary_translated": "自 2017 年推出以来，GymKit 一直是 Apple Watch 最智能的健身功能之一。将手表轻触兼容的健身设备，Apple Watch 会分享您的心率，同时机器会发回距离、坡度、配速和卡路里等指标。\n通过 iOS 27，Apple 正在将这一想法扩展到其他领域"
+    },
+    {
+      "id": "331e1a3e4cd6",
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "summary": "AirPods are getting a variety of new features in iOS 27, two of which are exclusive to AirPods Pro 3. Here’s everything new.",
+      "url": "https://9to5mac.com/2026/08/06/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-06 18:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "AirPods Pro 3 不断变得更好，以下是 iOS 27 中的新增功能",
+      "summary_translated": "AirPods 在 iOS 27 中获得了多种新功能，其中两项是 AirPods Pro 3 独有的。以下是所有新功能。"
+    },
+    {
+      "id": "2f2094bde214",
+      "title": "CarPlay in iOS 27 adds two new features for popular Apple apps",
+      "summary": "CarPlay in iOS 27 has a handful of new features and improvements, including two additions for some of Apple’s most popular apps, like Apple Music and Apple Podcasts.",
+      "url": "https://9to5mac.com/2026/08/06/carplay-in-ios-27-adds-two-new-features-for-popular-apple-apps/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-06 15:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/carplay-apple-music-ios-26-now-playing.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中的 CarPlay 为流行的苹果应用程序增加了两项新功能",
+      "summary_translated": "iOS 27 中的 CarPlay 具有一些新功能和改进，包括针对 Apple 一些最受欢迎的应用程序（例如 Apple Music 和 Apple Podcasts）的两项新增功能。"
+    },
     {
       "id": "f549677bea58",
       "title": "iOS 27 hints at all-new Home product launching soon",
@@ -19621,13 +19663,27 @@
       "summary_translated": ""
     },
     {
+      "id": "ea9b5dc72e9c",
+      "title": "Your iPhone Lock Screen Just Got WAY Better in iOS 27",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=KG9kgdyPrXA",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/KG9kgdyPrXA/hqdefault.jpg",
+      "title_translated": "你的 iPhone 锁屏在 iOS 27 中变得更好了",
+      "summary_translated": ""
+    },
+    {
       "id": "leaker_0",
       "title": "OnLeaks (@OnLeaks)",
       "summary": "关注 @OnLeaks 获取最新 Android 爆料信息。由于 Twitter/X API 限制，请手动查看其账号获取最新消息。",
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -19638,7 +19694,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -19649,7 +19705,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -19660,7 +19716,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -19671,7 +19727,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
