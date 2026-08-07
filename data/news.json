@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-07 09:13:28",
-  "total_count": 1411,
-  "news_count": 1406,
+  "last_updated": "2026-08-07 11:03:12",
+  "total_count": 1412,
+  "news_count": 1407,
   "android_count": 344,
-  "ios_count": 1062,
+  "ios_count": 1063,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg",
       "title_translated": "OnePlus 15 刚刚获得 ColorOS 测试版",
       "summary_translated": "该更新可能基于 Android 17，目前已向印度的 OnePlus 15 系列开放。"
+    },
+    {
+      "id": "601de7925920",
+      "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
+      "summary": "In iOS 26, Apple let you stretch the Lock Screen clock down your iPhone's display until it dwarfed everything else. In iOS 27, Apple has a new clock option that does the opposite, with the introduction of a compact mode that shrinks the time to roughly the size of the date and tucks it into the row ",
+      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-07 03:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/ios-lock-screen-compact-clock.jpeg",
+      "title_translated": "iOS 27 的全新紧凑型时钟为您的壁纸提供呼吸空间",
+      "summary_translated": "在 iOS 26 中，苹果允许你将锁定屏幕时钟向下延伸到 iPhone 的显示屏上，直到它让其他一切都相形见绌。在 iOS 27 中，苹果有一个新的时钟选项，它的作用相反，引入了紧凑模式，将时间缩小到大致与日期的大小并将其塞入行中"
     },
     {
       "id": "6fe484f8aa88",
