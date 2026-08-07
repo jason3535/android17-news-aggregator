@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-07 07:37:36",
-  "total_count": 1410,
-  "news_count": 1405,
-  "android_count": 343,
+  "last_updated": "2026-08-07 09:13:28",
+  "total_count": 1411,
+  "news_count": 1406,
+  "android_count": 344,
   "ios_count": 1062,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "00a0b01f7f51",
+      "title": "The OnePlus 15 just got ColorOS beta",
+      "summary": "The update, likely based on Android 17, is currently open to OnePlus 15 series in India.",
+      "url": "https://www.androidauthority.com/oneplus-15-coloros-beta-3695698/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-07 08:41",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg",
+      "title_translated": "OnePlus 15 刚刚获得 ColorOS 测试版",
+      "summary_translated": "该更新可能基于 Android 17，目前已向印度的 OnePlus 15 系列开放。"
+    },
     {
       "id": "6fe484f8aa88",
       "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
