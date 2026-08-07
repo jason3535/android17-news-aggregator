@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-07 19:10:15",
-  "total_count": 1415,
-  "news_count": 1410,
+  "last_updated": "2026-08-07 20:53:11",
+  "total_count": 1416,
+  "news_count": 1411,
   "android_count": 344,
-  "ios_count": 1066,
+  "ios_count": 1067,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5df51e90dab9",
+      "title": "iOS 27 has long-awaited fix for common iPhone wireless issue",
+      "summary": "In iOS 27, Apple says it took extra care to make its software “more responsive, reliable, and delightful.” There are a variety of fixes that should make your iPhone faster, including one update for network transitions.",
+      "url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-07 20:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-iphone-home-screen-official.jpg?quality=82&strip=all&w=1536",
+      "title_translated": "iOS 27 修复了期待已久的常见 iPhone 无线问题",
+      "summary_translated": "苹果表示，在 iOS 27 中，它格外小心地使其软件“反应更灵敏、更可靠、更令人愉悦”。有多种修复措施可以让你的 iPhone 更快，其中包括一项针对网络转换的更新。"
+    },
     {
       "id": "9ab58f754831",
       "title": "iOS 26.6.1 likely coming soon as Apple speeds up iPhone updates",
