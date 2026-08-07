@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-07 11:54:18",
-  "total_count": 1412,
-  "news_count": 1407,
+  "last_updated": "2026-08-07 13:32:00",
+  "total_count": 1413,
+  "news_count": 1408,
   "android_count": 344,
-  "ios_count": 1063,
+  "ios_count": 1064,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "07ddeb83af1e",
+      "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
+      "summary": "iOS 27 adds a variety of new features and changes for Apple Wallet, including one that’s been on my wishlist for years: the ability to import physical passes.",
+      "url": "https://9to5mac.com/2026/08/07/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-07 13:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中的 Apple Wallet 添加了多年来一直在我愿望清单上的功能",
+      "summary_translated": "iOS 27 为 Apple Wallet 增加了各种新功能和变化，其中包括我多年来一直在愿望清单上的一项：导入实体通行证的能力。"
+    },
     {
       "id": "00a0b01f7f51",
       "title": "The OnePlus 15 just got ColorOS beta",
