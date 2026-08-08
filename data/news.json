@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-08 20:43:58",
-  "total_count": 1417,
-  "news_count": 1412,
+  "last_updated": "2026-08-08 21:40:43",
+  "total_count": 1418,
+  "news_count": 1413,
   "android_count": 344,
-  "ios_count": 1068,
+  "ios_count": 1069,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a81309494feb",
+      "title": "iOS 27: The easiest beta to forget about",
+      "summary": "We’ve had iOS 27 in our hands for about two months now. Of course, it’s a beta – and the…",
+      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?quality=82&strip=all&w=350",
+      "title_translated": "iOS 27：最容易被遗忘的测试版",
+      "summary_translated": "我们已经拥有 iOS 27 大约两个月了。当然，这是一个测试版 - 并且......"
+    },
     {
       "id": "5df51e90dab9",
       "title": "iOS 27 has long-awaited fix for common iPhone wireless issue",
