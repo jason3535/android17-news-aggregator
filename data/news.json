@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-10 17:03:58",
-  "total_count": 1420,
-  "news_count": 1415,
+  "last_updated": "2026-08-10 18:00:21",
+  "total_count": 1424,
+  "news_count": 1419,
   "android_count": 344,
-  "ios_count": 1071,
+  "ios_count": 1075,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "dc259f16c4d0",
+      "title": "Apple releases iOS 26.6.1 beta for iPhone, plus more",
+      "summary": "Today Apple released beta 5 for iOS 27 and companion updates, but the company also shipped a surprise second wave of betas, for iOS 26.6.1, macOS 26.6.2 and more.",
+      "url": "https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-10 17:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 发布 iPhone 版 iOS 26.6.1 测试版以及更多内容",
+      "summary_translated": "今天，苹果发布了 iOS 27 的 Beta 5 和配套更新，但该公司还意外发布了第二波测试版，适用于 iOS 26.6.1、macOS 26.6.2 等。"
+    },
+    {
+      "id": "762b2b6ed490",
+      "title": "iOS 27 beta 5 now available as Apple tests major Siri AI upgrade",
+      "summary": "Apple has released the fifth iOS 27 beta for developer testing. iOS 27 beta 5 continues Apple’s summer beta cycle ahead of a public release next month. We’ll update our devices and share what we discover.",
+      "url": "https://9to5mac.com/2026/08/10/ios-27-beta-5/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-10 17:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-27-b5.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 5 现已推出，苹果正在测​​试 Siri AI 重大升级",
+      "summary_translated": "苹果发布了第五个 iOS 27 Beta 版供开发者测试。 iOS 27 beta 5 继续苹果的夏季测试周期，下个月将公开发布。我们将更新我们的设备并分享我们的发现。"
+    },
     {
       "id": "c4ca0276fa84",
       "title": "Here’s everything new for Apple Maps in iOS 27",
@@ -33,6 +61,34 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果揭示 Siri 人工智能功能在中国的运作方式——引发隐私问题",
       "summary_translated": "苹果公司透露了新的 Siri AI 功能将如何为中国用户服务。新的人工智能功能将由阿里巴巴的 Qwen 模型提供支持。\n虽然这家 iPhone 制造商正在与谷歌合作，以便在大多数国家/地区使用其 Gemini 机型，但中国政府要求苹果公司与谷歌合作"
+    },
+    {
+      "id": "b8e2af024e94",
+      "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
+      "summary": "Apple today released new betas of iOS 26.6.1 and iPadOS 26.6.1, which are available to developers and public beta testers. The iOS and iPadOS 26.6.1 betas come two weeks after the launch of iOS 26.6, an update that added Spotlight optimizations ahead of iOS 27.\n\n\n\n\niOS 26.6.1 and iPadOS 26.6.1 can b",
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-10 10:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
+      "title_translated": "Apple 发布带有安全修复的 iOS 26.6.1 和 iPadOS 26.6.1 Beta",
+      "summary_translated": "Apple 今天发布了 iOS 26.6.1 和 iPadOS 26.6.1 的新 Beta 版，可供开发者和公开 Beta 测试人员使用。 iOS 和 iPadOS 26.6.1 测试版是在 iOS 26.6 发布两周后发布的，该更新在 iOS 27 之前添加了 Spotlight 优化。\n\n\n\n\niOS 26.6.1 和 iPadOS 26.6.1 可以"
+    },
+    {
+      "id": "cc51b2b2f6e6",
+      "title": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
+      "summary": "Apple today seeded the fifth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming two weeks after Apple released the fourth betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and sele",
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-10 10:21",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "Apple 向开发者发布第五个 iOS 27 和 iPadOS 27 Beta",
+      "summary_translated": "苹果今天向开发者发布了 iOS 27 和 iPadOS 27 的第五个测试版，用于测试目的，该更新是在苹果发布第四个测试版两周后发布的。\n\n\n\n\n注册开发者可以从 iPhone 或 iPad 上的“设置”应用下载测试版，方法是转到“常规”部分并选择"
     },
     {
       "id": "a81309494feb",
