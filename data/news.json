@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-10 13:37:14",
-  "total_count": 1418,
-  "news_count": 1413,
+  "last_updated": "2026-08-10 15:11:34",
+  "total_count": 1419,
+  "news_count": 1414,
   "android_count": 344,
-  "ios_count": 1069,
+  "ios_count": 1070,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3599288a81c9",
+      "title": "Apple reveals how Siri AI features work in China – raising privacy questions",
+      "summary": "Apple has revealed how the new Siri AI features will work for users in China. The new AI features will be powered by Alibaba’s Qwen models.\nWhile the iPhone maker is partnering with Google for access to its Gemini models in most countries, the Chinese government requires Apple to instead partner wit",
+      "url": "https://9to5mac.com/2026/08/10/apple-reveals-how-siri-ai-features-work-in-china-likely-without-privacy-protections/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-10 13:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果揭示 Siri 人工智能功能在中国的运作方式——引发隐私问题",
+      "summary_translated": "苹果公司透露了新的 Siri AI 功能将如何为中国用户服务。新的人工智能功能将由阿里巴巴的 Qwen 模型提供支持。\n虽然这家 iPhone 制造商正在与谷歌合作，以便在大多数国家/地区使用其 Gemini 机型，但中国政府要求苹果公司与谷歌合作"
+    },
     {
       "id": "a81309494feb",
       "title": "iOS 27: The easiest beta to forget about",
