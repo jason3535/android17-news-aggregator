@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-10 19:10:21",
-  "total_count": 1429,
-  "news_count": 1424,
+  "last_updated": "2026-08-10 20:56:27",
+  "total_count": 1432,
+  "news_count": 1427,
   "android_count": 344,
-  "ios_count": 1080,
+  "ios_count": 1083,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ee8c47d94141",
+      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
+      "summary": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-10 19:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 正在研究一种方法来验证照片是否来自 iPhone 相机",
+      "summary_translated": "iOS 27 beta 5 中的参考资料指出了一项新功能，旨在验证 iPhone 照片的相机来源。以下是详细信息。"
+    },
     {
       "id": "c331dcd5e0cb",
       "title": "Here’s what’s new with iOS 27 beta 5",
@@ -117,6 +131,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
       "title_translated": "苹果揭示 Siri 人工智能功能在中国的运作方式——引发隐私问题",
       "summary_translated": "苹果公司透露了新的 Siri AI 功能将如何为中国用户服务。新的人工智能功能将由阿里巴巴的 Qwen 模型提供支持。\n虽然这家 iPhone 制造商正在与谷歌合作，以便在大多数国家/地区使用其 Gemini 机型，但中国政府要求苹果公司与谷歌合作"
+    },
+    {
+      "id": "316d39092cd4",
+      "title": "iOS 27 Beta 5 Brings New Icons for Siri, Safari, Settings and More",
+      "summary": "In the fifth beta of iOS 27, Apple is continuing to make design tweaks. There are updated Liquid Glass icons for Safari, the Siri app, Settings, Remote, App Store, and Preview.\n\n\n\n\nThe Safari icon is a brighter blue with more detailed compass lines and arrows, while the ‌Siri‌ icon looks more like t",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-10 12:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/ios-27-b5-icons.jpg",
+      "title_translated": "iOS 27 Beta 5 为 Siri、Safari、设置等带来新图标",
+      "summary_translated": "在 iOS 27 的第五个测试版中，苹果正在继续进行设计调整。 Safari、Siri 应用程序、设置、远程、App Store 和预览都有更新的 Liquid Glass 图标。\n\n\n\n\nSafari 图标是更亮的蓝色，带有更详细的罗盘线和箭头，而“Siri”图标看起来更像是"
     },
     {
       "id": "6574564f5ebb",
@@ -19940,6 +19968,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/KG9kgdyPrXA/hqdefault.jpg",
       "title_translated": "你的 iPhone 锁屏在 iOS 27 中变得更好了",
+      "summary_translated": ""
+    },
+    {
+      "id": "800dc43e0b24",
+      "title": "iOS 27 Beta 5 Has More Changes Than Expected! Here are 15+ New Changes",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=e-kh1NI44Kc",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/e-kh1NI44Kc/hqdefault.jpg",
+      "title_translated": "iOS 27 Beta 5 变化超预期！这里有超过 15 个新变化",
       "summary_translated": ""
     },
     {
