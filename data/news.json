@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-10 21:53:44",
-  "total_count": 1432,
-  "news_count": 1427,
+  "last_updated": "2026-08-10 22:52:06",
+  "total_count": 1433,
+  "news_count": 1428,
   "android_count": 344,
-  "ios_count": 1083,
+  "ios_count": 1084,
   "leaker_count": 5,
   "items": [
     {
@@ -117,6 +117,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-maps-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 中 Apple 地图的所有新功能",
       "summary_translated": "iOS 27 包含大量适用于 iPhone 的新功能，包括 Apple 地图。以下是 iOS 27 中 Apple 地图的所有新功能。"
+    },
+    {
+      "id": "6c8e9b6525fa",
+      "title": "Everything New in iOS 27 Beta 5",
+      "summary": "We're a little over a month away from the launch of iOS 27, and Apple is continuing to make changes. The fifth beta of ‌iOS 27‌ changes the look of some app icons and adjusts Liquid Glass, plus it adds some smaller features that make the iPhone just a little nicer to use.\n\n\n\n\nApp Icons\n\nThere are up",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-10 15:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "title_translated": "iOS 27 Beta 5 中的所有新功能",
+      "summary_translated": "距离 iOS 27 的发布还有一个多月的时间，苹果正在继续做出改变。 iOS 27 的第五个测试版改变了一些应用程序图标的外观并调整了 Liquid Glass，此外还添加了一些较小的功能，使 iPhone 更好用。\n\n\n\n\n应用程序图标\n\n有上"
     },
     {
       "id": "3599288a81c9",
