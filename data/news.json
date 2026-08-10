@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-10 15:11:34",
-  "total_count": 1419,
-  "news_count": 1414,
+  "last_updated": "2026-08-10 17:03:58",
+  "total_count": 1420,
+  "news_count": 1415,
   "android_count": 344,
-  "ios_count": 1070,
+  "ios_count": 1071,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c4ca0276fa84",
+      "title": "Here’s everything new for Apple Maps in iOS 27",
+      "summary": "iOS 27 is packed with a wide array of new features for iPhone, including in Apple Maps. Here’s everything new for Apple Maps in iOS 27.",
+      "url": "https://9to5mac.com/2026/08/10/heres-everything-new-for-apple-maps-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-10 16:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-maps-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中 Apple 地图的所有新功能",
+      "summary_translated": "iOS 27 包含大量适用于 iPhone 的新功能，包括 Apple 地图。以下是 iOS 27 中 Apple 地图的所有新功能。"
+    },
     {
       "id": "3599288a81c9",
       "title": "Apple reveals how Siri AI features work in China – raising privacy questions",
