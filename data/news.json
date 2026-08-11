@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-11 13:35:19",
-  "total_count": 1437,
-  "news_count": 1432,
+  "last_updated": "2026-08-11 15:12:13",
+  "total_count": 1438,
+  "news_count": 1433,
   "android_count": 345,
-  "ios_count": 1087,
+  "ios_count": 1088,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4ffe10a296e6",
+      "title": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI",
+      "summary": "iOS 27 beta 5 arrived this week, and it includes confirmation of something Apple has hinted before: paying for higher iCloud+ tiers unlocks more access to Apple Intelligence features.",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-11 13:50",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 5 添加了升级 iCloud+ 订阅以获得更多 AI 的选项",
+      "summary_translated": "iOS 27 beta 5 本周发布，它确认了苹果之前暗示的事情：支付更高的 iCloud+ 等级可以解锁更多 Apple Intelligence 功能。"
+    },
     {
       "id": "3a4587199290",
       "title": "iOS 27 code reveals six unreleased iPhone models coming soon",
