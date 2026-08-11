@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-11 11:52:49",
-  "total_count": 1435,
-  "news_count": 1430,
+  "last_updated": "2026-08-11 13:35:19",
+  "total_count": 1437,
+  "news_count": 1432,
   "android_count": 345,
-  "ios_count": 1085,
+  "ios_count": 1087,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3a4587199290",
+      "title": "iOS 27 code reveals six unreleased iPhone models coming soon",
+      "summary": "Apple released iOS 27 beta 5 yesterday, with changes including new app icons and Spotlight design tweaks. As it turns out, the update also includes references to all the new iPhone models expected to be released over the next six to eight months.",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-code-reveals-six-unreleased-iphone-models-coming-soon/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-11 13:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 代码揭示了即将推出的六款未发布的 iPhone 机型",
+      "summary_translated": "苹果昨天发布了 iOS 27 beta 5，其中包括新的应用程序图标和 Spotlight 设计调整。事实证明，更新还包括对预计在未来六到八个月内发布的所有新 iPhone 型号的引用。"
+    },
     {
       "id": "48fbb5141cdd",
       "title": "Motorola reveals which phones will get stable Android 17 update",
@@ -19,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-unfolded-screen-scaled.jpg",
       "title_translated": "摩托罗拉透露哪些手机将获得稳定的 Android 17 更新",
       "summary_translated": "这份长长的名单几乎包括了近年来推出的所有 Razr、Edge 和 Moto G 手机。"
+    },
+    {
+      "id": "248007553fd2",
+      "title": "Latest iOS 27 Beta References Six Unreleased iPhone Models",
+      "summary": "Macworld reports that iOS 27 beta 5, released to developers on Monday, contains hidden code revealing six unreleased iPhone models – although you've probably heard of them before.\n\n\n\n\nThe following references are said to have been found alongside references to existing iPhone models, in system files",
+      "url": "https://www.macrumors.com/2026/08/11/ios-27-beta-codenames-iphone-18-lineup/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-11 05:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
+      "title_translated": "最新的 iOS 27 Beta 引用了六款未发布的 iPhone 机型",
+      "summary_translated": "Macworld 报道称，周一向开发者发布的 iOS 27 beta 5 包含隐藏代码，揭示了六种未发布的 iPhone 型号 - 尽管您以前可能听说过它们。\n\n\n\n\n据说以下参考文献是在系统文件中与现有 iPhone 型号的参考文献一起发现的"
     },
     {
       "id": "ee8c47d94141",
