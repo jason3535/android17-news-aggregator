@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-12 10:17:01",
-  "total_count": 1445,
-  "news_count": 1440,
+  "last_updated": "2026-08-12 11:54:51",
+  "total_count": 1446,
+  "news_count": 1441,
   "android_count": 345,
-  "ios_count": 1095,
+  "ios_count": 1096,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c92c3b3d25b8",
+      "title": "Apple authenticating iPhone photos is just the start",
+      "summary": "iOS 27 Beta 5 includes references to an upcoming new feature to allow Apple to authenticate iPhone photos.\nNot many iPhone users will need to use this for reasons we’ll get to in a moment, but the move is just the start …",
+      "url": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-12 11:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/siri-icon-expanded.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 验证 iPhone 照片只是一个开始",
+      "summary_translated": "iOS 27 Beta 5 引用了即将推出的新功能，允许 Apple 验证 iPhone 照片。\n没有多少 iPhone 用户需要使用它，原因我们稍后会讲到，但此举只是一个开始……"
+    },
     {
       "id": "76c21694893a",
       "title": "AirPods Pro 3 and more just got new public beta firmware",
