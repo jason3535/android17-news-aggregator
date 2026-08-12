@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-12 22:54:54",
-  "total_count": 1447,
-  "news_count": 1442,
+  "last_updated": "2026-08-12 23:53:44",
+  "total_count": 1448,
+  "news_count": 1443,
   "android_count": 345,
-  "ios_count": 1097,
+  "ios_count": 1098,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d78dd68d212b",
+      "title": "Report: Apple seeks publisher deals to give Siri AI better access to current events",
+      "summary": "The Wall Street Journal reports that Apple has been pursuing content deals worth up to nine figures to improve Siri AI’s access to current news and information. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/12/report-apple-seeks-publisher-deals-to-give-siri-ai-better-access-to-current-events/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-12 23:14",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-ipados-27-design.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "报告：苹果寻求与出版商达成协议，让 Siri AI 更好地了解时事",
+      "summary_translated": "据《华尔街日报》报道，苹果一直在寻求价值高达九位数的内容交易，以改善 Siri AI 对当前新闻和信息的访问。以下是详细信息。"
+    },
     {
       "id": "f3dfc752ddcf",
       "title": "iOS 27 gives Apple Calendar my favorite new Home Screen upgrade",
