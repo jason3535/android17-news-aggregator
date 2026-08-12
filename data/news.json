@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-12 15:09:37",
-  "total_count": 1446,
-  "news_count": 1441,
+  "last_updated": "2026-08-12 17:07:34",
+  "total_count": 1447,
+  "news_count": 1442,
   "android_count": 345,
-  "ios_count": 1096,
+  "ios_count": 1097,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f3dfc752ddcf",
+      "title": "iOS 27 gives Apple Calendar my favorite new Home Screen upgrade",
+      "summary": "iOS 27 introduces a variety of new Home Screen widgets for apps, and Apple Calendar gets my standout favorite. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/12/ios-27-gives-apple-calendar-my-favorite-new-home-screen-upgrade/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-12 15:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 为 Apple 日历提供了我最喜欢的新主屏幕升级",
+      "summary_translated": "iOS 27 为应用程序引入了各种新的主屏幕小部件，而 Apple 日历是我最喜欢的。以下是详细信息。"
+    },
     {
       "id": "c92c3b3d25b8",
       "title": "Apple authenticating iPhone photos is just the start",
