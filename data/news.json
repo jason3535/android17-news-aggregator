@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-13 13:38:38",
-  "total_count": 1449,
-  "news_count": 1444,
+  "last_updated": "2026-08-13 15:09:28",
+  "total_count": 1450,
+  "news_count": 1445,
   "android_count": 345,
-  "ios_count": 1099,
+  "ios_count": 1100,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "dc9be871440b",
+      "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
+      "summary": "iOS 27 is packed with new features for Apple’s Photos app, including two that have long been on many users’ wish lists: full-featured slideshow creation and upgraded iCloud Shared Albums.",
+      "url": "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-13 14:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 为 Apple Photos 提供了两项我们期待已久的功能",
+      "summary_translated": "iOS 27 包含了苹果照片应用程序的新功能，其中两项长期以来一直在许多用户的愿望清单上：全功能幻灯片创建和升级的 iCloud 共享相册。"
+    },
     {
       "id": "d78dd68d212b",
       "title": "Report: Apple seeks publisher deals to give Siri AI better access to current events",
