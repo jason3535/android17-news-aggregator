@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-13 17:07:32",
-  "total_count": 1450,
-  "news_count": 1445,
+  "last_updated": "2026-08-13 19:15:48",
+  "total_count": 1452,
+  "news_count": 1447,
   "android_count": 345,
-  "ios_count": 1100,
+  "ios_count": 1102,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "81a0fbfd0f50",
+      "title": "Apple Wallet in iOS 27 adds clever new way to use its many features",
+      "summary": "Apple Wallet is getting several upgrades in iOS 27, including a new ‘Discover’ section that was just added in beta 5 this week. Here’s what it does.",
+      "url": "https://9to5mac.com/2026/08/13/apple-wallet-in-ios-27-adds-clever-new-way-to-use-its-many-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-13 19:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中的 Apple Wallet 增加了使用其众多功能的巧妙新方式",
+      "summary_translated": "Apple Wallet 在 iOS 27 中进行了多项升级，包括本周刚刚在 beta 5 中添加的新“发现”部分。这就是它的作用。"
+    },
+    {
+      "id": "6b0259becbae",
+      "title": "Future Apple wearables, iOS 27 beta 5, iPhone 20 details",
+      "summary": "Benjamin and Chance talk about all the changes in iOS 27 beta 5, as Apple reportedly takes a fresh look at fitness wearables, details about the glassy iPhone 20, Friday Night Baseball on Vision Pro and more rumors about Apple TV sports rights — this time, golf.\nAnd in Happy Hour Plus, out of the blu",
+      "url": "https://9to5mac.com/2026/08/13/happy-hour-603/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-13 18:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "未来的苹果可穿戴设备、iOS 27 beta 5、iPhone 20 详细信息",
+      "summary_translated": "Benjamin 和 Chance 谈论了 iOS 27 beta 5 中的所有变化，据报道，苹果对健身可穿戴设备进行了全新的审视，有关玻璃 iPhone 20 的详细信息，Vision Pro 上的周五棒球之夜以及有关 Apple TV 体育赛事转播权的更多谣言（这次是高尔夫）。\n在欢乐时光Plus中，从蓝色中出来"
+    },
     {
       "id": "dc9be871440b",
       "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
