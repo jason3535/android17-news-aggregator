@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-12 23:53:44",
-  "total_count": 1448,
-  "news_count": 1443,
+  "last_updated": "2026-08-13 02:40:48",
+  "total_count": 1449,
+  "news_count": 1444,
   "android_count": 345,
-  "ios_count": 1098,
+  "ios_count": 1099,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-ipados-27-design.jpg?quality=82&strip=all&w=1600",
       "title_translated": "报告：苹果寻求与出版商达成协议，让 Siri AI 更好地了解时事",
       "summary_translated": "据《华尔街日报》报道，苹果一直在寻求价值高达九位数的内容交易，以改善 Siri AI 对当前新闻和信息的访问。以下是详细信息。"
+    },
+    {
+      "id": "93687dcf4a87",
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "summary": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal.\n\n\n\n\nApple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard ",
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-12 17:03",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
+      "title_translated": "苹果正在洽谈向出版商支付新闻内容费用以支持 Siri AI",
+      "summary_translated": "据《华尔街日报》报道，苹果已与出版商接洽，达成内容协议，让 Siri AI 能够访问当前的新闻和信息。\n\n\n\n\n苹果正在提议多年协议，出版商将在其内容被使用时收到付款，这与标准不同"
     },
     {
       "id": "f3dfc752ddcf",
@@ -20215,7 +20229,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -20226,7 +20240,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -20237,7 +20251,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -20248,7 +20262,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -20259,7 +20273,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
