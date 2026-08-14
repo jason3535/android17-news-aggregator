@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-14 13:34:31",
-  "total_count": 1455,
-  "news_count": 1450,
+  "last_updated": "2026-08-14 15:03:09",
+  "total_count": 1456,
+  "news_count": 1451,
   "android_count": 345,
-  "ios_count": 1105,
+  "ios_count": 1106,
   "leaker_count": 5,
   "items": [
     {
@@ -20304,6 +20304,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/e-kh1NI44Kc/hqdefault.jpg",
       "title_translated": "iOS 27 Beta 5 变化超预期！这里有超过 15 个新变化",
+      "summary_translated": ""
+    },
+    {
+      "id": "342a0876eca0",
+      "title": "AirPods Pro 3 Just Got Their Biggest Update Yet With iOS 27",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=U4OuX8jPFxY",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/U4OuX8jPFxY/hqdefault.jpg",
+      "title_translated": "AirPods Pro 3 刚刚通过 iOS 27 获得了迄今为止最大的更新",
       "summary_translated": ""
     },
     {
