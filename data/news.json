@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-14 11:52:52",
-  "total_count": 1453,
-  "news_count": 1448,
+  "last_updated": "2026-08-14 13:34:31",
+  "total_count": 1455,
+  "news_count": 1450,
   "android_count": 345,
-  "ios_count": 1103,
+  "ios_count": 1105,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "246c44d050c5",
+      "title": "Apple One gets even better in iOS 27, here’s what’s new",
+      "summary": "Apple One is getting better in iOS 27, with subscribers set to benefit from new features coming to bundled Apple services like iCloud+ and Apple Music. Here’s what’s new.",
+      "url": "https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-14 13:32",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple One 在 iOS 27 中变得更好，以下是新功能",
+      "summary_translated": "Apple One 在 iOS 27 中变得越来越好，订阅者将受益于 iCloud+ 和 Apple Music 等捆绑 Apple 服务的新功能。这是新内容。"
+    },
+    {
+      "id": "ef4512f601c3",
+      "title": "30 New Things Your iPhone Can Do in iOS 27",
+      "summary": "Apple will release iOS 27 in September, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features on the way, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. \n\n\n\n\nThis year'",
+      "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-14 06:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
+      "title_translated": "iPhone 在 iOS 27 中可以做的 30 件新事情",
+      "summary_translated": "苹果将​​于 9 月发布 iOS 27，尽管该公司今年的重点是改进其旗舰操作系统并消除错误，但仍有许多其他功能正在开发中，其中最重要的是苹果新的上下文感知 Siri，它为生成人工智能时代进行了重新设计。 \n\n\n\n\n今年'"
+    },
     {
       "id": "0de45e0fd6fe",
       "title": "Apple Trained Own AI model for China Market With Help From Alibaba",
