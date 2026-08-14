@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-14 08:23:58",
-  "total_count": 1452,
-  "news_count": 1447,
+  "last_updated": "2026-08-14 10:13:38",
+  "total_count": 1453,
+  "news_count": 1448,
   "android_count": 345,
-  "ios_count": 1102,
+  "ios_count": 1103,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0de45e0fd6fe",
+      "title": "Apple Trained Own AI model for China Market With Help From Alibaba",
+      "summary": "Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country.\n\n\n\n\nThe LLM has been developed with the help of Alibaba, according to the report's sources. The development ma",
+      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-14 02:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "title_translated": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型",
+      "summary_translated": "路透社报道称，苹果已经为中国市场训练了自己的大型语言模型，而不是依赖第三方模型来为其在中国的 Apple Intelligence 功能提供支持。\n\n\n\n\n据报道的消息来源称，法学硕士课程是在阿里巴巴的帮助下开发的。发展历程"
+    },
     {
       "id": "81a0fbfd0f50",
       "title": "Apple Wallet in iOS 27 adds clever new way to use its many features",
