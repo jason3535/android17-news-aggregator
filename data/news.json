@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-15 15:31:32",
-  "total_count": 1464,
-  "news_count": 1459,
+  "last_updated": "2026-08-15 16:36:07",
+  "total_count": 1465,
+  "news_count": 1460,
   "android_count": 352,
-  "ios_count": 1107,
+  "ios_count": 1108,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a9bc48b8747a",
+      "title": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
+      "summary": "Apple’s home products (primarily HomePod mini and Apple TV) have been the talk of the town for the past couple of years. The reasoning is quite simple: the current iterations are 4-6 years old. \nSiri has been the holdup for new hardware releases, supposedly – but now that Siri AI is finally here, we",
+      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-15 16:08",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果为智能家居制定了庞大的产品路线图：即将推出的产品如下",
+      "summary_translated": "苹果的家用产品（主要是 HomePod mini 和 Apple TV）在过去几年中一直是人们谈论的话题。原因很简单：当前的迭代已经有 4-6 年的历史了。 \n据推测，Siri 一直是新硬件发布的阻碍 - 但现在 Siri AI 终于来了，我们"
+    },
     {
       "id": "257004f8e846",
       "title": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
