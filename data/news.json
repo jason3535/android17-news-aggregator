@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-15 03:00:30",
-  "total_count": 1462,
-  "news_count": 1457,
-  "android_count": 351,
+  "last_updated": "2026-08-15 03:49:29",
+  "total_count": 1463,
+  "news_count": 1458,
+  "android_count": 352,
   "ios_count": 1106,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b6cdbbcecb6a",
+      "title": "Google Releases Android 17 QPR2 Beta 3 For Pixel",
+      "summary": "Not that it’s a summer Friday or anything, but hey, there’s a new Android 17 QPR2 Beta 3 that dropped on Pixel phones just as we all called it quits for the week. Cool. If you own a Pixel 6a up through the Pixel 10 series (including the Pixel 10a), you can grab this update...\nRead the original post:",
+      "url": "https://www.droid-life.com/2026/08/14/google-releases-android-17-qpr2-beta-3-for-pixel/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-08-15 03:08",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Android-17-update-release-date-1-980x653.jpg",
+      "title_translated": "谷歌发布适用于 Pixel 的 Android 17 QPR2 Beta 3",
+      "summary_translated": "并不是说今天是夏天的星期五或其他什么，但是嘿，就在我们都宣布本周停止更新的时候，Pixel 手机上发布了新的 Android 17 QPR2 Beta 3。凉爽的。如果您拥有 Pixel 6a 到 Pixel 10 系列（包括 Pixel 10a），则可以获取此更新...\n阅读原帖："
+    },
     {
       "id": "8660d32c5783",
       "title": "Android 17 QPR2 adds App lock to Pixel",
