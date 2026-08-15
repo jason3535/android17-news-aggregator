@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-15 12:54:51",
-  "total_count": 1463,
-  "news_count": 1458,
+  "last_updated": "2026-08-15 13:38:25",
+  "total_count": 1464,
+  "news_count": 1459,
   "android_count": 352,
-  "ios_count": 1106,
+  "ios_count": 1107,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "257004f8e846",
+      "title": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
+      "summary": "Apple is likely winding down work on the initial release of iOS 27 as it prepares to install the operating system on new iPhone models coming next month, but some changes are still being made as we saw with the fifth round of betas this week.\n\n\n\n\nOther news and rumors this week included a look at an",
+      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-15 06:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-15.jpg",
+      "title_translated": "头条新闻：iOS 27 Beta 5、iPhone 18 Pro 传闻等",
+      "summary_translated": "苹果可能会结束 iOS 27 初始版本的工作，因为它准备在下个月推出的新 iPhone 机型上安装该操作系统，但正如我们在本周第五轮测试版中看到的那样，一些变化仍在进行。\n\n\n\n\n本周的其他新闻和谣言包括"
+    },
     {
       "id": "b6cdbbcecb6a",
       "title": "Google Releases Android 17 QPR2 Beta 3 For Pixel",
