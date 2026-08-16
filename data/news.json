@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-16 19:29:34",
-  "total_count": 1467,
-  "news_count": 1462,
-  "android_count": 353,
+  "last_updated": "2026-08-16 20:33:57",
+  "total_count": 1469,
+  "news_count": 1464,
+  "android_count": 355,
   "ios_count": 1109,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b80b563b3733",
+      "title": "Android 17 Update Adds Quick Settings Layout  Customization",
+      "summary": "It’s no secret that Google’s Pixel phones lack many of the customization options that Samsung phones have. Even Apple’s iPhone has added more features in recent years that let you fully tweak areas like the Quick Settings panel. While Google may run the Android scene, their own Pixel software is alm",
+      "url": "https://www.droid-life.com/2026/08/16/android-17-update-adds-quick-settings-layout-customization/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-08-16 20:21",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Android-17-Quick-Settings-Layout-1-980x653.jpg",
+      "title_translated": "Android 17更新添加快速设置布局自定义",
+      "summary_translated": "众所周知，谷歌 Pixel 手机缺乏三星手机拥有的许多定制选项。甚至苹果的 iPhone 近年来也添加了更多功能，让您可以充分调整“快速设置”面板等区域。虽然谷歌可能会运行Android场景，但他们自己的Pixel软件也已经"
+    },
+    {
+      "id": "37836543a984",
+      "title": "Android 17 QPR2 Beta 3 Adds All the Custom Color Options",
+      "summary": "Friday’s surprise update for the Pixel line has brought more features than anticipated. We already detailed the new App Lock from Android 17 QPR2 Beta 3, so let’s now talk about all of the new colors and customization options you have on your Pixel phone running this new software. Android 17 QPR2 Be",
+      "url": "https://www.droid-life.com/2026/08/16/android-17-qpr2-beta-3-adds-all-the-custom-color-options/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-08-16 19:43",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Android-17-App-New-Material-Colors-1-980x653.jpg",
+      "title_translated": "Android 17 QPR2 Beta 3 添加所有自定义颜色选项",
+      "summary_translated": "周五 Pixel 系列的意外更新带来了比预期更多的功能。我们已经详细介绍了 Android 17 QPR2 Beta 3 中的新应用锁，现在让我们来谈谈运行此新软件的 Pixel 手机上的所有新颜色和自定义选项。 Android 17 QPR2 是"
+    },
     {
       "id": "a3fe0ab88636",
       "title": "Google Adds App Lock to Pixel Phones in New Update",
