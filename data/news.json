@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-17 16:39:21",
-  "total_count": 1474,
-  "news_count": 1469,
+  "last_updated": "2026-08-17 17:38:52",
+  "total_count": 1477,
+  "news_count": 1472,
   "android_count": 359,
-  "ios_count": 1110,
+  "ios_count": 1113,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5672d64d7552",
+      "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
+      "summary": "Apple has just released iOS 26.6.1, a new software update for iPhone. Here’s what’s new.",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-17 17:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-hero.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple 发布了 iPhone 版 iOS 26.6.1，以下是新功能",
+      "summary_translated": "Apple 刚刚发布了 iOS 26.6.1，这是 iPhone 的新软件更新。这是新内容。"
+    },
+    {
+      "id": "efcec0380f4f",
+      "title": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade",
+      "summary": "Apple has released the sixth iOS 27 beta for developer testing. iOS 27 beta 6 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover.",
+      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-17 17:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b6.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 6 现已推出，苹果正在测​​试主要的 Siri AI 升级",
+      "summary_translated": "苹果发布了第六个 iOS 27 Beta 版供开发者测试。 iOS 27 beta 6 继续苹果的夏季测试周期，并于 9 月公开发布。我们将更新我们的设备并分享我们的发现。"
+    },
     {
       "id": "bc373675586d",
       "title": "PSA: Android 17 QPR2 Beta 3 may mess up your home screen",
@@ -33,6 +61,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Samsung-Galaxy-S22-Ultra-with-SPen.jpg",
       "title_translated": "得益于 LineageOS，Galaxy S22 刚刚获得了 Android 17 的新机会",
       "summary_translated": "LineageOS 23 登陆 Galaxy S22，为非官方 Android 17 更新打开了大门。"
+    },
+    {
+      "id": "2fb743d6d084",
+      "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+      "summary": "Apple today seeded the sixth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the fifth betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and select",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-17 10:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "Apple 向开发者发布第六个 iOS 27 和 iPadOS 27 Beta",
+      "summary_translated": "苹果今天向开发者发布了 iOS 27 和 iPadOS 27 的第六个测试版，用于测试目的，更新是在苹果发布第五个测试版一周后发布的。\n\n\n\n\n注册开发者可以从 iPhone 或 iPad 上的“设置”应用下载测试版，方法是转至“常规”部分并选择"
     },
     {
       "id": "80285023d63e",
