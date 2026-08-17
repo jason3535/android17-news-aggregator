@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-17 21:35:04",
-  "total_count": 1486,
-  "news_count": 1481,
+  "last_updated": "2026-08-17 22:35:55",
+  "total_count": 1488,
+  "news_count": 1483,
   "android_count": 362,
-  "ios_count": 1119,
+  "ios_count": 1121,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "42bf9bf9b9df",
+      "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27",
+      "summary": "After releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-17 22:12",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布 iOS 27、macOS 27、iPadOS 27、tvOS 27 的公共测试版 4",
+      "summary_translated": "在今天早些时候发布开发者 Beta 6 后，Apple 现在推出了 iOS 27 公共 Beta 4，以及其他一些平台的相应更新。以下是详细信息。"
+    },
     {
       "id": "b957d47000d6",
       "title": "Android 17 QPR1 Beta 9 Update Released for Pixel Phones",
@@ -103,6 +117,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b6.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 beta 6 现已推出，苹果正在测​​试主要的 Siri AI 升级",
       "summary_translated": "苹果发布了第六个 iOS 27 Beta 版供开发者测试。 iOS 27 beta 6 继续苹果的夏季测试周期，并于 9 月公开发布。我们将更新我们的设备并分享我们的发现。"
+    },
+    {
+      "id": "6c1716bd18a9",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "summary": "Apple today released the fourth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The fourth betas come a week after Apple seeded the third betas and just a few hours after the sixth developer betas.\n\n\n\n",
+      "url": "https://www.macrumors.com/2026/08/17/apple-ios-27-public-beta-4/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-17 15:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "title_translated": "Apple 发布新的 iOS 27、iPadOS 27、macOS 27 和 tvOS 27 公共测试版",
+      "summary_translated": "苹果今天发布了 iOS 27、iPadOS 27、tvOS 27 和 macOS Golden Gate 的第四个公开测试版，允许任何拥有兼容设备的人下载和测试新软件。第四个测试版在苹果发布第三个测试版一周后发布，距离第六个开发者测试版仅几个小时。"
     },
     {
       "id": "1b6e7dd30468",
