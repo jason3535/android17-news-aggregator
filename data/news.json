@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-17 11:35:28",
-  "total_count": 1471,
-  "news_count": 1466,
-  "android_count": 357,
+  "last_updated": "2026-08-17 13:02:12",
+  "total_count": 1473,
+  "news_count": 1468,
+  "android_count": 359,
   "ios_count": 1109,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bc373675586d",
+      "title": "PSA: Android 17 QPR2 Beta 3 may mess up your home screen",
+      "summary": "Android 17 QPR2 Beta 3 can break common home screen features, including widgets, while also jumbling your app drawer.",
+      "url": "https://www.androidauthority.com/android-17-qpr2-beta-3-bugs-3699240/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-17 12:04",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-3-scaled.jpg",
+      "title_translated": "PSA：Android 17 QPR2 Beta 3 可能会弄乱你的主屏幕",
+      "summary_translated": "Android 17 QPR2 Beta 3 可能会破坏常见的主屏幕功能，包括小部件，同时还会扰乱您的应用程序抽屉。"
+    },
+    {
+      "id": "ead8e28235fa",
+      "title": "The Galaxy S22 just got a new shot at Android 17, thanks to LineageOS",
+      "summary": "LineageOS 23 arrives on Galaxy S22, opening doors to an unofficial Android 17 update.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s22-android-17-lineageos-3699270/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-17 11:52",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Samsung-Galaxy-S22-Ultra-with-SPen.jpg",
+      "title_translated": "得益于 LineageOS，Galaxy S22 刚刚获得了 Android 17 的新机会",
+      "summary_translated": "LineageOS 23 登陆 Galaxy S22，为非官方 Android 17 更新打开了大门。"
+    },
     {
       "id": "80285023d63e",
       "title": "Android 17 QPR 2 Beta 3 takes cell network security to the next level",
