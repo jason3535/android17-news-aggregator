@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-17 19:36:05",
-  "total_count": 1482,
-  "news_count": 1477,
+  "last_updated": "2026-08-17 20:38:13",
+  "total_count": 1483,
+  "news_count": 1478,
   "android_count": 359,
-  "ios_count": 1118,
+  "ios_count": 1119,
   "leaker_count": 5,
   "items": [
     {
@@ -20682,6 +20682,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/U4OuX8jPFxY/hqdefault.jpg",
       "title_translated": "AirPods Pro 3 刚刚通过 iOS 27 获得了迄今为止最大的更新",
+      "summary_translated": ""
+    },
+    {
+      "id": "2901e022e41f",
+      "title": "iOS 27 Beta 6: Apple Fixed One of the Most Annoying Bugs | Everything New!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=2u4JIjf-4fU",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/2u4JIjf-4fU/hqdefault.jpg",
+      "title_translated": "iOS 27 Beta 6：苹果修复了最烦人的错误之一一切都是新的！",
       "summary_translated": ""
     },
     {
