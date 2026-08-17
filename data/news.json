@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-17 07:12:02",
-  "total_count": 1470,
-  "news_count": 1465,
-  "android_count": 356,
+  "last_updated": "2026-08-17 08:56:11",
+  "total_count": 1471,
+  "news_count": 1466,
+  "android_count": 357,
   "ios_count": 1109,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "80285023d63e",
+      "title": "Android 17 QPR 2 Beta 3 takes cell network security to the next level",
+      "summary": "Google is adding a security log, cipher encryption details, and more notification alerts to protect against cellular attacks.",
+      "url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-17 08:43",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2022/05/5G-Preferred-Network-Setting-2.jpg",
+      "title_translated": "Android 17 QPR 2 Beta 3 将蜂窝网络安全提升到新水平",
+      "summary_translated": "谷歌正在添加安全日志、密码加密详细信息和更多通知警报，以防止蜂窝攻击。"
+    },
     {
       "id": "984ac339b869",
       "title": "Android 17 QPR2 Beta 3 is a surprisingly feature-packed update",
