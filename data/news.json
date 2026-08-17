@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-17 18:53:47",
-  "total_count": 1479,
-  "news_count": 1474,
+  "last_updated": "2026-08-17 19:36:05",
+  "total_count": 1482,
+  "news_count": 1477,
   "android_count": 359,
-  "ios_count": 1115,
+  "ios_count": 1118,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "463e78532e2c",
+      "title": "Here’s what’s new with iOS and macOS 27 beta 6",
+      "summary": "Apple released iOS 27 beta 6 today, giving developer beta testers the next preview update since iOS 27 debuted at WWDC. Developer beta testers can download the new beta now.\niOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of qual",
+      "url": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-17 19:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-orange.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "以下是 iOS 和 macOS 27 beta 6 的新增功能",
+      "summary_translated": "苹果今天发布了 iOS 27 beta 6，为开发者 Beta 测试人员提供了自 iOS 27 在 WWDC 上首次亮相以来的下一个预览更新。开发人员 Beta 测试人员现在可以下载新的 Beta 版。\niOS 27 是 iPhone 的一次重大更新，围绕 Siri AI、Apple Intelligence、Liquid Glass 改进以及一长串优质功能展开。"
+    },
     {
       "id": "5ff34aab003b",
       "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
@@ -49,6 +63,20 @@
       "summary_translated": "苹果发布了第六个 iOS 27 Beta 版供开发者测试。 iOS 27 beta 6 继续苹果的夏季测试周期，并于 9 月公开发布。我们将更新我们的设备并分享我们的发现。"
     },
     {
+      "id": "1b6e7dd30468",
+      "title": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
+      "summary": "The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document. This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can ",
+      "url": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-17 12:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title_translated": "iOS 26.6.1 和 macOS Tahoe 26.6.2 修复近 30 个安全漏洞",
+      "summary_translated": "The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document. This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can "
+    },
+    {
       "id": "bc373675586d",
       "title": "PSA: Android 17 QPR2 Beta 3 may mess up your home screen",
       "summary": "Android 17 QPR2 Beta 3 can break common home screen features, including widgets, while also jumbling your app drawer.",
@@ -61,6 +89,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-3-scaled.jpg",
       "title_translated": "PSA：Android 17 QPR2 Beta 3 可能会弄乱你的主屏幕",
       "summary_translated": "Android 17 QPR2 Beta 3 可能会破坏常见的主屏幕功能，包括小部件，同时还会扰乱您的应用程序抽屉。"
+    },
+    {
+      "id": "2378701959ee",
+      "title": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
+      "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Apple's settlement received preliminary approval last month, but final approval is not expected until next year, according to a ne",
+      "url": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-17 12:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/ios-27-siri-animation.jpg",
+      "title_translated": "Siri AI 和解：苹果要到明年才会开始向客户付款",
+      "summary_translated": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Apple's settlement received preliminary approval last month, but final approval is not expected until next year, according to a ne"
     },
     {
       "id": "ead8e28235fa",
