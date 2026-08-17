@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-17 17:38:52",
-  "total_count": 1477,
-  "news_count": 1472,
+  "last_updated": "2026-08-17 18:53:47",
+  "total_count": 1479,
+  "news_count": 1474,
   "android_count": 359,
-  "ios_count": 1113,
+  "ios_count": 1115,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5ff34aab003b",
+      "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
+      "summary": "Apple released iOS 26.6.1 today, a new software update for iPhone that includes fixes for 20+ security issues. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-17 18:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-security.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 26.6.1 修复了 iPhone 上的 20 多个安全问题，详细信息请参见此处",
+      "summary_translated": "Apple 今天发布了 iOS 26.6.1，这是针对 iPhone 的新软件更新，其中修复了 20 多个安全问题。以下是详细信息。"
+    },
     {
       "id": "5672d64d7552",
       "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
@@ -61,6 +75,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Samsung-Galaxy-S22-Ultra-with-SPen.jpg",
       "title_translated": "得益于 LineageOS，Galaxy S22 刚刚获得了 Android 17 的新机会",
       "summary_translated": "LineageOS 23 登陆 Galaxy S22，为非官方 Android 17 更新打开了大门。"
+    },
+    {
+      "id": "8522ec2b0a8b",
+      "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
+      "summary": "Apple today released iOS 26.6.1, iPadOS 26.6.1, visionOS 26.6.1, and macOS 26.6.2, with all of the updates containing security fixes.\n\n\n\n\nApple also released iOS 18.7.10 and iPadOS 18.7.10 with security fixes.\n\n\nAll of the iOS and iPadOS updates released today deliver security fixes that were first ",
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-17 11:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
+      "title_translated": "Apple 发布 iOS 26.6.1、macOS 26.6.2 等",
+      "summary_translated": "Apple 今天发布了 iOS 26.6.1、iPadOS 26.6.1、visionOS 26.6.1 和 macOS 26.6.2，所有更新都包含安全修复程序。\n\n\n\n\nApple 还发布了带有安全修复程序的 iOS 18.7.10 和 iPadOS 18.7.10。\n\n\n今天发布的所有 iOS 和 iPadOS 更新都首先提供了安全修复"
     },
     {
       "id": "2fb743d6d084",
