@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-18 16:44:18",
-  "total_count": 1488,
-  "news_count": 1483,
+  "last_updated": "2026-08-18 17:37:23",
+  "total_count": 1490,
+  "news_count": 1485,
   "android_count": 362,
-  "ios_count": 1121,
+  "ios_count": 1123,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "5bc480aa4941",
+      "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
+      "summary": "Update, August 18, 1:06 p.m. ET: Apple has now published watchOS 27 Public Beta 4 (Build: 24R5353a). The original story follows below\nAfter releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here ",
+      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-18 17:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "苹果发布了 iOS 27、macOS 27、iPadOS 27、tvOS 27 的公共测试版 4 [U：watchOS 27]",
+      "summary_translated": "更新，8 月 18 日下午 1:06 ET：Apple 现已发布 watchOS 27 Public Beta 4（内部版本：24R5353a）。原故事如下\n在今天早些时候发布开发者 Beta 6 后，Apple 现在推出了 iOS 27 公共 Beta 4，以及其他一些平台的相应更新。这里"
+    },
+    {
+      "id": "ae2cbbf34462",
+      "title": "macOS 27 Golden Gate makes one design decision that I would change for MacBooks",
+      "summary": "If there’s one change I could make to iOS 27 and iPadOS 27, it would be disabling the new swipe-down gesture to invoke Siri AI. There are enough ways to summon Siri that don’t break my muscle memory around opening Notification Center on my iPhone and iPad.\nMeanwhile, on the Mac, it’s almost all good",
+      "url": "https://9to5mac.com/2026/08/18/macos-27-golden-gate-makes-one-design-decision-that-i-would-change-for-macbooks/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-18 16:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "macOS 27 Golden Gate 做出了一项我会为 MacBook 更改的设计决策",
+      "summary_translated": "如果我可以对 iOS 27 和 iPadOS 27 做出一项更改，那就是禁用新的向下滑动手势来调用 Siri AI。有足够多的方法来召唤 Siri，并且不会破坏我在 iPhone 和 iPad 上打开通知中心的肌肉记忆。\n与此同时，在 Mac 上，一切都很好"
+    },
     {
       "id": "42bf9bf9b9df",
       "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27",
