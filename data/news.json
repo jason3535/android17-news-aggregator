@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-18 17:37:23",
-  "total_count": 1490,
-  "news_count": 1485,
+  "last_updated": "2026-08-18 18:52:45",
+  "total_count": 1491,
+  "news_count": 1486,
   "android_count": 362,
-  "ios_count": 1123,
+  "ios_count": 1124,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "31dac4bd048f",
+      "title": "tvOS 27 to add Siri AI for Apple TV 4K, per new leak",
+      "summary": "Siri AI was unveiled in June for most Apple platforms—but Apple TV and HomePod missed out. A new leak, however, points to tvOS 27 including Siri AI after all.",
+      "url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-18 17:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-apple-tv-4k-tvos-27-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "根据新泄漏，tvOS 27 将为 Apple TV 4K 添加 Siri AI",
+      "summary_translated": "Siri AI 于 6 月在大多数 Apple 平台上发布，但 Apple TV 和 HomePod 却错过了。然而，新的泄密事件指向 tvOS 27，毕竟包括 Siri AI。"
+    },
     {
       "id": "5bc480aa4941",
       "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
