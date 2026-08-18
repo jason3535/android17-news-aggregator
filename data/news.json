@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-18 21:33:59",
-  "total_count": 1493,
-  "news_count": 1488,
+  "last_updated": "2026-08-18 22:36:15",
+  "total_count": 1494,
+  "news_count": 1489,
   "android_count": 363,
-  "ios_count": 1125,
+  "ios_count": 1126,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "eb8ba2fae706",
+      "title": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-18 21:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily：2026 年 8 月 18 日 – iOS 27 beta 6、AirPods 泄露",
+      "summary_translated": "聆听 9to5Mac 当天的头条新闻回顾。 9to5Mac Daily 可在 iTunes 和 Apple 播客应用、Stitcher、TuneIn、Google Play 上观看，或者通过我们为 Overcast 和其他播客播放器提供的专用 RSS feed 提供。\n由 Backblaze 赞助：值得信赖的备份。使用代码 9to 节省 20%"
+    },
     {
       "id": "f3388cebc1aa",
       "title": "Here’s everything new for Apple Calendar in iOS 27",
