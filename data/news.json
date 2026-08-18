@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-18 19:35:14",
-  "total_count": 1492,
-  "news_count": 1487,
+  "last_updated": "2026-08-18 20:35:25",
+  "total_count": 1493,
+  "news_count": 1488,
   "android_count": 363,
-  "ios_count": 1124,
+  "ios_count": 1125,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f3388cebc1aa",
+      "title": "Here’s everything new for Apple Calendar in iOS 27",
+      "summary": "iOS 27 is packed with new features for Apple Wallet, Messages, Notes, and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27.",
+      "url": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-18 19:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 中 Apple 日历的所有新功能",
+      "summary_translated": "iOS 27 包含了 Apple 钱包、消息、便笺和其他系统应用程序（包括日历）的新功能。以下是 iOS 27 中 Apple 日历应用程序的所有新功能。"
+    },
     {
       "id": "31dac4bd048f",
       "title": "tvOS 27 to add Siri AI for Apple TV 4K, per new leak",
