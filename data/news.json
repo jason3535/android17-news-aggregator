@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-18 18:52:45",
-  "total_count": 1491,
-  "news_count": 1486,
-  "android_count": 362,
+  "last_updated": "2026-08-18 19:35:14",
+  "total_count": 1492,
+  "news_count": 1487,
+  "android_count": 363,
   "ios_count": 1124,
   "leaker_count": 5,
   "items": [
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "macOS 27 Golden Gate 做出了一项我会为 MacBook 更改的设计决策",
       "summary_translated": "如果我可以对 iOS 27 和 iPadOS 27 做出一项更改，那就是禁用新的向下滑动手势来调用 Siri AI。有足够多的方法来召唤 Siri，并且不会破坏我在 iPhone 和 iPad 上打开通知中心的肌肉记忆。\n与此同时，在 Mac 上，一切都很好"
+    },
+    {
+      "id": "76dacd7cbf6a",
+      "title": "Samsung makes warranty repairs easier with Android 17, advertises it with AI guinea pigs [Gallery]",
+      "summary": "Live on the Galaxy Z Fold 8 series and presumably coming to more devices when Android 17 / One UI…",
+      "url": "https://9to5google.com/2026/08/18/samsung-warranty-software-update-android-17-one-ui-9/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-08-18",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/samsung-warranty-update.jpg?quality=82&strip=all&w=350",
+      "title_translated": "三星通过 Android 17 使保修维修变得更容易，并用 AI 豚鼠进行广告 [图库]",
+      "summary_translated": "已在 Galaxy Z Fold 8 系列上上线，并且可能会在 Android 17 / One UI 发布后登陆更多设备……"
     },
     {
       "id": "42bf9bf9b9df",
