@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-19 13:55:14",
-  "total_count": 1494,
-  "news_count": 1489,
+  "last_updated": "2026-08-19 14:47:19",
+  "total_count": 1495,
+  "news_count": 1490,
   "android_count": 363,
-  "ios_count": 1126,
+  "ios_count": 1127,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "12441f088745",
+      "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
+      "summary": "According to rumors, the next-generation Apple TV 4K will have at least five new features, including an A17 Pro chip or newer, increased RAM, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote.\n\n\n\n\nBelow, we recap everything rumored for the next Apple TV, alo",
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-19 07:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg",
+      "title_translated": "据传 Apple TV 将有五项新功能，其中包括 Siri AI",
+      "summary_translated": "据传言，下一代 Apple TV 4K 将具有至少五项新功能，包括 A17 Pro 芯片或更新版本、增加的 RAM、Siri AI 支持、苹果设计的支持 Wi-Fi 7 的 N1 芯片以及更新的 Siri Remote。\n\n\n\n\n下面，我们回顾一下有关下一代 Apple TV 的所有传闻"
+    },
     {
       "id": "eb8ba2fae706",
       "title": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
