@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-20 11:36:47",
-  "total_count": 1498,
-  "news_count": 1493,
+  "last_updated": "2026-08-20 13:06:44",
+  "total_count": 1499,
+  "news_count": 1494,
   "android_count": 365,
-  "ios_count": 1128,
+  "ios_count": 1129,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/digital-wellbeing-tools.jpg",
       "title_translated": "谷歌证实，Android 17 的新干扰杀手是 Pixel 11 独有",
       "summary_translated": "Android 17 的暂停点可能是您抵御分散注意力的应用程序的最佳防御手段，但前提是您拥有 Pixel 11 系列手机。"
+    },
+    {
+      "id": "68a102015748",
+      "title": "iOS 27 Shared Albums Go Full Res at the Cost of Your iCloud Storage",
+      "summary": "In iOS 27, new Shared Albums you create in the Photos app retain full-resolution quality for the first time, but they now eat into your iCloud storage – and that includes any items added by other people invited to contribute.\n\n\n\n\nCurrently, photos in a Shared Album are automatically reduced to 2,048",
+      "url": "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-20 05:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/10/iCloud-iPhone-17-Pro.jpg",
+      "title_translated": "iOS 27 共享相册以牺牲 iCloud 存储空间为代价实现全分辨率",
+      "summary_translated": "在 iOS 27 中，您在“照片”应用中创建的新共享相册首次保留全分辨率质量，但它们现在会占用您的 iCloud 存储空间，其中包括受邀贡献的其他人添加的任何项目。\n\n\n\n\n目前，共享相册中的照片会自动减少到 2,048 张"
     },
     {
       "id": "91df21288368",
