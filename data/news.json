@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-20 19:39:22",
-  "total_count": 1503,
-  "news_count": 1498,
-  "android_count": 366,
+  "last_updated": "2026-08-20 20:40:01",
+  "total_count": 1505,
+  "news_count": 1500,
+  "android_count": 368,
   "ios_count": 1132,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6e6dd3a8737c",
+      "title": "Nothing OS 5.0 Arrives August 25",
+      "summary": "Nothing made it official today, announcing that Nothing OS 5.0, based on Android 17, will start its roll out to supported devices beginning August 25. The list of expected supported devices dates back to the Nothing Phone (2a) Plus, as well as the CMF Phone 2 Pro. Everything newer should be in line ",
+      "url": "https://www.droid-life.com/2026/08/20/nothing-os-5-0-arrives-august-25/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-08-20 20:36",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/04/Nothing-Phone-4a-Pro-Review-2-2-980x653.jpg",
+      "title_translated": "Nothing OS 5.0 将于 8 月 25 日发布",
+      "summary_translated": "Nothing 今天正式宣布，基于 Android 17 的 Nothing OS 5.0 将于 8 月 25 日开始向受支持的设备推出。预计受支持的设备列表可以追溯到 Nothing Phone (2a) Plus 以及 CMF Phone 2 Pro。所有新的东西都应该保持一致"
+    },
+    {
+      "id": "b55453fa72e1",
+      "title": "Your Pixel 11 Gets First Update Out of the Box",
+      "summary": "Once you open up your new Pixel 11 or Pixel 11 Pro today and start the setup process, be on the lookout for its first software update. Google is pushing an out-of-box Android 17 update, plus there is a Google Play System Update to grab as well. Your Pixel 11 series phone will be running...\nRead the ",
+      "url": "https://www.droid-life.com/2026/08/20/your-pixel-11-gets-first-update-out-of-the-box/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-08-20 19:53",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-2-980x653.jpg",
+      "title_translated": "您的 Pixel 11 获得开箱即用的首次更新",
+      "summary_translated": "当您今天打开新的 Pixel 11 或 Pixel 11 Pro 并开始设置过程后，请留意其首次软件更新。谷歌正在推送开箱即用的 Android 17 更新，此外还有 Google Play 系统更新可供获取。您的 Pixel 11 系列手机将运行...\n阅读"
+    },
     {
       "id": "7a86644bed59",
       "title": "AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases",
