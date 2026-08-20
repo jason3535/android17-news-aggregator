@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-20 18:54:32",
-  "total_count": 1502,
-  "news_count": 1497,
+  "last_updated": "2026-08-20 19:39:22",
+  "total_count": 1503,
+  "news_count": 1498,
   "android_count": 366,
-  "ios_count": 1131,
+  "ios_count": 1132,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
       "title_translated": "iOS 27 打破了 iPhone 和 iPad 15 年的肌肉记忆",
       "summary_translated": "自 2011 年 iOS 5 起，iPhone 和 iPad 就包含了通知中心，这是一个按时间顺序查找各种应用程序警报的中心位置。\n从 iOS 27 开始，Apple 对用户在 iPhone 和 iPad 上打开通知中心的方式进行了重大更改。\niOS 27 目前处于测试阶段，"
+    },
+    {
+      "id": "2c04a6e0b23f",
+      "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "summary": "Apple today released a fifth version of the beta firmware it is testing for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is available for developers and public beta testers. It has a build number of 9A5347a.\n\n\n\n\nIn iOS 27, iPadOS 27, and macOS Golden Gate, Apple is ad",
+      "url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-20 12:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
+      "title_translated": "苹果发布具有 iOS 27 功能的新 AirPods Beta 固件",
+      "summary_translated": "Apple 今天发布了正在测试的 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2 测试版固件的第五版。该固件可供开发者和公共测试人员使用。它的内部版本号为 9A5347a。\n\n\n\n\n在 iOS 27、iPadOS 27 和 macOS Golden Gate 中，Apple 是广告"
     },
     {
       "id": "7550b8357f22",
