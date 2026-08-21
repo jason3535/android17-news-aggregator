@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-21 09:48:40",
-  "total_count": 1505,
-  "news_count": 1500,
-  "android_count": 368,
+  "last_updated": "2026-08-21 10:41:22",
+  "total_count": 1506,
+  "news_count": 1501,
+  "android_count": 369,
   "ios_count": 1132,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d7aa1c7788aa",
+      "title": "I tried Android 17 QPR2 Beta 3 — these 3 features completely changed my Pixel",
+      "summary": "Android 17 QPR2 keeps getting better and better.",
+      "url": "https://www.androidauthority.com/android-17-qpr2-beta-3-hands-on-3700096/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-21 10:30",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/android-17-qpr2-beta-3-hands-on-quick-settings-1-scaled.jpg",
+      "title_translated": "我尝试了 Android 17 QPR2 Beta 3 — 这 3 个功能彻底改变了我的 Pixel",
+      "summary_translated": "Android 17 QPR2 不断变得越来越好。"
+    },
     {
       "id": "6e6dd3a8737c",
       "title": "Nothing OS 5.0 Arrives August 25",
