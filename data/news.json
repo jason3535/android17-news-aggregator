@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-24 16:51:28",
-  "total_count": 1508,
-  "news_count": 1503,
+  "last_updated": "2026-08-24 17:40:06",
+  "total_count": 1510,
+  "news_count": 1505,
   "android_count": 370,
-  "ios_count": 1133,
+  "ios_count": 1135,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "abd663956046",
+      "title": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "summary": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover.",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-24 17:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "summary_translated": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover."
+    },
     {
       "id": "1a9b5cd3a74c",
       "title": "iOS 27 fixes three of the most annoying Messages bugs",
@@ -19,6 +33,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 fixes three of the most annoying Messages bugs",
       "summary_translated": "iOS 27 focuses heavily on bug fixes and performance improvements across apps like Safari, Mail, Calendar, and more.\nIn the Messages app, iOS 27 fixes what I think are three of the most frustrating bugs … and the update will be released to everyone in just a few weeks. "
+    },
+    {
+      "id": "abfe405a1e32",
+      "title": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+      "summary": "Apple today seeded the seventh betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the sixth betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and sele",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-24 10:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+      "summary_translated": "Apple today seeded the seventh betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the sixth betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and sele"
     },
     {
       "id": "b2f1dc4c6d33",
