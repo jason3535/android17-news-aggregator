@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-24 22:38:39",
-  "total_count": 1512,
-  "news_count": 1507,
+  "last_updated": "2026-08-24 23:30:55",
+  "total_count": 1514,
+  "news_count": 1509,
   "android_count": 370,
-  "ios_count": 1137,
+  "ios_count": 1139,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9ef6fd971bbb",
+      "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+      "summary": "Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-24 22:45",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+      "summary_translated": "Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details."
+    },
     {
       "id": "2bc435d438ab",
       "title": "iOS 27 adds three new iPhone features I’ve been really loving",
@@ -33,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
       "summary_translated": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover."
+    },
+    {
+      "id": "8d2fe2e893bf",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "summary": "Apple today released the fifth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The fifth betas come a week after Apple seeded the fourth betas and a few hours after the seventh developer betas.\n\n\n\n\nYou",
+      "url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-24 15:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "title_translated": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "summary_translated": "Apple today released the fifth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The fifth betas come a week after Apple seeded the fourth betas and a few hours after the seventh developer betas.\n\n\n\n\nYou"
     },
     {
       "id": "1a9b5cd3a74c",
