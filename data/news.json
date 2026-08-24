@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-24 08:59:41",
-  "total_count": 1506,
-  "news_count": 1501,
-  "android_count": 369,
+  "last_updated": "2026-08-24 09:58:19",
+  "total_count": 1507,
+  "news_count": 1502,
+  "android_count": 370,
   "ios_count": 1132,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b2f1dc4c6d33",
+      "title": "Unannounced phones land on Motorola’s Android 17 update list, but actual ones miss out",
+      "summary": "Lenovo skipped over recent Edge and Moto G models for Android 17 update eligiblity.",
+      "url": "https://www.androidauthority.com/motorola-android-17-update-list-missing-phones-3702026/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-24 09:01",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/Moto-Edge-50-Pro-showing-back-of-the-phone.jpg",
+      "title_translated": "Unannounced phones land on Motorola’s Android 17 update list, but actual ones miss out",
+      "summary_translated": "Lenovo skipped over recent Edge and Moto G models for Android 17 update eligiblity."
+    },
     {
       "id": "d7aa1c7788aa",
       "title": "I tried Android 17 QPR2 Beta 3 — these 3 features completely changed my Pixel",
