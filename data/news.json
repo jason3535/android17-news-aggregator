@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-24 19:38:15",
-  "total_count": 1511,
-  "news_count": 1506,
+  "last_updated": "2026-08-24 20:43:22",
+  "total_count": 1512,
+  "news_count": 1507,
   "android_count": 370,
-  "ios_count": 1136,
+  "ios_count": 1137,
   "leaker_count": 5,
   "items": [
     {
@@ -21088,6 +21088,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/2u4JIjf-4fU/hqdefault.jpg",
       "title_translated": "iOS 27 Beta 6：苹果修复了最烦人的错误之一一切都是新的！",
+      "summary_translated": ""
+    },
+    {
+      "id": "b872affe7ba4",
+      "title": "iOS 27 Beta 7 Is FAST… But There’s One Big Problem",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=KnQQODRLFY0",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/KnQQODRLFY0/hqdefault.jpg",
+      "title_translated": "iOS 27 Beta 7 Is FAST… But There’s One Big Problem",
       "summary_translated": ""
     },
     {
