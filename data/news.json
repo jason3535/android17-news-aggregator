@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-25 14:58:02",
-  "total_count": 1518,
-  "news_count": 1513,
-  "android_count": 372,
+  "last_updated": "2026-08-25 15:54:30",
+  "total_count": 1519,
+  "news_count": 1514,
+  "android_count": 373,
   "ios_count": 1141,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "f92c6fee6c64",
+      "title": "Nothing’s Android 17 update debuts this week with redesigns, new apps, 3D emoji [Gallery]",
+      "summary": "Nothing has announced Nothing OS 5.0, its Android 17 update, which will start rolling out in October with some redesigned UI elements, more AI features, new apps, and support for Google’s 3D emoji too.",
+      "url": "https://9to5google.com/2026/08/25/nothing-android-17-update-changelog/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-08-25 15:40",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/nothing-phone-3-1-13.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Nothing’s Android 17 update debuts this week with redesigns, new apps, 3D emoji [Gallery]",
+      "summary_translated": "Nothing has announced Nothing OS 5.0, its Android 17 update, which will start rolling out in October with some redesigned UI elements, more AI features, new apps, and support for Google’s 3D emoji too."
+    },
     {
       "id": "e16ca5033afb",
       "title": "Nothing unveils Nothing OS 5.0 built on Android 17, but there’s bad news for older phones",
