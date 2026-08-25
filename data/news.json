@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-24 23:30:55",
-  "total_count": 1514,
-  "news_count": 1509,
+  "last_updated": "2026-08-25 01:47:39",
+  "total_count": 1515,
+  "news_count": 1510,
   "android_count": 370,
-  "ios_count": 1139,
+  "ios_count": 1140,
   "leaker_count": 5,
   "items": [
     {
@@ -47,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&strip=all&w=1600",
       "title_translated": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
       "summary_translated": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover."
+    },
+    {
+      "id": "c5c26167b605",
+      "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
+      "summary": "iOS 27, iPadOS 27, and macOS Golden Gate include Siri AI, Apple's much more capable version of ‌Siri‌. When the new updates launch, it appears Apple will use a waitlist and limit initial access.\n\n\n\n\nOn the MacRumors forums, Mactracker found that the seventh betas of ‌iOS 27‌, ‌iPadOS 27‌, and ‌macOS",
+      "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-24 16:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "title_translated": "Siri AI Will Have a Waitlist When iOS 27 Launches",
+      "summary_translated": "iOS 27, iPadOS 27, and macOS Golden Gate include Siri AI, Apple's much more capable version of ‌Siri‌. When the new updates launch, it appears Apple will use a waitlist and limit initial access.\n\n\n\n\nOn the MacRumors forums, Mactracker found that the seventh betas of ‌iOS 27‌, ‌iPadOS 27‌, and ‌macOS"
     },
     {
       "id": "8d2fe2e893bf",
@@ -21139,7 +21153,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -21150,7 +21164,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -21161,7 +21175,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -21172,7 +21186,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -21183,7 +21197,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
