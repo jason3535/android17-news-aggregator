@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-25 04:49:17",
-  "total_count": 1515,
-  "news_count": 1510,
-  "android_count": 370,
+  "last_updated": "2026-08-25 05:41:49",
+  "total_count": 1516,
+  "news_count": 1511,
+  "android_count": 371,
   "ios_count": 1140,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "60488f50e76d",
+      "title": "Google’s clever Android 17 motion sickness feature is finally rolling out",
+      "summary": "Pixel phones appear to be the first devices to get Google's Motion Assist feature.",
+      "url": "https://www.androidauthority.com/google-android-17-motion-assist-rolling-out-3702494/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-25 05:33",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-Motion-Assist-Cover-scaled.jpeg",
+      "title_translated": "Google’s clever Android 17 motion sickness feature is finally rolling out",
+      "summary_translated": "Pixel phones appear to be the first devices to get Google's Motion Assist feature."
+    },
     {
       "id": "9ef6fd971bbb",
       "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
