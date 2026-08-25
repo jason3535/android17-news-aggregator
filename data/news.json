@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-25 11:37:35",
-  "total_count": 1517,
-  "news_count": 1512,
-  "android_count": 371,
+  "last_updated": "2026-08-25 13:06:13",
+  "total_count": 1518,
+  "news_count": 1513,
+  "android_count": 372,
   "ios_count": 1141,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e16ca5033afb",
+      "title": "Nothing unveils Nothing OS 5.0 built on Android 17, but there’s bad news for older phones",
+      "summary": "Older phones will not be receiving this update, as expected.",
+      "url": "https://www.androidauthority.com/nothing-os-5-0-3702682/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-25 13:01",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nothing-OS-5.0.jpg",
+      "title_translated": "Nothing unveils Nothing OS 5.0 built on Android 17, but there’s bad news for older phones",
+      "summary_translated": "Older phones will not be receiving this update, as expected."
+    },
     {
       "id": "8fb14eae5076",
       "title": "Prepare to wait for Siri AI access when iOS 27 launches next month",
