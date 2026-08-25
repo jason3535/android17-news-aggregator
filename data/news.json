@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-25 10:44:30",
-  "total_count": 1516,
-  "news_count": 1511,
+  "last_updated": "2026-08-25 11:37:35",
+  "total_count": 1517,
+  "news_count": 1512,
   "android_count": 371,
-  "ios_count": 1140,
+  "ios_count": 1141,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8fb14eae5076",
+      "title": "Prepare to wait for Siri AI access when iOS 27 launches next month",
+      "summary": "Apple implemented a Siri AI waitlist for beta users of its upcoming operating systems, and it appears the same will be true when iOS 27 and macOS 27 officially launch next month.\nThis means that you won’t have immediate access to the new Siri AI features when your devices update to their new OS … ",
+      "url": "https://9to5mac.com/2026/08/25/prepare-to-wait-for-siri-ai-access-when-ios-27-launches-next-month/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-25 11:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Prepare-to-wait-for-Siri-AI-access-when-iOS-27-launches-next-month.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Prepare to wait for Siri AI access when iOS 27 launches next month",
+      "summary_translated": "Apple implemented a Siri AI waitlist for beta users of its upcoming operating systems, and it appears the same will be true when iOS 27 and macOS 27 officially launch next month.\nThis means that you won’t have immediate access to the new Siri AI features when your devices update to their new OS … "
+    },
     {
       "id": "60488f50e76d",
       "title": "Google’s clever Android 17 motion sickness feature is finally rolling out",
