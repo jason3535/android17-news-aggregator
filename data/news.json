@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-26 10:47:38",
-  "total_count": 1521,
-  "news_count": 1516,
+  "last_updated": "2026-08-26 11:38:53",
+  "total_count": 1522,
+  "news_count": 1517,
   "android_count": 374,
-  "ios_count": 1142,
+  "ios_count": 1143,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a03ebd666e54",
+      "title": "Apple Car Key Support Coming to Xiaomi Auto Vehicles",
+      "summary": "Apple's Car Keys feature appears to be coming to supported vehicles made by Chinese maker Xiaomi Auto, based on code changes discovered by MacRumors in Apple's Wallet app backend.\n\n\n\n\nCode spotted in the third developer beta of iOS 27 back in July revealed that Apple was preparing Car Keys support f",
+      "url": "https://www.macrumors.com/2026/08/26/apple-car-key-support-xiaomi-vehicles/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-26 04:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/07/digital-car-key-iphone.jpg",
+      "title_translated": "Apple Car Key Support Coming to Xiaomi Auto Vehicles",
+      "summary_translated": "Apple's Car Keys feature appears to be coming to supported vehicles made by Chinese maker Xiaomi Auto, based on code changes discovered by MacRumors in Apple's Wallet app backend.\n\n\n\n\nCode spotted in the third developer beta of iOS 27 back in July revealed that Apple was preparing Car Keys support f"
+    },
     {
       "id": "d3413737bb02",
       "title": "Google’s Motion Assist Aims to Prevent Motion Sickness",
