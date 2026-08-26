@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-26 14:56:53",
-  "total_count": 1526,
-  "news_count": 1521,
-  "android_count": 376,
-  "ios_count": 1145,
+  "last_updated": "2026-08-26 16:32:15",
+  "total_count": 1528,
+  "news_count": 1523,
+  "android_count": 377,
+  "ios_count": 1146,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "eb3524541136",
+      "title": "Nothing OS 5.0 Has Insane Amount of Changes – Here’s the Rollout Schedule",
+      "summary": "Nothing revealed its big Android 17 update this week as Nothing OS 5.0 and it’s rolling out now as an open beta if you have a Nothing Phone (3). The update brings numerous changes to things like the home screen, lock screen, camera, gallery, widgets, and the Essential Space, all with the goal of mak",
+      "url": "https://www.droid-life.com/2026/08/26/nothing-os-5-0-has-insane-amount-of-changes-heres-the-rollout-schedule/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-08-26 15:48",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/03/Nothing-Phone-4a-Pro-Review-6-980x625.jpg",
+      "title_translated": "Nothing OS 5.0 Has Insane Amount of Changes – Here’s the Rollout Schedule",
+      "summary_translated": "Nothing revealed its big Android 17 update this week as Nothing OS 5.0 and it’s rolling out now as an open beta if you have a Nothing Phone (3). The update brings numerous changes to things like the home screen, lock screen, camera, gallery, widgets, and the Essential Space, all with the goal of mak"
+    },
     {
       "id": "5f566bc083c9",
       "title": "iOS 27 reveals Apple TV 4K, HomePod may get powerful new features",
@@ -47,6 +61,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Motorola-Edge-2026-against-rock-scaled.jpg",
       "title_translated": "Motorola shares all the new features coming with its Android 17 update",
       "summary_translated": "The stable rollout brings redesigned Quick Settings, stackable widgets, anti-scam tools, and cross-platform sharing."
+    },
+    {
+      "id": "0fe8efd22b15",
+      "title": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
+      "summary": "For anyone who's experienced the lengthy post-update indexing process when trialing the beta version of iOS 27, macOS 27 Golden Gate, iPadOS 27, or visionOS 27: Apple has published a Spotlight support document that explains what's going on.\n\n\nApple says indexing can take hours or even days depending",
+      "url": "https://www.macrumors.com/2026/08/26/apple-explains-spotlight-indexing/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-26 08:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-Search-or-Ask.jpg",
+      "title_translated": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
+      "summary_translated": "For anyone who's experienced the lengthy post-update indexing process when trialing the beta version of iOS 27, macOS 27 Golden Gate, iPadOS 27, or visionOS 27: Apple has published a Spotlight support document that explains what's going on.\n\n\nApple says indexing can take hours or even days depending"
     },
     {
       "id": "fbca5f3339da",
