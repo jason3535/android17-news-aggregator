@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-26 16:32:15",
-  "total_count": 1528,
-  "news_count": 1523,
-  "android_count": 377,
+  "last_updated": "2026-08-26 19:16:54",
+  "total_count": 1529,
+  "news_count": 1524,
+  "android_count": 378,
   "ios_count": 1146,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c6fb6f9f152b",
+      "title": "Motorola details Android 17 update that you might get eventually",
+      "summary": "Motorola is bad at updates, but at least they arrive eventually. This week, Motorola is detailing its Android 17 update and what’s new, including the overdue adoption of themed icons.",
+      "url": "https://9to5google.com/2026/08/26/motorola-details-android-17-update-that-you-might-get-eventually/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-08-26 17:05",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-razr-fold-review-17.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Motorola details Android 17 update that you might get eventually",
+      "summary_translated": "Motorola is bad at updates, but at least they arrive eventually. This week, Motorola is detailing its Android 17 update and what’s new, including the overdue adoption of themed icons."
+    },
     {
       "id": "eb3524541136",
       "title": "Nothing OS 5.0 Has Insane Amount of Changes – Here’s the Rollout Schedule",
