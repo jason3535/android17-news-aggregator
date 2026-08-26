@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-26 19:16:54",
-  "total_count": 1529,
-  "news_count": 1524,
+  "last_updated": "2026-08-26 23:24:34",
+  "total_count": 1530,
+  "news_count": 1525,
   "android_count": 378,
-  "ios_count": 1146,
+  "ios_count": 1147,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "87e50dca8dbb",
+      "title": "Here’s everything new for Reminders in iOS 27",
+      "summary": "iOS 27 adds new features to Apple Notes, Messages, Wallet, and more, and it has a few improvements for the Reminders app too. Here’s everything new for Reminders in iOS 27.",
+      "url": "https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-26 20:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Here’s everything new for Reminders in iOS 27",
+      "summary_translated": "iOS 27 adds new features to Apple Notes, Messages, Wallet, and more, and it has a few improvements for the Reminders app too. Here’s everything new for Reminders in iOS 27."
+    },
     {
       "id": "c6fb6f9f152b",
       "title": "Motorola details Android 17 update that you might get eventually",
