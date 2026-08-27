@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-26 23:24:34",
-  "total_count": 1530,
-  "news_count": 1525,
+  "last_updated": "2026-08-27 09:32:52",
+  "total_count": 1531,
+  "news_count": 1526,
   "android_count": 378,
-  "ios_count": 1147,
+  "ios_count": 1148,
   "leaker_count": 5,
   "items": [
     {
@@ -4233,6 +4233,20 @@
       "image": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
       "title_translated": "Apple 向开发者发布第四个 iOS 26.6 和 iPadOS 26.6 Beta",
       "summary_translated": "苹果今天向开发者发布了即将推出的 iOS 26.6 和 iPadOS 26.6 更新的第四个测试版，用于测试目的，该软件是在苹果发布第三个测试版一周后发布的。\n\n\n\n\n注册开发者可以通过 iPhone 或 iPad 上的“设置”应用程序前往 Genera 下载 Beta 版"
+    },
+    {
+      "id": "91f1c758abcd",
+      "title": "How to Install iOS 27 Public Beta 5 on Your iPhone",
+      "summary": "Apple this week made available the fifth public beta of iOS 27, bringing a more stable version of the software to a wider audience following lengthy testing by developers. Keep reading to learn how to prepare your device for the beta software and how to install it.\n\n\n\n\nSigning up to get the ‌iOS 27 ",
+      "url": "https://www.macrumors.com/how-to/install-ios-27-public-beta-iphone-ipad/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-07-06 09:15",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Install-The-Beta-Feature.jpg",
+      "title_translated": "How to Install iOS 27 Public Beta 5 on Your iPhone",
+      "summary_translated": "Apple this week made available the fifth public beta of iOS 27, bringing a more stable version of the software to a wider audience following lengthy testing by developers. Keep reading to learn how to prepare your device for the beta software and how to install it.\n\n\n\n\nSigning up to get the ‌iOS 27 "
     },
     {
       "id": "76d884c1d69c",
@@ -21363,7 +21377,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -21374,7 +21388,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -21385,7 +21399,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -21396,7 +21410,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -21407,7 +21421,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
