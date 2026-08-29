@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-29 15:01:29",
-  "total_count": 1547,
-  "news_count": 1542,
+  "last_updated": "2026-08-29 18:24:03",
+  "total_count": 1548,
+  "news_count": 1543,
   "android_count": 389,
-  "ios_count": 1153,
+  "ios_count": 1154,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "76b55a313ddc",
+      "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+      "summary": "Since iOS 26.4, Apple has supported conversational apps on CarPlay.\nThis category includes AI chatbot apps. Siri AI joins the CarPlay party starting with iOS 27. The iPhone software update is currently in beta ahead of the official launch in September.\nMeanwhile, the fourth third-party AI chatbot ha",
+      "url": "https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-29 17:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/best-carplay-apps.webp?w=1600",
+      "title_translated": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+      "summary_translated": "Since iOS 26.4, Apple has supported conversational apps on CarPlay.\nThis category includes AI chatbot apps. Siri AI joins the CarPlay party starting with iOS 27. The iPhone software update is currently in beta ahead of the official launch in September.\nMeanwhile, the fourth third-party AI chatbot ha"
+    },
     {
       "id": "9adc1a778548",
       "title": "Google Just Added Status Bar Settings to Android 17",
