@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-29 18:24:03",
-  "total_count": 1548,
-  "news_count": 1543,
+  "last_updated": "2026-08-29 21:41:11",
+  "total_count": 1549,
+  "news_count": 1544,
   "android_count": 389,
-  "ios_count": 1154,
+  "ios_count": 1155,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "82d40ac2c182",
+      "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
+      "summary": "Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive.\nWith the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alo",
+      "url": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-08-29 21:38",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
+      "summary_translated": "Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive.\nWith the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alo"
+    },
     {
       "id": "76b55a313ddc",
       "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
