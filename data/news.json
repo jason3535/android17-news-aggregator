@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-30 06:34:07",
-  "total_count": 1549,
-  "news_count": 1544,
-  "android_count": 389,
+  "last_updated": "2026-08-30 12:48:46",
+  "total_count": 1550,
+  "news_count": 1545,
+  "android_count": 390,
   "ios_count": 1155,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9b9184a8cdcf",
+      "title": "Google made Android 17’s best feature a Pixel 11-exclusive. This free app does it better",
+      "summary": "Stroll lets me earn time on social media by walking first.",
+      "url": "https://www.androidauthority.com/best-digital-wellbeing-pixel-11-exclusive-i-found-better-app-3679013/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-30 10:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/stroll-app-soft-wall.jpg",
+      "title_translated": "Google made Android 17’s best feature a Pixel 11-exclusive. This free app does it better",
+      "summary_translated": "Stroll lets me earn time on social media by walking first."
+    },
     {
       "id": "82d40ac2c182",
       "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
