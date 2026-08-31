@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-08-31 19:59:02",
-  "total_count": 1560,
-  "news_count": 1555,
-  "android_count": 397,
-  "ios_count": 1158,
+  "last_updated": "2026-08-31 23:46:49",
+  "total_count": 1563,
+  "news_count": 1558,
+  "android_count": 398,
+  "ios_count": 1160,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "152188701989",
+      "title": "PSA: Gemini can adjust system settings on any Pixel running Android 17",
+      "summary": "Hey Google, make my phone be quiet.",
+      "url": "https://www.androidauthority.com/device-help-android-17-3705148/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-08-31 20:06",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Device-Help-feature-in-the-Gemini-app-on-Pixel-11-Pro-XL.jpg",
+      "title_translated": "PSA: Gemini can adjust system settings on any Pixel running Android 17",
+      "summary_translated": "Hey Google, make my phone be quiet."
+    },
     {
       "id": "7e180cc72e44",
       "title": "iOS 27 beta 8 now available as Apple tests major Siri AI upgrade",
@@ -33,6 +47,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Here’s everything new in Android 17 QPR2 Beta 4 [Gallery]",
       "summary_translated": "While not as big as the last release, Android 17 QPR2 Beta 4 is a sizable update ahead of the stable December release.\nmore…"
+    },
+    {
+      "id": "c6395d1518b8",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "summary": "Apple today released the sixth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The sixth betas come a week after Apple seeded the fifth betas and a few hours after the eighth developer betas.\n\n\n\n\nYou c",
+      "url": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-31 14:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "title_translated": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "summary_translated": "Apple today released the sixth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The sixth betas come a week after Apple seeded the fifth betas and a few hours after the eighth developer betas.\n\n\n\n\nYou c"
     },
     {
       "id": "cdbae825ac0f",
@@ -103,6 +131,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2023/03/Security-and-privacy-option-in-Android-settings-stock-photo-2.jpg",
       "title_translated": "Android 17 QPR2 Beta 4 puts AI agents under supervision with new dashboard",
       "summary_translated": "A new dashboard tracks all agents installed on your device."
+    },
+    {
+      "id": "692e9b160b97",
+      "title": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers",
+      "summary": "Apple today seeded the eighth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the seventh betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and sel",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-08-31 10:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "title_translated": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers",
+      "summary_translated": "Apple today seeded the eighth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the seventh betas.\n\n\n\n\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and sel"
     },
     {
       "id": "81ac55d56bd0",
