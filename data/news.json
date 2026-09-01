@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-01 18:24:54",
-  "total_count": 1566,
-  "news_count": 1561,
-  "android_count": 400,
+  "last_updated": "2026-09-01 21:44:08",
+  "total_count": 1567,
+  "news_count": 1562,
+  "android_count": 401,
   "ios_count": 1161,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7fdc19058f60",
+      "title": "Pixel 11 series getting early September update, not Android 17 QPR1",
+      "summary": "We’re expecting the stable release of Android 17 QPR1 in September. Before that, Google is rolling out an out-of-cycle update to the Pixel 11 series with a September 2026 security patch.\nmore…",
+      "url": "https://9to5google.com/2026/09/01/pixel-11-september-update-early/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-09-01 20:03",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-review-4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixel 11 series getting early September update, not Android 17 QPR1",
+      "summary_translated": "We’re expecting the stable release of Android 17 QPR1 in September. Before that, Google is rolling out an out-of-cycle update to the Pixel 11 series with a September 2026 security patch.\nmore…"
+    },
     {
       "id": "eaf7c7c6254e",
       "title": "Pixel 11 Joins Android 17 QPR2 Beta Program",
