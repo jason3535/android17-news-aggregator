@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-01 09:59:46",
-  "total_count": 1563,
-  "news_count": 1558,
+  "last_updated": "2026-09-01 14:47:37",
+  "total_count": 1564,
+  "news_count": 1559,
   "android_count": 398,
-  "ios_count": 1160,
+  "ios_count": 1161,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "db632a09d8a3",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is currently in beta, and the beh",
+      "url": "https://9to5mac.com/2026/09/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-01 08:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "title_translated": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary_translated": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is currently in beta, and the beh"
+    },
     {
       "id": "152188701989",
       "title": "PSA: Gemini can adjust system settings on any Pixel running Android 17",
