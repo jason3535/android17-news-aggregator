@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-01 14:47:37",
-  "total_count": 1564,
-  "news_count": 1559,
-  "android_count": 398,
+  "last_updated": "2026-09-01 18:24:54",
+  "total_count": 1566,
+  "news_count": 1561,
+  "android_count": 400,
   "ios_count": 1161,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "eaf7c7c6254e",
+      "title": "Pixel 11 Joins Android 17 QPR2 Beta Program",
+      "summary": "The Pixel 11 series is now eligible to join the Android Beta Program! For those of you with a brand new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold, you can get in on the newest of Android 17 builds by enrolling today. Google opened up the Android Beta...\nRead the original post: Pi",
+      "url": "https://www.droid-life.com/2026/09/01/pixel-11-joins-android-17-qpr2-beta-program/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-09-01 17:55",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Pixel-11-Pro-Pixel-11-Pro-XL-Review-16-980x653.jpg",
+      "title_translated": "Pixel 11 Joins Android 17 QPR2 Beta Program",
+      "summary_translated": "The Pixel 11 series is now eligible to join the Android Beta Program! For those of you with a brand new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold, you can get in on the newest of Android 17 builds by enrolling today. Google opened up the Android Beta...\nRead the original post: Pi"
+    },
+    {
+      "id": "db1ecdf5e464",
+      "title": "Pixel 11 series can now join the Android 17 QPR2 Beta",
+      "summary": "Following the initial Friday release, Android 17 QPR2 Beta 4 is now available for the Pixel 11 series.\nmore…",
+      "url": "https://9to5google.com/2026/09/01/pixel-11-android-17-qpr2-beta/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-09-01 17:36",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-xl-review-4.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Pixel 11 series can now join the Android 17 QPR2 Beta",
+      "summary_translated": "Following the initial Friday release, Android 17 QPR2 Beta 4 is now available for the Pixel 11 series.\nmore…"
+    },
     {
       "id": "db632a09d8a3",
       "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
