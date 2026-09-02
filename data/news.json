@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-02 18:37:04",
-  "total_count": 1574,
-  "news_count": 1569,
+  "last_updated": "2026-09-02 21:46:23",
+  "total_count": 1576,
+  "news_count": 1571,
   "android_count": 405,
-  "ios_count": 1164,
+  "ios_count": 1166,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d41ecfb34f0e",
+      "title": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+      "summary": "iOS 27 is packed with powerful features like Siri AI and upgrades to productivity apps like Apple Mail, Notes, Reminders, and Calendar. But for many users, some of iOS 27’s best changes might be bug fixes that make apps run better than ever—here are three coming to Apple Mail.\nmore…",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-02 19:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+      "summary_translated": "iOS 27 is packed with powerful features like Siri AI and upgrades to productivity apps like Apple Mail, Notes, Reminders, and Calendar. But for many users, some of iOS 27’s best changes might be bug fixes that make apps run better than ever—here are three coming to Apple Mail.\nmore…"
+    },
     {
       "id": "d38116355392",
       "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
@@ -61,6 +75,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-wont-act-as-your-friend-and-heres-why-that-really-matters.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Siri AI won’t be your friend, and here’s why that really matters",
       "summary_translated": "Elon University has partnered with The Washington Post to conduct what turned out to be a worrying survey about Americans viewing AI chatbots as virtual friends or therapists.\nThe results very much vindicate Apple’s careful decision to ensure that Siri AI doesn’t encourage such pseudo-relationships "
+    },
+    {
+      "id": "99d12174ffff",
+      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "summary": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number on each device.\n\n\n\n\nThis functionality was briefly mentioned during the WWDC 2026 keynote in June, on a slide that listed hundreds of new features coming in iO",
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-02 12:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "title_translated": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "summary_translated": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number on each device.\n\n\n\n\nThis functionality was briefly mentioned during the WWDC 2026 keynote in June, on a slide that listed hundreds of new features coming in iO"
     },
     {
       "id": "d230306da3bf",
