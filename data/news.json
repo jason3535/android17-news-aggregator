@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-02 04:24:21",
-  "total_count": 1568,
-  "news_count": 1563,
-  "android_count": 402,
+  "last_updated": "2026-09-02 09:31:29",
+  "total_count": 1569,
+  "news_count": 1564,
+  "android_count": 403,
   "ios_count": 1161,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d4592e8ec5d1",
+      "title": "Galaxy S24 owners can now get a taste of Android 17 with One UI 9 beta",
+      "summary": "The beta is now live in the US, India, and South Korea.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s24-one-ui-9-beta-3705963/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-09-02 08:39",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S24-Ultra-sunny-day-scaled.jpg",
+      "title_translated": "Galaxy S24 owners can now get a taste of Android 17 with One UI 9 beta",
+      "summary_translated": "The beta is now live in the US, India, and South Korea."
+    },
     {
       "id": "ab59f3f3e928",
       "title": "Samsung’s Android 17-based One UI 9 beta expands to these Galaxy phones this month",
