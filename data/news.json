@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-01 21:44:08",
-  "total_count": 1567,
-  "news_count": 1562,
-  "android_count": 401,
+  "last_updated": "2026-09-02 00:03:41",
+  "total_count": 1568,
+  "news_count": 1563,
+  "android_count": 402,
   "ios_count": 1161,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ab59f3f3e928",
+      "title": "Samsung’s Android 17-based One UI 9 beta expands to these Galaxy phones this month",
+      "summary": "Samsung is expanding its Android 17 / One UI 9 beta program to several new Galaxy smartphones this month, signaling that the stable release isn’t too far away.\nmore…",
+      "url": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-09-01 21:50",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-7-rereview-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Samsung’s Android 17-based One UI 9 beta expands to these Galaxy phones this month",
+      "summary_translated": "Samsung is expanding its Android 17 / One UI 9 beta program to several new Galaxy smartphones this month, signaling that the stable release isn’t too far away.\nmore…"
+    },
     {
       "id": "7fdc19058f60",
       "title": "Pixel 11 series getting early September update, not Android 17 QPR1",
@@ -21881,7 +21895,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -21892,7 +21906,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -21903,7 +21917,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -21914,7 +21928,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -21925,7 +21939,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
