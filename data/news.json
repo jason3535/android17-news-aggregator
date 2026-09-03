@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-03 16:20:57",
-  "total_count": 1577,
-  "news_count": 1572,
+  "last_updated": "2026-09-03 19:45:48",
+  "total_count": 1579,
+  "news_count": 1574,
   "android_count": 405,
-  "ios_count": 1167,
+  "ios_count": 1169,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fa0be8aba7e0",
+      "title": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "summary": "iOS 27 adds a variety of new features for popular apps like Notes, Reminders, and Calendar—and the Calendar app gets some notable design changes too. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-03 19:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "summary_translated": "iOS 27 adds a variety of new features for popular apps like Notes, Reminders, and Calendar—and the Calendar app gets some notable design changes too. Here’s what’s new.\nmore…"
+    },
+    {
+      "id": "ffd85dcc46a6",
+      "title": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
+      "summary": "I mentioned today in my Siri AI Apple Watch piece that there’s one change I still hope Apple makes to watchOS 27 before it ships this month. It’s one of those common muscle-memory features that have existed for years, and I’ve been missing it all summer.\nmore…",
+      "url": "https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-03 17:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?w=1600",
+      "title_translated": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
+      "summary_translated": "I mentioned today in my Siri AI Apple Watch piece that there’s one change I still hope Apple makes to watchOS 27 before it ships this month. It’s one of those common muscle-memory features that have existed for years, and I’ve been missing it all summer.\nmore…"
+    },
     {
       "id": "bb210ae2742e",
       "title": "We need to talk about Siri AI for Apple Watch",
