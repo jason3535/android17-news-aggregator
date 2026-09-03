@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-03 19:45:48",
-  "total_count": 1579,
-  "news_count": 1574,
-  "android_count": 405,
+  "last_updated": "2026-09-03 22:30:35",
+  "total_count": 1580,
+  "news_count": 1575,
+  "android_count": 406,
   "ios_count": 1169,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "753a7d0b547c",
+      "title": "How to check if Motion Assist has rolled out to your Android 17 phone",
+      "summary": "Following the announcement on Tuesday, Google is slowly rolling out Motion Assist to phones running Android 17.\nmore…",
+      "url": "https://9to5google.com/2026/09/03/android-motion-assist-rollout/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-09-03 21:02",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "How to check if Motion Assist has rolled out to your Android 17 phone",
+      "summary_translated": "Following the announcement on Tuesday, Google is slowly rolling out Motion Assist to phones running Android 17.\nmore…"
+    },
     {
       "id": "fa0be8aba7e0",
       "title": "Apple’s Calendar app in iOS 27 has brand new design for key features",
