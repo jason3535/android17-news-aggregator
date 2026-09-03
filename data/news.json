@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-03 11:07:11",
-  "total_count": 1576,
-  "news_count": 1571,
+  "last_updated": "2026-09-03 16:20:57",
+  "total_count": 1577,
+  "news_count": 1572,
   "android_count": 405,
-  "ios_count": 1166,
+  "ios_count": 1167,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bb210ae2742e",
+      "title": "We need to talk about Siri AI for Apple Watch",
+      "summary": "Siri AI on Apple Watch arrived two cycles late for watchOS 27 beta this summer. I had high hopes for how new Siri could transform Apple Watch into an AI wearable.\nWhat actually happened in July and August is that Siri has been remarkably unusable in watchOS 27 beta. Like “hold off on updating” bad.\n",
+      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-03 14:07",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "title_translated": "We need to talk about Siri AI for Apple Watch",
+      "summary_translated": "Siri AI on Apple Watch arrived two cycles late for watchOS 27 beta this summer. I had high hopes for how new Siri could transform Apple Watch into an AI wearable.\nWhat actually happened in July and August is that Siri has been remarkably unusable in watchOS 27 beta. Like “hold off on updating” bad.\n"
+    },
     {
       "id": "d41ecfb34f0e",
       "title": "iOS 27 fixes Apple Mail in three ways longtime users will love",
