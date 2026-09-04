@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-04 11:10:09",
-  "total_count": 1580,
-  "news_count": 1575,
+  "last_updated": "2026-09-04 16:16:45",
+  "total_count": 1581,
+  "news_count": 1576,
   "android_count": 406,
-  "ios_count": 1169,
+  "ios_count": 1170,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e11386cf4f6d",
+      "title": "Apple Testing New HomePod With Siri AI",
+      "summary": "Apple has been testing a new full-sized HomePod with Siri AI support, according to Bloomberg's Mark Gurman.\n\n\nUnfortunately, in his report outlining upcoming Apple products today, Gurman said the new full-sized HomePod \"doesn't appear to be imminent,\" so do not expect the speaker to be updated soon.",
+      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-04 08:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+      "title_translated": "Apple Testing New HomePod With Siri AI",
+      "summary_translated": "Apple has been testing a new full-sized HomePod with Siri AI support, according to Bloomberg's Mark Gurman.\n\n\nUnfortunately, in his report outlining upcoming Apple products today, Gurman said the new full-sized HomePod \"doesn't appear to be imminent,\" so do not expect the speaker to be updated soon."
+    },
     {
       "id": "753a7d0b547c",
       "title": "How to check if Motion Assist has rolled out to your Android 17 phone",
