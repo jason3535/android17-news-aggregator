@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-04 19:28:22",
-  "total_count": 1581,
-  "news_count": 1576,
+  "last_updated": "2026-09-04 22:19:24",
+  "total_count": 1582,
+  "news_count": 1577,
   "android_count": 406,
-  "ios_count": 1170,
+  "ios_count": 1171,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "850aa724d365",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "summary": "Anthropic added CarPlay integration to the Claude iOS app, which means Claude users can talk to Claude through their in-car infotainment systems.\n\n\n\n\nApple added support for third-party chatbots in ‌CarPlay‌ in iOS 26.4. Chatbot apps with ‌CarPlay‌ integration need to add support for a voice control",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-04 13:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "title_translated": "Anthropic's Claude Comes to CarPlay",
+      "summary_translated": "Anthropic added CarPlay integration to the Claude iOS app, which means Claude users can talk to Claude through their in-car infotainment systems.\n\n\n\n\nApple added support for third-party chatbots in ‌CarPlay‌ in iOS 26.4. Chatbot apps with ‌CarPlay‌ integration need to add support for a voice control"
+    },
     {
       "id": "e11386cf4f6d",
       "title": "Apple Testing New HomePod With Siri AI",
