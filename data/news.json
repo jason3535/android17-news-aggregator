@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-08 11:09:59",
-  "total_count": 1585,
-  "news_count": 1580,
+  "last_updated": "2026-09-08 16:33:43",
+  "total_count": 1587,
+  "news_count": 1582,
   "android_count": 407,
-  "ios_count": 1173,
+  "ios_count": 1175,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "54d583e3e2f5",
+      "title": "Camera app in iOS 27 reportedly includes four major pro photography features",
+      "summary": "Code reportedly found in the Camera app in the latest iOS 27 beta appears to point to the introduction of some major pro photography and videography features.\nWhile the stock camera app has grown in power over time, the reported discoveries seem surprising for an app primarily geared to point-and-sh",
+      "url": "https://9to5mac.com/2026/09/08/camera-app-in-ios-27-reportedly-includes-four-major-pro-photography-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-08 11:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?quality=82&strip=all&w=1500",
+      "title_translated": "Camera app in iOS 27 reportedly includes four major pro photography features",
+      "summary_translated": "Code reportedly found in the Camera app in the latest iOS 27 beta appears to point to the introduction of some major pro photography and videography features.\nWhile the stock camera app has grown in power over time, the reported discoveries seem surprising for an app primarily geared to point-and-sh"
+    },
+    {
+      "id": "3d0bc43c29e1",
+      "title": "iPhone Ultra Touch ID 'Confirmed' in iOS 27? Not So Fast",
+      "summary": "Apple's iPhone Ultra is widely expected to feature Touch ID instead of Face ID, but references found in the iOS 27 beta probably shouldn't be treated as proof. Code sleuth pdfu has found Car Key strings that mention an iPhone in the same string as both Ultra Wideband and Touch ID, which they say \"co",
+      "url": "https://www.macrumors.com/2026/09/08/iphone-ultra-touch-id-not-confirmed/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-08 05:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2020/08/iPad-Air-4-Touch-ID-Feature.jpg",
+      "title_translated": "iPhone Ultra Touch ID 'Confirmed' in iOS 27? Not So Fast",
+      "summary_translated": "Apple's iPhone Ultra is widely expected to feature Touch ID instead of Face ID, but references found in the iOS 27 beta probably shouldn't be treated as proof. Code sleuth pdfu has found Car Key strings that mention an iPhone in the same string as both Ultra Wideband and Touch ID, which they say \"co"
+    },
     {
       "id": "9d973f10ec43",
       "title": "Sony rolls out Android 17 with Desktop mode, new camera tools, and more to Xperia phones",
