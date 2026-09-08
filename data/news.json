@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-08 16:33:43",
-  "total_count": 1587,
-  "news_count": 1582,
+  "last_updated": "2026-09-08 19:52:34",
+  "total_count": 1590,
+  "news_count": 1585,
   "android_count": 407,
-  "ios_count": 1175,
+  "ios_count": 1178,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "251ecbf0858c",
+      "title": "New Apple TV 4K will be more powerful upgrade than we thought, per leak",
+      "summary": "Rumors about the new Apple TV 4K have long suggested it will have a more modern chip to enable Apple Intelligence support. But a new leak uncovered by Aaron Perris points to an even more powerful chip than previously expected.\nmore…",
+      "url": "https://9to5mac.com/2026/09/08/new-apple-tv-4k-will-be-more-powerful-upgrade-than-we-thought-per-leak/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-08 18:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-4k-tvos-26-lg.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "New Apple TV 4K will be more powerful upgrade than we thought, per leak",
+      "summary_translated": "Rumors about the new Apple TV 4K have long suggested it will have a more modern chip to enable Apple Intelligence support. But a new leak uncovered by Aaron Perris points to an even more powerful chip than previously expected.\nmore…"
+    },
+    {
+      "id": "1fdbc933f062",
+      "title": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new",
+      "summary": "On the eve of its big iPhone launch event, Apple has just released a new iOS 26.6.2 software update for iPhone. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-08 17:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new",
+      "summary_translated": "On the eve of its big iPhone launch event, Apple has just released a new iOS 26.6.2 software update for iPhone. Here’s what’s new.\nmore…"
+    },
     {
       "id": "54d583e3e2f5",
       "title": "Camera app in iOS 27 reportedly includes four major pro photography features",
@@ -19,6 +47,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?quality=82&strip=all&w=1500",
       "title_translated": "Camera app in iOS 27 reportedly includes four major pro photography features",
       "summary_translated": "Code reportedly found in the Camera app in the latest iOS 27 beta appears to point to the introduction of some major pro photography and videography features.\nWhile the stock camera app has grown in power over time, the reported discoveries seem surprising for an app primarily geared to point-and-sh"
+    },
+    {
+      "id": "c73ebcd397cc",
+      "title": "Apple Releases iOS 26.6.2",
+      "summary": "Apple today released iOS 26.6.2 with a fix for \"an issue that prevents downloading a software update over a cellular connection.\"\n\n\n\n\nThe minor software update is rolling out now for the iPhone 11 series and newer. To update your iPhone, open the Settings app and tap on General → Software Update. It",
+      "url": "https://www.macrumors.com/2026/09/08/apple-releases-ios-26-6-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-08 10:47",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-26-6-2.jpg",
+      "title_translated": "Apple Releases iOS 26.6.2",
+      "summary_translated": "Apple today released iOS 26.6.2 with a fix for \"an issue that prevents downloading a software update over a cellular connection.\"\n\n\n\n\nThe minor software update is rolling out now for the iPhone 11 series and newer. To update your iPhone, open the Settings app and tap on General → Software Update. It"
     },
     {
       "id": "3d0bc43c29e1",
