@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-09 20:53:24",
-  "total_count": 1603,
-  "news_count": 1598,
+  "last_updated": "2026-09-09 23:10:14",
+  "total_count": 1607,
+  "news_count": 1602,
   "android_count": 409,
-  "ios_count": 1189,
+  "ios_count": 1193,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "389a0c10f25e",
+      "title": "Apple shares more details about Apple Intelligence usage limits and terms",
+      "summary": "Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions. Here’s what the company says.\nmore…",
+      "url": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-09 21:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple shares more details about Apple Intelligence usage limits and terms",
+      "summary_translated": "Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions. Here’s what the company says.\nmore…"
+    },
     {
       "id": "9456e1b4ffd8",
       "title": "Apple confirms Siri AI launches in English this month, will add five languages in October",
@@ -117,6 +131,48 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple confirms iOS 27 release date: September 14",
       "summary_translated": "Apple today confirmed at its “Surprise and Shine” event that iOS 27 will be released in less than a week, on September 14. Here are the compatible devices.\nmore…"
+    },
+    {
+      "id": "602f0041df2b",
+      "title": "iOS 27 Will Let You Redeem Apple Gift Cards on the Back of Your iPhone",
+      "summary": "According to new code uncovered in the iOS 27 Release Candidate, there will be a new way to redeem Apple gift cards by tapping them on the back of a compatible iPhone.\n\n\nApple's gift cards will have a security chip that the iPhone will scan to verify that the card is authentic and unspent, according",
+      "url": "https://www.macrumors.com/2026/09/09/ios-27-apple-gift-cards-tap-to-redeem-on-iphone/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-09 15:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Gift-Cards-16x9-Gradient.jpg",
+      "title_translated": "iOS 27 Will Let You Redeem Apple Gift Cards on the Back of Your iPhone",
+      "summary_translated": "According to new code uncovered in the iOS 27 Release Candidate, there will be a new way to redeem Apple gift cards by tapping them on the back of a compatible iPhone.\n\n\nApple's gift cards will have a security chip that the iPhone will scan to verify that the card is authentic and unspent, according"
+    },
+    {
+      "id": "f4e6d4b7e9bb",
+      "title": "iPhone Duo Will Ship With iOS 27.1, Hinting at Update's Release Date",
+      "summary": "Apple says the iPhone Duo will ship with iOS 27.1 when it launches this October, which gives us a hint at when the first major iOS 27 update will come out.\n\n\n\n\nThe iPhone Duo will be available on October 23, so iOS 27.1 should be released shortly before that date. Last year, iOS 26.1 didn't come out",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ios-27-1/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-09 14:36",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
+      "title_translated": "iPhone Duo Will Ship With iOS 27.1, Hinting at Update's Release Date",
+      "summary_translated": "Apple says the iPhone Duo will ship with iOS 27.1 when it launches this October, which gives us a hint at when the first major iOS 27 update will come out.\n\n\n\n\nThe iPhone Duo will be available on October 23, so iOS 27.1 should be released shortly before that date. Last year, iOS 26.1 didn't come out"
+    },
+    {
+      "id": "c3a5cf5a90c0",
+      "title": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
+      "summary": "Apple today announced \"Audio Intelligence,\" a new suite of Apple Intelligence-powered features for the Apple Watch Series 12 and Apple Watch Ultra 4 that use the built-in microphone to help users catch missed moments in conversation and stay aware of important sounds.\n\n\n\n\nThe Apple Watch's Audio Int",
+      "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-09 14:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
+      "title_translated": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
+      "summary_translated": "Apple today announced \"Audio Intelligence,\" a new suite of Apple Intelligence-powered features for the Apple Watch Series 12 and Apple Watch Ultra 4 that use the built-in microphone to help users catch missed moments in conversation and stay aware of important sounds.\n\n\n\n\nThe Apple Watch's Audio Int"
     },
     {
       "id": "197340c036c7",
