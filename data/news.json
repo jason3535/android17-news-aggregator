@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-09 12:55:59",
-  "total_count": 1592,
-  "news_count": 1587,
+  "last_updated": "2026-09-09 17:08:05",
+  "total_count": 1593,
+  "news_count": 1588,
   "android_count": 408,
-  "ios_count": 1179,
+  "ios_count": 1180,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-pad-9-pro-max-2.jpg?quality=82&strip=all&w=1200",
       "title_translated": "Xiaomi Pad 9 Pro Max has a 13.3-inch display, Android 17, and a 12,000 mAh battery",
       "summary_translated": "Xiaomi has a new flagship Android tablet incoming, with the Xiaomi Pad 9 Pro Max packing a huge display and battery with Android 17 out of the box.\nmore…"
+    },
+    {
+      "id": "b0d3e7531630",
+      "title": "Leaked Video Shows iPhone 18 Pro's 3-in-1 Dynamic Island in Action",
+      "summary": "A leaker has activated Apple's upcoming three-item Dynamic Island mode inside the iOS 27 simulator, offering the first video demonstration of the new iPhone 18 Pro feature.\n\n\n\n\nThe leaker, known as pdfu, posted a video showing the ‌Dynamic Island‌ toggling between three simultaneous Live Activities,",
+      "url": "https://www.macrumors.com/2026/09/09/leaked-video-shows-iphone-18-pro-dynamic-island/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-09 05:57",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-dynamic-island-live-activity.jpg",
+      "title_translated": "Leaked Video Shows iPhone 18 Pro's 3-in-1 Dynamic Island in Action",
+      "summary_translated": "A leaker has activated Apple's upcoming three-item Dynamic Island mode inside the iOS 27 simulator, offering the first video demonstration of the new iPhone 18 Pro feature.\n\n\n\n\nThe leaker, known as pdfu, posted a video showing the ‌Dynamic Island‌ toggling between three simultaneous Live Activities,"
     },
     {
       "id": "67979ff0ebaf",
