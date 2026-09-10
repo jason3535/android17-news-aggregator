@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-10 04:31:58",
-  "total_count": 1608,
-  "news_count": 1603,
+  "last_updated": "2026-09-10 09:37:04",
+  "total_count": 1609,
+  "news_count": 1604,
   "android_count": 409,
-  "ios_count": 1194,
+  "ios_count": 1195,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "de2301b75f4a",
+      "title": "iOS 27 to Upgrade Apple TV Remote App in Two Ways",
+      "summary": "Apple has updated the design of the virtual Apple TV Remote for the iOS 27 Release Candidate, which was released yesterday, and there are two new features that have been added to the iPhone app's interface.\n\n\n\n\nFirst up, Apple has added a new button to the top-right corner of the Remote UI with a gl",
+      "url": "https://www.macrumors.com/2026/09/10/hidden-ios-27-features-iphone-apple-tv-remote-app/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-10 02:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Apple-TV-Remote-Icon.jpeg",
+      "title_translated": "iOS 27 to Upgrade Apple TV Remote App in Two Ways",
+      "summary_translated": "Apple has updated the design of the virtual Apple TV Remote for the iOS 27 Release Candidate, which was released yesterday, and there are two new features that have been added to the iPhone app's interface.\n\n\n\n\nFirst up, Apple has added a new button to the top-right corner of the Remote UI with a gl"
+    },
     {
       "id": "389a0c10f25e",
       "title": "Apple shares more details about Apple Intelligence usage limits and terms",
