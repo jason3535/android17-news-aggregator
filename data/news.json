@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-10 18:21:27",
-  "total_count": 1616,
-  "news_count": 1611,
+  "last_updated": "2026-09-10 21:34:44",
+  "total_count": 1618,
+  "news_count": 1613,
   "android_count": 411,
-  "ios_count": 1200,
+  "ios_count": 1202,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "779ff9bfc2e7",
+      "title": "Mac's Edge Light Feature Rumored to Expand to iPhone",
+      "summary": "macOS 26.2 added an Edge Light feature to Macs with the M1 chip or newer, and it has now been rumored that this feature will expand to the iPhone.\n\n\n\n\nAccording to pdfu, who has been digging through code in Apple's software updates in recent weeks, the iOS 27 Release Candidate contains evidence of t",
+      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-10 19:59",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/11/apple-edge-light-macos-tahoe-26-2.jpg",
+      "title_translated": "Mac's Edge Light Feature Rumored to Expand to iPhone",
+      "summary_translated": "macOS 26.2 added an Edge Light feature to Macs with the M1 chip or newer, and it has now been rumored that this feature will expand to the iPhone.\n\n\n\n\nAccording to pdfu, who has been digging through code in Apple's software updates in recent weeks, the iOS 27 Release Candidate contains evidence of t"
+    },
+    {
+      "id": "569119a35b6f",
+      "title": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
+      "summary": "Apple is planning a major redesign of the Health app on iPhone and iPad, with a long list of new features set to be added. Apple announced the Health app changes at yesterday's iPhone event.\n\n\n\n\nThe Health app is getting an update because Apple overhauled the sensors in the Apple Watch Series 12 and",
+      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-10 19:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
+      "title_translated": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
+      "summary_translated": "Apple is planning a major redesign of the Health app on iPhone and iPad, with a long list of new features set to be added. Apple announced the Health app changes at yesterday's iPhone event.\n\n\n\n\nThe Health app is getting an update because Apple overhauled the sensors in the Apple Watch Series 12 and"
+    },
     {
       "id": "27c59ee9e4ee",
       "title": "Apple TV Remote app has hidden features that could be coming to iOS 27",
