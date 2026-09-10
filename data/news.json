@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-09 23:10:14",
-  "total_count": 1607,
-  "news_count": 1602,
+  "last_updated": "2026-09-10 04:31:58",
+  "total_count": 1608,
+  "news_count": 1603,
   "android_count": 409,
-  "ios_count": 1193,
+  "ios_count": 1194,
   "leaker_count": 5,
   "items": [
     {
@@ -131,6 +131,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&strip=all&w=1600",
       "title_translated": "Apple confirms iOS 27 release date: September 14",
       "summary_translated": "Apple today confirmed at its “Surprise and Shine” event that iOS 27 will be released in less than a week, on September 14. Here are the compatible devices.\nmore…"
+    },
+    {
+      "id": "dcd54a449ad1",
+      "title": "iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch",
+      "summary": "Apple is adding a new iPhone Handoff feature in iOS 27 that will let you use the same number on two iPhones and swap between them as needed. iPhone Handoff requires carrier support, and Apple says there may be carrier fees when setting it up.\n\n\n\n\nThe new iPhone Handoff option was mentioned at today'",
+      "url": "https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-09 16:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "title_translated": "iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch",
+      "summary_translated": "Apple is adding a new iPhone Handoff feature in iOS 27 that will let you use the same number on two iPhones and swap between them as needed. iPhone Handoff requires carrier support, and Apple says there may be carrier fees when setting it up.\n\n\n\n\nThe new iPhone Handoff option was mentioned at today'"
     },
     {
       "id": "602f0041df2b",
@@ -22441,7 +22455,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -22452,7 +22466,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -22463,7 +22477,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -22474,7 +22488,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -22485,7 +22499,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
