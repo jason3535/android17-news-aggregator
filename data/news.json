@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-11 18:24:57",
-  "total_count": 1626,
-  "news_count": 1621,
+  "last_updated": "2026-09-11 21:41:10",
+  "total_count": 1628,
+  "news_count": 1623,
   "android_count": 412,
-  "ios_count": 1209,
+  "ios_count": 1211,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "eb843a2424f7",
+      "title": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
+      "summary": "Two iOS 27 features need a little more time in testing and won't be shipping until a future update, even though they were present during the beta period.\n\n\n\n\nSuggestions in Messages conversations and the option to automatically fix compromised passwords with a tap will not be in the initial version ",
+      "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-11 20:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/ios-27-passwords-auto-fix.jpg",
+      "title_translated": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
+      "summary_translated": "Two iOS 27 features need a little more time in testing and won't be shipping until a future update, even though they were present during the beta period.\n\n\n\n\nSuggestions in Messages conversations and the option to automatically fix compromised passwords with a tap will not be in the initial version "
+    },
+    {
+      "id": "33aad13cd6d0",
+      "title": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
+      "summary": "This week, Apple announced that iOS 27 will be released to everyone on Monday, September 14.\nAlong with that, the company now says two features included in the iOS 27 betas have been removed and will be released in a “future software update” for iPhone: suggestions in Messages and automatic password",
+      "url": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-11 19:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
+      "summary_translated": "This week, Apple announced that iOS 27 will be released to everyone on Monday, September 14.\nAlong with that, the company now says two features included in the iOS 27 betas have been removed and will be released in a “future software update” for iPhone: suggestions in Messages and automatic password"
+    },
     {
       "id": "6e6258e2cc81",
       "title": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
