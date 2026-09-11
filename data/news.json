@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-10 21:34:44",
-  "total_count": 1618,
-  "news_count": 1613,
+  "last_updated": "2026-09-11 00:03:38",
+  "total_count": 1620,
+  "news_count": 1615,
   "android_count": 411,
-  "ios_count": 1202,
+  "ios_count": 1204,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e71fa02013d3",
+      "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+      "summary": "T-Mobile will charge customers $5 per month to use iPhone Handoff, an e-SIM feature that allows the same phone number to be used on two separate iPhones.\n\n\n\n\niPhone Handoff requires carrier support, and at launch, only T-Mobile users in the U.S. and Deutsche Telekom users in Germany will be able to ",
+      "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-10 22:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "title_translated": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+      "summary_translated": "T-Mobile will charge customers $5 per month to use iPhone Handoff, an e-SIM feature that allows the same phone number to be used on two separate iPhones.\n\n\n\n\niPhone Handoff requires carrier support, and at launch, only T-Mobile users in the U.S. and Deutsche Telekom users in Germany will be able to "
+    },
+    {
+      "id": "eb60e4f33b94",
+      "title": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
+      "summary": "Developers can now submit apps built for iOS 27 and Apple’s other new operating system releases, ahead of their official rollout next Monday. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-10 21:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios27-app-submissions.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
+      "summary_translated": "Developers can now submit apps built for iOS 27 and Apple’s other new operating system releases, ahead of their official rollout next Monday. Here are the details.\nmore…"
+    },
     {
       "id": "779ff9bfc2e7",
       "title": "Mac's Edge Light Feature Rumored to Expand to iPhone",
@@ -22595,7 +22623,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -22606,7 +22634,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -22617,7 +22645,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -22628,7 +22656,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -22639,7 +22667,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
