@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-13 11:43:01",
-  "total_count": 1629,
-  "news_count": 1624,
+  "last_updated": "2026-09-13 16:10:32",
+  "total_count": 1630,
+  "news_count": 1625,
   "android_count": 412,
-  "ios_count": 1212,
+  "ios_count": 1213,
   "leaker_count": 5,
   "items": [
     {
@@ -19,6 +19,20 @@
       "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Next-to-iPhone.jpg",
       "title_translated": "Here's When iOS 27 Rolls Out in Every Time Zone",
       "summary_translated": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be rele"
+    },
+    {
+      "id": "be5bf82ff51b",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is out September 14 after a summe",
+      "url": "https://9to5mac.com/2026/09/13/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-13 08:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "title_translated": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary_translated": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is out September 14 after a summe"
     },
     {
       "id": "eb843a2424f7",
