@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-13 22:22:17",
-  "total_count": 1630,
-  "news_count": 1625,
+  "last_updated": "2026-09-14 00:58:59",
+  "total_count": 1631,
+  "news_count": 1626,
   "android_count": 412,
-  "ios_count": 1213,
+  "ios_count": 1214,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b09f42c774ac",
+      "title": "iOS 27 Available Tomorrow With These 8 New Features",
+      "summary": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14.\n\n\n\n\niOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time tomorrow via the Settings app, under General → Software Update.\n\n\nBelow, we have high",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-13 23:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Icon-iPhone.jpeg",
+      "title_translated": "iOS 27 Available Tomorrow With These 8 New Features",
+      "summary_translated": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14.\n\n\n\n\niOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time tomorrow via the Settings app, under General → Software Update.\n\n\nBelow, we have high"
+    },
     {
       "id": "42f62335ff5d",
       "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
@@ -22763,7 +22777,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -22774,7 +22788,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -22785,7 +22799,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -22796,7 +22810,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -22807,7 +22821,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
