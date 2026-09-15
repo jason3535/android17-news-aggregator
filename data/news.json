@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-14 23:05:32",
-  "total_count": 1667,
-  "news_count": 1662,
+  "last_updated": "2026-09-15 01:26:06",
+  "total_count": 1669,
+  "news_count": 1664,
   "android_count": 414,
-  "ios_count": 1248,
+  "ios_count": 1250,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "57d3dc6ef56f",
+      "title": "iOS 27 Features: The Ultimate Mega Guide",
+      "summary": "When iOS 27 first came out back in June, we started working on a series of in-depth feature guides and how tos that go through all of the updates in Apple's new software.\n\n\n\n\nOur ultimate guide aggregates all of our ‌iOS 27‌ coverage, and it is useful for iPhone and iPad users new to ‌iOS 27‌ or tho",
+      "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-15 00:34",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Ultimate-Mega-Guide-Feature.jpg",
+      "title_translated": "iOS 27 Features: The Ultimate Mega Guide",
+      "summary_translated": "When iOS 27 first came out back in June, we started working on a series of in-depth feature guides and how tos that go through all of the updates in Apple's new software.\n\n\n\n\nOur ultimate guide aggregates all of our ‌iOS 27‌ coverage, and it is useful for iPhone and iPad users new to ‌iOS 27‌ or tho"
+    },
+    {
+      "id": "23e21730d66e",
+      "title": "macOS Golden Gate: 10 Features to Try First",
+      "summary": "Apple released macOS Golden Gate to the public today, which means anyone with a compatible Mac can download it. The new version of macOS requires an Apple chip, so if you have a Mac with an M1 or later or a MacBook Neo, you can upgrade.\n\n\n\n\n‌macOS Golden Gate‌ includes Siri AI, and the Mac is the on",
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-15 00:02",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/10-macOS-Features-to-Try-First-Feature.jpg",
+      "title_translated": "macOS Golden Gate: 10 Features to Try First",
+      "summary_translated": "Apple released macOS Golden Gate to the public today, which means anyone with a compatible Mac can download it. The new version of macOS requires an Apple chip, so if you have a Mac with an M1 or later or a MacBook Neo, you can upgrade.\n\n\n\n\n‌macOS Golden Gate‌ includes Siri AI, and the Mac is the on"
+    },
     {
       "id": "e110e05f2864",
       "title": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
@@ -23281,7 +23309,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -23292,7 +23320,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -23303,7 +23331,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -23314,7 +23342,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -23325,7 +23353,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
