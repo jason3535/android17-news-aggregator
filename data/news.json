@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-15 07:38:46",
-  "total_count": 1671,
-  "news_count": 1666,
+  "last_updated": "2026-09-15 13:28:16",
+  "total_count": 1673,
+  "news_count": 1668,
   "android_count": 414,
-  "ios_count": 1252,
+  "ios_count": 1254,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "faa8e278b38a",
+      "title": "Samsung’s taking a “More is More” approach to foldable competition",
+      "summary": "Good morning. Today I’m wondering if I should revisit Diablo IV in light of the Diablo V announcement, what I would possibly do with a Steam Frame if I could justify its $1,059 price, and whether I missed any major features by reading as many iOS 27 and macOS 27 reviews as I can stomach.\nAs a remind",
+      "url": "https://9to5google.com/2026/09/15/samsungs-taking-a-more-is-more-approach-to-foldable-competition/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-09-15 11:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-25.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Samsung’s taking a “More is More” approach to foldable competition",
+      "summary_translated": "Good morning. Today I’m wondering if I should revisit Diablo IV in light of the Diablo V announcement, what I would possibly do with a Steam Frame if I could justify its $1,059 price, and whether I missed any major features by reading as many iOS 27 and macOS 27 reviews as I can stomach.\nAs a remind"
+    },
+    {
+      "id": "ffd23f9e2b38",
+      "title": "Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It",
+      "summary": "If you have installed iOS 27 on your iPhone or iPadOS 27 on your iPad (download it via Settings ➝ General ➝ Software Update), Apple left a fun little easter egg for you to discover. \n\n\n\n\nOpen the Settings app, then tap through to Appearance ➝ Liquid Glass. Scroll to the bottom of the \"Welcome to App",
+      "url": "https://www.macrumors.com/2026/09/15/apple-snuck-dogcow-into-ios-27-how-to-find/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-15 10:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/moof-clarius-dogcow-ios-27@2x-scaled.jpg",
+      "title_translated": "Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It",
+      "summary_translated": "If you have installed iOS 27 on your iPhone or iPadOS 27 on your iPad (download it via Settings ➝ General ➝ Software Update), Apple left a fun little easter egg for you to discover. \n\n\n\n\nOpen the Settings app, then tap through to Appearance ➝ Liquid Glass. Scroll to the bottom of the \"Welcome to App"
+    },
     {
       "id": "e884fa770372",
       "title": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
