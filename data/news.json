@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-15 01:26:06",
-  "total_count": 1669,
-  "news_count": 1664,
+  "last_updated": "2026-09-15 07:38:46",
+  "total_count": 1671,
+  "news_count": 1666,
   "android_count": 414,
-  "ios_count": 1250,
+  "ios_count": 1252,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e884fa770372",
+      "title": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
+      "summary": "Apple released iOS 27 this week, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features to explore, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. \n\n\n\n\nWhich iPhones Sup",
+      "url": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-15 05:48",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
+      "title_translated": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
+      "summary_translated": "Apple released iOS 27 this week, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features to explore, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. \n\n\n\n\nWhich iPhones Sup"
+    },
+    {
+      "id": "8caecaa6a35c",
+      "title": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
+      "summary": "Included in today’s 2027 system updates from Apple are several new Screen Time and parental control features aimed at giving parents more control over how their kids use their devices. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-15 02:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/parental-controls-hero.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
+      "summary_translated": "Included in today’s 2027 system updates from Apple are several new Screen Time and parental control features aimed at giving parents more control over how their kids use their devices. Here are the details.\nmore…"
+    },
     {
       "id": "57d3dc6ef56f",
       "title": "iOS 27 Features: The Ultimate Mega Guide",
