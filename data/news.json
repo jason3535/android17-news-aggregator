@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-15 22:09:06",
-  "total_count": 1695,
-  "news_count": 1690,
+  "last_updated": "2026-09-16 01:21:35",
+  "total_count": 1696,
+  "news_count": 1691,
   "android_count": 426,
-  "ios_count": 1264,
+  "ios_count": 1265,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "14cb7955e38e",
+      "title": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
+      "summary": "Unsurprisingly, the Omni Group worked all summer to get its suite of apps ready for Apple’s 2027 system updates from day one. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-15 23:22",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/omnifocus-os27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
+      "summary_translated": "Unsurprisingly, the Omni Group worked all summer to get its suite of apps ready for Apple’s 2027 system updates from day one. Here’s what’s new.\nmore…"
+    },
     {
       "id": "1a682f0ad676",
       "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
@@ -23673,7 +23687,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -23684,7 +23698,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -23695,7 +23709,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -23706,7 +23720,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -23717,7 +23731,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
