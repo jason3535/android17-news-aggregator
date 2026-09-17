@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-17 06:04:36",
-  "total_count": 1731,
-  "news_count": 1726,
-  "android_count": 435,
-  "ios_count": 1291,
+  "last_updated": "2026-09-17 11:36:03",
+  "total_count": 1733,
+  "news_count": 1728,
+  "android_count": 436,
+  "ios_count": 1292,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "19a75506b83c",
+      "title": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
+      "summary": "In iOS 27, available now, CarPlay gets its biggest update in years, but some features depend on what type of car you have rather than your iPhone model. Some of the biggest additions won't do anything in the vast majority of vehicles on the road today. Here's how the new features pan out.\n\n\n\n\nWorks ",
+      "url": "https://www.macrumors.com/2026/09/17/which-ios-27-carplay-features-actually-work/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-17 11:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/ios-27-carplay-liquid-glass.jpg",
+      "title_translated": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
+      "summary_translated": "In iOS 27, available now, CarPlay gets its biggest update in years, but some features depend on what type of car you have rather than your iPhone model. Some of the biggest additions won't do anything in the vast majority of vehicles on the road today. Here's how the new features pan out.\n\n\n\n\nWorks "
+    },
     {
       "id": "114b0c265852",
       "title": "GrapheneOS accuses Google of gatekeeping Android 17 features and security fixes",
@@ -19,6 +33,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg",
       "title_translated": "GrapheneOS accuses Google of gatekeeping Android 17 features and security fixes",
       "summary_translated": "The platform has raised concerns over Pixel-exclusive Android 17 APIs and security patches."
+    },
+    {
+      "id": "f1d9f0cf4e5d",
+      "title": "Google Home just became a power user’s paradise",
+      "summary": "Google Home MCP opens the smart home to every AI agent; Android 17 QPR1 and One UI 9 land the same week; Trash: the 39 toll booth for your light bulbs.",
+      "url": "https://9to5google.com/2026/09/17/google-home-just-became-a-power-users-paradise/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-09-17",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=350",
+      "title_translated": "Google Home just became a power user’s paradise",
+      "summary_translated": "Google Home MCP opens the smart home to every AI agent; Android 17 QPR1 and One UI 9 land the same week; Trash: the 39 toll booth for your light bulbs."
     },
     {
       "id": "43927840fbd9",
