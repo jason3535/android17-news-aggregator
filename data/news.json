@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-17 00:27:55",
-  "total_count": 1730,
-  "news_count": 1725,
-  "android_count": 434,
+  "last_updated": "2026-09-17 06:04:36",
+  "total_count": 1731,
+  "news_count": 1726,
+  "android_count": 435,
   "ios_count": 1291,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "114b0c265852",
+      "title": "GrapheneOS accuses Google of gatekeeping Android 17 features and security fixes",
+      "summary": "The platform has raised concerns over Pixel-exclusive Android 17 APIs and security patches.",
+      "url": "https://www.androidauthority.com/grapheneos-android-17-qpr1-security-patches-comments-3712218/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-09-17 03:29",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg",
+      "title_translated": "GrapheneOS accuses Google of gatekeeping Android 17 features and security fixes",
+      "summary_translated": "The platform has raised concerns over Pixel-exclusive Android 17 APIs and security patches."
+    },
     {
       "id": "43927840fbd9",
       "title": "Everything New in iOS 27.2 Beta 1",
