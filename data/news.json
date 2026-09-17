@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-17 20:14:32",
-  "total_count": 1744,
-  "news_count": 1739,
+  "last_updated": "2026-09-17 23:31:16",
+  "total_count": 1745,
+  "news_count": 1740,
   "android_count": 438,
-  "ios_count": 1301,
+  "ios_count": 1302,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "d6d978db0f23",
+      "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
+      "summary": "Chance has been testing the iPhone 18 Pro and the new Apple Watches for the last week, and is here to give his hands-on reviews. Also, Apple has finally released its new operating systems out into the world, which means Benjamin has tried macOS Golden Gate for the first time. \nAnd in Happy Hour Plus",
+      "url": "https://9to5mac.com/2026/09/17/happy-hour-608/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-17 20:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
+      "summary_translated": "Chance has been testing the iPhone 18 Pro and the new Apple Watches for the last week, and is here to give his hands-on reviews. Also, Apple has finally released its new operating systems out into the world, which means Benjamin has tried macOS Golden Gate for the first time. \nAnd in Happy Hour Plus"
+    },
     {
       "id": "fc4ab2a1a07a",
       "title": "iCloud+ subscribers just got new benefits in iOS 27",
