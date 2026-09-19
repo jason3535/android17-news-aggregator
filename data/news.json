@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-19 10:50:43",
-  "total_count": 1757,
-  "news_count": 1752,
+  "last_updated": "2026-09-19 14:21:15",
+  "total_count": 1759,
+  "news_count": 1754,
   "android_count": 441,
-  "ios_count": 1311,
+  "ios_count": 1313,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b00f11e5edc4",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+      "summary": "All of Apple's products introduced at last week's event with the exception of the iPhone Duo are now available, with the iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all launching on Friday.\n\n\n\n\nWhile new hardware is always a welcome arrival, users of existing hardware",
+      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-19 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-19.jpg",
+      "title_translated": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+      "summary_translated": "All of Apple's products introduced at last week's event with the exception of the iPhone Duo are now available, with the iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all launching on Friday.\n\n\n\n\nWhile new hardware is always a welcome arrival, users of existing hardware"
+    },
+    {
+      "id": "fda5ecda9497",
+      "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
+      "summary": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger.\nIn a new support document published today, Apple says the iPhone 18 Pro Max has such a big battery that it has additional shipping requirements.\nmore…",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-19 11:10",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
+      "summary_translated": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger.\nIn a new support document published today, Apple says the iPhone 18 Pro Max has such a big battery that it has additional shipping requirements.\nmore…"
+    },
     {
       "id": "c522fd382c7f",
       "title": "Pixelated 117: Googlebook Eve",
