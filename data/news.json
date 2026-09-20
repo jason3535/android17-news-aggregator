@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-19 22:56:15",
-  "total_count": 1760,
-  "news_count": 1755,
+  "last_updated": "2026-09-20 01:01:05",
+  "total_count": 1761,
+  "news_count": 1756,
   "android_count": 441,
-  "ios_count": 1314,
+  "ios_count": 1315,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9b4eff1390a7",
+      "title": "iOS 27 makes your iPhone faster in these 30+ ways",
+      "summary": "iOS 27 is now available to everyone, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update.\nmore…",
+      "url": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-20 00:16",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 makes your iPhone faster in these 30+ ways",
+      "summary_translated": "iOS 27 is now available to everyone, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update.\nmore…"
+    },
     {
       "id": "5df889c60283",
       "title": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
@@ -24583,7 +24597,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -24594,7 +24608,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -24605,7 +24619,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -24616,7 +24630,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -24627,7 +24641,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
