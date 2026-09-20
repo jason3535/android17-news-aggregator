@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-20 16:45:51",
-  "total_count": 1761,
-  "news_count": 1756,
+  "last_updated": "2026-09-20 19:23:11",
+  "total_count": 1762,
+  "news_count": 1757,
   "android_count": 441,
-  "ios_count": 1315,
+  "ios_count": 1316,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "766faf16da84",
+      "title": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
+      "summary": "The new version of Siri, Siri AI, launched to the masses this month as part of iOS 27. The new Siri is rolling out gradually to users via a waitlist, and is labelled as a ‘beta’ indicating that Apple still has some work to do in follow-up releases.\nThe new Siri is much better at answering questions ",
+      "url": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-20 18:35",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "新 Siri AI 让 iPhone 和 Apple Watch 用户感到沮丧的五种方式",
+      "summary_translated": "新版 Siri Siri AI 于本月作为 iOS 27 的一部分向大众发布。新版 Siri 正在通过候补名单逐步向用户推出，并被标记为“测试版”，表明苹果在后续版本中仍有一些工作要做。\n新的 Siri 更擅长回答问题"
+    },
     {
       "id": "9b4eff1390a7",
       "title": "iOS 27 makes your iPhone faster in these 30+ ways",
