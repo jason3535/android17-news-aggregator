@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-21 01:01:35",
-  "total_count": 1763,
-  "news_count": 1758,
+  "last_updated": "2026-09-21 06:14:47",
+  "total_count": 1764,
+  "news_count": 1759,
   "android_count": 442,
-  "ios_count": 1316,
+  "ios_count": 1317,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "1b2f01e7bb69",
+      "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
+      "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and the settlement website is now live.\n\n\n\n\nApple will pay an estimated $25 per eligible iPhone to eligible customers, who can submit a claim via the settlement website between September 21 ",
+      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-21 02:24",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
+      "title_translated": "Siri AI 结算网站现已上线：苹果将向部分 iPhone 用户付款",
+      "summary_translated": "今年 5 月，苹果同意支付 2.5 亿美元来和解因 Siri AI 延迟推出而引发的美国集体诉讼，和解网站现已上线。\n\n\n\n\nApple 将向符合条件的客户支付每部符合条件的 iPhone 约 25 美元，客户可以在 9 月 21 日之间通过和解网站提交索赔"
+    },
     {
       "id": "d6c12770fb4b",
       "title": "Android 17 QPR1 changes some Pixel status bar icons",
