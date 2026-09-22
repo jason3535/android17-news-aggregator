@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-22 04:45:32",
-  "total_count": 1780,
-  "news_count": 1775,
+  "last_updated": "2026-09-22 09:53:04",
+  "total_count": 1781,
+  "news_count": 1776,
   "android_count": 442,
-  "ios_count": 1333,
+  "ios_count": 1334,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "133d0409b87a",
+      "title": "iCloud storage notification glitch puts unremovable red badge on Settings app",
+      "summary": "There’s an annoying little iPhone notification glitch impacting some users on iOS 27. For those affected, the Settings app gets a red badge prompting an alert to ‘Activate iCloud Storage’. \nHowever, tapping on this alert simply navigates to the iCloud storage purchase screen and the alert does not g",
+      "url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-22 07:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/icloud-notification-ios-27-glitch.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iCloud storage notification glitch puts unremovable red badge on Settings app",
+      "summary_translated": "There’s an annoying little iPhone notification glitch impacting some users on iOS 27. For those affected, the Settings app gets a red badge prompting an alert to ‘Activate iCloud Storage’. \nHowever, tapping on this alert simply navigates to the iCloud storage purchase screen and the alert does not g"
+    },
     {
       "id": "ccf1d6339ad7",
       "title": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
