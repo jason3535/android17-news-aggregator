@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-22 18:48:31",
-  "total_count": 1788,
-  "news_count": 1783,
+  "last_updated": "2026-09-22 22:01:14",
+  "total_count": 1791,
+  "news_count": 1786,
   "android_count": 447,
-  "ios_count": 1336,
+  "ios_count": 1339,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e85b098cdc81",
+      "title": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "summary": "iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’\nmore…",
+      "url": "https://9to5mac.com/2026/09/22/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-22 19:39",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "summary_translated": "iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’\nmore…"
+    },
+    {
+      "id": "713d2a392c49",
+      "title": "Apple has reportedly ‘postponed’ AI pendant product",
+      "summary": "Apple launched arguably its first AI wearables last week with Apple Watch Series 12 and Ultra 4, which are gaining new ‘Audio Intelligence’ features alongside Siri AI. But today a Bloomberg report says a different AI product—the rumored wearable pendant—has been put on hold.\nmore…",
+      "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-22 19:01",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-pin-concept.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple has reportedly ‘postponed’ AI pendant product",
+      "summary_translated": "Apple launched arguably its first AI wearables last week with Apple Watch Series 12 and Ultra 4, which are gaining new ‘Audio Intelligence’ features alongside Siri AI. But today a Bloomberg report says a different AI product—the rumored wearable pendant—has been put on hold.\nmore…"
+    },
     {
       "id": "62e57ff8d3bd",
       "title": "Latest Pixel Update Either Greatest Ever or Buggiest Ever",
@@ -24966,6 +24994,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/vAnm5UzJyGw/hqdefault.jpg",
       "title_translated": "iOS 27 Apple Wallet: EVERY New Feature Explained",
+      "summary_translated": ""
+    },
+    {
+      "id": "526d279015ca",
+      "title": "It's NOT just Siri AI! - macOS 27 top features",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=ECsIpRlXANc",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/ECsIpRlXANc/hqdefault.jpg",
+      "title_translated": "It's NOT just Siri AI! - macOS 27 top features",
       "summary_translated": ""
     },
     {
