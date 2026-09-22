@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-22 14:45:26",
-  "total_count": 1786,
-  "news_count": 1781,
-  "android_count": 445,
+  "last_updated": "2026-09-22 18:48:31",
+  "total_count": 1788,
+  "news_count": 1783,
+  "android_count": 447,
   "ios_count": 1336,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "62e57ff8d3bd",
+      "title": "Latest Pixel Update Either Greatest Ever or Buggiest Ever",
+      "summary": "The big update that landed on Pixel phones last week arrived as Android 17 QPR1 and with some new Pixel Drop features. We had been testing this update through 9 different beta versions as Google worked to dial in bugs and get it to a polished state before releasing to the masses. Now that everyone..",
+      "url": "https://www.droid-life.com/2026/09/22/latest-pixel-update-either-greatest-ever-or-buggiest-ever/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-09-22 18:02",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2025/10/Pixel-10-Pro-Arc-Pulse-Case-4-980x653.jpg",
+      "title_translated": "Latest Pixel Update Either Greatest Ever or Buggiest Ever",
+      "summary_translated": "The big update that landed on Pixel phones last week arrived as Android 17 QPR1 and with some new Pixel Drop features. We had been testing this update through 9 different beta versions as Google worked to dial in bugs and get it to a polished state before releasing to the masses. Now that everyone.."
+    },
+    {
+      "id": "9e592d0ca007",
+      "title": "Motorola’s Android 17 rollout is bringing a helpful feature to more devices",
+      "summary": "Unfortunately, it seems this series will miss out on the expansion.",
+      "url": "https://www.androidauthority.com/motorola-qira-expands-to-more-devices-3714095/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-09-22 15:28",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Moto-Edge-2026-logo.jpg",
+      "title_translated": "Motorola’s Android 17 rollout is bringing a helpful feature to more devices",
+      "summary_translated": "Unfortunately, it seems this series will miss out on the expansion."
+    },
     {
       "id": "ad0aad2df423",
       "title": "Nothing Phone (4a) and (3a) Pro can now join Android 17 open beta",
