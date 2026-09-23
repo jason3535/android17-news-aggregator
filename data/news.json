@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-23 05:53:41",
-  "total_count": 1793,
-  "news_count": 1788,
+  "last_updated": "2026-09-23 11:26:17",
+  "total_count": 1794,
+  "news_count": 1789,
   "android_count": 447,
-  "ios_count": 1341,
+  "ios_count": 1342,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "413aa0532f77",
+      "title": "Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27",
+      "summary": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.\n\n\n",
+      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-23 10:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "title_translated": "Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27",
+      "summary_translated": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.\n\n\n"
+    },
     {
       "id": "3260fe22bde0",
       "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
