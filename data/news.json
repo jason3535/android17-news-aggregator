@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-23 20:15:24",
-  "total_count": 1802,
-  "news_count": 1797,
+  "last_updated": "2026-09-23 23:37:47",
+  "total_count": 1804,
+  "news_count": 1799,
   "android_count": 447,
-  "ios_count": 1350,
+  "ios_count": 1352,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2130263d5873",
+      "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
+      "summary": "My transcription tool of choice on the Mac, MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, tighter integration with Apple Intelligence, and a new transcription model. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-23 21:17",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?w=1600",
+      "title_translated": "MacWhisper 更新带来了实时会议记录、改进的发言者识别等",
+      "summary_translated": "我在 Mac 上选择的转录工具 MacWhisper 今天获得了另一个重大更新，包括实时会议记录、显着改进的发言者识别、与 Apple Intelligence 更紧密的集成以及新的转录模型。以下是详细信息。\n更多的…"
+    },
     {
       "id": "560327b3cdfe",
       "title": "iOS 27.0.1 is Coming Soon",
@@ -25162,6 +25176,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/ECsIpRlXANc/hqdefault.jpg",
       "title_translated": "It's NOT just Siri AI! - macOS 27 top features",
+      "summary_translated": ""
+    },
+    {
+      "id": "c72a87b3f65e",
+      "title": "Apple's NEW Siri AI on HomePod Just Is Coming! Here's What We Know",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=QxYCg2q7QqI",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/QxYCg2q7QqI/hqdefault.jpg",
+      "title_translated": "苹果 HomePod 上的全新 Siri AI 即将推出！这是我们所知道的",
       "summary_translated": ""
     },
     {
