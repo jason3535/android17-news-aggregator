@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-23 23:37:47",
-  "total_count": 1804,
-  "news_count": 1799,
+  "last_updated": "2026-09-24 04:38:01",
+  "total_count": 1805,
+  "news_count": 1800,
   "android_count": 447,
-  "ios_count": 1352,
+  "ios_count": 1353,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0f6485a73b03",
+      "title": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration",
+      "summary": "As reported by The Financial Times, new court filings show that OpenAI was disappointed by the adoption of ChatGPT through Apple Intelligence, which it says “dramatically underperformed” after launching in 2024. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-23 23:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/chatgpt-siri-ios182-3-2.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "OpenAI 表示 Apple Intelligence 用户对 ChatGPT 集成兴趣不大",
+      "summary_translated": "据《金融时报》报道，新的法庭文件显示，OpenAI 对通过 Apple Intelligence 采用 ChatGPT 感到失望，称其在 2024 年推出后“表现严重不佳”。以下是详细信息。\n更多的…"
+    },
     {
       "id": "2130263d5873",
       "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
@@ -25199,7 +25213,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -25210,7 +25224,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -25221,7 +25235,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -25232,7 +25246,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -25243,7 +25257,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
