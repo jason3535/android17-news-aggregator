@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-25 13:40:11",
-  "total_count": 1825,
-  "news_count": 1820,
+  "last_updated": "2026-09-25 18:31:06",
+  "total_count": 1826,
+  "news_count": 1821,
   "android_count": 452,
-  "ios_count": 1368,
+  "ios_count": 1369,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "34325f6cb683",
+      "title": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "url": "https://9to5mac.com/2026/09/25/daily-september-25-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-25 17:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
+      "summary_translated": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and"
+    },
     {
       "id": "02a4b31c5bd8",
       "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
