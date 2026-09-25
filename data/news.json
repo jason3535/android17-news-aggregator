@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-25 18:31:06",
-  "total_count": 1826,
-  "news_count": 1821,
+  "last_updated": "2026-09-25 22:14:42",
+  "total_count": 1827,
+  "news_count": 1822,
   "android_count": 452,
-  "ios_count": 1369,
+  "ios_count": 1370,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "179e392556bb",
+      "title": "Apple Card adds new feature in iOS 27 that every card should have",
+      "summary": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions.\nmore…",
+      "url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-25 19:19",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple Card adds new feature in iOS 27 that every card should have",
+      "summary_translated": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions.\nmore…"
+    },
     {
       "id": "34325f6cb683",
       "title": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
