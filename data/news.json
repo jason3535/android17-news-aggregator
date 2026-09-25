@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-24 22:20:48",
-  "total_count": 1821,
-  "news_count": 1816,
+  "last_updated": "2026-09-25 01:25:13",
+  "total_count": 1822,
+  "news_count": 1817,
   "android_count": 452,
-  "ios_count": 1364,
+  "ios_count": 1365,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b49f2a0a7a4b",
+      "title": "TestFlight App Gets New iOS 27 Features",
+      "summary": "Apple today updated its TestFlight app for iOS, iPadOS, macOS, and visionOS to version 4.4.0, adding support for features introduced in the latest software updates and products.\n\n\n\n\nTestFlight for iPhone supports landscape orientation ahead of the iPhone Duo's October launch, though the option is av",
+      "url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-24 22:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/01/TestFlight-Banner.jpg",
+      "title_translated": "TestFlight 应用程序获得 iOS 27 新功能",
+      "summary_translated": "Apple 今天将适用于 iOS、iPadOS、macOS 和 VisionOS 的 TestFlight 应用程序更新至版本 4.4.0，增加了对最新软件更新和产品中引入的功能的支持。\n\n\n\n\nTestFlight for iPhone 在 iPhone Duo 十月发布之前支持横向方向，尽管该选项是 av"
+    },
     {
       "id": "d4202e24c2e2",
       "title": "Google rolling out Android 17 QPR2 Beta 6 for Pixel",
@@ -25437,7 +25451,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -25448,7 +25462,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -25459,7 +25473,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -25470,7 +25484,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -25481,7 +25495,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
