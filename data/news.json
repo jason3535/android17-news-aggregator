@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-26 13:00:16",
-  "total_count": 1828,
-  "news_count": 1823,
+  "last_updated": "2026-09-26 17:05:57",
+  "total_count": 1829,
+  "news_count": 1824,
   "android_count": 452,
-  "ios_count": 1371,
+  "ios_count": 1372,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6d2872da67e5",
+      "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
+      "summary": "The Apple rumor mill never stops, and this week MacRumors was able to break the news of details on several upcoming products.\n\n\n\n\nWe're also still learning more about the just-released iPhone 18 Pro and Pro Max plus the upcoming iPhone Duo, while this week saw the debut of new Beats 360 headphones a",
+      "url": "https://www.macrumors.com/2026/09/26/top-stories-apple-leaks-siri-ai-settlement/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-26 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-26.jpg",
+      "title_translated": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
+      "summary_translated": "The Apple rumor mill never stops, and this week MacRumors was able to break the news of details on several upcoming products.\n\n\n\n\nWe're also still learning more about the just-released iPhone 18 Pro and Pro Max plus the upcoming iPhone Duo, while this week saw the debut of new Beats 360 headphones a"
+    },
     {
       "id": "aab6c1ec49a3",
       "title": "macOS 27 adds new Apple Intelligence features to your favorite apps",
