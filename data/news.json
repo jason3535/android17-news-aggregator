@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-26 17:05:57",
-  "total_count": 1829,
-  "news_count": 1824,
+  "last_updated": "2026-09-26 21:03:33",
+  "total_count": 1830,
+  "news_count": 1825,
   "android_count": 452,
-  "ios_count": 1372,
+  "ios_count": 1373,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b789f6184735",
+      "title": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
+      "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\n\niOS 27 debuted to the public almost two weeks ago, with the flagship feature being Siri AI. While Siri AI",
+      "url": "https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-26 19:30",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/QuillCue-app.png?w=1600",
+      "title_translated": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
+      "summary_translated": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\n\niOS 27 debuted to the public almost two weeks ago, with the flagship feature being Siri AI. While Siri AI"
+    },
     {
       "id": "6d2872da67e5",
       "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
