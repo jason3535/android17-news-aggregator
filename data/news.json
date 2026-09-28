@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-28 17:36:40",
-  "total_count": 1844,
-  "news_count": 1839,
+  "last_updated": "2026-09-28 23:12:22",
+  "total_count": 1846,
+  "news_count": 1841,
   "android_count": 459,
-  "ios_count": 1380,
+  "ios_count": 1382,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ea44b181c2e7",
+      "title": "Siri AI is available on newer Apple devices only, here’s the full list",
+      "summary": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.\nmore…",
+      "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-28 19:43",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Siri AI is available on newer Apple devices only, here’s the full list",
+      "summary_translated": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.\nmore…"
+    },
+    {
+      "id": "a1bd5ef6eec7",
+      "title": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
+      "summary": "iOS 26.7.1, iPadOS 26.7.1, macOS Tahoe 26.7.1, and macOS Sequoia 15.8.1 address a major vulnerability that Apple believes was used against a small number of people.\n\n\n\n\nApple's security support pages say there was a CoreGraphics out-of-bounds write issue that could be exploited with a maliciously cr",
+      "url": "https://www.macrumors.com/2026/09/28/ios-26-7-1-active-exploit-fixed/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-28 18:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title_translated": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
+      "summary_translated": "iOS 26.7.1, iPadOS 26.7.1, macOS Tahoe 26.7.1, and macOS Sequoia 15.8.1 address a major vulnerability that Apple believes was used against a small number of people.\n\n\n\n\nApple's security support pages say there was a CoreGraphics out-of-bounds write issue that could be exploited with a maliciously cr"
+    },
     {
       "id": "6d1e77754ca0",
       "title": "iOS 26.7.1 available now for iPhone with security fixes",
