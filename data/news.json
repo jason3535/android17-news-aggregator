@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-28 01:35:13",
-  "total_count": 1831,
-  "news_count": 1826,
-  "android_count": 452,
+  "last_updated": "2026-09-28 08:37:49",
+  "total_count": 1832,
+  "news_count": 1827,
+  "android_count": 453,
   "ios_count": 1374,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a6259feff9d6",
+      "title": "Galaxy S26’s stable One UI 9 rollout is expanding in the US, with an official changelog at last",
+      "summary": "Samsung has finally detailed everything included in the stable Android 17 update.",
+      "url": "https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-09-28 08:26",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
+      "title_translated": "Galaxy S26’s stable One UI 9 rollout is expanding in the US, with an official changelog at last",
+      "summary_translated": "Samsung has finally detailed everything included in the stable Android 17 update."
+    },
     {
       "id": "0bce4b2c700e",
       "title": "iOS 27 makes a great change to Apple Pay on iPhone",
