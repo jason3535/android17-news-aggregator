@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-27 23:01:01",
-  "total_count": 1830,
-  "news_count": 1825,
+  "last_updated": "2026-09-28 01:35:13",
+  "total_count": 1831,
+  "news_count": 1826,
   "android_count": 452,
-  "ios_count": 1373,
+  "ios_count": 1374,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0bce4b2c700e",
+      "title": "iOS 27 makes a great change to Apple Pay on iPhone",
+      "summary": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites. The changes make it easier to switch between different payment cards and see key details about the order you’re placing.\nmore…",
+      "url": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-27 23:46",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 makes a great change to Apple Pay on iPhone",
+      "summary_translated": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites. The changes make it easier to switch between different payment cards and see key details about the order you’re placing.\nmore…"
+    },
     {
       "id": "b789f6184735",
       "title": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
@@ -25563,7 +25577,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -25574,7 +25588,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -25585,7 +25599,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -25596,7 +25610,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -25607,7 +25621,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
