@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-29 05:36:45",
-  "total_count": 1847,
-  "news_count": 1842,
+  "last_updated": "2026-09-29 12:43:00",
+  "total_count": 1848,
+  "news_count": 1843,
   "android_count": 459,
-  "ios_count": 1383,
+  "ios_count": 1384,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "3919bbb72dbd",
+      "title": "Feature Request: One change for the most important use of Notify Me",
+      "summary": "A key new feature in macOS 27 is Safari’s Notify Me function. This has the Apple Intelligence automatically monitor a web page for updates and send a notification when it occurs.\nThis feature can be useful in a wide variety of ways, with price drops being one of the most obvious. Unfortunately, a li",
+      "url": "https://9to5mac.com/2026/09/29/feature-request-one-change-for-the-most-important-use-of-notify-me/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-29 11:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/safari-notify-me-alert.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "功能请求：Notify Me 最重要用途的一项更改",
+      "summary_translated": "macOS 27 中的一个重要新功能是 Safari 的通知我功能。这使得 Apple Intelligence 自动监视网页的更新并在发生更新时发送通知。\n此功能可以通过多种方式发挥作用，其中价格下降是最明显的之一。不幸的是，李"
+    },
     {
       "id": "12278cfd76b2",
       "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces",
