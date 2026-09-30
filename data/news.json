@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-09-30 15:52:26",
-  "total_count": 1866,
-  "news_count": 1861,
+  "last_updated": "2026-09-30 20:46:04",
+  "total_count": 1868,
+  "news_count": 1863,
   "android_count": 468,
-  "ios_count": 1393,
+  "ios_count": 1395,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "61fb4708c547",
+      "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
+      "summary": "iOS 27.2 is coming soon with several new features for iPhone users, including a Messages addition that was previously in the iOS 27 beta but later got pulled: Suggestions.\nmore…",
+      "url": "https://9to5mac.com/2026/09/30/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-30 19:06",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.2 adds new Messages feature that’s already a favorite",
+      "summary_translated": "iOS 27.2 is coming soon with several new features for iPhone users, including a Messages addition that was previously in the iOS 27 beta but later got pulled: Suggestions.\nmore…"
+    },
+    {
+      "id": "b672736e32c1",
+      "title": "Apple Invites for iPhone updated with three new features",
+      "summary": "Apple is rolling out a new version of its Apple Invites app for iPhone today. The update taps into new iOS 27 features, including improved photo sharing and Image Playground capabilities. \nmore…",
+      "url": "https://9to5mac.com/2026/09/30/apple-invites-for-iphone-updated-with-three-new-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-09-30 18:51",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-invites.webp?w=1600",
+      "title_translated": "Apple Invites for iPhone updated with three new features",
+      "summary_translated": "Apple is rolling out a new version of its Apple Invites app for iPhone today. The update taps into new iOS 27 features, including improved photo sharing and Image Playground capabilities. \nmore…"
+    },
     {
       "id": "87c8f5a1a669",
       "title": "Android 17 QPR1 giving you grief? Survey shows you’re not alone",
