@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-30 02:02:13",
-  "total_count": 1863,
-  "news_count": 1858,
-  "android_count": 466,
+  "last_updated": "2026-09-30 08:25:53",
+  "total_count": 1864,
+  "news_count": 1859,
+  "android_count": 467,
   "ios_count": 1392,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "6d7673da3631",
+      "title": "Google gives the Pixel 11 Pro’s HiLight LED a much-needed feature",
+      "summary": "HiLight now supports messages with the latest Android 17 QPR2 beta.",
+      "url": "https://www.androidauthority.com/pixel-hilight-messages-support-3717161/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-09-30 04:18",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hilight-glowing-1-scaled.jpg",
+      "title_translated": "Google gives the Pixel 11 Pro’s HiLight LED a much-needed feature",
+      "summary_translated": "HiLight now supports messages with the latest Android 17 QPR2 beta."
+    },
     {
       "id": "291d0291c1b8",
       "title": "Here’s everything new in Android 17 QPR2 Beta 6 + 6.1 [Gallery]",
