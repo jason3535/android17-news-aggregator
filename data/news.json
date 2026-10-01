@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-01 07:09:25",
-  "total_count": 1869,
-  "news_count": 1864,
-  "android_count": 468,
+  "last_updated": "2026-10-01 15:23:54",
+  "total_count": 1870,
+  "news_count": 1865,
+  "android_count": 469,
   "ios_count": 1396,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ced2a52accbd",
+      "title": "Samsung has updated these Galaxy devices to Android 17",
+      "summary": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update.\nmore…",
+      "url": "https://9to5google.com/2026/10/01/samsung-galaxy-android-17-update-list/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-10-01 12:00",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Samsung has updated these Galaxy devices to Android 17",
+      "summary_translated": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update.\nmore…"
+    },
     {
       "id": "c5a2a4aa3dac",
       "title": "Apple's Smart Home Hub: Everything We Know So Far",
