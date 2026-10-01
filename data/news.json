@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-01 00:31:00",
-  "total_count": 1868,
-  "news_count": 1863,
+  "last_updated": "2026-10-01 07:09:25",
+  "total_count": 1869,
+  "news_count": 1864,
   "android_count": 468,
-  "ios_count": 1395,
+  "ios_count": 1396,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "c5a2a4aa3dac",
+      "title": "Apple's Smart Home Hub: Everything We Know So Far",
+      "summary": "Apple is working on a new smart home accessory that will serve as a hub for interacting with Siri AI, controlling HomeKit devices, watching videos, checking the calendar and the weather, and generally offering up useful information to everyone in the household. \n\n\n\n\nThis guide aggregates everything ",
+      "url": "https://www.macrumors.com/guide/apple-command-center/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-09-30 23:58",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
+      "title_translated": "Apple's Smart Home Hub: Everything We Know So Far",
+      "summary_translated": "Apple is working on a new smart home accessory that will serve as a hub for interacting with Siri AI, controlling HomeKit devices, watching videos, checking the calendar and the weather, and generally offering up useful information to everyone in the household. \n\n\n\n\nThis guide aggregates everything "
+    },
     {
       "id": "61fb4708c547",
       "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
