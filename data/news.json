@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-02 00:42:32",
-  "total_count": 1870,
-  "news_count": 1865,
+  "last_updated": "2026-10-02 06:57:34",
+  "total_count": 1871,
+  "news_count": 1866,
   "android_count": 469,
-  "ios_count": 1396,
+  "ios_count": 1397,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7f4a278311e9",
+      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
+      "summary": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues.\n\n\n\n\nAT&T said that customers should immediately update to iOS 27.0.1, despite the fact that many affected users have said that the update does not resolve",
+      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-02 03:42",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
+      "title_translated": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
+      "summary_translated": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues.\n\n\n\n\nAT&T said that customers should immediately update to iOS 27.0.1, despite the fact that many affected users have said that the update does not resolve"
+    },
     {
       "id": "ced2a52accbd",
       "title": "Samsung has updated these Galaxy devices to Android 17",
