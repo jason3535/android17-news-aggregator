@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-10-02 06:57:34",
-  "total_count": 1871,
-  "news_count": 1866,
+  "last_updated": "2026-10-02 13:48:23",
+  "total_count": 1875,
+  "news_count": 1870,
   "android_count": 469,
-  "ios_count": 1397,
+  "ios_count": 1401,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "33f77ecce7d5",
+      "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
+      "summary": "iOS 27 is packed with new features for Apple’s Photos app, including two that have long been on many users’ wish lists: full-featured slideshow creation and upgraded iCloud Shared Albums.\nmore…",
+      "url": "https://9to5mac.com/2026/10/02/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-02 13:33",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
+      "summary_translated": "iOS 27 is packed with new features for Apple’s Photos app, including two that have long been on many users’ wish lists: full-featured slideshow creation and upgraded iCloud Shared Albums.\nmore…"
+    },
+    {
+      "id": "db5b01f2b7b8",
+      "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
+      "summary": "iOS 27 continues Apple’s trend of giving you more control over the design of your iPhone’s Lock Screen. This year, there are new customization options, wallpaper settings, and more.\nmore…",
+      "url": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-02 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
+      "summary_translated": "iOS 27 continues Apple’s trend of giving you more control over the design of your iPhone’s Lock Screen. This year, there are new customization options, wallpaper settings, and more.\nmore…"
+    },
+    {
+      "id": "e1932326ce70",
+      "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree",
+      "summary": "Since the iPhone 18 Pro Max launched, some AT&T customers have complained of various connectivity issues.\nIn a new text message to customers, AT&T says affected users should update their devices to iOS 26.0.1 to fix the issues … but early reports indicate the update doesn’t actually fix the problem.",
+      "url": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-02 12:27",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-32.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree",
+      "summary_translated": "Since the iPhone 18 Pro Max launched, some AT&T customers have complained of various connectivity issues.\nIn a new text message to customers, AT&T says affected users should update their devices to iOS 26.0.1 to fix the issues … but early reports indicate the update doesn’t actually fix the problem."
+    },
     {
       "id": "7f4a278311e9",
       "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
@@ -19,6 +61,20 @@
       "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
       "title_translated": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
       "summary_translated": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues.\n\n\n\n\nAT&T said that customers should immediately update to iOS 27.0.1, despite the fact that many affected users have said that the update does not resolve"
+    },
+    {
+      "id": "8a010b7f55dd",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is here after a summer of beta re",
+      "url": "https://9to5mac.com/2026/10/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-02 01:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "title_translated": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "summary_translated": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is here after a summer of beta re"
     },
     {
       "id": "ced2a52accbd",
