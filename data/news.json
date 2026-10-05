@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-05 01:54:05",
-  "total_count": 1883,
-  "news_count": 1878,
+  "last_updated": "2026-10-05 08:53:12",
+  "total_count": 1884,
+  "news_count": 1879,
   "android_count": 474,
-  "ios_count": 1404,
+  "ios_count": 1405,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a5e290c50e31",
+      "title": "iPhone 18 Pro's Triple Live Activity Support Comes With a Catch",
+      "summary": "On iPhone 18 Pro models, Apple slimmed down the cutout where the Dynamic Island lives, allowing the latter to support up to three simultaneous Live Activities. But it turns out there's a catch. \n\n\nAs noted by code explorer pdfu, the third Live Activity in iOS 27 is only ever a system activity, such ",
+      "url": "https://www.macrumors.com/2026/10/05/iphone-18-pro-three-live-activities-dynamic-island/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-05 08:25",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-dynamic-island-live-activity.jpg",
+      "title_translated": "iPhone 18 Pro's Triple Live Activity Support Comes With a Catch",
+      "summary_translated": "On iPhone 18 Pro models, Apple slimmed down the cutout where the Dynamic Island lives, allowing the latter to support up to three simultaneous Live Activities. But it turns out there's a catch. \n\n\nAs noted by code explorer pdfu, the third Live Activity in iOS 27 is only ever a system activity, such "
+    },
     {
       "id": "f8da2cd5a9fa",
       "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
