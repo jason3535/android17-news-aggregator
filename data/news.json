@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-06 00:45:42",
-  "total_count": 1900,
-  "news_count": 1895,
+  "last_updated": "2026-10-06 07:29:35",
+  "total_count": 1901,
+  "news_count": 1896,
   "android_count": 479,
-  "ios_count": 1416,
+  "ios_count": 1417,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b56261a94bd1",
+      "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+      "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.\n\n\nWhile existing App Store apps will automatically run on the iPhone Duo, only apps built with the iOS 27.1 SDK or later can dynamic",
+      "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-06 03:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Slack.jpg",
+      "title_translated": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+      "summary_translated": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.\n\n\nWhile existing App Store apps will automatically run on the iPhone Duo, only apps built with the iOS 27.1 SDK or later can dynamic"
+    },
     {
       "id": "51ad8c1c3460",
       "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
