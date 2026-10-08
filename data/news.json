@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-08 01:51:27",
-  "total_count": 1923,
-  "news_count": 1918,
-  "android_count": 489,
+  "last_updated": "2026-10-08 08:51:29",
+  "total_count": 1924,
+  "news_count": 1919,
+  "android_count": 490,
   "ios_count": 1429,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "05163f18d677",
+      "title": "Motorola starts rolling out stable Android 17 for more devices in the US",
+      "summary": "Motorola's slow rollout is finally reaching the Razr 2026 and some Edge 60 devices.",
+      "url": "https://www.androidauthority.com/motorola-android-17-update-razr-edge-60-3720572/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-10-08 06:57",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-April-patch-scaled.jpg",
+      "title_translated": "Motorola starts rolling out stable Android 17 for more devices in the US",
+      "summary_translated": "Motorola's slow rollout is finally reaching the Razr 2026 and some Edge 60 devices."
+    },
     {
       "id": "bdd3aa9ef019",
       "title": "Where the heck is Android 17 QPR1 for Google’s Pixel 11 phones?",
