@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-09 08:57:43",
-  "total_count": 1931,
-  "news_count": 1926,
+  "last_updated": "2026-10-09 16:07:34",
+  "total_count": 1932,
+  "news_count": 1927,
   "android_count": 490,
-  "ios_count": 1436,
+  "ios_count": 1437,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "970f9991d731",
+      "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
+      "summary": "Apple launched iOS 27 on September 14, but the new OS version was initially minimized in Settings while iOS 26.7 was spotlighted as the recommended update. But now following the release of iOS 27.0.1, that has officially changed.\nmore…",
+      "url": "https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-09 13:41",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-ios-26-icons-logos.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
+      "summary_translated": "Apple launched iOS 27 on September 14, but the new OS version was initially minimized in Settings while iOS 26.7 was spotlighted as the recommended update. But now following the release of iOS 27.0.1, that has officially changed.\nmore…"
+    },
     {
       "id": "4ae8c4c99dc1",
       "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
