@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-09 02:04:31",
-  "total_count": 1930,
-  "news_count": 1925,
+  "last_updated": "2026-10-09 08:57:43",
+  "total_count": 1931,
+  "news_count": 1926,
   "android_count": 490,
-  "ios_count": 1435,
+  "ios_count": 1436,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4ae8c4c99dc1",
+      "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+      "summary": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details.\nmore…",
+      "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-09 02:11",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+      "summary_translated": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details.\nmore…"
+    },
     {
       "id": "9775a731f075",
       "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
