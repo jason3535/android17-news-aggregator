@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-10 20:01:16",
-  "total_count": 1937,
-  "news_count": 1932,
-  "android_count": 493,
+  "last_updated": "2026-10-10 23:29:23",
+  "total_count": 1938,
+  "news_count": 1933,
+  "android_count": 494,
   "ios_count": 1439,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "aae957575db1",
+      "title": "Samsung has updated these Galaxy devices to Android 17",
+      "summary": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update.\nmore…",
+      "url": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-10-10 20:58",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Samsung has updated these Galaxy devices to Android 17",
+      "summary_translated": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update.\nmore…"
+    },
     {
       "id": "365ce5f3f725",
       "title": "9to5Mac Overtime 085: Here comes the HomePad",
