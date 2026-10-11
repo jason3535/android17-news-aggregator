@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-11 12:40:37",
-  "total_count": 1938,
-  "news_count": 1933,
+  "last_updated": "2026-10-11 18:00:47",
+  "total_count": 1939,
+  "news_count": 1934,
   "android_count": 494,
-  "ios_count": 1439,
+  "ios_count": 1440,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "b14c3311d553",
+      "title": "macOS 27 brings three key upgrades to my favorite feature",
+      "summary": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s even better this year. iOS 27 and macOS 27 Golden Gate were released last month, bringing three key updates to iPhone Mirroring. Here’s everything new.\nmore…",
+      "url": "https://9to5mac.com/2026/10/11/macos-27-brings-three-key-upgrades-to-iphone-mirroring/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-11 16:54",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-mirroring-macOS-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "macOS 27 brings three key upgrades to my favorite feature",
+      "summary_translated": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s even better this year. iOS 27 and macOS 27 Golden Gate were released last month, bringing three key updates to iPhone Mirroring. Here’s everything new.\nmore…"
+    },
     {
       "id": "aae957575db1",
       "title": "Samsung has updated these Galaxy devices to Android 17",
