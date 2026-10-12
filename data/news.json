@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-12 01:14:57",
-  "total_count": 1939,
-  "news_count": 1934,
-  "android_count": 494,
+  "last_updated": "2026-10-12 09:05:08",
+  "total_count": 1941,
+  "news_count": 1936,
+  "android_count": 496,
   "ios_count": 1440,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2a66a0aaec42",
+      "title": "Samsung October Updates: Galaxy S26 Series is Next",
+      "summary": "The next batch of phones seeing the October Samsung update is the Galaxy S26 series. Like the update for the Galaxy Z Fold 8 and Fold 8 Ultra, this is a minor bug fixer, which makes sense since the S26 series was just updated to One UI 9 and Android 17 in recent weeks. If...\nRead the original post: ",
+      "url": "https://www.droid-life.com/2026/10/11/samsung-october-updates-galaxy-s26-series-is-next/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-10-12 03:04",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Plus-6-1-980x619.jpg",
+      "title_translated": "Samsung October Updates: Galaxy S26 Series is Next",
+      "summary_translated": "The next batch of phones seeing the October Samsung update is the Galaxy S26 series. Like the update for the Galaxy Z Fold 8 and Fold 8 Ultra, this is a minor bug fixer, which makes sense since the S26 series was just updated to One UI 9 and Android 17 in recent weeks. If...\nRead the original post: "
+    },
+    {
+      "id": "9c16819c325f",
+      "title": "LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like",
+      "summary": "LineageOS 24.0 ready for its initial rollout.",
+      "url": "https://www.androidauthority.com/lineageos-24-android-17-3721683/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-10-12 03:01",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/LineageOS-Logo-2-of-3.jpg",
+      "title_translated": "LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like",
+      "summary_translated": "LineageOS 24.0 ready for its initial rollout."
+    },
     {
       "id": "b14c3311d553",
       "title": "macOS 27 brings three key upgrades to my favorite feature",
