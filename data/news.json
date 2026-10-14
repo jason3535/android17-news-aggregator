@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-13 22:38:22",
-  "total_count": 1968,
-  "news_count": 1963,
+  "last_updated": "2026-10-14 01:49:44",
+  "total_count": 1969,
+  "news_count": 1964,
   "android_count": 507,
-  "ios_count": 1456,
+  "ios_count": 1457,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "7e310444ffd1",
+      "title": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
+      "summary": "Apple today introduced the HomePod mini 2, but the full-sized HomePod was not updated. Nevertheless, the alt text for Apple's full-sized HomePod image shown at the bottom of the HomePod order page now mentions a \"multi-colored Siri AI glow on top,\" suggesting that the larger HomePod might eventually",
+      "url": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-13 22:20",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/Full-Sized-HomePod-2.jpg",
+      "title_translated": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
+      "summary_translated": "Apple today introduced the HomePod mini 2, but the full-sized HomePod was not updated. Nevertheless, the alt text for Apple's full-sized HomePod image shown at the bottom of the HomePod order page now mentions a \"multi-colored Siri AI glow on top,\" suggesting that the larger HomePod might eventually"
+    },
     {
       "id": "b7eae1e1c8ca",
       "title": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
@@ -27495,7 +27509,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -27506,7 +27520,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -27517,7 +27531,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -27528,7 +27542,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -27539,7 +27553,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
