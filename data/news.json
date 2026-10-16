@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-16 20:59:17",
-  "total_count": 1991,
-  "news_count": 1986,
-  "android_count": 514,
+  "last_updated": "2026-10-16 23:31:00",
+  "total_count": 1992,
+  "news_count": 1987,
+  "android_count": 515,
   "ios_count": 1472,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "2ff4b2df9ff4",
+      "title": "Android 17 QPR2 Beta 7.1 has the performance fix you’ve been waiting for",
+      "summary": "Finally resolving some of those QPR1 headaches.",
+      "url": "https://www.androidauthority.com/android-17-qpr2-beta-7-1-3724664/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-10-16 21:09",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-8-scaled.jpg",
+      "title_translated": "Android 17 QPR2 Beta 7.1 has the performance fix you’ve been waiting for",
+      "summary_translated": "Finally resolving some of those QPR1 headaches."
+    },
     {
       "id": "0b571dc76f77",
       "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel",
