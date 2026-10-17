@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-16 23:31:00",
-  "total_count": 1992,
-  "news_count": 1987,
+  "last_updated": "2026-10-17 04:15:11",
+  "total_count": 1993,
+  "news_count": 1988,
   "android_count": 515,
-  "ios_count": 1472,
+  "ios_count": 1473,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "840b1ef896c1",
+      "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
+      "summary": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27. iPhone Handoff allows one phone number to be shared across two separate iPhones.\n\n\n\n\nPricing was included in Verizon's iPhone Duo announcement today, with the carrier confirming iPhone Handoff ",
+      "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-16 23:37",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "title_translated": "Verizon Will Charge $10 a Month for iPhone Handoff",
+      "summary_translated": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27. iPhone Handoff allows one phone number to be shared across two separate iPhones.\n\n\n\n\nPricing was included in Verizon's iPhone Duo announcement today, with the carrier confirming iPhone Handoff "
+    },
     {
       "id": "2ff4b2df9ff4",
       "title": "Android 17 QPR2 Beta 7.1 has the performance fix you’ve been waiting for",
@@ -27831,7 +27845,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -27842,7 +27856,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -27853,7 +27867,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -27864,7 +27878,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -27875,7 +27889,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
