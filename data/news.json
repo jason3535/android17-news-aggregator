@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-20 11:26:18",
-  "total_count": 2000,
-  "news_count": 1995,
+  "last_updated": "2026-10-20 16:53:01",
+  "total_count": 2002,
+  "news_count": 1997,
   "android_count": 517,
-  "ios_count": 1478,
+  "ios_count": 1480,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "4051a89706ad",
+      "title": "iOS 27.2 adds new features in six iPhone apps, here’s what’s coming",
+      "summary": "iOS 27.2 launches next week with new features for iPhone users, including improvements across six Apple apps. Here’s what’s coming.\nmore…",
+      "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-20 16:18",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-app-icons-grid.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.2 在六款 iPhone 应用中添加了新功能，以下是即将推出的内容",
+      "summary_translated": "iOS 27.2 将于下周发布，为 iPhone 用户提供新功能，包括对六款 Apple 应用程序的改进。这就是即将发生的事情。\n更多的…"
+    },
+    {
+      "id": "23700f6f7eec",
+      "title": "iOS 27.3 May Expand RCS Support to Australia's Telstra in December",
+      "summary": "In a support document that it has since deleted, Australian carrier Telstra said RCS support would be available starting with an iOS update coming in December. If this timeframe remains accurate, then iPhone users with Telstra will likely be able to use RCS in the Messages app starting with iOS 27.3",
+      "url": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-20 16:04",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/05/ios-26-5-rcs.jpg",
+      "title_translated": "iOS 27.3 可能会在 12 月扩大对澳大利亚 Telstra 的 RCS 支持",
+      "summary_translated": "澳大利亚运营商 Telstra 在一份已删除的支持文件中表示，RCS 支持将从 12 月份的 iOS 更新开始提供。如果这个时间范围保持准确，那么从 iOS 27.3 开始，拥有 Telstra 的 iPhone 用户可能能够在消息应用程序中使用 RCS"
+    },
     {
       "id": "87603e37d8bb",
       "title": "One of Samsung’s most popular phones is now getting stable One UI 9 with Android 17",
