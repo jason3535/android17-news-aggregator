@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-20 16:53:01",
-  "total_count": 2002,
-  "news_count": 1997,
-  "android_count": 517,
-  "ios_count": 1480,
+  "last_updated": "2026-10-20 20:30:34",
+  "total_count": 2005,
+  "news_count": 2000,
+  "android_count": 519,
+  "ios_count": 1481,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "fac1ff1de516",
+      "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
+      "summary": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it.\nmore…",
+      "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-20 18:56",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
+      "summary_translated": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it.\nmore…"
+    },
+    {
+      "id": "741121d49bcc",
+      "title": "Galaxy S24 Series: One UI 9 (Android 17) Rolling Out!",
+      "summary": "Samsung continues pushing out its Android 17 (One UI 9) update to its large list of devices, with the Galaxy S24 series the latest to receive it. The three devices (S24, S24+, and S24 Ultra) join other devices, like the S25 series and most of the latest Galaxy Z foldables as having the update alread",
+      "url": "https://www.droid-life.com/2026/10/20/galaxy-s24-series-one-ui-9-android-17-rolling-out/",
+      "source": "Droid-Life",
+      "source_icon": "DL",
+      "date": "2026-10-20 16:58",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/10/Galaxy-S24-Ultra-980x551.jpg",
+      "title_translated": "Galaxy S24 Series: One UI 9 (Android 17) Rolling Out!",
+      "summary_translated": "Samsung continues pushing out its Android 17 (One UI 9) update to its large list of devices, with the Galaxy S24 series the latest to receive it. The three devices (S24, S24+, and S24 Ultra) join other devices, like the S25 series and most of the latest Galaxy Z foldables as having the update alread"
+    },
     {
       "id": "4051a89706ad",
       "title": "iOS 27.2 adds new features in six iPhone apps, here’s what’s coming",
@@ -27963,6 +27991,20 @@
       "image": "https://i.ytimg.com/vi/0Din9Vmwmz0/hqdefault.jpg",
       "title_translated": "Apple Just REMOVED One of the Best New Features... | iOS 27.2 Beta 4",
       "summary_translated": ""
+    },
+    {
+      "id": "f4f6c5c1019a",
+      "title": "Samsung has updated these Galaxy devices to Android 17",
+      "summary": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and…",
+      "url": "https://9to5google.com/samsung-galaxy-android-17-update-list/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&w=350",
+      "title_translated": "Samsung has updated these Galaxy devices to Android 17",
+      "summary_translated": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and…"
     },
     {
       "id": "leaker_0",
