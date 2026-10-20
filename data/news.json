@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-20 05:56:56",
-  "total_count": 1999,
-  "news_count": 1994,
-  "android_count": 516,
+  "last_updated": "2026-10-20 11:26:18",
+  "total_count": 2000,
+  "news_count": 1995,
+  "android_count": 517,
   "ios_count": 1478,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "87603e37d8bb",
+      "title": "One of Samsung’s most popular phones is now getting stable One UI 9 with Android 17",
+      "summary": "The Galaxy A36 5G joins the list of Samsung phones with stable One UI 9.",
+      "url": "https://www.androidauthority.com/galaxy-a36-5g-stable-one-ui-9-rollout-europe-3725389/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-10-20 08:59",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Galaxy-A36-5G-review-image-8.jpg",
+      "title_translated": "One of Samsung’s most popular phones is now getting stable One UI 9 with Android 17",
+      "summary_translated": "The Galaxy A36 5G joins the list of Samsung phones with stable One UI 9."
+    },
     {
       "id": "35d574bfdf01",
       "title": "tvOS 27.2 RC Lays Groundwork for HomePod Surround Sound",
