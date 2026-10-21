@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-21 04:34:01",
-  "total_count": 2011,
-  "news_count": 2006,
-  "android_count": 524,
+  "last_updated": "2026-10-21 10:02:35",
+  "total_count": 2012,
+  "news_count": 2007,
+  "android_count": 525,
   "ios_count": 1482,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "ca4689b1cb35",
+      "title": "The latest Android 17 beta fixes a major Quick Settings security issue",
+      "summary": "Google finally lets you lock down Wi-Fi, Bluetooth, Mobile Data, and Airplane Mode toggles on the lock screen.",
+      "url": "https://www.androidauthority.com/android-17-qpr-3-beta-2-lock-quick-settings-tiles-3725896/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-10-21 07:35",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-quick-settings-hero-2-scaled.jpg",
+      "title_translated": "The latest Android 17 beta fixes a major Quick Settings security issue",
+      "summary_translated": "Google finally lets you lock down Wi-Fi, Bluetooth, Mobile Data, and Airplane Mode toggles on the lock screen."
+    },
     {
       "id": "99632ddbb078",
       "title": "New Android 17 Update Adds Security Setting I Didn’t Realize I Needed So Badly",
