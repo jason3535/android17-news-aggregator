@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-21 20:04:49",
-  "total_count": 2020,
-  "news_count": 2015,
+  "last_updated": "2026-10-21 23:15:42",
+  "total_count": 2021,
+  "news_count": 2016,
   "android_count": 529,
-  "ios_count": 1486,
+  "ios_count": 1487,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "bbc82f297b8f",
+      "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
+      "summary": "iOS 27.2 launches next week, and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count.\nmore…",
+      "url": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-21 20:05",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
+      "summary_translated": "iOS 27.2 launches next week, and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count.\nmore…"
+    },
     {
       "id": "79aab9e17f8d",
       "title": "Your Pixel Phone Getting Notification Badge Upgrade",
