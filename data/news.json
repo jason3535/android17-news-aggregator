@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-22 04:32:45",
-  "total_count": 2022,
-  "news_count": 2017,
-  "android_count": 529,
+  "last_updated": "2026-10-22 10:04:02",
+  "total_count": 2023,
+  "news_count": 2018,
+  "android_count": 530,
   "ios_count": 1488,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "e0628d98a642",
+      "title": "Sony’s Android 17 update with Desktop mode is now reaching this older Xperia flagship",
+      "summary": "The update seems to be rolling out to European models first.",
+      "url": "https://www.androidauthority.com/sony-xperia-1-vii-stable-android-17-update-3726504/",
+      "source": "Android Authority",
+      "source_icon": "AA",
+      "date": "2026-10-22 08:17",
+      "type": "news",
+      "platform": "android",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Sony-Xperia-1-VII-standing-on-desk.jpg",
+      "title_translated": "Sony’s Android 17 update with Desktop mode is now reaching this older Xperia flagship",
+      "summary_translated": "The update seems to be rolling out to European models first."
+    },
     {
       "id": "0e4752a4b625",
       "title": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
