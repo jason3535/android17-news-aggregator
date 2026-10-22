@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-22 20:00:27",
-  "total_count": 2027,
-  "news_count": 2022,
-  "android_count": 531,
-  "ios_count": 1491,
+  "last_updated": "2026-10-22 23:16:33",
+  "total_count": 2030,
+  "news_count": 2025,
+  "android_count": 532,
+  "ios_count": 1493,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9b2a94a0af53",
+      "title": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "url": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-22 22:23",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
+      "summary_translated": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to"
+    },
+    {
+      "id": "cfd49e2b72f4",
+      "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "summary": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.\nmore…",
+      "url": "https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-22 20:29",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "summary_translated": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.\nmore…"
+    },
     {
       "id": "a2bb1234bf71",
       "title": "Motorola’s Android 17 rollout reaches another flagship foldable",
@@ -19,6 +47,20 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Motorola-Razr-Ultra-in-Alcantera-next-to-Moto-Loop-Buds.jpg",
       "title_translated": "Motorola’s Android 17 rollout reaches another flagship foldable",
       "summary_translated": "The Razr Ultra 2025 joins the Android 17 party."
+    },
+    {
+      "id": "da9eb0dcda72",
+      "title": "Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life",
+      "summary": "Samsung’s latest Android 17-based One UI 9 update seems to be causing headaches for some Galaxy S24 and S25 owners, as battery life has gotten considerably worse following the “upgrade.”\nmore…",
+      "url": "https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/",
+      "source": "9to5Google",
+      "source_icon": "9to5",
+      "date": "2026-10-22 19:40",
+      "type": "news",
+      "platform": "android",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/02/S24-and-S25-Ultra-battery-stats.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life",
+      "summary_translated": "Samsung’s latest Android 17-based One UI 9 update seems to be causing headaches for some Galaxy S24 and S25 owners, as battery life has gotten considerably worse following the “upgrade.”\nmore…"
     },
     {
       "id": "72f96b5fe83a",
