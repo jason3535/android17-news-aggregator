@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-22 10:04:02",
-  "total_count": 2023,
-  "news_count": 2018,
+  "last_updated": "2026-10-22 15:13:04",
+  "total_count": 2025,
+  "news_count": 2020,
   "android_count": 530,
-  "ios_count": 1488,
+  "ios_count": 1490,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "989ccd298ad0",
+      "title": "iOS 27.2 introduces design changes for these Apple apps",
+      "summary": "iOS 27.2 launches next week with a variety of new features, and also design changes for select Apple apps. Here’s what’s coming.\nmore…",
+      "url": "https://9to5mac.com/2026/10/22/ios-27-2-introduces-design-changes-for-these-apple-apps/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-22 14:49",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.2 introduces design changes for these Apple apps",
+      "summary_translated": "iOS 27.2 launches next week with a variety of new features, and also design changes for select Apple apps. Here’s what’s coming.\nmore…"
+    },
+    {
+      "id": "e69408079746",
+      "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
+      "summary": "In its press release highlighting apps that have been optimized for the iPhone Duo, Apple said the App Store will label apps that are \"Made for iPhone Duo.\"\n\n\n\n\nIn order for an app to be optimized for the iPhone Duo, the developer needs to build it with the iOS 27.1 SDK or later. Apps optimized for ",
+      "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-22 14:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/Lyft-iPhone-Duo.jpg",
+      "title_translated": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
+      "summary_translated": "In its press release highlighting apps that have been optimized for the iPhone Duo, Apple said the App Store will label apps that are \"Made for iPhone Duo.\"\n\n\n\n\nIn order for an app to be optimized for the iPhone Duo, the developer needs to build it with the iOS 27.1 SDK or later. Apps optimized for "
+    },
     {
       "id": "e0628d98a642",
       "title": "Sony’s Android 17 update with Desktop mode is now reaching this older Xperia flagship",
