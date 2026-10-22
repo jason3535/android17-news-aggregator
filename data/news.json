@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-21 23:15:42",
-  "total_count": 2021,
-  "news_count": 2016,
+  "last_updated": "2026-10-22 04:32:45",
+  "total_count": 2022,
+  "news_count": 2017,
   "android_count": 529,
-  "ios_count": 1487,
+  "ios_count": 1488,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "0e4752a4b625",
+      "title": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
+      "summary": "Apple designed Siri AI on the HomeView to complete household tasks with natural voice commands and minimal follow-up questions, executives told The Verge, emphasizing simplicity as a key feature of the new home hub.\n\n\n\n\nIn an new interview, Kaiann Drance, Apple's vice president of product marketing ",
+      "url": "https://www.macrumors.com/2026/10/22/simplicity-and-siri-ai-homeview-killer-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-22 04:28",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-calendar.jpg",
+      "title_translated": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
+      "summary_translated": "Apple designed Siri AI on the HomeView to complete household tasks with natural voice commands and minimal follow-up questions, executives told The Verge, emphasizing simplicity as a key feature of the new home hub.\n\n\n\n\nIn an new interview, Kaiann Drance, Apple's vice president of product marketing "
+    },
     {
       "id": "bbc82f297b8f",
       "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
@@ -28237,7 +28251,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -28248,7 +28262,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -28259,7 +28273,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -28270,7 +28284,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -28281,7 +28295,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
