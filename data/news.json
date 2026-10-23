@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-23 19:07:01",
-  "total_count": 2038,
-  "news_count": 2033,
+  "last_updated": "2026-10-23 23:04:33",
+  "total_count": 2039,
+  "news_count": 2034,
   "android_count": 537,
-  "ios_count": 1496,
+  "ios_count": 1497,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "9558b40ebdb3",
+      "title": "iPhone Duo Jailbroken on Launch Day",
+      "summary": "Just hours after being released, an iPhone Duo running iOS 27.1 has been jailbroken by hacker team Calif.\n\n\n\n\nCalif demonstrated the ‌iPhone Duo‌'s icons and widgets bouncing around, and added an anime character to the device's screen.\n\n\nLast week, the group shared videos featuring an untethered jai",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-23 19:53",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
+      "title_translated": "iPhone Duo Jailbroken on Launch Day",
+      "summary_translated": "Just hours after being released, an iPhone Duo running iOS 27.1 has been jailbroken by hacker team Calif.\n\n\n\n\nCalif demonstrated the ‌iPhone Duo‌'s icons and widgets bouncing around, and added an anime character to the device's screen.\n\n\nLast week, the group shared videos featuring an untethered jai"
+    },
     {
       "id": "8d9280152029",
       "title": "Samsung One UI 9 Update: Your Galaxy S23 Ultra Gets It",
