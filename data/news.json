@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-26 23:47:54",
-  "total_count": 2054,
-  "news_count": 2049,
+  "last_updated": "2026-10-27 04:53:47",
+  "total_count": 2055,
+  "news_count": 2050,
   "android_count": 537,
-  "ios_count": 1512,
+  "ios_count": 1513,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "11737b851b7f",
+      "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
+      "summary": "With iOS 27.2 and tvOS 27.2, second- and third-generation Siri Remotes can be tracked using the Find My app.\n\n\n\n\nThere has been an option to locate a lost ‌Siri‌ Remote with an iPhone since iOS 17, but remotes did not previously show up in the ‌Find My‌ app. Locating a remote had to be done with the",
+      "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-27 00:13",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/ios-27-2-apple-tv-remote.jpg",
+      "title_translated": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
+      "summary_translated": "With iOS 27.2 and tvOS 27.2, second- and third-generation Siri Remotes can be tracked using the Find My app.\n\n\n\n\nThere has been an option to locate a lost ‌Siri‌ Remote with an iPhone since iOS 17, but remotes did not previously show up in the ‌Find My‌ app. Locating a remote had to be done with the"
+    },
     {
       "id": "ada8e6a84de0",
       "title": "iOS 27.2 Features: Everything New in iOS 27.2",
@@ -28699,7 +28713,7 @@
       "url": "https://twitter.com/OnLeaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590049827662032896/3Jdz7fGM_400x400.jpg"
     },
@@ -28710,7 +28724,7 @@
       "url": "https://twitter.com/evleaks",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1683602571156635648/NmFNPE3__400x400.jpg"
     },
@@ -28721,7 +28735,7 @@
       "url": "https://twitter.com/UniverseIce",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1590753781534375937/G63Fcoiq_400x400.jpg"
     },
@@ -28732,7 +28746,7 @@
       "url": "https://twitter.com/MishaalRahman",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1772892077495795712/nnAPEaB2_400x400.jpg"
     },
@@ -28743,7 +28757,7 @@
       "url": "https://twitter.com/MaxWineworthy",
       "source": "Leaker",
       "source_icon": "🔥",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "type": "leaker",
       "image": "https://pbs.twimg.com/profile_images/1402848727407013888/6VrpdaKh_400x400.jpg"
     }
