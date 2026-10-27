@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-27 04:53:47",
-  "total_count": 2055,
-  "news_count": 2050,
+  "last_updated": "2026-10-27 10:26:41",
+  "total_count": 2056,
+  "news_count": 2051,
   "android_count": 537,
-  "ios_count": 1513,
+  "ios_count": 1514,
   "leaker_count": 5,
   "items": [
     {
@@ -28704,6 +28704,20 @@
       "platform": "ios",
       "image": "https://i.ytimg.com/vi/vPRUJDj9rVQ/hqdefault.jpg",
       "title_translated": "iOS 27.2 RC top features and changes!",
+      "summary_translated": ""
+    },
+    {
+      "id": "c85eb09fd459",
+      "title": "iOS 27.2 is HERE! 20+ NEW Features & Changes!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=ulzd7eUDjy8",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://i.ytimg.com/vi/ulzd7eUDjy8/hqdefault.jpg",
+      "title_translated": "iOS 27.2 is HERE! 20+ NEW Features & Changes!",
       "summary_translated": ""
     },
     {
