@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-28 08:20:03",
-  "total_count": 2069,
-  "news_count": 2064,
+  "last_updated": "2026-10-28 15:57:19",
+  "total_count": 2071,
+  "news_count": 2066,
   "android_count": 541,
-  "ios_count": 1523,
+  "ios_count": 1525,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "a3c64cc459d3",
+      "title": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
+      "summary": "Apple Photos got a lot of new features in iOS 27 last month, but this week’s release of iOS 27.2 brought even more improvements. Here’s what’s new.\nmore…",
+      "url": "https://9to5mac.com/2026/10/28/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-28 14:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
+      "summary_translated": "Apple Photos got a lot of new features in iOS 27 last month, but this week’s release of iOS 27.2 brought even more improvements. Here’s what’s new.\nmore…"
+    },
+    {
+      "id": "e80069ecd97a",
+      "title": "iOS 27.2 Adds Selfie-Based Age Verification",
+      "summary": "Apple has added selfie-based age verification in iOS 27.2 and iPadOS 27.2, allowing users in supported regions to demonstrate that they are adults without submitting a credit card or government-issued ID.\n\n\n\n\nThe feature estimates whether someone is an adult by analyzing their face, according to a n",
+      "url": "https://www.macrumors.com/2026/10/28/ios-27-2-adds-selfie-based-age-verification/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-28 14:40",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "title_translated": "iOS 27.2 Adds Selfie-Based Age Verification",
+      "summary_translated": "Apple has added selfie-based age verification in iOS 27.2 and iPadOS 27.2, allowing users in supported regions to demonstrate that they are adults without submitting a credit card or government-issued ID.\n\n\n\n\nThe feature estimates whether someone is an adult by analyzing their face, according to a n"
+    },
     {
       "id": "449f00cfa882",
       "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
