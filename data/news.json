@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-10-29 06:59:07",
-  "total_count": 2071,
-  "news_count": 2066,
+  "last_updated": "2026-10-29 14:09:52",
+  "total_count": 2073,
+  "news_count": 2068,
   "android_count": 541,
-  "ios_count": 1525,
+  "ios_count": 1527,
   "leaker_count": 5,
   "items": [
+    {
+      "id": "8079442bd81c",
+      "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+      "summary": "Apple released iOS 27.2 this week with new features for Messages, Siri AI, and Photos, plus an Apple Music rebrand and more. But work on iOS 27.3 is already well underway, here’s when to expect the next big iPhone update.\nmore…",
+      "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+      "source": "9to5Mac",
+      "source_icon": "9to5",
+      "date": "2026-10-29 13:44",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600",
+      "title_translated": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+      "summary_translated": "Apple released iOS 27.2 this week with new features for Messages, Siri AI, and Photos, plus an Apple Music rebrand and more. But work on iOS 27.3 is already well underway, here’s when to expect the next big iPhone update.\nmore…"
+    },
+    {
+      "id": "9006ed272df8",
+      "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
+      "summary": "Following more than two weeks of pre-orders, the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30.\n\n\n\n\nSiri AI will be one of the HomePod mini 2's key upgrades, but the feature will not be available at launch. Apple said Siri AI support on the speaker will",
+      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
+      "source": "MacRumors",
+      "source_icon": "MR",
+      "date": "2026-10-29 13:00",
+      "type": "news",
+      "platform": "ios",
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "title_translated": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
+      "summary_translated": "Following more than two weeks of pre-orders, the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30.\n\n\n\n\nSiri AI will be one of the HomePod mini 2's key upgrades, but the feature will not be available at launch. Apple said Siri AI support on the speaker will"
+    },
     {
       "id": "a3c64cc459d3",
       "title": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
